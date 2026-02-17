@@ -1,33 +1,141 @@
 {
-  "updatedAt": "2026-02-17T21:50:00.000Z",
+  "updatedAt": "2026-02-17T21:57:46.690Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 18,
-      "humidity": 55,
-      "wind_kph": 12,
+      "temp_c": 8.7,
+      "humidity": 78,
+      "wind_kph": 4,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-02-18",
-      "temp_max_c": 20,
-      "temp_min_c": 12,
-      "humidity_max": 60,
-      "humidity_min": 45,
-      "wind_kph": 15,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "date": "2026-02-19",
+      "temp_max_c": 15,
+      "temp_min_c": 7.8,
+      "humidity_max": 86,
+      "humidity_min": 44,
+      "wind_kph": 22.1,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 2850.50,
-    "oilUSD": 79.25,
-    "updatedAt": "2026-02-17T21:50:00.000Z"
+    "goldUSD": 2850,
+    "oilUSD": 79,
+    "updatedAt": "2026-02-17T21:57:46.690Z"
   },
   "news": {
-    "ai": [],
-    "vibeCoding": [],
-    "progDb": []
+    "ai": [
+      {
+        "title": "An AI agent published a hit piece on me",
+        "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+        "points": 2339,
+        "comments": 950,
+        "created_at": "2026-02-12T16:23:24.000Z"
+      },
+      {
+        "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
+        "url": "https://github.com/matplotlib/matplotlib/pull/31132",
+        "points": 949,
+        "comments": 750,
+        "created_at": "2026-02-12T11:46:01.000Z"
+      },
+      {
+        "title": "My AI Adoption Journey",
+        "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
+        "points": 984,
+        "comments": 403,
+        "created_at": "2026-02-05T19:04:40.000Z"
+      },
+      {
+        "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
+        "url": "https://twitter.com/lellouchenico/status/2015775970330882319",
+        "points": 900,
+        "comments": 780,
+        "created_at": "2026-01-26T16:27:46.000Z"
+      },
+      {
+        "title": "AI generated music barred from Bandcamp",
+        "url": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
+        "points": 949,
+        "comments": 726,
+        "created_at": "2026-01-13T18:31:50.000Z"
+      }
+    ],
+    "vibeCoding": [
+      {
+        "title": "Breaking the spell of vibe coding",
+        "url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
+        "points": 429,
+        "comments": 349,
+        "created_at": "2026-02-13T19:22:18.000Z"
+      },
+      {
+        "title": "GLM-5: From Vibe Coding to Agentic Engineering",
+        "url": "https://z.ai/blog/glm-5",
+        "points": 378,
+        "comments": 8,
+        "created_at": "2026-02-11T16:41:33.000Z"
+      },
+      {
+        "title": "How vibe coding is killing open source",
+        "url": "https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/",
+        "points": 84,
+        "comments": 62,
+        "created_at": "2026-02-03T20:02:53.000Z"
+      },
+      {
+        "title": "How Vibe Coding Is Killing Open Source",
+        "url": "https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/",
+        "points": 18,
+        "comments": 2,
+        "created_at": "2026-02-03T03:13:11.000Z"
+      },
+      {
+        "title": "Was Vibe Coding a Ruse?",
+        "url": "https://www.inc.com/joe-procopio/vibe-coding-was-a-ruse-to-sell-ai-coding-to-the-enterprise/91293969",
+        "points": 22,
+        "comments": 2,
+        "created_at": "2026-01-29T20:28:34.000Z"
+      }
+    ],
+    "progDb": [
+      {
+        "title": "Show HN: HelixDB – Open-source vector-graph database for AI applications (Rust)",
+        "url": "https://github.com/HelixDB/helix-db/",
+        "points": 237,
+        "comments": 112,
+        "created_at": "2025-05-13T17:26:38.000Z"
+      },
+      {
+        "title": "Show HN: HelixDB – Native graph and vector types for RAG and retrieval",
+        "url": "https://github.com/HelixDB/helix-db",
+        "points": 25,
+        "comments": 6,
+        "created_at": "2025-04-11T23:54:38.000Z"
+      },
+      {
+        "title": "Ask HN: What are some (weird) ways you're using ChatGPT?",
+        "url": "https://news.ycombinator.com/item?id=42609010",
+        "points": 14,
+        "comments": 25,
+        "created_at": "2025-01-06T09:17:59.000Z"
+      },
+      {
+        "title": "Show HN: MyDuck Server – Supercharge MySQL and Postgres Analytics with DuckDB",
+        "url": "https://github.com/apecloud/myduckserver",
+        "points": 32,
+        "comments": 6,
+        "created_at": "2024-11-28T14:50:41.000Z"
+      },
+      {
+        "title": "Ask HN: What projects should be on every developer's \"bucket list?\"",
+        "url": "https://news.ycombinator.com/item?id=42157595",
+        "points": 11,
+        "comments": 19,
+        "created_at": "2024-11-16T17:29:28.000Z"
+      }
+    ]
   }
 }
