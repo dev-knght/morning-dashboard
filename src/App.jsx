@@ -10,7 +10,7 @@ export default function App() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetch('/data/dashboard.json')
+    fetch('data/dashboard.json')
       .then(res => {
         if (!res.ok) throw new Error('Network response was not ok');
         return res.json();
