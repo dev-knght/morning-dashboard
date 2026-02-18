@@ -1,69 +1,83 @@
 {
-  "updatedAt": "2026-02-17T21:57:46.690Z",
+  "updatedAt": "2026-02-18T08:12:37.526Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 8.7,
-      "humidity": 78,
-      "wind_kph": 4,
+      "temp_c": 16.1,
+      "humidity": 42,
+      "wind_kph": 24.3,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-02-19",
-      "temp_max_c": 15,
-      "temp_min_c": 7.8,
+      "temp_max_c": 14.8,
+      "temp_min_c": 7.7,
       "humidity_max": 86,
-      "humidity_min": 44,
-      "wind_kph": 22.1,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "humidity_min": 46,
+      "wind_kph": 21.8,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
     "goldUSD": 2850,
     "oilUSD": 79,
-    "updatedAt": "2026-02-17T21:57:46.690Z"
+    "updatedAt": "2026-02-18T08:12:37.526Z"
   },
   "news": {
     "ai": [
       {
-        "title": "An AI agent published a hit piece on me",
-        "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-        "points": 2339,
-        "comments": 950,
-        "created_at": "2026-02-12T16:23:24.000Z"
+        "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+        "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+        "points": 407,
+        "comments": 279,
+        "created_at": "2026-02-18T01:40:52.000Z"
       },
       {
-        "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
-        "url": "https://github.com/matplotlib/matplotlib/pull/31132",
-        "points": 949,
-        "comments": 750,
-        "created_at": "2026-02-12T11:46:01.000Z"
+        "title": "Phison CEO: Consumer electronics firms may fail by 2026 over AI memory crisis",
+        "url": "https://www.pcgamer.com/hardware/memory/many-consumer-electronics-manufacturers-will-go-bankrupt-or-exit-product-lines-by-the-end-of-2026-due-to-the-ai-memory-crisis-phison-ceo-reportedly-says/",
+        "points": 18,
+        "comments": 2,
+        "created_at": "2026-02-18T00:55:00.000Z"
       },
       {
-        "title": "My AI Adoption Journey",
-        "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
-        "points": 984,
-        "comments": 403,
-        "created_at": "2026-02-05T19:04:40.000Z"
+        "title": "Open-source game engine Godot is drowning in 'AI slop' code contributions",
+        "url": "https://www.pcgamer.com/software/platforms/open-source-game-engine-godot-is-drowning-in-ai-slop-code-contributions-i-dont-know-how-long-we-can-keep-it-up/",
+        "points": 13,
+        "comments": 0,
+        "created_at": "2026-02-18T00:30:25.000Z"
       },
       {
-        "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
-        "url": "https://twitter.com/lellouchenico/status/2015775970330882319",
-        "points": 900,
-        "comments": 780,
-        "created_at": "2026-01-26T16:27:46.000Z"
+        "title": "Race for AI is making Hindenburg-style disaster a real risk, says leading expert",
+        "url": "https://www.theguardian.com/science/2026/feb/17/ai-race-hindenburg-style-disaster-a-real-risk-michael-wooldridge",
+        "points": 15,
+        "comments": 2,
+        "created_at": "2026-02-17T19:58:48.000Z"
       },
       {
-        "title": "AI generated music barred from Bandcamp",
-        "url": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
-        "points": 949,
-        "comments": 726,
-        "created_at": "2026-01-13T18:31:50.000Z"
+        "title": "An AI Agent Published a Hit Piece on Me – Forensics and More Fallout",
+        "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/",
+        "points": 107,
+        "comments": 78,
+        "created_at": "2026-02-17T19:31:45.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Vibe Coding Simulator 2026",
+        "url": "https://largedatabank.com/yolomode/",
+        "points": 13,
+        "comments": 2,
+        "created_at": "2026-02-17T20:30:01.000Z"
+      },
+      {
+        "title": "Launch HN: Sonarly (YC W26) – AI agent to triage and fix your production alerts",
+        "url": "https://sonarly.com/",
+        "points": 27,
+        "comments": 13,
+        "created_at": "2026-02-17T17:03:09.000Z"
+      },
       {
         "title": "Breaking the spell of vibe coding",
         "url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
@@ -72,70 +86,20 @@
         "created_at": "2026-02-13T19:22:18.000Z"
       },
       {
-        "title": "GLM-5: From Vibe Coding to Agentic Engineering",
-        "url": "https://z.ai/blog/glm-5",
-        "points": 378,
-        "comments": 8,
-        "created_at": "2026-02-11T16:41:33.000Z"
+        "title": "Show HN: OpenWhisper – free, local, and private voice-to-text macOS app",
+        "url": "https://github.com/richardwu/openwhisper",
+        "points": 37,
+        "comments": 15,
+        "created_at": "2026-02-13T18:51:20.000Z"
       },
       {
-        "title": "How vibe coding is killing open source",
-        "url": "https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/",
-        "points": 84,
-        "comments": 62,
-        "created_at": "2026-02-03T20:02:53.000Z"
-      },
-      {
-        "title": "How Vibe Coding Is Killing Open Source",
-        "url": "https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/",
-        "points": 18,
-        "comments": 2,
-        "created_at": "2026-02-03T03:13:11.000Z"
-      },
-      {
-        "title": "Was Vibe Coding a Ruse?",
-        "url": "https://www.inc.com/joe-procopio/vibe-coding-was-a-ruse-to-sell-ai-coding-to-the-enterprise/91293969",
-        "points": 22,
-        "comments": 2,
-        "created_at": "2026-01-29T20:28:34.000Z"
+        "title": "Ask HN: What would you recommend a vibe coder learn about how all this works?",
+        "url": "https://news.ycombinator.com/item?id=46995608",
+        "points": 34,
+        "comments": 42,
+        "created_at": "2026-02-12T21:38:59.000Z"
       }
     ],
-    "progDb": [
-      {
-        "title": "Show HN: HelixDB – Open-source vector-graph database for AI applications (Rust)",
-        "url": "https://github.com/HelixDB/helix-db/",
-        "points": 237,
-        "comments": 112,
-        "created_at": "2025-05-13T17:26:38.000Z"
-      },
-      {
-        "title": "Show HN: HelixDB – Native graph and vector types for RAG and retrieval",
-        "url": "https://github.com/HelixDB/helix-db",
-        "points": 25,
-        "comments": 6,
-        "created_at": "2025-04-11T23:54:38.000Z"
-      },
-      {
-        "title": "Ask HN: What are some (weird) ways you're using ChatGPT?",
-        "url": "https://news.ycombinator.com/item?id=42609010",
-        "points": 14,
-        "comments": 25,
-        "created_at": "2025-01-06T09:17:59.000Z"
-      },
-      {
-        "title": "Show HN: MyDuck Server – Supercharge MySQL and Postgres Analytics with DuckDB",
-        "url": "https://github.com/apecloud/myduckserver",
-        "points": 32,
-        "comments": 6,
-        "created_at": "2024-11-28T14:50:41.000Z"
-      },
-      {
-        "title": "Ask HN: What projects should be on every developer's \"bucket list?\"",
-        "url": "https://news.ycombinator.com/item?id=42157595",
-        "points": 11,
-        "comments": 19,
-        "created_at": "2024-11-16T17:29:28.000Z"
-      }
-    ]
+    "progDb": []
   }
 }

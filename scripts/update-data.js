@@ -60,8 +60,11 @@ async function fetchJSON(url, options = {}) {
   }
 }
 
+// Timestamp for 14 days ago
+const TWO_WEEKS_AGO = Math.floor(Date.now() / 1000) - 14 * 24 * 60 * 60;
+
 async function fetchTopStories(query) {
-  const url = `https://hn.algolia.com/api/v1/search?query=${encodeURIComponent(query)}&tags=story&numericFilters=points>10&hitsPerPage=100`;
+  const url = `https://hn.algolia.com/api/v1/search?query=${encodeURIComponent(query)}&tags=story&numericFilters=points>10,created_at_i>${TWO_WEEKS_AGO}&hitsPerPage=200`;
   const data = await fetchJSON(url);
   if (!data || !Array.isArray(data.hits)) return [];
   const validHits = data.hits.filter(hit => typeof hit.created_at_i === 'number');
