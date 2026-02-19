@@ -26,6 +26,8 @@ jobs:
 
       - name: Update data
         run: npm run update-data
+        env:
+          METALPRICE_API_KEY: ${{ secrets.METALPRICE_API_KEY }}
 
       - name: Build site
         run: npm run build

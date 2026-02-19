@@ -146,28 +146,43 @@ async function main() {
     if (!weather) weather = DEFAULT_WEATHER;
   }
 
-  // Metals
+  // Metals: fetch gold from MetalPriceAPI (requires METALPRICE_API_KEY), oil from fallback, exchange from floatrates
   let goldUSD = DEFAULT_METALS.goldUSD;
   let oilUSD = DEFAULT_METALS.oilUSD;
+  let jodRate = 0.709; // fallback
+
   try {
-    const [goldData, oilData] = await Promise.all([
-      fetchJSON('https://api.metals.live/v1/spot?metals=xau'),
-      fetchJSON('https://api.metals.live/v1/spot?metals=cl'),
-    ]);
-    if (goldData?.[0]?.xauUSD && oilData?.[0]?.clUSD) {
-      goldUSD = +goldData[0].xauUSD.toFixed(2);
-      oilUSD = +oilData[0].clUSD.toFixed(2);
+    // Fetch exchange rate (USD -> JOD)
+    const exchangeData = await fetchJSON('https://www.floatrates.com/daily/usd.json');
+    if (exchangeData && exchangeData.jod && exchangeData.jod.rate) {
+      jodRate = exchangeData.jod.rate;
     } else {
-      throw new Error('invalid metals API structure');
+      throw new Error('invalid exchange response');
     }
   } catch (e) {
-    console.warn('Metals API failed, using fallback values:', e);
-    // keep defaults
+    console.warn('Exchange API failed, using fallback JOD rate:', e);
   }
+
+  try {
+    const apiKey = process.env.METALPRICE_API_KEY;
+    if (!apiKey) throw new Error('METALPRICE_API_KEY not set');
+    const goldRes = await fetchJSON(`https://api.metalpriceapi.com/v1/latest?api_key=${apiKey}&base=USD&currencies=XAU`);
+    if (goldRes?.rates?.XAU) {
+      goldUSD = +goldRes.rates.XAU.toFixed(2);
+    } else {
+      throw new Error('invalid gold response');
+    }
+  } catch (e) {
+    console.warn('Gold API failed, using fallback value:', e);
+    // keep default goldUSD
+  }
+
+  // Oil: no reliable free API; keep fallback and mark as estimated
+  // We could also try other sources later, but for now static is fine.
 
   // Constants for gold conversion
   const OZ_TO_GRAM = 31.1035;
-  const JOD_RATE = 0.709; // approximate fixed USD→JOD rate
+  // jodRate is fetched from exchange API; keep 0.709 as fallback already set above.
 
   // News: combine Hacker News and Reddit sources
   let news = previous?.news || { ai: [], vibeCoding: [], progDb: [] };
@@ -209,9 +224,9 @@ async function main() {
       gold24KUSD: +(goldUSD / OZ_TO_GRAM).toFixed(2),
       gold21KUSD: +((goldUSD / OZ_TO_GRAM) * (21 / 24)).toFixed(2),
       gold18KUSD: +((goldUSD / OZ_TO_GRAM) * (18 / 24)).toFixed(2),
-      gold24KJD: +((goldUSD / OZ_TO_GRAM) * JOD_RATE).toFixed(2),
-      gold21KJD: +((goldUSD / OZ_TO_GRAM) * (21 / 24) * JOD_RATE).toFixed(2),
-      gold18KJD: +((goldUSD / OZ_TO_GRAM) * (18 / 24) * JOD_RATE).toFixed(2),
+      gold24KJD: +((goldUSD / OZ_TO_GRAM) * jodRate).toFixed(2),
+      gold21KJD: +((goldUSD / OZ_TO_GRAM) * (21 / 24) * jodRate).toFixed(2),
+      gold18KJD: +((goldUSD / OZ_TO_GRAM) * (18 / 24) * jodRate).toFixed(2),
     },
     news,
   };
