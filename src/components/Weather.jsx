@@ -1,9 +1,18 @@
+function formatDayName(dateStr, timeZone = 'Asia/Amman') {
+  const d = typeof dateStr === 'string' ? new Date(dateStr) : dateStr;
+  return d.toLocaleString('en-JO', { timeZone, weekday: 'long', month: 'short', day: 'numeric' });
+}
+
 export default function Weather({ current, tomorrow }) {
+  const todayLabel = formatDayName(new Date());
+  const tomorrowLabel = `Tomorrow, ${formatDayName(tomorrow.date)}`;
+
   return (
     <section className="grid grid-cols-1 md:grid-cols-2 gap-6 py-4">
       {/* Today */}
       <div className="rounded-2xl bg-slate-900 p-6 shadow-lg ring-1 ring-slate-800">
-        <h2 className="text-lg font-semibold text-slate-200 mb-4">Today's Weather (Irbid)</h2>
+        <h2 className="text-lg font-semibold text-slate-200 mb-2">Today's Weather (Irbid)</h2>
+        <p className="text-slate-400 text-sm mb-4">{todayLabel}</p>
         <div className="grid grid-cols-2 gap-4">
           <div>
             <p className="text-slate-400 text-sm">Temperature</p>
@@ -26,7 +35,8 @@ export default function Weather({ current, tomorrow }) {
 
       {/* Tomorrow */}
       <div className="rounded-2xl bg-slate-900 p-6 shadow-lg ring-1 ring-slate-800">
-        <h2 className="text-lg font-semibold text-slate-200 mb-4">Tomorrow's Forecast</h2>
+        <h2 className="text-lg font-semibold text-slate-200 mb-2">Tomorrow's Forecast</h2>
+        <p className="text-slate-400 text-sm mb-4">{tomorrowLabel}</p>
         <div className="grid grid-cols-2 gap-4">
           <div>
             <p className="text-slate-400 text-sm">High / Low</p>
