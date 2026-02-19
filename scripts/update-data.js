@@ -166,11 +166,19 @@ async function main() {
   try {
     const apiKey = process.env.METALPRICE_API_KEY;
     if (!apiKey) throw new Error('METALPRICE_API_KEY not set');
-    const goldRes = await fetchJSON(`https://api.metalpriceapi.com/v1/latest?api_key=${apiKey}&base=USD&currencies=XAU`);
-    if (goldRes?.rates?.XAU) {
-      goldUSD = +goldRes.rates.XAU.toFixed(2);
+    // Try orientation: base=XAU, currencies=USD (gives USD per troy ounce)
+    let goldRes = await fetchJSON(`https://api.metalpriceapi.com/v1/latest?api_key=${apiKey}&base=XAU&currencies=USD`);
+    if (goldRes?.rates?.USD) {
+      goldUSD = +goldRes.rates.USD.toFixed(2);
     } else {
-      throw new Error('invalid gold response');
+      // Fallback orientation: base=USD, currencies=XAU (gives XAU per USD)
+      goldRes = await fetchJSON(`https://api.metalpriceapi.com/v1/latest?api_key=${apiKey}&base=USD&currencies=XAU`);
+      if (goldRes?.rates?.XAU) {
+        // Convert: 1 / XAU_rate = USD per XAU
+        goldUSD = +(1 / goldRes.rates.XAU).toFixed(2);
+      } else {
+        throw new Error('invalid gold response from both query orientations');
+      }
     }
   } catch (e) {
     console.warn('Gold API failed, using fallback value:', e);
