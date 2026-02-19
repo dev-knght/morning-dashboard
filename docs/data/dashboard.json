@@ -1,87 +1,93 @@
 {
-  "updatedAt": "2026-02-18T08:12:37.526Z",
+  "updatedAt": "2026-02-19T10:16:49.452Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.1,
-      "humidity": 42,
-      "wind_kph": 24.3,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
-    },
-    "tomorrow": {
-      "date": "2026-02-19",
-      "temp_max_c": 14.8,
-      "temp_min_c": 7.7,
-      "humidity_max": 86,
-      "humidity_min": 46,
-      "wind_kph": 21.8,
+      "temp_c": 14.3,
+      "humidity": 63,
+      "wind_kph": 18.4,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
+    },
+    "tomorrow": {
+      "date": "2026-02-20",
+      "temp_max_c": 20.4,
+      "temp_min_c": 5.3,
+      "humidity_max": 83,
+      "humidity_min": 29,
+      "wind_kph": 23.8,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     }
   },
   "metals": {
     "goldUSD": 2850,
     "oilUSD": 79,
-    "updatedAt": "2026-02-18T08:12:37.526Z"
+    "updatedAt": "2026-02-19T10:16:49.452Z",
+    "gold24KUSD": 91.63,
+    "gold21KUSD": 80.18,
+    "gold18KUSD": 68.72,
+    "gold24KJD": 64.97,
+    "gold21KJD": 56.84,
+    "gold18KJD": 48.72
   },
   "news": {
     "ai": [
       {
-        "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
-        "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
-        "points": 407,
-        "comments": 279,
-        "created_at": "2026-02-18T01:40:52.000Z"
+        "title": "After AI, there is no product",
+        "url": "https://sidu.in/essays/after-ai-there-is-no-product.html",
+        "points": 14,
+        "comments": 5,
+        "created_at": "2026-02-19T08:22:36.000Z"
       },
       {
-        "title": "Phison CEO: Consumer electronics firms may fail by 2026 over AI memory crisis",
-        "url": "https://www.pcgamer.com/hardware/memory/many-consumer-electronics-manufacturers-will-go-bankrupt-or-exit-product-lines-by-the-end-of-2026-due-to-the-ai-memory-crisis-phison-ceo-reportedly-says/",
-        "points": 18,
-        "comments": 2,
-        "created_at": "2026-02-18T00:55:00.000Z"
-      },
-      {
-        "title": "Open-source game engine Godot is drowning in 'AI slop' code contributions",
-        "url": "https://www.pcgamer.com/software/platforms/open-source-game-engine-godot-is-drowning-in-ai-slop-code-contributions-i-dont-know-how-long-we-can-keep-it-up/",
-        "points": 13,
-        "comments": 0,
-        "created_at": "2026-02-18T00:30:25.000Z"
-      },
-      {
-        "title": "Race for AI is making Hindenburg-style disaster a real risk, says leading expert",
-        "url": "https://www.theguardian.com/science/2026/feb/17/ai-race-hindenburg-style-disaster-a-real-risk-michael-wooldridge",
+        "title": "Auxos: AI Agents for Product Feedback",
+        "url": "https://www.auxos.dev",
         "points": 15,
-        "comments": 2,
-        "created_at": "2026-02-17T19:58:48.000Z"
+        "comments": 4,
+        "created_at": "2026-02-19T02:58:49.000Z"
       },
       {
-        "title": "An AI Agent Published a Hit Piece on Me – Forensics and More Fallout",
-        "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/",
-        "points": 107,
-        "comments": 78,
-        "created_at": "2026-02-17T19:31:45.000Z"
+        "title": "How AI is affecting productivity and jobs in Europe",
+        "url": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
+        "points": 123,
+        "comments": 82,
+        "created_at": "2026-02-19T00:22:45.000Z"
+      },
+      {
+        "title": "Models.dev – An open-source database of AI models",
+        "url": "https://models.dev/",
+        "points": 11,
+        "comments": 1,
+        "created_at": "2026-02-18T22:28:38.000Z"
+      },
+      {
+        "title": "The Link Between Air Pollution and Alzheimer's Is Now Clearer",
+        "url": "https://www.sciencealert.com/the-link-between-air-pollution-and-alzheimers-is-now-clearer-than-ever",
+        "points": 14,
+        "comments": 0,
+        "created_at": "2026-02-18T22:19:06.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Vibe Coding Simulator 2026",
         "url": "https://largedatabank.com/yolomode/",
-        "points": 13,
+        "points": 14,
         "comments": 2,
         "created_at": "2026-02-17T20:30:01.000Z"
       },
       {
         "title": "Launch HN: Sonarly (YC W26) – AI agent to triage and fix your production alerts",
         "url": "https://sonarly.com/",
-        "points": 27,
-        "comments": 13,
+        "points": 29,
+        "comments": 17,
         "created_at": "2026-02-17T17:03:09.000Z"
       },
       {
         "title": "Breaking the spell of vibe coding",
         "url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
-        "points": 429,
+        "points": 430,
         "comments": 349,
         "created_at": "2026-02-13T19:22:18.000Z"
       },

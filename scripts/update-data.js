@@ -144,6 +144,10 @@ async function main() {
     // keep defaults
   }
 
+  // Constants for gold conversion
+  const OZ_TO_GRAM = 31.1035;
+  const JOD_RATE = 0.709; // approximate fixed USD→JOD rate
+
   // News
   let news = previous?.news || { ai: [], vibeCoding: [], progDb: [] };
   try {
@@ -166,6 +170,12 @@ async function main() {
       goldUSD,
       oilUSD,
       updatedAt: new Date().toISOString(),
+      gold24KUSD: +(goldUSD / OZ_TO_GRAM).toFixed(2),
+      gold21KUSD: +((goldUSD / OZ_TO_GRAM) * (21 / 24)).toFixed(2),
+      gold18KUSD: +((goldUSD / OZ_TO_GRAM) * (18 / 24)).toFixed(2),
+      gold24KJD: +((goldUSD / OZ_TO_GRAM) * JOD_RATE).toFixed(2),
+      gold21KJD: +((goldUSD / OZ_TO_GRAM) * (21 / 24) * JOD_RATE).toFixed(2),
+      gold18KJD: +((goldUSD / OZ_TO_GRAM) * (18 / 24) * JOD_RATE).toFixed(2),
     },
     news,
   };
