@@ -151,16 +151,21 @@ async function main() {
   let oilUSD = DEFAULT_METALS.oilUSD;
   let jodRate = 0.709; // fallback
 
+  let exchangeRates = { JOD: 0.709 };
   try {
-    // Fetch exchange rate (USD -> JOD)
     const exchangeData = await fetchJSON('https://www.floatrates.com/daily/usd.json');
-    if (exchangeData && exchangeData.jod && exchangeData.jod.rate) {
-      jodRate = exchangeData.jod.rate;
+    if (exchangeData) {
+      // floatrates uses lowercase keys like 'jod', 'eur', etc.
+      ['jod', 'eur', 'gbp', 'sar'].forEach(cur => {
+        if (exchangeData[cur] && exchangeData[cur].rate) {
+          exchangeRates[cur.toUpperCase()] = +exchangeData[cur].rate.toFixed(4);
+        }
+      });
     } else {
       throw new Error('invalid exchange response');
     }
   } catch (e) {
-    console.warn('Exchange API failed, using fallback JOD rate:', e);
+    console.warn('Exchange API failed, using fallback rates:', e);
   }
 
   try {
@@ -232,10 +237,11 @@ async function main() {
       gold24KUSD: +(goldUSD / OZ_TO_GRAM).toFixed(2),
       gold21KUSD: +((goldUSD / OZ_TO_GRAM) * (21 / 24)).toFixed(2),
       gold18KUSD: +((goldUSD / OZ_TO_GRAM) * (18 / 24)).toFixed(2),
-      gold24KJD: +((goldUSD / OZ_TO_GRAM) * jodRate).toFixed(2),
-      gold21KJD: +((goldUSD / OZ_TO_GRAM) * (21 / 24) * jodRate).toFixed(2),
-      gold18KJD: +((goldUSD / OZ_TO_GRAM) * (18 / 24) * jodRate).toFixed(2),
+      gold24KJD: +((goldUSD / OZ_TO_GRAM) * exchangeRates.JOD).toFixed(2),
+      gold21KJD: +((goldUSD / OZ_TO_GRAM) * (21 / 24) * exchangeRates.JOD).toFixed(2),
+      gold18KJD: +((goldUSD / OZ_TO_GRAM) * (18 / 24) * exchangeRates.JOD).toFixed(2),
     },
+    exchange: exchangeRates,
     news,
   };
 

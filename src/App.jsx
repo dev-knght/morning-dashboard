@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import DateDisplay from './components/DateDisplay';
 import Weather from './components/Weather';
 import Metals from './components/Metals';
+import ExchangeRates from './components/ExchangeRates';
 import News from './components/News';
 
 export default function App() {
@@ -36,13 +37,14 @@ export default function App() {
     );
   }
 
-  const { weather, metals, news } = data;
+  const { weather, metals, exchange, news } = data;
 
   return (
     <div className="min-h-screen bg-slate-950 max-w-6xl mx-auto px-4 py-6">
       <DateDisplay />
       <Weather current={weather.current} tomorrow={weather.tomorrow} />
       <Metals metals={metals} />
+      <ExchangeRates exchange={exchange} />
       <News news={news} />
       <footer className="text-center text-slate-600 text-xs py-6">
         Last updated: {new Date(data.updatedAt).toLocaleString()} (Asia/Amman)

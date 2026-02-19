@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-02-19T10:41:15.237Z",
+  "updatedAt": "2026-02-19T11:18:51.315Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 14.5,
-      "humidity": 62,
-      "wind_kph": 18.8,
+      "temp_c": 14.9,
+      "humidity": 59,
+      "wind_kph": 19.3,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 2850,
     "oilUSD": 79,
-    "updatedAt": "2026-02-19T10:41:15.237Z",
+    "updatedAt": "2026-02-19T11:18:51.315Z",
     "gold24KUSD": 91.63,
     "gold21KUSD": 80.18,
     "gold18KUSD": 68.72,
@@ -31,13 +31,19 @@
     "gold21KJD": 56.84,
     "gold18KJD": 48.72
   },
+  "exchange": {
+    "JOD": 0.709,
+    "EUR": 0.8481,
+    "GBP": 0.7416,
+    "SAR": 3.7503
+  },
   "news": {
     "ai": [
       {
         "title": "After AI, there is no product",
         "url": "https://sidu.in/essays/after-ai-there-is-no-product.html",
-        "points": 14,
-        "comments": 5,
+        "points": 15,
+        "comments": 6,
         "created_at": "2026-02-19T08:22:36.000Z"
       },
       {
@@ -50,8 +56,8 @@
       {
         "title": "How AI is affecting productivity and jobs in Europe",
         "url": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
-        "points": 128,
-        "comments": 87,
+        "points": 133,
+        "comments": 100,
         "created_at": "2026-02-19T00:22:45.000Z"
       },
       {
