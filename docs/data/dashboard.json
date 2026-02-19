@@ -1,39 +1,11 @@
 {
-<<<<<<< HEAD
-  "updatedAt": "2026-02-19T10:16:49.452Z",
-=======
-<<<<<<< HEAD
-  "updatedAt": "2026-02-19T08:02:19.328Z",
->>>>>>> 319144d (feat(weather): add day names and formatted dates)
+  "updatedAt": "2026-02-19T10:34:32.722Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 14.3,
-      "humidity": 63,
-      "wind_kph": 18.4,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
-    },
-    "tomorrow": {
-      "date": "2026-02-20",
-      "temp_max_c": 20.4,
-      "temp_min_c": 5.3,
-<<<<<<< HEAD
-      "humidity_max": 83,
-      "humidity_min": 29,
-      "wind_kph": 23.8,
-=======
-      "humidity_max": 82,
-      "humidity_min": 28,
-      "wind_kph": 23,
-=======
-  "updatedAt": "2026-02-19T10:16:49.452Z",
-  "timezone": "Asia/Amman",
-  "weather": {
-    "current": {
-      "temp_c": 14.3,
-      "humidity": 63,
-      "wind_kph": 18.4,
+      "temp_c": 14.5,
+      "humidity": 62,
+      "wind_kph": 18.8,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
@@ -44,8 +16,6 @@
       "humidity_max": 83,
       "humidity_min": 29,
       "wind_kph": 23.8,
->>>>>>> 9ffd1d0 (feat(metals): add 24K/21K/18K gold prices per gram (USD & JOD))
->>>>>>> 319144d (feat(weather): add day names and formatted dates)
       "weather_code": 0,
       "weather_desc": "Clear sky"
     }
@@ -53,32 +23,17 @@
   "metals": {
     "goldUSD": 2850,
     "oilUSD": 79,
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-    "updatedAt": "2026-02-19T08:02:19.328Z"
-=======
->>>>>>> 319144d (feat(weather): add day names and formatted dates)
-    "updatedAt": "2026-02-19T10:16:49.452Z",
+    "updatedAt": "2026-02-19T10:34:32.722Z",
     "gold24KUSD": 91.63,
     "gold21KUSD": 80.18,
     "gold18KUSD": 68.72,
     "gold24KJD": 64.97,
     "gold21KJD": 56.84,
     "gold18KJD": 48.72
-<<<<<<< HEAD
-=======
->>>>>>> 9ffd1d0 (feat(metals): add 24K/21K/18K gold prices per gram (USD & JOD))
->>>>>>> 319144d (feat(weather): add day names and formatted dates)
   },
   "news": {
     "ai": [
       {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> 319144d (feat(weather): add day names and formatted dates)
         "title": "After AI, there is no product",
         "url": "https://sidu.in/essays/after-ai-there-is-no-product.html",
         "points": 14,
@@ -86,10 +41,6 @@
         "created_at": "2026-02-19T08:22:36.000Z"
       },
       {
-<<<<<<< HEAD
-=======
->>>>>>> 9ffd1d0 (feat(metals): add 24K/21K/18K gold prices per gram (USD & JOD))
->>>>>>> 319144d (feat(weather): add day names and formatted dates)
         "title": "Auxos: AI Agents for Product Feedback",
         "url": "https://www.auxos.dev",
         "points": 15,
@@ -99,62 +50,23 @@
       {
         "title": "How AI is affecting productivity and jobs in Europe",
         "url": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
-<<<<<<< HEAD
-        "points": 123,
-        "comments": 82,
+        "points": 128,
+        "comments": 85,
         "created_at": "2026-02-19T00:22:45.000Z"
       },
       {
-=======
-<<<<<<< HEAD
-        "points": 83,
-        "comments": 41,
-        "created_at": "2026-02-19T00:22:45.000Z"
-      },
-      {
-=======
-        "points": 123,
-        "comments": 82,
-        "created_at": "2026-02-19T00:22:45.000Z"
-      },
-      {
->>>>>>> 319144d (feat(weather): add day names and formatted dates)
         "title": "Models.dev – An open-source database of AI models",
         "url": "https://models.dev/",
-        "points": 11,
+        "points": 12,
         "comments": 1,
         "created_at": "2026-02-18T22:28:38.000Z"
       },
       {
-<<<<<<< HEAD
-=======
->>>>>>> 9ffd1d0 (feat(metals): add 24K/21K/18K gold prices per gram (USD & JOD))
->>>>>>> 319144d (feat(weather): add day names and formatted dates)
         "title": "The Link Between Air Pollution and Alzheimer's Is Now Clearer",
         "url": "https://www.sciencealert.com/the-link-between-air-pollution-and-alzheimers-is-now-clearer-than-ever",
         "points": 14,
         "comments": 0,
         "created_at": "2026-02-18T22:19:06.000Z"
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-      },
-      {
-        "title": "Show HN: Strava for Claude Code",
-        "url": "https://straude.com/",
-        "points": 18,
-        "comments": 16,
-        "created_at": "2026-02-18T19:48:32.000Z"
-      },
-      {
-        "title": "Godot maintainers struggle with 'demoralizing' AI slop PRs",
-        "url": "https://www.theregister.com/2026/02/18/godot_maintainers_struggle_with_draining/",
-        "points": 21,
-        "comments": 1,
-        "created_at": "2026-02-18T19:22:41.000Z"
-=======
->>>>>>> 9ffd1d0 (feat(metals): add 24K/21K/18K gold prices per gram (USD & JOD))
->>>>>>> 319144d (feat(weather): add day names and formatted dates)
       }
     ],
     "vibeCoding": [
