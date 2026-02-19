@@ -78,6 +78,27 @@ async function fetchTopStories(query) {
   }));
 }
 
+async function fetchRedditTop(subreddit, minScore = 50) {
+  const url = `https://www.reddit.com/r/${subreddit}/hot.json?limit=100`;
+  const data = await fetchJSON(url, {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    },
+  });
+  if (!data || !Array.isArray(data.data.children)) return [];
+  const posts = data.data.children
+    .map(child => child.data)
+    .filter(post => !post.over_18 && post.score >= minScore && post.url && !post.url.startsWith('https://www.reddit.com/r/'));
+  const sorted = posts.sort((a, b) => b.created_utc - a.created_utc);
+  return sorted.slice(0, 5).map(post => ({
+    title: post.title,
+    url: post.url,
+    points: post.score,
+    comments: post.num_comments,
+    created_at: new Date(post.created_utc * 1000).toISOString(),
+  }));
+}
+
 async function main() {
   await mkdir(OUT_DIR, { recursive: true });
 
@@ -148,18 +169,33 @@ async function main() {
   const OZ_TO_GRAM = 31.1035;
   const JOD_RATE = 0.709; // approximate fixed USD→JOD rate
 
-  // News
+  // News: combine Hacker News and Reddit sources
   let news = previous?.news || { ai: [], vibeCoding: [], progDb: [] };
   try {
-    const [ai, vibe, prog] = await Promise.all([
+    const [aiHN, aiReddit] = await Promise.all([
       fetchTopStories('ai'),
-      fetchTopStories('vibe coding'),
-      fetchTopStories('programming languages OR databases'),
+      fetchRedditTop('artificial').catch(() => []),
     ]);
-    news = { ai, vibeCoding: vibe, progDb: prog };
+    const [vibeHN, vibeReddit] = await Promise.all([
+      fetchTopStories('vibe coding'),
+      fetchRedditTop('vibecoding').catch(() => []),
+    ]);
+    const [progHN, progReddit] = await Promise.all([
+      fetchTopStories('programming'), // broader query to ensure hits
+      fetchRedditTop('programming').catch(() => []),
+    ]);
+
+    const merge = (a, b) => [...a, ...b]
+      .sort((x, y) => new Date(y.created_at) - new Date(x.created_at))
+      .slice(0, 5);
+
+    news = {
+      ai: merge(aiHN, aiReddit),
+      vibeCoding: merge(vibeHN, vibeReddit),
+      progDb: merge(progHN, progReddit),
+    };
   } catch (e) {
     console.error('News fetch failed, keeping previous if any:', e);
-    // keep previous or empty
   }
 
   const dashboard = {
