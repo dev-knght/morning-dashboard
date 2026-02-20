@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-02-19T11:18:51.315Z",
+  "updatedAt": "2026-02-20T04:21:46.846Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 14.9,
-      "humidity": 59,
-      "wind_kph": 19.3,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
-    },
-    "tomorrow": {
-      "date": "2026-02-20",
-      "temp_max_c": 20.4,
-      "temp_min_c": 5.3,
-      "humidity_max": 83,
-      "humidity_min": 29,
-      "wind_kph": 23.8,
+      "temp_c": 5.1,
+      "humidity": 81,
+      "wind_kph": 9.1,
       "weather_code": 0,
       "weather_desc": "Clear sky"
+    },
+    "tomorrow": {
+      "date": "2026-02-21",
+      "temp_max_c": 22,
+      "temp_min_c": 9.4,
+      "humidity_max": 95,
+      "humidity_min": 25,
+      "wind_kph": 29.9,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
     "goldUSD": 2850,
     "oilUSD": 79,
-    "updatedAt": "2026-02-19T11:18:51.315Z",
+    "updatedAt": "2026-02-20T04:21:46.846Z",
     "gold24KUSD": 91.63,
     "gold21KUSD": 80.18,
     "gold18KUSD": 68.72,
@@ -33,46 +33,51 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8481,
-    "GBP": 0.7416,
-    "SAR": 3.7503
+    "EUR": 0.8491,
+    "GBP": 0.7422,
+    "SAR": 3.7502
+  },
+  "prayer": {
+    "fajr": "05:07",
+    "maghrib": "17:26",
+    "date": "20 Feb 2020"
   },
   "news": {
     "ai": [
       {
-        "title": "After AI, there is no product",
-        "url": "https://sidu.in/essays/after-ai-there-is-no-product.html",
-        "points": 15,
-        "comments": 6,
-        "created_at": "2026-02-19T08:22:36.000Z"
+        "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
+        "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+        "points": 140,
+        "comments": 77,
+        "created_at": "2026-02-20T03:05:08.000Z"
       },
       {
-        "title": "Auxos: AI Agents for Product Feedback",
-        "url": "https://www.auxos.dev",
-        "points": 15,
-        "comments": 4,
-        "created_at": "2026-02-19T02:58:49.000Z"
-      },
-      {
-        "title": "How AI is affecting productivity and jobs in Europe",
-        "url": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
-        "points": 133,
-        "comments": 100,
-        "created_at": "2026-02-19T00:22:45.000Z"
-      },
-      {
-        "title": "Models.dev – An open-source database of AI models",
-        "url": "https://models.dev/",
-        "points": 12,
+        "title": "Pi for Excel: AI sidebar add-in for Excel, powered by Pi",
+        "url": "https://github.com/tmustier/pi-for-excel",
+        "points": 19,
         "comments": 1,
-        "created_at": "2026-02-18T22:28:38.000Z"
+        "created_at": "2026-02-20T02:20:06.000Z"
       },
       {
-        "title": "The Link Between Air Pollution and Alzheimer's Is Now Clearer",
-        "url": "https://www.sciencealert.com/the-link-between-air-pollution-and-alzheimers-is-now-clearer-than-ever",
-        "points": 14,
-        "comments": 0,
-        "created_at": "2026-02-18T22:19:06.000Z"
+        "title": "Show HN: Ghostty-based terminal with vertical tabs and notifications",
+        "url": "https://github.com/manaflow-ai/cmux",
+        "points": 105,
+        "comments": 53,
+        "created_at": "2026-02-19T21:30:04.000Z"
+      },
+      {
+        "title": "AI is not a coworker, it's an exoskeleton",
+        "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+        "points": 185,
+        "comments": 199,
+        "created_at": "2026-02-19T19:55:11.000Z"
+      },
+      {
+        "title": "Productivity gains from AI coding assistants haven’t budged past 10% – survey",
+        "url": "https://shiftmag.dev/this-cto-says-93-of-developers-use-ai-but-productivity-is-still-10-8013/",
+        "points": 65,
+        "comments": 91,
+        "created_at": "2026-02-19T19:03:32.000Z"
       }
     ],
     "vibeCoding": [
@@ -87,7 +92,7 @@
         "title": "Launch HN: Sonarly (YC W26) – AI agent to triage and fix your production alerts",
         "url": "https://sonarly.com/",
         "points": 29,
-        "comments": 17,
+        "comments": 16,
         "created_at": "2026-02-17T17:03:09.000Z"
       },
       {
@@ -114,9 +119,23 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: Micasa – track your house from the terminal",
+        "url": "https://micasa.dev",
+        "points": 485,
+        "comments": 154,
+        "created_at": "2026-02-19T15:54:14.000Z"
+      },
+      {
+        "title": "Programming in Prison: My Redemption Arc",
+        "url": "https://www.ck-7vn.dev/blog/Home",
+        "points": 15,
+        "comments": 1,
+        "created_at": "2026-02-19T15:32:14.000Z"
+      },
+      {
         "title": "Nobody knows what programming will look like in two years",
         "url": "https://leaddev.com/ai/nobody-knows-what-programming-will-look-like-in-two-years",
-        "points": 17,
+        "points": 19,
         "comments": 6,
         "created_at": "2026-02-18T12:03:18.000Z"
       },
@@ -131,22 +150,8 @@
         "title": "I guess I kinda get why people hate AI",
         "url": "https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html",
         "points": 164,
-        "comments": 260,
+        "comments": 262,
         "created_at": "2026-02-16T17:22:02.000Z"
-      },
-      {
-        "title": "Dyslexia, Programming and Lisp",
-        "url": "https://www.iwillig.me/blog/on-dyslexia-and-lisp/",
-        "points": 19,
-        "comments": 2,
-        "created_at": "2026-02-16T16:48:21.000Z"
-      },
-      {
-        "title": "Ideas for an Agent-Oriented Programming Language",
-        "url": "https://davi.sh/blog/2026/02/markov-ideas/",
-        "points": 12,
-        "comments": 1,
-        "created_at": "2026-02-15T19:20:38.000Z"
       }
     ]
   }

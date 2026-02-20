@@ -197,6 +197,31 @@ async function main() {
   const OZ_TO_GRAM = 31.1035;
   // jodRate is fetched from exchange API; keep 0.709 as fallback already set above.
 
+  // Prayer times: Sehar (Fajr) and Iftar (Maghrib) for Amman, Jordan
+  let prayer = null;
+  try {
+    const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+    const lat = 31.9539;
+    const lon = 35.9106;
+    const method = 2; // Al-Azhar
+    const school = 1; // Hanafi
+    const prayerRes = await fetchJSON(
+      `https://api.aladhan.com/v1/timings/${today}?latitude=${lat}&longitude=${lon}&method=${method}&school=${school}`
+    );
+    if (prayerRes?.data?.timings) {
+      const t = prayerRes.data.timings;
+      prayer = {
+        fajr: t.Fajr,
+        maghrib: t.Maghrib,
+        date: prayerRes.data.date?.readable || today,
+      };
+    } else {
+      throw new Error('missing timings');
+    }
+  } catch (e) {
+    console.warn('Prayer API failed:', e);
+  }
+
   // News: combine Hacker News and Reddit sources
   let news = previous?.news || { ai: [], vibeCoding: [], progDb: [] };
   try {
@@ -242,6 +267,7 @@ async function main() {
       gold18KJD: +((goldUSD / OZ_TO_GRAM) * (18 / 24) * exchangeRates.JOD).toFixed(2),
     },
     exchange: exchangeRates,
+    prayer,
     news,
   };
 
