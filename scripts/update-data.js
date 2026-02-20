@@ -223,42 +223,19 @@ async function main() {
     console.warn('Prayer API failed:', e);
   }
 
-  // Events & Holidays: try Nager.Date API, fallback to static list for Jordan
-  let events = [];
-  try {
-    const holidays = await fetchJSON(`https://date.nager.at/api/v3/PublicHolidays/${year}/JO`);
-    if (Array.isArray(holidays) && holidays.length > 0) {
-      events = holidays
-        .filter(h => h.global || h.countries?.includes('JO'))
-        .map(h => ({
-          date: h.date,
-          name: h.localName || h.name,
-          type: 'Public Holiday',
-          global: !!h.global,
-        }));
-    } else {
-      throw new Error('empty holidays response');
-    }
-  } catch (e) {
-    console.warn('Holidays API failed or empty; using fallback static list:', e);
-    // Static fallback: major Jordanian holidays 2026 (verify dates each year)
-    events = [
-      { date: `${year}-01-01`, name: "New Year's Day", type: 'Public Holiday' },
-      { date: `${year}-03-01`, name: 'Ramadan Start (estimated)', type: 'Religious' },
-      { date: `${year}-03-31`, name: 'Eid al-Fitr (estimated)', type: 'Religious' },
-      { date: `${year}-04-01`, name: 'Eid al-Fitr Holiday', type: 'Religious' },
-      { date: `${year}-05-01`, name: 'Labour Day', type: 'Public Holiday' },
-      { date: `${year}-06-06`, name: 'Eid al-Adha (estimated)', type: 'Religious' },
-      { date: `${year}-06-07`, name: 'Eid al-Adha Holiday', type: 'Religious' },
-      { date: `${year}-06-08`, name: 'Eid al-Adha Holiday', type: 'Religious' },
-      { date: `${year}-08-25`, name: 'Islamic New Year', type: 'Religious' },
-      { date: `${year}-11-30`, name: 'Independence Day', type: 'National' },
-      { date: `${year}-12-25`, name: 'Christmas Day', type: 'Public Holiday' },
-    ];
-  }
-
-  // Ensure sorted
-  events.sort((a, b) => a.date.localeCompare(b.date));
+  // Events & Holidays: static reliable list of Jordanian public holidays (fixed Gregorian dates)
+  // Note: Islamic holidays move ~11 days earlier each year; these are estimates. Update yearly if needed.
+  const events = [
+    { date: `${year}-01-01`, name: "New Year's Day", type: 'Public Holiday' },
+    { date: `${year}-05-01`, name: 'Labour Day', type: 'Public Holiday' },
+    { date: `${year}-11-25`, name: 'Independence Day', type: 'National' },
+    { date: `${year}-12-25`, name: 'Christmas Day', type: 'Public Holiday' },
+    // Optional religious observances (approximate for 2026)
+    { date: `${year}-03-01`, name: 'Ramadan Start (estimated)', type: 'Religious' },
+    { date: `${year}-03-31`, name: 'Eid al-Fitr (estimated)', type: 'Religious' },
+    { date: `${year}-06-06`, name: 'Eid al-Adha (estimated)', type: 'Religious' },
+    { date: `${year}-08-26`, name: 'Islamic New Year (estimated)', type: 'Religious' },
+  ].sort((a, b) => a.date.localeCompare(b.date));
 
   // News: combine Hacker News and Reddit sources
   let news = previous?.news || { ai: [], vibeCoding: [], progDb: [] };
