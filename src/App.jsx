@@ -4,6 +4,7 @@ import Weather from './components/Weather';
 import Metals from './components/Metals';
 import ExchangeRates from './components/ExchangeRates';
 import PrayerTimes from './components/PrayerTimes';
+import Events from './components/Events';
 import News from './components/News';
 
 export default function App() {
@@ -38,7 +39,7 @@ export default function App() {
     );
   }
 
-  const { weather, metals, exchange, prayer, news } = data;
+  const { weather, metals, exchange, prayer, events, news } = data;
 
   return (
     <div className="min-h-screen bg-slate-950 max-w-6xl mx-auto px-4 py-6">
@@ -47,6 +48,7 @@ export default function App() {
       <Metals metals={metals} />
       <ExchangeRates exchange={exchange} />
       <PrayerTimes prayer={prayer} />
+      <Events events={events} />
       <News news={news} />
       <footer className="text-center text-slate-600 text-xs py-6">
         Last updated: {new Date(data.updatedAt).toLocaleString()} (Asia/Amman)
