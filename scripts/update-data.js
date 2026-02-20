@@ -223,18 +223,13 @@ async function main() {
     console.warn('Prayer API failed:', e);
   }
 
-  // Events & Holidays: static reliable list of Jordanian public holidays (fixed Gregorian dates)
-  // Note: Islamic holidays move ~11 days earlier each year; these are estimates. Update yearly if needed.
+  // Events & Holidays: fixed Gregorian public holidays in Jordan
+  // Note: To add moveable feasts (Ramadan, Eid), update these dates each year manually.
   const events = [
     { date: `${year}-01-01`, name: "New Year's Day", type: 'Public Holiday' },
     { date: `${year}-05-01`, name: 'Labour Day', type: 'Public Holiday' },
     { date: `${year}-11-25`, name: 'Independence Day', type: 'National' },
     { date: `${year}-12-25`, name: 'Christmas Day', type: 'Public Holiday' },
-    // Optional religious observances (approximate for 2026)
-    { date: `${year}-03-01`, name: 'Ramadan Start (estimated)', type: 'Religious' },
-    { date: `${year}-03-31`, name: 'Eid al-Fitr (estimated)', type: 'Religious' },
-    { date: `${year}-06-06`, name: 'Eid al-Adha (estimated)', type: 'Religious' },
-    { date: `${year}-08-26`, name: 'Islamic New Year (estimated)', type: 'Religious' },
   ].sort((a, b) => a.date.localeCompare(b.date));
 
   // News: combine Hacker News and Reddit sources

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-20T12:18:34.999Z",
+  "updatedAt": "2026-02-20T12:24:47.760Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 2850,
     "oilUSD": 79,
-    "updatedAt": "2026-02-20T12:18:34.999Z",
+    "updatedAt": "2026-02-20T12:24:47.760Z",
     "gold24KUSD": 91.63,
     "gold21KUSD": 80.18,
     "gold18KUSD": 68.72,
@@ -49,29 +49,9 @@
       "type": "Public Holiday"
     },
     {
-      "date": "2026-03-01",
-      "name": "Ramadan Start (estimated)",
-      "type": "Religious"
-    },
-    {
-      "date": "2026-03-31",
-      "name": "Eid al-Fitr (estimated)",
-      "type": "Religious"
-    },
-    {
       "date": "2026-05-01",
       "name": "Labour Day",
       "type": "Public Holiday"
-    },
-    {
-      "date": "2026-06-06",
-      "name": "Eid al-Adha (estimated)",
-      "type": "Religious"
-    },
-    {
-      "date": "2026-08-26",
-      "name": "Islamic New Year (estimated)",
-      "type": "Religious"
     },
     {
       "date": "2026-11-25",
@@ -89,14 +69,14 @@
       {
         "title": "The path to ubiquitous AI (17k tokens/sec)",
         "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-        "points": 134,
-        "comments": 99,
+        "points": 140,
+        "comments": 104,
         "created_at": "2026-02-20T10:32:52.000Z"
       },
       {
         "title": "SwiftUI Agent Skill: Build Better Views with AI",
         "url": "https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/",
-        "points": 16,
+        "points": 17,
         "comments": 1,
         "created_at": "2026-02-20T10:31:17.000Z"
       },
@@ -117,8 +97,8 @@
       {
         "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
         "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
-        "points": 410,
-        "comments": 350,
+        "points": 416,
+        "comments": 352,
         "created_at": "2026-02-20T03:05:08.000Z"
       }
     ],
