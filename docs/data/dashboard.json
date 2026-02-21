@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-02-20T19:49:17.433Z",
+  "updatedAt": "2026-02-21T07:44:57.483Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 11.5,
-      "humidity": 60,
-      "wind_kph": 8.6,
+      "temp_c": 16.3,
+      "humidity": 32,
+      "wind_kph": 30.5,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-02-21",
-      "temp_max_c": 22.6,
-      "temp_min_c": 9.7,
-      "humidity_max": 94,
-      "humidity_min": 26,
-      "wind_kph": 29.3,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "date": "2026-02-22",
+      "temp_max_c": 16.3,
+      "temp_min_c": 9.9,
+      "humidity_max": 97,
+      "humidity_min": 52,
+      "wind_kph": 23.9,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4963.84,
+    "goldUSD": 5013.65,
     "oilUSD": 79,
-    "updatedAt": "2026-02-20T19:49:17.433Z",
-    "gold24KUSD": 159.59,
-    "gold21KUSD": 139.64,
-    "gold18KUSD": 119.69,
-    "gold24KJD": 113.15,
-    "gold21KJD": 99.01,
-    "gold18KJD": 84.86
+    "updatedAt": "2026-02-21T07:44:57.483Z",
+    "gold24KUSD": 161.19,
+    "gold21KUSD": 141.04,
+    "gold18KUSD": 120.89,
+    "gold24KJD": 114.29,
+    "gold21KJD": 100,
+    "gold18KJD": 85.71
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8502,
-    "GBP": 0.7427,
-    "SAR": 3.7502
+    "EUR": 0.8499,
+    "GBP": 0.7424,
+    "SAR": 3.751
   },
   "prayer": {
-    "fajr": "05:07",
-    "maghrib": "17:26",
-    "date": "20 Feb 2020"
+    "fajr": "05:05",
+    "maghrib": "17:28",
+    "date": "21 Feb 2021"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "Tensions between The Pentagon and AI giant Anthropic reach a boiling point",
-        "url": "https://www.nbcnews.com/tech/security/anthropic-ai-defense-war-venezuela-maduro-rcna259603",
+        "title": "Meta Deployed AI and It Is Killing Our Agency",
+        "url": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
+        "points": 110,
+        "comments": 64,
+        "created_at": "2026-02-21T04:29:40.000Z"
+      },
+      {
+        "title": "Cord: Coordinating Trees of AI Agents",
+        "url": "https://www.june.kim/cord",
+        "points": 69,
+        "comments": 36,
+        "created_at": "2026-02-21T01:27:35.000Z"
+      },
+      {
+        "title": "Ask HN: Are you a SWE that lost job purely due to AI? Share your story",
+        "url": "https://news.ycombinator.com/item?id=47094857",
         "points": 14,
-        "comments": 6,
-        "created_at": "2026-02-20T17:54:08.000Z"
-      },
-      {
-        "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-        "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-        "points": 515,
-        "comments": 114,
-        "created_at": "2026-02-20T13:51:04.000Z"
-      },
-      {
-        "title": "I'm Sick of This AI Shit [video]",
-        "url": "https://www.youtube.com/watch?v=7XGct4rbYfI",
-        "points": 40,
-        "comments": 18,
-        "created_at": "2026-02-20T10:59:26.000Z"
-      },
-      {
-        "title": "The path to ubiquitous AI (17k tokens/sec)",
-        "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-        "points": 569,
-        "comments": 341,
-        "created_at": "2026-02-20T10:32:52.000Z"
-      },
-      {
-        "title": "SwiftUI Agent Skill: Build Better Views with AI",
-        "url": "https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/",
-        "points": 29,
         "comments": 1,
-        "created_at": "2026-02-20T10:31:17.000Z"
+        "created_at": "2026-02-20T22:25:55.000Z"
+      },
+      {
+        "title": "I hate AI side projects",
+        "url": "https://dylancastillo.co/posts/ai-side-projects.html",
+        "points": 66,
+        "comments": 84,
+        "created_at": "2026-02-20T22:03:00.000Z"
+      },
+      {
+        "title": "My first experience with an \"AI\"-ed call centre?",
+        "url": "https://news.ycombinator.com/item?id=47094524",
+        "points": 16,
+        "comments": 0,
+        "created_at": "2026-02-20T21:53:32.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "GPT 5.3 Codex wiped my F: drive with a single character escaping bug",
         "url": "https://old.reddit.com/r/vibecoding/comments/1r96647/gpt_53_codex_wiped_my_entire_f_drive_with_a/",
-        "points": 25,
-        "comments": 14,
+        "points": 29,
+        "comments": 17,
         "created_at": "2026-02-20T07:57:36.000Z"
       },
       {
@@ -141,10 +141,17 @@
     ],
     "progDb": [
       {
+        "title": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance",
+        "url": "https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/",
+        "points": 99,
+        "comments": 123,
+        "created_at": "2026-02-20T22:02:58.000Z"
+      },
+      {
         "title": "Show HN: Micasa – track your house from the terminal",
         "url": "https://micasa.dev",
-        "points": 612,
-        "comments": 194,
+        "points": 627,
+        "comments": 199,
         "created_at": "2026-02-19T15:54:14.000Z"
       },
       {
@@ -167,13 +174,6 @@
         "points": 24,
         "comments": 6,
         "created_at": "2026-02-17T03:57:38.000Z"
-      },
-      {
-        "title": "I guess I kinda get why people hate AI",
-        "url": "https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html",
-        "points": 164,
-        "comments": 263,
-        "created_at": "2026-02-16T17:22:02.000Z"
       }
     ]
   }
