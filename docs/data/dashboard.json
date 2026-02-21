@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-02-21T07:44:57.483Z",
+  "updatedAt": "2026-02-21T19:05:02.972Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.3,
-      "humidity": 32,
-      "wind_kph": 30.5,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 12.3,
+      "humidity": 94,
+      "wind_kph": 19.9,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-02-22",
-      "temp_max_c": 16.3,
+      "temp_max_c": 16.4,
       "temp_min_c": 9.9,
       "humidity_max": 97,
-      "humidity_min": 52,
-      "wind_kph": 23.9,
+      "humidity_min": 50,
+      "wind_kph": 22.9,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 5013.65,
     "oilUSD": 79,
-    "updatedAt": "2026-02-21T07:44:57.483Z",
+    "updatedAt": "2026-02-21T19:05:02.972Z",
     "gold24KUSD": 161.19,
     "gold21KUSD": 141.04,
     "gold18KUSD": 120.89,
@@ -67,46 +67,46 @@
   "news": {
     "ai": [
       {
+        "title": "Instant AI Response",
+        "url": "https://chatjimmy.ai/",
+        "points": 29,
+        "comments": 10,
+        "created_at": "2026-02-21T09:42:04.000Z"
+      },
+      {
+        "title": "AI uBlock Blacklist",
+        "url": "https://github.com/alvi-se/ai-ublock-blacklist",
+        "points": 150,
+        "comments": 66,
+        "created_at": "2026-02-21T08:10:49.000Z"
+      },
+      {
         "title": "Meta Deployed AI and It Is Killing Our Agency",
         "url": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
-        "points": 110,
-        "comments": 64,
+        "points": 141,
+        "comments": 102,
         "created_at": "2026-02-21T04:29:40.000Z"
+      },
+      {
+        "title": "With Nvidia's GB10 Superchip, I'm Running Serious AI Models in My Living Room",
+        "url": "https://www.pcmag.com/news/nvidia-gb10-superchip-running-ai-models-in-my-living-room",
+        "points": 14,
+        "comments": 13,
+        "created_at": "2026-02-21T03:27:51.000Z"
       },
       {
         "title": "Cord: Coordinating Trees of AI Agents",
         "url": "https://www.june.kim/cord",
-        "points": 69,
-        "comments": 36,
+        "points": 131,
+        "comments": 70,
         "created_at": "2026-02-21T01:27:35.000Z"
-      },
-      {
-        "title": "Ask HN: Are you a SWE that lost job purely due to AI? Share your story",
-        "url": "https://news.ycombinator.com/item?id=47094857",
-        "points": 14,
-        "comments": 1,
-        "created_at": "2026-02-20T22:25:55.000Z"
-      },
-      {
-        "title": "I hate AI side projects",
-        "url": "https://dylancastillo.co/posts/ai-side-projects.html",
-        "points": 66,
-        "comments": 84,
-        "created_at": "2026-02-20T22:03:00.000Z"
-      },
-      {
-        "title": "My first experience with an \"AI\"-ed call centre?",
-        "url": "https://news.ycombinator.com/item?id=47094524",
-        "points": 16,
-        "comments": 0,
-        "created_at": "2026-02-20T21:53:32.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "GPT 5.3 Codex wiped my F: drive with a single character escaping bug",
         "url": "https://old.reddit.com/r/vibecoding/comments/1r96647/gpt_53_codex_wiped_my_entire_f_drive_with_a/",
-        "points": 29,
+        "points": 30,
         "comments": 17,
         "created_at": "2026-02-20T07:57:36.000Z"
       },
@@ -143,15 +143,15 @@
       {
         "title": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance",
         "url": "https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/",
-        "points": 99,
-        "comments": 123,
+        "points": 115,
+        "comments": 146,
         "created_at": "2026-02-20T22:02:58.000Z"
       },
       {
         "title": "Show HN: Micasa – track your house from the terminal",
         "url": "https://micasa.dev",
-        "points": 627,
-        "comments": 199,
+        "points": 634,
+        "comments": 207,
         "created_at": "2026-02-19T15:54:14.000Z"
       },
       {
