@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-02-22T07:53:25.123Z",
+  "updatedAt": "2026-02-22T19:05:45.427Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 13.3,
-      "humidity": 70,
-      "wind_kph": 19.5,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 10.1,
+      "humidity": 88,
+      "wind_kph": 6.6,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-02-23",
-      "temp_max_c": 15.2,
-      "temp_min_c": 7.7,
-      "humidity_max": 96,
-      "humidity_min": 53,
-      "wind_kph": 22.1,
+      "temp_max_c": 15.5,
+      "temp_min_c": 8.1,
+      "humidity_max": 98,
+      "humidity_min": 48,
+      "wind_kph": 22,
       "weather_code": 80,
       "weather_desc": "Slight rain showers"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 5107.18,
     "oilUSD": 79,
-    "updatedAt": "2026-02-22T07:53:25.123Z",
+    "updatedAt": "2026-02-22T19:05:45.427Z",
     "gold24KUSD": 164.2,
     "gold21KUSD": 143.67,
     "gold18KUSD": 123.15,
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
+        "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
+        "url": "https://quesma.com/blog/introducing-binaryaudit/",
+        "points": 14,
+        "comments": 2,
+        "created_at": "2026-02-22T14:50:44.000Z"
+      },
+      {
+        "title": "Met police using AI tools supplied by Palantir to flag officer misconduct",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/22/met-police-ai-tools-officer-misconduct-palantir",
+        "points": 14,
+        "comments": 2,
+        "created_at": "2026-02-22T12:59:59.000Z"
+      },
+      {
         "title": "Palantir's secret weapon isn't AI – it's Ontology. An open-source deep dive",
         "url": "https://github.com/Leading-AI-IO/palantir-ontology-strategy",
-        "points": 71,
+        "points": 76,
         "comments": 47,
         "created_at": "2026-02-22T02:29:06.000Z"
       },
       {
         "title": "The Internet Is Becoming a Dark Forest – and AI Is the Hunter",
         "url": "https://opennhp.org/blog/the-internet-is-becoming-a-dark-forest.html",
-        "points": 25,
-        "comments": 23,
+        "points": 29,
+        "comments": 33,
         "created_at": "2026-02-22T01:15:38.000Z"
       },
       {
-        "title": "I'm #1 on Google thanks to AI bullshit [video]",
-        "url": "https://www.youtube.com/watch?v=6uKZ84zwJI0",
-        "points": 23,
-        "comments": 1,
-        "created_at": "2026-02-22T00:46:51.000Z"
-      },
-      {
-        "title": "Amazon blames human employees for an AI coding agent's mistake",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake",
-        "points": 22,
-        "comments": 7,
-        "created_at": "2026-02-21T22:39:49.000Z"
-      },
-      {
-        "title": "Thermal drone footage shows Musk's AI power plant flouting clean air regs",
-        "url": "https://floodlightnews.org/thermal-drone-footage-musk-ai-plant-epa-rules/",
-        "points": 12,
-        "comments": 0,
-        "created_at": "2026-02-21T21:09:31.000Z"
+        "title": "Apple researchers develop on-device AI agent that interacts with apps for you",
+        "url": "https://9to5mac.com/2026/02/20/apple-researchers-develop-on-device-ai-agent-that-interacts-with-apps-for-you/",
+        "points": 11,
+        "comments": 2,
+        "created_at": "2026-02-22T00:51:23.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
         "url": "https://github.com/xaskasdf/ntransformer",
-        "points": 214,
-        "comments": 52,
+        "points": 300,
+        "comments": 80,
         "created_at": "2026-02-21T20:57:30.000Z"
       },
       {
@@ -143,14 +143,14 @@
       {
         "title": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance",
         "url": "https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/",
-        "points": 118,
-        "comments": 166,
+        "points": 120,
+        "comments": 167,
         "created_at": "2026-02-20T22:02:58.000Z"
       },
       {
         "title": "Show HN: Micasa – track your house from the terminal",
         "url": "https://micasa.dev",
-        "points": 638,
+        "points": 641,
         "comments": 209,
         "created_at": "2026-02-19T15:54:14.000Z"
       },
