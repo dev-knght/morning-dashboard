@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-02-24T08:04:49.735Z",
+  "updatedAt": "2026-02-24T19:54:32.194Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 10.8,
-      "humidity": 72,
-      "wind_kph": 17.5,
+      "temp_c": 9.9,
+      "humidity": 94,
+      "wind_kph": 8.1,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-02-25",
-      "temp_max_c": 15.3,
-      "temp_min_c": 8.7,
-      "humidity_max": 93,
+      "temp_max_c": 15.9,
+      "temp_min_c": 8.4,
+      "humidity_max": 95,
       "humidity_min": 49,
-      "wind_kph": 18.8,
+      "wind_kph": 17.2,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 5148.08,
     "oilUSD": 79,
-    "updatedAt": "2026-02-24T08:04:49.735Z",
+    "updatedAt": "2026-02-24T19:54:32.194Z",
     "gold24KUSD": 165.51,
     "gold21KUSD": 144.83,
     "gold18KUSD": 124.14,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8496,
-    "GBP": 0.7416,
-    "SAR": 3.7519
+    "EUR": 0.849,
+    "GBP": 0.7412,
+    "SAR": 3.7503
   },
   "prayer": {
     "fajr": "06:03",
@@ -67,46 +67,46 @@
   "news": {
     "ai": [
       {
-        "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
-        "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
-        "points": 139,
-        "comments": 97,
-        "created_at": "2026-02-24T05:47:23.000Z"
+        "title": "Hegseth gives Anthropic until Friday to back down on AI safeguards",
+        "url": "https://www.axios.com/2026/02/24/anthropic-pentagon-claude-hegseth-dario",
+        "points": 26,
+        "comments": 3,
+        "created_at": "2026-02-24T18:31:14.000Z"
       },
       {
-        "title": "NIST Seeking Public Comment on AI Agent Security (Deadline: March 9, 2026)",
-        "url": "https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents",
-        "points": 44,
-        "comments": 10,
-        "created_at": "2026-02-24T01:31:09.000Z"
+        "title": "Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)",
+        "url": "https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/",
+        "points": 156,
+        "comments": 54,
+        "created_at": "2026-02-24T16:40:47.000Z"
       },
       {
-        "title": "Firefox 148 Now Available with the New AI Controls / AI Kill Switches",
-        "url": "https://www.phoronix.com/news/Firefox-148",
-        "points": 13,
-        "comments": 0,
-        "created_at": "2026-02-24T00:15:33.000Z"
+        "title": "An AI doomsday report shook US markets",
+        "url": "https://www.theguardian.com/technology/2026/feb/24/feedback-loop-no-brake-how-ai-doomsday-report-rattled-markets",
+        "points": 35,
+        "comments": 8,
+        "created_at": "2026-02-24T16:10:40.000Z"
       },
       {
-        "title": "AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says",
-        "url": "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380",
-        "points": 243,
-        "comments": 241,
-        "created_at": "2026-02-23T22:55:08.000Z"
+        "title": "Software 3.1? – AI Functions",
+        "url": "https://blog.mikegchambers.com/posts/software-31-ai-functions/",
+        "points": 39,
+        "comments": 54,
+        "created_at": "2026-02-24T15:58:08.000Z"
       },
       {
-        "title": "AI-powered reverse-engineering of Rosetta 2 (for Linux VM)",
-        "url": "https://github.com/Inokinoki/attesor",
-        "points": 34,
-        "comments": 10,
-        "created_at": "2026-02-23T21:47:29.000Z"
+        "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+        "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
+        "points": 393,
+        "comments": 77,
+        "created_at": "2026-02-24T12:16:45.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
         "url": "https://github.com/xaskasdf/ntransformer",
-        "points": 388,
+        "points": 390,
         "comments": 102,
         "created_at": "2026-02-21T20:57:30.000Z"
       },
@@ -141,10 +141,17 @@
     ],
     "progDb": [
       {
+        "title": "λProlog: Logic programming in higher-order logic",
+        "url": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/",
+        "points": 121,
+        "comments": 35,
+        "created_at": "2026-02-20T23:02:08.000Z"
+      },
+      {
         "title": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance",
         "url": "https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/",
         "points": 122,
-        "comments": 183,
+        "comments": 185,
         "created_at": "2026-02-20T22:02:58.000Z"
       },
       {
@@ -167,13 +174,6 @@
         "points": 19,
         "comments": 6,
         "created_at": "2026-02-18T12:03:18.000Z"
-      },
-      {
-        "title": "Programming Is Free",
-        "url": "https://idiallo.com/blog/programming-tools-are-free",
-        "points": 24,
-        "comments": 6,
-        "created_at": "2026-02-17T03:57:38.000Z"
       }
     ]
   }
