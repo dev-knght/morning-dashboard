@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-02-24T19:54:32.194Z",
+  "updatedAt": "2026-02-25T08:06:36.769Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 9.9,
-      "humidity": 94,
-      "wind_kph": 8.1,
+      "temp_c": 13.2,
+      "humidity": 61,
+      "wind_kph": 13.1,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-02-25",
-      "temp_max_c": 15.9,
-      "temp_min_c": 8.4,
-      "humidity_max": 95,
-      "humidity_min": 49,
-      "wind_kph": 17.2,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-02-26",
+      "temp_max_c": 14.2,
+      "temp_min_c": 8,
+      "humidity_max": 86,
+      "humidity_min": 48,
+      "wind_kph": 34.6,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
-    "goldUSD": 5148.08,
+    "goldUSD": 5189.56,
     "oilUSD": 79,
-    "updatedAt": "2026-02-24T19:54:32.194Z",
-    "gold24KUSD": 165.51,
-    "gold21KUSD": 144.83,
-    "gold18KUSD": 124.14,
-    "gold24KJD": 117.35,
-    "gold21KJD": 102.68,
-    "gold18KJD": 88.01
+    "updatedAt": "2026-02-25T08:06:36.769Z",
+    "gold24KUSD": 166.85,
+    "gold21KUSD": 145.99,
+    "gold18KUSD": 125.14,
+    "gold24KJD": 118.3,
+    "gold21KJD": 103.51,
+    "gold18KJD": 88.72
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.849,
-    "GBP": 0.7412,
-    "SAR": 3.7503
+    "EUR": 0.8478,
+    "GBP": 0.7398,
+    "SAR": 3.7519
   },
   "prayer": {
-    "fajr": "06:03",
-    "maghrib": "18:30",
-    "date": "24 Feb 2024"
+    "fajr": "06:01",
+    "maghrib": "18:31",
+    "date": "25 Feb 2025"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "Hegseth gives Anthropic until Friday to back down on AI safeguards",
-        "url": "https://www.axios.com/2026/02/24/anthropic-pentagon-claude-hegseth-dario",
-        "points": 26,
-        "comments": 3,
-        "created_at": "2026-02-24T18:31:14.000Z"
+        "title": "Tech Firms Aren't Just Encouraging Their Workers to Use AI. They're Enforcing It",
+        "url": "https://www.wsj.com/tech/ai/tech-firms-arent-just-encouraging-their-workers-to-use-ai-theyre-enforcing-it-d43ebf84",
+        "points": 24,
+        "comments": 5,
+        "created_at": "2026-02-25T04:58:21.000Z"
       },
       {
-        "title": "Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)",
-        "url": "https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/",
-        "points": 156,
-        "comments": 54,
-        "created_at": "2026-02-24T16:40:47.000Z"
+        "title": "Fed's Cook says AI triggering big changes, sees possible unemployment rise",
+        "url": "https://www.reuters.com/business/feds-cook-says-ai-triggering-big-changes-sees-possible-short-term-unemployment-2026-02-24/",
+        "points": 61,
+        "comments": 69,
+        "created_at": "2026-02-24T23:34:26.000Z"
       },
       {
-        "title": "An AI doomsday report shook US markets",
-        "url": "https://www.theguardian.com/technology/2026/feb/24/feedback-loop-no-brake-how-ai-doomsday-report-rattled-markets",
-        "points": 35,
-        "comments": 8,
-        "created_at": "2026-02-24T16:10:40.000Z"
+        "title": "Dream Recorder AI – a portal to your subconscious",
+        "url": "https://dreamrecorder.ai/",
+        "points": 19,
+        "comments": 12,
+        "created_at": "2026-02-24T22:09:57.000Z"
       },
       {
-        "title": "Software 3.1? – AI Functions",
-        "url": "https://blog.mikegchambers.com/posts/software-31-ai-functions/",
-        "points": 39,
-        "comments": 54,
-        "created_at": "2026-02-24T15:58:08.000Z"
+        "title": "Proposal: Add \"AI generated\" as a flag reason",
+        "url": "https://lobste.rs/s/rkjpob/proposal_add_ai_generated_as_flag_reason",
+        "points": 25,
+        "comments": 4,
+        "created_at": "2026-02-24T22:06:18.000Z"
       },
       {
-        "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
-        "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
-        "points": 393,
-        "comments": 77,
-        "created_at": "2026-02-24T12:16:45.000Z"
+        "title": "How we rebuilt Next.js with AI in one week",
+        "url": "https://blog.cloudflare.com/vinext/",
+        "points": 433,
+        "comments": 166,
+        "created_at": "2026-02-24T20:07:00.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
         "url": "https://github.com/xaskasdf/ntransformer",
-        "points": 390,
-        "comments": 102,
+        "points": 393,
+        "comments": 101,
         "created_at": "2026-02-21T20:57:30.000Z"
       },
       {
@@ -121,7 +121,7 @@
         "title": "Ask HN: Are hackathons still worth doing?",
         "url": "https://news.ycombinator.com/item?id=47077312",
         "points": 13,
-        "comments": 10,
+        "comments": 9,
         "created_at": "2026-02-19T18:36:54.000Z"
       },
       {
@@ -143,15 +143,15 @@
       {
         "title": "λProlog: Logic programming in higher-order logic",
         "url": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/",
-        "points": 121,
-        "comments": 35,
+        "points": 154,
+        "comments": 36,
         "created_at": "2026-02-20T23:02:08.000Z"
       },
       {
         "title": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance",
         "url": "https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/",
-        "points": 122,
-        "comments": 185,
+        "points": 123,
+        "comments": 187,
         "created_at": "2026-02-20T22:02:58.000Z"
       },
       {
