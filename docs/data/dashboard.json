@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-02-25T08:06:36.769Z",
+  "updatedAt": "2026-02-25T19:56:23.044Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 13.2,
-      "humidity": 61,
-      "wind_kph": 13.1,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 9.3,
+      "humidity": 79,
+      "wind_kph": 5,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-02-26",
-      "temp_max_c": 14.2,
-      "temp_min_c": 8,
-      "humidity_max": 86,
-      "humidity_min": 48,
-      "wind_kph": 34.6,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "temp_max_c": 13.9,
+      "temp_min_c": 7.8,
+      "humidity_max": 84,
+      "humidity_min": 47,
+      "wind_kph": 36.4,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
     "goldUSD": 5189.56,
     "oilUSD": 79,
-    "updatedAt": "2026-02-25T08:06:36.769Z",
+    "updatedAt": "2026-02-25T19:56:23.044Z",
     "gold24KUSD": 166.85,
     "gold21KUSD": 145.99,
     "gold18KUSD": 125.14,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8478,
-    "GBP": 0.7398,
-    "SAR": 3.7519
+    "EUR": 0.8483,
+    "GBP": 0.7397,
+    "SAR": 3.7504
   },
   "prayer": {
     "fajr": "06:01",
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "Tech Firms Aren't Just Encouraging Their Workers to Use AI. They're Enforcing It",
-        "url": "https://www.wsj.com/tech/ai/tech-firms-arent-just-encouraging-their-workers-to-use-ai-theyre-enforcing-it-d43ebf84",
-        "points": 24,
-        "comments": 5,
-        "created_at": "2026-02-25T04:58:21.000Z"
+        "title": "Rowspace launches with $50M to help investors scale their alpha with AI",
+        "url": "https://www.rowspace.ai/blog/series-a",
+        "points": 14,
+        "comments": 0,
+        "created_at": "2026-02-25T16:18:49.000Z"
       },
       {
-        "title": "Fed's Cook says AI triggering big changes, sees possible unemployment rise",
-        "url": "https://www.reuters.com/business/feds-cook-says-ai-triggering-big-changes-sees-possible-short-term-unemployment-2026-02-24/",
-        "points": 61,
-        "comments": 69,
-        "created_at": "2026-02-24T23:34:26.000Z"
+        "title": "Ask HN: Have top AI research institutions just given up on the idea of safety?",
+        "url": "https://news.ycombinator.com/item?id=47152355",
+        "points": 70,
+        "comments": 81,
+        "created_at": "2026-02-25T14:55:20.000Z"
       },
       {
-        "title": "Dream Recorder AI – a portal to your subconscious",
-        "url": "https://dreamrecorder.ai/",
-        "points": 19,
-        "comments": 12,
-        "created_at": "2026-02-24T22:09:57.000Z"
+        "title": "Launch HN: TeamOut (YC W22) – AI agent for planning company retreats",
+        "url": "https://app.teamout.com/ai",
+        "points": 27,
+        "comments": 34,
+        "created_at": "2026-02-25T14:02:02.000Z"
       },
       {
-        "title": "Proposal: Add \"AI generated\" as a flag reason",
-        "url": "https://lobste.rs/s/rkjpob/proposal_add_ai_generated_as_flag_reason",
-        "points": 25,
-        "comments": 4,
-        "created_at": "2026-02-24T22:06:18.000Z"
+        "title": "What are the best coping mechanisms for AI Fatalism?",
+        "url": "https://news.ycombinator.com/item?id=47151564",
+        "points": 38,
+        "comments": 102,
+        "created_at": "2026-02-25T14:00:15.000Z"
       },
       {
-        "title": "How we rebuilt Next.js with AI in one week",
-        "url": "https://blog.cloudflare.com/vinext/",
-        "points": 433,
-        "comments": 166,
-        "created_at": "2026-02-24T20:07:00.000Z"
+        "title": "AIs can't stop recommending nuclear strikes in war game simulations",
+        "url": "https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/",
+        "points": 92,
+        "comments": 108,
+        "created_at": "2026-02-25T13:07:36.000Z"
       }
     ],
     "vibeCoding": [
@@ -141,10 +141,17 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: Scheme-langserver – Digest incomplete code with static analysis",
+        "url": "https://github.com/ufo5260987423/scheme-langserver",
+        "points": 31,
+        "comments": 1,
+        "created_at": "2026-02-24T06:53:55.000Z"
+      },
+      {
         "title": "λProlog: Logic programming in higher-order logic",
         "url": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/",
-        "points": 154,
-        "comments": 36,
+        "points": 159,
+        "comments": 37,
         "created_at": "2026-02-20T23:02:08.000Z"
       },
       {
@@ -158,7 +165,7 @@
         "title": "Show HN: Micasa – track your house from the terminal",
         "url": "https://micasa.dev",
         "points": 653,
-        "comments": 215,
+        "comments": 216,
         "created_at": "2026-02-19T15:54:14.000Z"
       },
       {
@@ -167,13 +174,6 @@
         "points": 18,
         "comments": 1,
         "created_at": "2026-02-19T15:32:14.000Z"
-      },
-      {
-        "title": "Nobody knows what programming will look like in two years",
-        "url": "https://leaddev.com/ai/nobody-knows-what-programming-will-look-like-in-two-years",
-        "points": 19,
-        "comments": 6,
-        "created_at": "2026-02-18T12:03:18.000Z"
       }
     ]
   }
