@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-02-25T19:56:23.044Z",
+  "updatedAt": "2026-02-26T08:03:31.122Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 9.3,
-      "humidity": 79,
-      "wind_kph": 5,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 11.8,
+      "humidity": 82,
+      "wind_kph": 33.3,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-02-26",
-      "temp_max_c": 13.9,
-      "temp_min_c": 7.8,
-      "humidity_max": 84,
-      "humidity_min": 47,
-      "wind_kph": 36.4,
+      "date": "2026-02-27",
+      "temp_max_c": 12.2,
+      "temp_min_c": 5.2,
+      "humidity_max": 83,
+      "humidity_min": 37,
+      "wind_kph": 25.3,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 5189.56,
+    "goldUSD": 5170.18,
     "oilUSD": 79,
-    "updatedAt": "2026-02-25T19:56:23.044Z",
-    "gold24KUSD": 166.85,
-    "gold21KUSD": 145.99,
-    "gold18KUSD": 125.14,
-    "gold24KJD": 118.3,
-    "gold21KJD": 103.51,
-    "gold18KJD": 88.72
+    "updatedAt": "2026-02-26T08:03:31.122Z",
+    "gold24KUSD": 166.23,
+    "gold21KUSD": 145.45,
+    "gold18KUSD": 124.67,
+    "gold24KJD": 117.85,
+    "gold21KJD": 103.12,
+    "gold18KJD": 88.39
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8483,
-    "GBP": 0.7397,
-    "SAR": 3.7504
+    "EUR": 0.8462,
+    "GBP": 0.7376,
+    "SAR": 3.7509
   },
   "prayer": {
-    "fajr": "06:01",
-    "maghrib": "18:31",
-    "date": "25 Feb 2025"
+    "fajr": "06:00",
+    "maghrib": "18:32",
+    "date": "26 Feb 2026"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
+        "title": "DeepSeek withholds latest AI model from Nvidia, AMD",
+        "url": "https://www.reuters.com/world/china/deepseek-withholds-latest-ai-model-us-chipmakers-including-nvidia-sources-say-2026-02-25/",
+        "points": 22,
+        "comments": 3,
+        "created_at": "2026-02-26T02:25:43.000Z"
+      },
+      {
+        "title": "Hiring Engineers When AI Writes Our Code",
+        "url": "https://www.tolans.com/relay/how-we-hire-engineers-when-ai-writes-our-code",
+        "points": 33,
+        "comments": 3,
+        "created_at": "2026-02-25T22:26:07.000Z"
+      },
+      {
+        "title": "An autopsy of AI-generated 3D slop",
+        "url": "https://aircada.com/blog/ai-vs-human-3d-ecommerce",
+        "points": 63,
+        "comments": 39,
+        "created_at": "2026-02-25T21:05:15.000Z"
+      },
+      {
+        "title": "AI bit barns grow climate emergency by turning up the gas",
+        "url": "https://www.theregister.com/2026/02/17/ai_datacenters_driving_up_emissions/",
+        "points": 28,
+        "comments": 1,
+        "created_at": "2026-02-25T20:39:31.000Z"
+      },
+      {
         "title": "Rowspace launches with $50M to help investors scale their alpha with AI",
         "url": "https://www.rowspace.ai/blog/series-a",
-        "points": 14,
+        "points": 15,
         "comments": 0,
         "created_at": "2026-02-25T16:18:49.000Z"
-      },
-      {
-        "title": "Ask HN: Have top AI research institutions just given up on the idea of safety?",
-        "url": "https://news.ycombinator.com/item?id=47152355",
-        "points": 70,
-        "comments": 81,
-        "created_at": "2026-02-25T14:55:20.000Z"
-      },
-      {
-        "title": "Launch HN: TeamOut (YC W22) – AI agent for planning company retreats",
-        "url": "https://app.teamout.com/ai",
-        "points": 27,
-        "comments": 34,
-        "created_at": "2026-02-25T14:02:02.000Z"
-      },
-      {
-        "title": "What are the best coping mechanisms for AI Fatalism?",
-        "url": "https://news.ycombinator.com/item?id=47151564",
-        "points": 38,
-        "comments": 102,
-        "created_at": "2026-02-25T14:00:15.000Z"
-      },
-      {
-        "title": "AIs can't stop recommending nuclear strikes in war game simulations",
-        "url": "https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/",
-        "points": 92,
-        "comments": 108,
-        "created_at": "2026-02-25T13:07:36.000Z"
       }
     ],
     "vibeCoding": [
@@ -141,17 +141,24 @@
     ],
     "progDb": [
       {
+        "title": "The Om Programming Language",
+        "url": "https://www.om-language.com/",
+        "points": 257,
+        "comments": 65,
+        "created_at": "2026-02-25T17:48:21.000Z"
+      },
+      {
         "title": "Show HN: Scheme-langserver – Digest incomplete code with static analysis",
         "url": "https://github.com/ufo5260987423/scheme-langserver",
-        "points": 31,
-        "comments": 1,
+        "points": 50,
+        "comments": 2,
         "created_at": "2026-02-24T06:53:55.000Z"
       },
       {
         "title": "λProlog: Logic programming in higher-order logic",
         "url": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/",
-        "points": 159,
-        "comments": 37,
+        "points": 164,
+        "comments": 38,
         "created_at": "2026-02-20T23:02:08.000Z"
       },
       {
@@ -164,16 +171,9 @@
       {
         "title": "Show HN: Micasa – track your house from the terminal",
         "url": "https://micasa.dev",
-        "points": 653,
+        "points": 654,
         "comments": 216,
         "created_at": "2026-02-19T15:54:14.000Z"
-      },
-      {
-        "title": "Programming in Prison: My Redemption Arc",
-        "url": "https://www.ck-7vn.dev/blog/Home",
-        "points": 18,
-        "comments": 1,
-        "created_at": "2026-02-19T15:32:14.000Z"
       }
     ]
   }
