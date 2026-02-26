@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-02-26T08:03:31.122Z",
+  "updatedAt": "2026-02-26T19:58:04.382Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 11.8,
-      "humidity": 82,
-      "wind_kph": 33.3,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 8,
+      "humidity": 86,
+      "wind_kph": 22.7,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     },
     "tomorrow": {
       "date": "2026-02-27",
-      "temp_max_c": 12.2,
-      "temp_min_c": 5.2,
-      "humidity_max": 83,
-      "humidity_min": 37,
-      "wind_kph": 25.3,
+      "temp_max_c": 11.6,
+      "temp_min_c": 3.9,
+      "humidity_max": 89,
+      "humidity_min": 40,
+      "wind_kph": 24.1,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 5170.18,
     "oilUSD": 79,
-    "updatedAt": "2026-02-26T08:03:31.122Z",
+    "updatedAt": "2026-02-26T19:58:04.382Z",
     "gold24KUSD": 166.23,
     "gold21KUSD": 145.45,
     "gold18KUSD": 124.67,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8462,
-    "GBP": 0.7376,
-    "SAR": 3.7509
+    "EUR": 0.8468,
+    "GBP": 0.7383,
+    "SAR": 3.7502
   },
   "prayer": {
     "fajr": "06:00",
@@ -67,46 +67,53 @@
   "news": {
     "ai": [
       {
-        "title": "DeepSeek withholds latest AI model from Nvidia, AMD",
-        "url": "https://www.reuters.com/world/china/deepseek-withholds-latest-ai-model-us-chipmakers-including-nvidia-sources-say-2026-02-25/",
-        "points": 22,
-        "comments": 3,
-        "created_at": "2026-02-26T02:25:43.000Z"
+        "title": "Pentagon officials send Anthropic best and final offer for military use of AI",
+        "url": "https://www.cbsnews.com/news/pentagon-anthropic-offer-ai-unrestricted-military-use-sources/",
+        "points": 17,
+        "comments": 2,
+        "created_at": "2026-02-26T17:44:29.000Z"
       },
       {
-        "title": "Hiring Engineers When AI Writes Our Code",
-        "url": "https://www.tolans.com/relay/how-we-hire-engineers-when-ai-writes-our-code",
-        "points": 33,
-        "comments": 3,
-        "created_at": "2026-02-25T22:26:07.000Z"
+        "title": "How AI skills are quietly automating my workday",
+        "url": "https://medium.com/@ricardskrizanovskis/how-ai-skills-are-quietly-automating-my-workday-220a1b7b4707",
+        "points": 18,
+        "comments": 16,
+        "created_at": "2026-02-26T16:35:31.000Z"
       },
       {
-        "title": "An autopsy of AI-generated 3D slop",
-        "url": "https://aircada.com/blog/ai-vs-human-3d-ecommerce",
-        "points": 63,
-        "comments": 39,
-        "created_at": "2026-02-25T21:05:15.000Z"
+        "title": "The Pentagon Feuding with an AI Company Is a Bad Sign",
+        "url": "https://foreignpolicy.com/2026/02/25/anthropic-pentagon-feud-ai/",
+        "points": 59,
+        "comments": 29,
+        "created_at": "2026-02-26T16:23:07.000Z"
       },
       {
-        "title": "AI bit barns grow climate emergency by turning up the gas",
-        "url": "https://www.theregister.com/2026/02/17/ai_datacenters_driving_up_emissions/",
-        "points": 28,
+        "title": "Show HN: Mthds – Beyond skills: a typed DSL for executable AI methods",
+        "url": "https://mthds.ai/0.1.2/",
+        "points": 19,
         "comments": 1,
-        "created_at": "2026-02-25T20:39:31.000Z"
+        "created_at": "2026-02-26T16:20:31.000Z"
       },
       {
-        "title": "Rowspace launches with $50M to help investors scale their alpha with AI",
-        "url": "https://www.rowspace.ai/blog/series-a",
-        "points": 15,
-        "comments": 0,
-        "created_at": "2026-02-25T16:18:49.000Z"
+        "title": "Nano Banana 2: Google's latest AI image generation model",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+        "points": 349,
+        "comments": 342,
+        "created_at": "2026-02-26T16:02:37.000Z"
       }
     ],
     "vibeCoding": [
       {
+        "title": "Will vibe coding end like the maker movement?",
+        "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
+        "points": 116,
+        "comments": 132,
+        "created_at": "2026-02-26T16:07:11.000Z"
+      },
+      {
         "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
         "url": "https://github.com/xaskasdf/ntransformer",
-        "points": 393,
+        "points": 394,
         "comments": 101,
         "created_at": "2026-02-21T20:57:30.000Z"
       },
@@ -130,21 +137,14 @@
         "points": 14,
         "comments": 2,
         "created_at": "2026-02-17T20:30:01.000Z"
-      },
-      {
-        "title": "Launch HN: Sonarly (YC W26) – AI agent to triage and fix your production alerts",
-        "url": "https://sonarly.com/",
-        "points": 30,
-        "comments": 17,
-        "created_at": "2026-02-17T17:03:09.000Z"
       }
     ],
     "progDb": [
       {
         "title": "The Om Programming Language",
         "url": "https://www.om-language.com/",
-        "points": 257,
-        "comments": 65,
+        "points": 293,
+        "comments": 103,
         "created_at": "2026-02-25T17:48:21.000Z"
       },
       {
@@ -157,14 +157,14 @@
       {
         "title": "λProlog: Logic programming in higher-order logic",
         "url": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/",
-        "points": 164,
-        "comments": 38,
+        "points": 165,
+        "comments": 37,
         "created_at": "2026-02-20T23:02:08.000Z"
       },
       {
         "title": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance",
         "url": "https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/",
-        "points": 123,
+        "points": 124,
         "comments": 187,
         "created_at": "2026-02-20T22:02:58.000Z"
       },
