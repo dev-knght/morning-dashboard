@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-02-26T19:58:04.382Z",
+  "updatedAt": "2026-02-27T07:59:52.062Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 8,
-      "humidity": 86,
-      "wind_kph": 22.7,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "temp_c": 9.7,
+      "humidity": 55,
+      "wind_kph": 20.5,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-02-27",
-      "temp_max_c": 11.6,
-      "temp_min_c": 3.9,
-      "humidity_max": 89,
-      "humidity_min": 40,
-      "wind_kph": 24.1,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-02-28",
+      "temp_max_c": 12.3,
+      "temp_min_c": 1.2,
+      "humidity_max": 80,
+      "humidity_min": 28,
+      "wind_kph": 13.5,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     }
   },
   "metals": {
-    "goldUSD": 5170.18,
+    "goldUSD": 5189.76,
     "oilUSD": 79,
-    "updatedAt": "2026-02-26T19:58:04.382Z",
-    "gold24KUSD": 166.23,
-    "gold21KUSD": 145.45,
-    "gold18KUSD": 124.67,
-    "gold24KJD": 117.85,
-    "gold21KJD": 103.12,
-    "gold18KJD": 88.39
+    "updatedAt": "2026-02-27T07:59:52.062Z",
+    "gold24KUSD": 166.85,
+    "gold21KUSD": 146,
+    "gold18KUSD": 125.14,
+    "gold24KJD": 118.3,
+    "gold21KJD": 103.51,
+    "gold18KJD": 88.72
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8468,
-    "GBP": 0.7383,
-    "SAR": 3.7502
+    "EUR": 0.8466,
+    "GBP": 0.741,
+    "SAR": 3.7507
   },
   "prayer": {
-    "fajr": "06:00",
+    "fajr": "05:59",
     "maghrib": "18:32",
-    "date": "26 Feb 2026"
+    "date": "27 Feb 2027"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "Pentagon officials send Anthropic best and final offer for military use of AI",
-        "url": "https://www.cbsnews.com/news/pentagon-anthropic-offer-ai-unrestricted-military-use-sources/",
+        "title": "Drivers reeling after passengers caught out by AI-powered safety cameras",
+        "url": "https://www.abc.net.au/news/2026-02-27/seat-belt-cameras-catch-drivers-in-costly-mistake/106395672",
+        "points": 13,
+        "comments": 11,
+        "created_at": "2026-02-27T02:01:01.000Z"
+      },
+      {
+        "title": "56% of CEOs report zero financial return from AI in 2026 (PwC survey, n=4,454)",
+        "url": "https://aishortcutlab.com/articles/pwc-ceo-survey-2026-only-12-of-ceos-win-with-ai",
+        "points": 36,
+        "comments": 21,
+        "created_at": "2026-02-27T01:05:54.000Z"
+      },
+      {
+        "title": "Palantir's AI Is Playing a Major Role in Tracking Gaza Aid Deliveries",
+        "url": "https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel",
+        "points": 132,
+        "comments": 50,
+        "created_at": "2026-02-27T00:53:57.000Z"
+      },
+      {
+        "title": "Metacritic statement pledges to ban outlets that use AI-generated reviews",
+        "url": "https://www.shacknews.com/article/148056/metacritic-statement-ai-reviews-banned",
+        "points": 30,
+        "comments": 3,
+        "created_at": "2026-02-26T22:35:34.000Z"
+      },
+      {
+        "title": "AI Code Review Gets Better When I Ask Models to Debate: Claude, Gemini, Codex",
+        "url": "https://milvus.io/blog/ai-code-review-gets-better-when-models-debate-claude-vs-gemini-vs-codex-vs-qwen-vs-minimax.md",
         "points": 17,
-        "comments": 2,
-        "created_at": "2026-02-26T17:44:29.000Z"
-      },
-      {
-        "title": "How AI skills are quietly automating my workday",
-        "url": "https://medium.com/@ricardskrizanovskis/how-ai-skills-are-quietly-automating-my-workday-220a1b7b4707",
-        "points": 18,
-        "comments": 16,
-        "created_at": "2026-02-26T16:35:31.000Z"
-      },
-      {
-        "title": "The Pentagon Feuding with an AI Company Is a Bad Sign",
-        "url": "https://foreignpolicy.com/2026/02/25/anthropic-pentagon-feud-ai/",
-        "points": 59,
-        "comments": 29,
-        "created_at": "2026-02-26T16:23:07.000Z"
-      },
-      {
-        "title": "Show HN: Mthds – Beyond skills: a typed DSL for executable AI methods",
-        "url": "https://mthds.ai/0.1.2/",
-        "points": 19,
-        "comments": 1,
-        "created_at": "2026-02-26T16:20:31.000Z"
-      },
-      {
-        "title": "Nano Banana 2: Google's latest AI image generation model",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
-        "points": 349,
-        "comments": 342,
-        "created_at": "2026-02-26T16:02:37.000Z"
+        "comments": 3,
+        "created_at": "2026-02-26T18:02:57.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Will vibe coding end like the maker movement?",
         "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
-        "points": 116,
-        "comments": 132,
+        "points": 364,
+        "comments": 365,
         "created_at": "2026-02-26T16:07:11.000Z"
       },
       {
@@ -141,23 +141,30 @@
     ],
     "progDb": [
       {
+        "title": "Rule of Three (Computer Programming)",
+        "url": "https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)",
+        "points": 11,
+        "comments": 0,
+        "created_at": "2026-02-26T15:59:04.000Z"
+      },
+      {
         "title": "The Om Programming Language",
         "url": "https://www.om-language.com/",
-        "points": 293,
-        "comments": 103,
+        "points": 296,
+        "comments": 107,
         "created_at": "2026-02-25T17:48:21.000Z"
       },
       {
         "title": "Show HN: Scheme-langserver – Digest incomplete code with static analysis",
         "url": "https://github.com/ufo5260987423/scheme-langserver",
-        "points": 50,
+        "points": 51,
         "comments": 2,
         "created_at": "2026-02-24T06:53:55.000Z"
       },
       {
         "title": "λProlog: Logic programming in higher-order logic",
         "url": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/",
-        "points": 165,
+        "points": 166,
         "comments": 37,
         "created_at": "2026-02-20T23:02:08.000Z"
       },
@@ -167,13 +174,6 @@
         "points": 124,
         "comments": 187,
         "created_at": "2026-02-20T22:02:58.000Z"
-      },
-      {
-        "title": "Show HN: Micasa – track your house from the terminal",
-        "url": "https://micasa.dev",
-        "points": 654,
-        "comments": 216,
-        "created_at": "2026-02-19T15:54:14.000Z"
       }
     ]
   }
