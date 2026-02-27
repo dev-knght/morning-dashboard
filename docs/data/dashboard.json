@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-02-27T07:59:52.062Z",
+  "updatedAt": "2026-02-27T19:48:19.717Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 9.7,
-      "humidity": 55,
-      "wind_kph": 20.5,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 4,
+      "humidity": 75,
+      "wind_kph": 6.3,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-02-28",
-      "temp_max_c": 12.3,
+      "temp_max_c": 11.8,
       "temp_min_c": 1.2,
-      "humidity_max": 80,
-      "humidity_min": 28,
-      "wind_kph": 13.5,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "humidity_max": 84,
+      "humidity_min": 33,
+      "wind_kph": 12.6,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
     "goldUSD": 5189.76,
     "oilUSD": 79,
-    "updatedAt": "2026-02-27T07:59:52.062Z",
+    "updatedAt": "2026-02-27T19:48:19.717Z",
     "gold24KUSD": 166.85,
     "gold21KUSD": 146,
     "gold18KUSD": 125.14,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8466,
-    "GBP": 0.741,
-    "SAR": 3.7507
+    "EUR": 0.8472,
+    "GBP": 0.7416,
+    "SAR": 3.7501
   },
   "prayer": {
     "fajr": "05:59",
@@ -67,53 +67,53 @@
   "news": {
     "ai": [
       {
+        "title": "Scaling AI for Everyone",
+        "url": "https://openai.com/index/scaling-ai-for-everyone/",
+        "points": 15,
+        "comments": 1,
+        "created_at": "2026-02-27T13:31:05.000Z"
+      },
+      {
+        "title": "Generative AI Use and Depressive Symptoms Among US Adults",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2844128",
+        "points": 38,
+        "comments": 49,
+        "created_at": "2026-02-27T13:02:56.000Z"
+      },
+      {
+        "title": "PostmarketOS in 2026-02: generic kernels, bans use of generative AI",
+        "url": "https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/",
+        "points": 80,
+        "comments": 97,
+        "created_at": "2026-02-27T12:01:36.000Z"
+      },
+      {
         "title": "Drivers reeling after passengers caught out by AI-powered safety cameras",
         "url": "https://www.abc.net.au/news/2026-02-27/seat-belt-cameras-catch-drivers-in-costly-mistake/106395672",
         "points": 13,
-        "comments": 11,
+        "comments": 13,
         "created_at": "2026-02-27T02:01:01.000Z"
       },
       {
         "title": "56% of CEOs report zero financial return from AI in 2026 (PwC survey, n=4,454)",
         "url": "https://aishortcutlab.com/articles/pwc-ceo-survey-2026-only-12-of-ceos-win-with-ai",
-        "points": 36,
-        "comments": 21,
+        "points": 65,
+        "comments": 37,
         "created_at": "2026-02-27T01:05:54.000Z"
-      },
-      {
-        "title": "Palantir's AI Is Playing a Major Role in Tracking Gaza Aid Deliveries",
-        "url": "https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel",
-        "points": 132,
-        "comments": 50,
-        "created_at": "2026-02-27T00:53:57.000Z"
-      },
-      {
-        "title": "Metacritic statement pledges to ban outlets that use AI-generated reviews",
-        "url": "https://www.shacknews.com/article/148056/metacritic-statement-ai-reviews-banned",
-        "points": 30,
-        "comments": 3,
-        "created_at": "2026-02-26T22:35:34.000Z"
-      },
-      {
-        "title": "AI Code Review Gets Better When I Ask Models to Debate: Claude, Gemini, Codex",
-        "url": "https://milvus.io/blog/ai-code-review-gets-better-when-models-debate-claude-vs-gemini-vs-codex-vs-qwen-vs-minimax.md",
-        "points": 17,
-        "comments": 3,
-        "created_at": "2026-02-26T18:02:57.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Will vibe coding end like the maker movement?",
         "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
-        "points": 364,
-        "comments": 365,
+        "points": 390,
+        "comments": 411,
         "created_at": "2026-02-26T16:07:11.000Z"
       },
       {
         "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
         "url": "https://github.com/xaskasdf/ntransformer",
-        "points": 394,
+        "points": 395,
         "comments": 101,
         "created_at": "2026-02-21T20:57:30.000Z"
       },
@@ -141,6 +141,13 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: Unfudged – version every change between commits - local-first",
+        "url": "https://www.unfudged.io/",
+        "points": 20,
+        "comments": 15,
+        "created_at": "2026-02-26T21:30:19.000Z"
+      },
+      {
         "title": "Rule of Three (Computer Programming)",
         "url": "https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)",
         "points": 11,
@@ -151,7 +158,7 @@
         "title": "The Om Programming Language",
         "url": "https://www.om-language.com/",
         "points": 296,
-        "comments": 107,
+        "comments": 110,
         "created_at": "2026-02-25T17:48:21.000Z"
       },
       {
@@ -164,16 +171,9 @@
       {
         "title": "λProlog: Logic programming in higher-order logic",
         "url": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/",
-        "points": 166,
+        "points": 167,
         "comments": 37,
         "created_at": "2026-02-20T23:02:08.000Z"
-      },
-      {
-        "title": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance",
-        "url": "https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/",
-        "points": 124,
-        "comments": 187,
-        "created_at": "2026-02-20T22:02:58.000Z"
       }
     ]
   }
