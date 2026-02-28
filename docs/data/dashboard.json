@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-02-27T19:48:19.717Z",
+  "updatedAt": "2026-02-28T07:05:48.329Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 4,
-      "humidity": 75,
-      "wind_kph": 6.3,
+      "temp_c": 7.7,
+      "humidity": 50,
+      "wind_kph": 2.2,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-02-28",
-      "temp_max_c": 11.8,
-      "temp_min_c": 1.2,
+      "date": "2026-03-01",
+      "temp_max_c": 13,
+      "temp_min_c": 2,
       "humidity_max": 84,
-      "humidity_min": 33,
-      "wind_kph": 12.6,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "humidity_min": 41,
+      "wind_kph": 15.5,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 5189.76,
+    "goldUSD": 5177.31,
     "oilUSD": 79,
-    "updatedAt": "2026-02-27T19:48:19.717Z",
-    "gold24KUSD": 166.85,
-    "gold21KUSD": 146,
-    "gold18KUSD": 125.14,
-    "gold24KJD": 118.3,
-    "gold21KJD": 103.51,
-    "gold18KJD": 88.72
+    "updatedAt": "2026-02-28T07:05:48.329Z",
+    "gold24KUSD": 166.45,
+    "gold21KUSD": 145.65,
+    "gold18KUSD": 124.84,
+    "gold24KJD": 118.02,
+    "gold21KJD": 103.26,
+    "gold18KJD": 88.51
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8472,
-    "GBP": 0.7416,
-    "SAR": 3.7501
+    "EUR": 0.847,
+    "GBP": 0.7419,
+    "SAR": 3.7506
   },
   "prayer": {
     "fajr": "05:59",
-    "maghrib": "18:32",
-    "date": "27 Feb 2027"
+    "maghrib": "18:33",
+    "date": "28 Feb 2028"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "Scaling AI for Everyone",
-        "url": "https://openai.com/index/scaling-ai-for-everyone/",
-        "points": 15,
-        "comments": 1,
-        "created_at": "2026-02-27T13:31:05.000Z"
+        "title": "OpenAI reaches deal to deploy AI models on U.S. DoW classified network",
+        "url": "https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/",
+        "points": 112,
+        "comments": 36,
+        "created_at": "2026-02-28T03:23:16.000Z"
       },
       {
-        "title": "Generative AI Use and Depressive Symptoms Among US Adults",
-        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2844128",
-        "points": 38,
-        "comments": 49,
-        "created_at": "2026-02-27T13:02:56.000Z"
-      },
-      {
-        "title": "PostmarketOS in 2026-02: generic kernels, bans use of generative AI",
-        "url": "https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/",
-        "points": 80,
-        "comments": 97,
-        "created_at": "2026-02-27T12:01:36.000Z"
-      },
-      {
-        "title": "Drivers reeling after passengers caught out by AI-powered safety cameras",
-        "url": "https://www.abc.net.au/news/2026-02-27/seat-belt-cameras-catch-drivers-in-costly-mistake/106395672",
+        "title": "Trump tells government to stop using Anthropic's AI systems",
+        "url": "https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055",
         "points": 13,
-        "comments": 13,
-        "created_at": "2026-02-27T02:01:01.000Z"
+        "comments": 4,
+        "created_at": "2026-02-27T21:56:23.000Z"
       },
       {
-        "title": "56% of CEOs report zero financial return from AI in 2026 (PwC survey, n=4,454)",
-        "url": "https://aishortcutlab.com/articles/pwc-ceo-survey-2026-only-12-of-ceos-win-with-ai",
-        "points": 65,
-        "comments": 37,
-        "created_at": "2026-02-27T01:05:54.000Z"
+        "title": "Trump orders federal agencies to stop using Anthropic AI tech 'immediately'",
+        "url": "https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html",
+        "points": 79,
+        "comments": 1,
+        "created_at": "2026-02-27T20:59:53.000Z"
+      },
+      {
+        "title": "Trump moves to blacklist Anthropic over AI fight with Pentagon",
+        "url": "https://www.axios.com/2026/02/27/anthropic-pentagon-supply-chain-risk-claude",
+        "points": 19,
+        "comments": 0,
+        "created_at": "2026-02-27T20:56:49.000Z"
+      },
+      {
+        "title": "AI found 12 OpenSSL zero-days",
+        "url": "https://www.lesswrong.com/posts/7aJwgbMEiKq5egQbd/ai-found-12-of-12-openssl-zero-days-while-curl-cancelled-its",
+        "points": 22,
+        "comments": 0,
+        "created_at": "2026-02-27T20:38:48.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Will vibe coding end like the maker movement?",
         "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
-        "points": 390,
-        "comments": 411,
+        "points": 398,
+        "comments": 423,
         "created_at": "2026-02-26T16:07:11.000Z"
       },
       {
@@ -141,10 +141,10 @@
     ],
     "progDb": [
       {
-        "title": "Show HN: Unfudged – version every change between commits - local-first",
+        "title": "Show HN: Unfucked - version all changes (by any tool) - local-first/source avail",
         "url": "https://www.unfudged.io/",
-        "points": 20,
-        "comments": 15,
+        "points": 86,
+        "comments": 43,
         "created_at": "2026-02-26T21:30:19.000Z"
       },
       {
@@ -158,7 +158,7 @@
         "title": "The Om Programming Language",
         "url": "https://www.om-language.com/",
         "points": 296,
-        "comments": 110,
+        "comments": 111,
         "created_at": "2026-02-25T17:48:21.000Z"
       },
       {
