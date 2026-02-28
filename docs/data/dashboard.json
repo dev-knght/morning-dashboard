@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-02-28T07:05:48.329Z",
+  "updatedAt": "2026-02-28T18:59:21.081Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 7.7,
-      "humidity": 50,
-      "wind_kph": 2.2,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 5.8,
+      "humidity": 77,
+      "wind_kph": 4.8,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-03-01",
-      "temp_max_c": 13,
-      "temp_min_c": 2,
-      "humidity_max": 84,
-      "humidity_min": 41,
-      "wind_kph": 15.5,
+      "temp_max_c": 12.8,
+      "temp_min_c": 2.2,
+      "humidity_max": 85,
+      "humidity_min": 44,
+      "wind_kph": 12.3,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 5177.31,
     "oilUSD": 79,
-    "updatedAt": "2026-02-28T07:05:48.329Z",
+    "updatedAt": "2026-02-28T18:59:21.081Z",
     "gold24KUSD": 166.45,
     "gold21KUSD": 145.65,
     "gold18KUSD": 124.84,
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
+        "title": "What AI coding costs you",
+        "url": "https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/",
+        "points": 226,
+        "comments": 156,
+        "created_at": "2026-02-28T13:05:03.000Z"
+      },
+      {
+        "title": "Don't trust AI agents",
+        "url": "https://nanoclaw.dev/blog/nanoclaw-security-model",
+        "points": 250,
+        "comments": 141,
+        "created_at": "2026-02-28T12:39:32.000Z"
+      },
+      {
+        "title": "The Future of AI",
+        "url": "https://lucijagregov.com/2026/02/26/the-future-of-ai/",
+        "points": 62,
+        "comments": 57,
+        "created_at": "2026-02-28T10:41:53.000Z"
+      },
+      {
+        "title": "The Day an AI Company Told The Pentagon to Go F*** Itself",
+        "url": "https://defragzone.substack.com/p/the-day-an-ai-company-told-the-pentagon",
+        "points": 21,
+        "comments": 0,
+        "created_at": "2026-02-28T07:38:33.000Z"
+      },
+      {
         "title": "OpenAI reaches deal to deploy AI models on U.S. DoW classified network",
         "url": "https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/",
-        "points": 112,
-        "comments": 36,
+        "points": 141,
+        "comments": 45,
         "created_at": "2026-02-28T03:23:16.000Z"
-      },
-      {
-        "title": "Trump tells government to stop using Anthropic's AI systems",
-        "url": "https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055",
-        "points": 13,
-        "comments": 4,
-        "created_at": "2026-02-27T21:56:23.000Z"
-      },
-      {
-        "title": "Trump orders federal agencies to stop using Anthropic AI tech 'immediately'",
-        "url": "https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html",
-        "points": 79,
-        "comments": 1,
-        "created_at": "2026-02-27T20:59:53.000Z"
-      },
-      {
-        "title": "Trump moves to blacklist Anthropic over AI fight with Pentagon",
-        "url": "https://www.axios.com/2026/02/27/anthropic-pentagon-supply-chain-risk-claude",
-        "points": 19,
-        "comments": 0,
-        "created_at": "2026-02-27T20:56:49.000Z"
-      },
-      {
-        "title": "AI found 12 OpenSSL zero-days",
-        "url": "https://www.lesswrong.com/posts/7aJwgbMEiKq5egQbd/ai-found-12-of-12-openssl-zero-days-while-curl-cancelled-its",
-        "points": 22,
-        "comments": 0,
-        "created_at": "2026-02-27T20:38:48.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Will vibe coding end like the maker movement?",
         "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
-        "points": 398,
-        "comments": 423,
+        "points": 400,
+        "comments": 424,
         "created_at": "2026-02-26T16:07:11.000Z"
       },
       {
@@ -143,14 +143,14 @@
       {
         "title": "Show HN: Unfucked - version all changes (by any tool) - local-first/source avail",
         "url": "https://www.unfudged.io/",
-        "points": 86,
-        "comments": 43,
+        "points": 119,
+        "comments": 79,
         "created_at": "2026-02-26T21:30:19.000Z"
       },
       {
         "title": "Rule of Three (Computer Programming)",
         "url": "https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)",
-        "points": 11,
+        "points": 12,
         "comments": 0,
         "created_at": "2026-02-26T15:59:04.000Z"
       },
@@ -164,7 +164,7 @@
       {
         "title": "Show HN: Scheme-langserver – Digest incomplete code with static analysis",
         "url": "https://github.com/ufo5260987423/scheme-langserver",
-        "points": 51,
+        "points": 52,
         "comments": 2,
         "created_at": "2026-02-24T06:53:55.000Z"
       },
