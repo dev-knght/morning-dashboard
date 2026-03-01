@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-02-28T18:59:21.081Z",
+  "updatedAt": "2026-03-01T07:48:13.079Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 5.8,
-      "humidity": 77,
-      "wind_kph": 4.8,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 9.8,
+      "humidity": 59,
+      "wind_kph": 9.1,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-03-01",
-      "temp_max_c": 12.8,
-      "temp_min_c": 2.2,
-      "humidity_max": 85,
-      "humidity_min": 44,
-      "wind_kph": 12.3,
+      "date": "2026-03-02",
+      "temp_max_c": 15,
+      "temp_min_c": 3.3,
+      "humidity_max": 78,
+      "humidity_min": 29,
+      "wind_kph": 11.2,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 5177.31,
+    "goldUSD": 5278.79,
     "oilUSD": 79,
-    "updatedAt": "2026-02-28T18:59:21.081Z",
-    "gold24KUSD": 166.45,
-    "gold21KUSD": 145.65,
-    "gold18KUSD": 124.84,
-    "gold24KJD": 118.02,
-    "gold21KJD": 103.26,
-    "gold18KJD": 88.51
+    "updatedAt": "2026-03-01T07:48:13.079Z",
+    "gold24KUSD": 169.72,
+    "gold21KUSD": 148.5,
+    "gold18KUSD": 127.29,
+    "gold24KJD": 120.33,
+    "gold21KJD": 105.29,
+    "gold18KJD": 90.25
   },
   "exchange": {
     "JOD": 0.709,
@@ -38,9 +38,9 @@
     "SAR": 3.7506
   },
   "prayer": {
-    "fajr": "05:59",
-    "maghrib": "18:33",
-    "date": "28 Feb 2028"
+    "fajr": "04:57",
+    "maghrib": "17:34",
+    "date": "01 Mar 2001"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
+        "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
+        "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
+        "points": 55,
+        "comments": 13,
+        "created_at": "2026-03-01T01:24:54.000Z"
+      },
+      {
+        "title": "HN is drowning in AI comments",
+        "url": "https://news.ycombinator.com/item?id=47201629",
+        "points": 68,
+        "comments": 57,
+        "created_at": "2026-02-28T23:26:59.000Z"
+      },
+      {
         "title": "What AI coding costs you",
         "url": "https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/",
-        "points": 226,
-        "comments": 156,
+        "points": 303,
+        "comments": 180,
         "created_at": "2026-02-28T13:05:03.000Z"
       },
       {
         "title": "Don't trust AI agents",
         "url": "https://nanoclaw.dev/blog/nanoclaw-security-model",
-        "points": 250,
-        "comments": 141,
+        "points": 317,
+        "comments": 177,
         "created_at": "2026-02-28T12:39:32.000Z"
       },
       {
         "title": "The Future of AI",
         "url": "https://lucijagregov.com/2026/02/26/the-future-of-ai/",
-        "points": 62,
-        "comments": 57,
+        "points": 125,
+        "comments": 99,
         "created_at": "2026-02-28T10:41:53.000Z"
-      },
-      {
-        "title": "The Day an AI Company Told The Pentagon to Go F*** Itself",
-        "url": "https://defragzone.substack.com/p/the-day-an-ai-company-told-the-pentagon",
-        "points": 21,
-        "comments": 0,
-        "created_at": "2026-02-28T07:38:33.000Z"
-      },
-      {
-        "title": "OpenAI reaches deal to deploy AI models on U.S. DoW classified network",
-        "url": "https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/",
-        "points": 141,
-        "comments": 45,
-        "created_at": "2026-02-28T03:23:16.000Z"
       }
     ],
     "vibeCoding": [
@@ -107,7 +107,7 @@
         "title": "Will vibe coding end like the maker movement?",
         "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
         "points": 400,
-        "comments": 424,
+        "comments": 425,
         "created_at": "2026-02-26T16:07:11.000Z"
       },
       {
@@ -143,8 +143,8 @@
       {
         "title": "Show HN: Unfucked - version all changes (by any tool) - local-first/source avail",
         "url": "https://www.unfudged.io/",
-        "points": 119,
-        "comments": 79,
+        "points": 128,
+        "comments": 82,
         "created_at": "2026-02-26T21:30:19.000Z"
       },
       {
@@ -155,10 +155,17 @@
         "created_at": "2026-02-26T15:59:04.000Z"
       },
       {
+        "title": "Deterministic Programming with LLMs",
+        "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+        "points": 42,
+        "comments": 24,
+        "created_at": "2026-02-25T22:17:29.000Z"
+      },
+      {
         "title": "The Om Programming Language",
         "url": "https://www.om-language.com/",
         "points": 296,
-        "comments": 111,
+        "comments": 112,
         "created_at": "2026-02-25T17:48:21.000Z"
       },
       {
@@ -167,13 +174,6 @@
         "points": 52,
         "comments": 2,
         "created_at": "2026-02-24T06:53:55.000Z"
-      },
-      {
-        "title": "λProlog: Logic programming in higher-order logic",
-        "url": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/",
-        "points": 167,
-        "comments": 37,
-        "created_at": "2026-02-20T23:02:08.000Z"
       }
     ]
   }
