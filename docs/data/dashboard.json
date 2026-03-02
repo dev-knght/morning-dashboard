@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-03-02T08:00:39.154Z",
+  "updatedAt": "2026-03-02T19:52:11.230Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 11.4,
-      "humidity": 47,
-      "wind_kph": 10.5,
+      "temp_c": 8,
+      "humidity": 63,
+      "wind_kph": 3.7,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-03-03",
-      "temp_max_c": 16.4,
-      "temp_min_c": 3.4,
-      "humidity_max": 73,
-      "humidity_min": 26,
-      "wind_kph": 15.9,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_max_c": 16.6,
+      "temp_min_c": 3.6,
+      "humidity_max": 72,
+      "humidity_min": 27,
+      "wind_kph": 14.8,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
     "goldUSD": 5277.78,
     "oilUSD": 79,
-    "updatedAt": "2026-03-02T08:00:39.154Z",
+    "updatedAt": "2026-03-02T19:52:11.230Z",
     "gold24KUSD": 169.68,
     "gold21KUSD": 148.47,
     "gold18KUSD": 127.26,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8485,
-    "GBP": 0.7441,
-    "SAR": 3.7508
+    "EUR": 0.852,
+    "GBP": 0.7464,
+    "SAR": 3.7504
   },
   "prayer": {
     "fajr": "04:56",
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "If AI writes code, should the session be part of the commit?",
-        "url": "https://github.com/mandel-macaque/memento",
-        "points": 188,
-        "comments": 196,
-        "created_at": "2026-03-02T00:27:52.000Z"
+        "title": "A case for Go as the best language for AI agents",
+        "url": "https://getbruin.com/blog/go-is-the-best-language-for-agents/",
+        "points": 62,
+        "comments": 76,
+        "created_at": "2026-03-02T18:48:36.000Z"
       },
       {
-        "title": "Show HN: Logira – eBPF runtime auditing for AI agent runs",
-        "url": "https://github.com/melonattacker/logira",
-        "points": 16,
+        "title": "Iranian strikes test the Gulf's trillion-dollar AI dream",
+        "url": "https://restofworld.org/2026/amazon-uae-data-center-fire-iran-strike/",
+        "points": 13,
         "comments": 1,
-        "created_at": "2026-03-01T23:25:01.000Z"
+        "created_at": "2026-03-02T18:28:49.000Z"
       },
       {
-        "title": "The Panopticon Is Here: How the US Government Built an AI Superweapon",
-        "url": "https://matt728243.substack.com/p/the-panopticon-is-here-how-the-us",
-        "points": 14,
-        "comments": 7,
-        "created_at": "2026-03-01T19:11:02.000Z"
+        "title": "Apple AI servers unused in warehouses due to low Apple Intelligence usage",
+        "url": "https://9to5mac.com/2026/03/02/some-apple-ai-servers-are-reportedly-sitting-unused-on-warehouse-shelves-due-to-low-apple-intelligence-usage/",
+        "points": 70,
+        "comments": 59,
+        "created_at": "2026-03-02T17:40:17.000Z"
       },
       {
-        "title": "6 Practices that turned AI from prototyper to workhorse (106 PRs in 14 days)",
-        "url": "https://news.ycombinator.com/item?id=47208471",
-        "points": 15,
-        "comments": 10,
-        "created_at": "2026-03-01T17:02:15.000Z"
+        "title": "How OpenAI caved to The Pentagon on AI surveillance",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
+        "points": 30,
+        "comments": 3,
+        "created_at": "2026-03-02T15:34:09.000Z"
       },
       {
-        "title": "I Built a Scheme Compiler with AI in 4 Days",
-        "url": "https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/",
-        "points": 41,
-        "comments": 27,
-        "created_at": "2026-03-01T16:58:03.000Z"
+        "title": "New iPad Air, powered by M4",
+        "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
+        "points": 198,
+        "comments": 322,
+        "created_at": "2026-03-02T14:11:23.000Z"
       }
     ],
     "vibeCoding": [
@@ -113,8 +113,8 @@
       {
         "title": "Will vibe coding end like the maker movement?",
         "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
-        "points": 401,
-        "comments": 432,
+        "points": 402,
+        "comments": 434,
         "created_at": "2026-02-26T16:07:11.000Z"
       },
       {
@@ -143,8 +143,8 @@
       {
         "title": "I Built a Scheme Compiler with AI in 4 Days",
         "url": "https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/",
-        "points": 41,
-        "comments": 27,
+        "points": 42,
+        "comments": 32,
         "created_at": "2026-03-01T16:58:03.000Z"
       },
       {
@@ -157,7 +157,7 @@
       {
         "title": "An ode to houseplant programming (2025)",
         "url": "https://hannahilea.com/blog/houseplant-programming/",
-        "points": 144,
+        "points": 152,
         "comments": 28,
         "created_at": "2026-02-27T15:19:10.000Z"
       },
@@ -165,7 +165,7 @@
         "title": "Show HN: Unfucked - version all changes (by any tool) - local-first/source avail",
         "url": "https://www.unfudged.io/",
         "points": 136,
-        "comments": 85,
+        "comments": 89,
         "created_at": "2026-02-26T21:30:19.000Z"
       },
       {
