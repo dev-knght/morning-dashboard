@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-03-02T19:52:11.230Z",
+  "updatedAt": "2026-03-03T07:57:03.862Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 8,
-      "humidity": 63,
-      "wind_kph": 3.7,
+      "temp_c": 11.6,
+      "humidity": 42,
+      "wind_kph": 8,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-03-03",
-      "temp_max_c": 16.6,
-      "temp_min_c": 3.6,
-      "humidity_max": 72,
-      "humidity_min": 27,
-      "wind_kph": 14.8,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "date": "2026-03-04",
+      "temp_max_c": 14.6,
+      "temp_min_c": 6.4,
+      "humidity_max": 91,
+      "humidity_min": 48,
+      "wind_kph": 28.9,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 5277.78,
+    "goldUSD": 5336.14,
     "oilUSD": 79,
-    "updatedAt": "2026-03-02T19:52:11.230Z",
-    "gold24KUSD": 169.68,
-    "gold21KUSD": 148.47,
-    "gold18KUSD": 127.26,
-    "gold24KJD": 120.31,
-    "gold21KJD": 105.27,
-    "gold18KJD": 90.23
+    "updatedAt": "2026-03-03T07:57:03.862Z",
+    "gold24KUSD": 171.56,
+    "gold21KUSD": 150.12,
+    "gold18KUSD": 128.67,
+    "gold24KJD": 121.64,
+    "gold21KJD": 106.43,
+    "gold18KJD": 91.23
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.852,
-    "GBP": 0.7464,
-    "SAR": 3.7504
+    "EUR": 0.8561,
+    "GBP": 0.7471,
+    "SAR": 3.7529
   },
   "prayer": {
-    "fajr": "04:56",
+    "fajr": "04:55",
     "maghrib": "17:35",
-    "date": "02 Mar 2002"
+    "date": "03 Mar 2003"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "A case for Go as the best language for AI agents",
-        "url": "https://getbruin.com/blog/go-is-the-best-language-for-agents/",
-        "points": 62,
-        "comments": 76,
-        "created_at": "2026-03-02T18:48:36.000Z"
+        "title": "Elevated Errors in Claude.ai",
+        "url": "https://status.claude.com/incidents/yf48hzysrvl5",
+        "points": 92,
+        "comments": 79,
+        "created_at": "2026-03-03T03:31:07.000Z"
       },
       {
-        "title": "Iranian strikes test the Gulf's trillion-dollar AI dream",
-        "url": "https://restofworld.org/2026/amazon-uae-data-center-fire-iran-strike/",
-        "points": 13,
-        "comments": 1,
-        "created_at": "2026-03-02T18:28:49.000Z"
+        "title": "Device that can extract 1K liters of clean water a day from desert air revealed",
+        "url": "https://www.tomshardware.com/tech-industry/device-that-can-extract-1-000-liters-of-clean-water-a-day-from-desert-air-revealed-by-2025-nobel-prize-winner-claimed-to-work-in-desert-air-with-20-percent-humidity-or-lower-delivering-off-grid-personalized-water",
+        "points": 15,
+        "comments": 0,
+        "created_at": "2026-03-03T03:05:16.000Z"
       },
       {
-        "title": "Apple AI servers unused in warehouses due to low Apple Intelligence usage",
-        "url": "https://9to5mac.com/2026/03/02/some-apple-ai-servers-are-reportedly-sitting-unused-on-warehouse-shelves-due-to-low-apple-intelligence-usage/",
-        "points": 70,
-        "comments": 59,
-        "created_at": "2026-03-02T17:40:17.000Z"
+        "title": "The Excommunicated Devs Making Games with AI",
+        "url": "https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai",
+        "points": 46,
+        "comments": 39,
+        "created_at": "2026-03-03T02:16:52.000Z"
       },
       {
-        "title": "How OpenAI caved to The Pentagon on AI surveillance",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
-        "points": 30,
-        "comments": 3,
-        "created_at": "2026-03-02T15:34:09.000Z"
+        "title": "Do AI Agents Make Money in 2026? Or Is It Just Mac Minis and Vibes?",
+        "url": "https://www.siliconsnark.com/do-ai-agents-actually-make-money-in-2026-or-is-it-just-mac-minis-and-vibes/",
+        "points": 32,
+        "comments": 18,
+        "created_at": "2026-03-03T02:00:08.000Z"
       },
       {
-        "title": "New iPad Air, powered by M4",
-        "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
-        "points": 198,
-        "comments": 322,
-        "created_at": "2026-03-02T14:11:23.000Z"
+        "title": "Iran unleashes Shahed drones aimed at targets across Middle East",
+        "url": "https://www.theguardian.com/world/2026/mar/02/iran-unleashes-hundreds-of-drones-aimed-at-targets-across-middle-east",
+        "points": 42,
+        "comments": 44,
+        "created_at": "2026-03-03T01:41:43.000Z"
       }
     ],
     "vibeCoding": [
@@ -143,8 +143,8 @@
       {
         "title": "I Built a Scheme Compiler with AI in 4 Days",
         "url": "https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/",
-        "points": 42,
-        "comments": 32,
+        "points": 43,
+        "comments": 33,
         "created_at": "2026-03-01T16:58:03.000Z"
       },
       {
@@ -157,7 +157,7 @@
       {
         "title": "An ode to houseplant programming (2025)",
         "url": "https://hannahilea.com/blog/houseplant-programming/",
-        "points": 152,
+        "points": 153,
         "comments": 28,
         "created_at": "2026-02-27T15:19:10.000Z"
       },
