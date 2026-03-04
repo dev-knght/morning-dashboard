@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-03T19:53:12.612Z",
+  "updatedAt": "2026-03-04T07:53:51.505Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
@@ -21,26 +21,26 @@
     }
   },
   "metals": {
-    "goldUSD": 5336.14,
+    "goldUSD": 5363.14,
     "oilUSD": 79,
-    "updatedAt": "2026-03-03T19:53:12.612Z",
-    "gold24KUSD": 171.56,
-    "gold21KUSD": 150.12,
-    "gold18KUSD": 128.67,
-    "gold24KJD": 121.64,
-    "gold21KJD": 106.43,
-    "gold18KJD": 91.23
+    "updatedAt": "2026-03-04T07:53:51.505Z",
+    "gold24KUSD": 172.43,
+    "gold21KUSD": 150.88,
+    "gold18KUSD": 129.32,
+    "gold24KJD": 122.25,
+    "gold21KJD": 106.97,
+    "gold18KJD": 91.69
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8599,
-    "GBP": 0.7502,
-    "SAR": 3.7505
+    "EUR": 0.8625,
+    "GBP": 0.7511,
+    "SAR": 3.7522
   },
   "prayer": {
-    "fajr": "04:55",
-    "maghrib": "17:35",
-    "date": "03 Mar 2003"
+    "fajr": "04:53",
+    "maghrib": "17:37",
+    "date": "04 Mar 2004"
   },
   "events": [
     {
@@ -67,42 +67,49 @@
   "news": {
     "ai": [
       {
+        "title": "Marcus AI Claims Dataset",
+        "url": "https://github.com/davegoldblatt/marcus-claims-dataset",
+        "points": 61,
+        "comments": 51,
+        "created_at": "2026-03-04T01:30:43.000Z"
+      },
+      {
+        "title": "Cancel ChatGPT AI boycott surges after OpenAI pentagon military deal",
+        "url": "https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal",
+        "points": 131,
+        "comments": 29,
+        "created_at": "2026-03-04T00:10:38.000Z"
+      },
+      {
+        "title": "I lost my ability to learn anything new because of AI and I need your opinions",
+        "url": "https://news.ycombinator.com/item?id=47240612",
+        "points": 13,
+        "comments": 16,
+        "created_at": "2026-03-03T23:27:45.000Z"
+      },
+      {
         "title": "Trump Threatens to Cut Off Trade After Spain Denies Air Base Use",
         "url": "https://www.bloomberg.com/news/articles/2026-03-03/trump-threatens-to-cut-off-trade-after-spain-denies-air-base-use",
-        "points": 21,
-        "comments": 8,
+        "points": 35,
+        "comments": 10,
         "created_at": "2026-03-03T18:05:25.000Z"
       },
       {
-        "title": "You are going to get priced out of the best AI coding tools",
+        "title": "You are going to get priced out of the best AI coding tools (2025)",
         "url": "https://newsletter.danielpaleka.com/p/you-are-going-to-get-priced-out-of",
-        "points": 68,
-        "comments": 73,
+        "points": 77,
+        "comments": 86,
         "created_at": "2026-03-03T18:02:04.000Z"
-      },
-      {
-        "title": "The AI Bubble Is an Information War",
-        "url": "https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/",
-        "points": 18,
-        "comments": 2,
-        "created_at": "2026-03-03T17:45:37.000Z"
-      },
-      {
-        "title": "When AI writes the software, who verifies it?",
-        "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
-        "points": 61,
-        "comments": 40,
-        "created_at": "2026-03-03T16:34:53.000Z"
-      },
-      {
-        "title": "Why No AI Games?",
-        "url": "https://franklantz.substack.com/p/why-no-ai-games",
-        "points": 54,
-        "comments": 62,
-        "created_at": "2026-03-03T15:53:37.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "My spicy take on vibe coding for PMs",
+        "url": "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/",
+        "points": 70,
+        "comments": 60,
+        "created_at": "2026-03-03T23:38:21.000Z"
+      },
       {
         "title": "Show HN: BananaOS, vibecoded operating system that boots on a 486 with ~11MB RAM",
         "url": "https://news.ycombinator.com/item?id=47183215",
@@ -114,22 +121,8 @@
         "title": "Will vibe coding end like the maker movement?",
         "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
         "points": 402,
-        "comments": 438,
+        "comments": 439,
         "created_at": "2026-02-26T16:07:11.000Z"
-      },
-      {
-        "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
-        "url": "https://github.com/xaskasdf/ntransformer",
-        "points": 395,
-        "comments": 101,
-        "created_at": "2026-02-21T20:57:30.000Z"
-      },
-      {
-        "title": "GPT 5.3 Codex wiped my F: drive with a single character escaping bug",
-        "url": "https://old.reddit.com/r/vibecoding/comments/1r96647/gpt_53_codex_wiped_my_entire_f_drive_with_a/",
-        "points": 31,
-        "comments": 18,
-        "created_at": "2026-02-20T07:57:36.000Z"
       },
       {
         "title": "Ask HN: Are hackathons still worth doing?",
@@ -141,39 +134,39 @@
     ],
     "progDb": [
       {
+        "title": "Graphics Programming Resources",
+        "url": "https://develop--gpvm-website.netlify.app/resources/",
+        "points": 73,
+        "comments": 9,
+        "created_at": "2026-03-04T02:23:01.000Z"
+      },
+      {
+        "title": "I lost my ability to learn anything new because of AI and I need your opinions",
+        "url": "https://news.ycombinator.com/item?id=47240612",
+        "points": 13,
+        "comments": 16,
+        "created_at": "2026-03-03T23:27:45.000Z"
+      },
+      {
+        "title": "Voxile: A ray-traced game made in its own engine and programming language",
+        "url": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update",
+        "points": 174,
+        "comments": 48,
+        "created_at": "2026-03-03T21:10:27.000Z"
+      },
+      {
+        "title": "Show HN: We want to displace Notion with collaborative Markdown files",
+        "url": "https://www.moment.dev/",
+        "points": 21,
+        "comments": 6,
+        "created_at": "2026-03-03T18:13:45.000Z"
+      },
+      {
         "title": "I Built a Scheme Compiler with AI in 4 Days",
         "url": "https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/",
         "points": 43,
         "comments": 33,
         "created_at": "2026-03-01T16:58:03.000Z"
-      },
-      {
-        "title": "Show HN: BananaOS, vibecoded operating system that boots on a 486 with ~11MB RAM",
-        "url": "https://news.ycombinator.com/item?id=47183215",
-        "points": 11,
-        "comments": 5,
-        "created_at": "2026-02-27T17:43:24.000Z"
-      },
-      {
-        "title": "An ode to houseplant programming (2025)",
-        "url": "https://hannahilea.com/blog/houseplant-programming/",
-        "points": 154,
-        "comments": 28,
-        "created_at": "2026-02-27T15:19:10.000Z"
-      },
-      {
-        "title": "Show HN: Unfucked - version all changes (by any tool) - local-first/source avail",
-        "url": "https://www.unfudged.io/",
-        "points": 137,
-        "comments": 90,
-        "created_at": "2026-02-26T21:30:19.000Z"
-      },
-      {
-        "title": "Rule of Three (Computer Programming)",
-        "url": "https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)",
-        "points": 12,
-        "comments": 0,
-        "created_at": "2026-02-26T15:59:04.000Z"
       }
     ]
   }
