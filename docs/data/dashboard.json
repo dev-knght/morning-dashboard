@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-03-05T07:56:56.172Z",
+  "updatedAt": "2026-03-05T20:04:17.550Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 12.2,
-      "humidity": 46,
-      "wind_kph": 8.2,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 7.9,
+      "humidity": 66,
+      "wind_kph": 4.6,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-03-06",
-      "temp_max_c": 17.4,
-      "temp_min_c": 3.4,
-      "humidity_max": 70,
-      "humidity_min": 26,
-      "wind_kph": 22.7,
+      "temp_max_c": 17.3,
+      "temp_min_c": 4,
+      "humidity_max": 74,
+      "humidity_min": 23,
+      "wind_kph": 23.5,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,19 +23,19 @@
   "metals": {
     "goldUSD": 5160.73,
     "oilUSD": 79,
-    "updatedAt": "2026-03-05T07:56:56.172Z",
+    "updatedAt": "2026-03-05T20:04:17.550Z",
     "gold24KUSD": 165.92,
     "gold21KUSD": 145.18,
     "gold18KUSD": 124.44,
-    "gold24KJD": 117.62,
-    "gold21KJD": 102.92,
-    "gold18KJD": 88.22
+    "gold24KJD": 117.64,
+    "gold21KJD": 102.93,
+    "gold18KJD": 88.23
   },
   "exchange": {
-    "JOD": 0.7089,
-    "EUR": 0.8613,
-    "GBP": 0.7499,
-    "SAR": 3.7542
+    "JOD": 0.709,
+    "EUR": 0.8609,
+    "GBP": 0.7491,
+    "SAR": 3.7507
   },
   "prayer": {
     "fajr": "04:52",
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
+        "title": "Launch HN: Vela (YC W26) – AI for complex scheduling",
+        "url": "https://news.ycombinator.com/item?id=47264741",
+        "points": 16,
+        "comments": 15,
+        "created_at": "2026-03-05T17:43:31.000Z"
+      },
+      {
+        "title": "AI and the Ship of Theseus",
+        "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
+        "points": 18,
+        "comments": 4,
+        "created_at": "2026-03-05T15:49:45.000Z"
+      },
+      {
+        "title": "Microplastics and nanoplastics in urban air originate mainly from tire abrasion",
+        "url": "https://phys.org/news/2026-03-microplastics-nanoplastics-urban-air-abrasion.html",
+        "points": 30,
+        "comments": 5,
+        "created_at": "2026-03-05T10:01:46.000Z"
+      },
+      {
+        "title": "Major airline bans 'barebeaters' across all 24 daily flights from UK airports",
+        "url": "https://metro.co.uk/2026/03/04/major-airline-bans-barebeaters-across-24-daily-flights-uk-airports-27221151/",
+        "points": 24,
+        "comments": 21,
+        "created_at": "2026-03-05T08:54:01.000Z"
+      },
+      {
         "title": "Relicensing with AI-Assisted Rewrite",
         "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
-        "points": 69,
-        "comments": 55,
+        "points": 340,
+        "comments": 335,
         "created_at": "2026-03-05T05:07:33.000Z"
-      },
-      {
-        "title": "DOJ proposes policy aimed at limiting state bar ethics probes into its attorneys",
-        "url": "https://abcnews.com/US/doj-proposes-policy-aimed-limiting-state-bar-ethics/story?id=130755238",
-        "points": 22,
-        "comments": 1,
-        "created_at": "2026-03-05T04:58:29.000Z"
-      },
-      {
-        "title": "Regulator contacts Meta over workers watching intimate AI glasses videos",
-        "url": "https://www.bbc.com/news/articles/c0q33nvj0qpo",
-        "points": 44,
-        "comments": 9,
-        "created_at": "2026-03-05T03:08:06.000Z"
-      },
-      {
-        "title": "Anthropic chief back in talks with Pentagon about AI deal",
-        "url": "https://www.ft.com/content/97bda2ef-fc06-40b3-a867-f61a711b148b",
-        "points": 41,
-        "comments": 8,
-        "created_at": "2026-03-05T01:48:31.000Z"
-      },
-      {
-        "title": "Father claims Google's AI product fuelled son's delusional spiral",
-        "url": "https://www.bbc.com/news/articles/czx44p99457o",
-        "points": 179,
-        "comments": 237,
-        "created_at": "2026-03-04T19:48:07.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "My spicy take on vibe coding for PMs",
         "url": "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/",
-        "points": 190,
-        "comments": 178,
+        "points": 199,
+        "comments": 183,
         "created_at": "2026-03-03T23:38:21.000Z"
       },
       {
@@ -120,7 +120,7 @@
       {
         "title": "Will vibe coding end like the maker movement?",
         "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
-        "points": 402,
+        "points": 403,
         "comments": 439,
         "created_at": "2026-02-26T16:07:11.000Z"
       },
@@ -143,8 +143,8 @@
       {
         "title": "Graphics Programming Resources",
         "url": "https://develop--gpvm-website.netlify.app/resources/",
-        "points": 182,
-        "comments": 19,
+        "points": 188,
+        "comments": 20,
         "created_at": "2026-03-04T02:23:01.000Z"
       },
       {
@@ -157,15 +157,15 @@
       {
         "title": "Voxile: A ray-traced game made in its own engine and programming language",
         "url": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update",
-        "points": 272,
-        "comments": 74,
+        "points": 273,
+        "comments": 75,
         "created_at": "2026-03-03T21:10:27.000Z"
       },
       {
         "title": "Show HN: We want to displace Notion with collaborative Markdown files",
         "url": "https://www.moment.dev/",
         "points": 27,
-        "comments": 9,
+        "comments": 10,
         "created_at": "2026-03-03T18:13:45.000Z"
       },
       {
