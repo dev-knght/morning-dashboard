@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-03-04T19:52:10.619Z",
+  "updatedAt": "2026-03-05T07:56:56.172Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 9.4,
-      "humidity": 89,
-      "wind_kph": 13,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 12.2,
+      "humidity": 46,
+      "wind_kph": 8.2,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-03-05",
-      "temp_max_c": 15.7,
-      "temp_min_c": 7.9,
-      "humidity_max": 96,
-      "humidity_min": 28,
-      "wind_kph": 12.4,
-      "weather_code": 45,
-      "weather_desc": "Fog"
+      "date": "2026-03-06",
+      "temp_max_c": 17.4,
+      "temp_min_c": 3.4,
+      "humidity_max": 70,
+      "humidity_min": 26,
+      "wind_kph": 22.7,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 5363.14,
+    "goldUSD": 5160.73,
     "oilUSD": 79,
-    "updatedAt": "2026-03-04T19:52:10.619Z",
-    "gold24KUSD": 172.43,
-    "gold21KUSD": 150.88,
-    "gold18KUSD": 129.32,
-    "gold24KJD": 122.23,
-    "gold21KJD": 106.96,
-    "gold18KJD": 91.68
+    "updatedAt": "2026-03-05T07:56:56.172Z",
+    "gold24KUSD": 165.92,
+    "gold21KUSD": 145.18,
+    "gold18KUSD": 124.44,
+    "gold24KJD": 117.62,
+    "gold21KJD": 102.92,
+    "gold18KJD": 88.22
   },
   "exchange": {
     "JOD": 0.7089,
-    "EUR": 0.8607,
-    "GBP": 0.7489,
-    "SAR": 3.7507
+    "EUR": 0.8613,
+    "GBP": 0.7499,
+    "SAR": 3.7542
   },
   "prayer": {
-    "fajr": "04:53",
+    "fajr": "04:52",
     "maghrib": "17:37",
-    "date": "04 Mar 2004"
+    "date": "05 Mar 2005"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "Anthropic's AI tool Claude central to U.S. campaign in Iran, amid a bitter feud",
-        "url": "https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign/",
-        "points": 21,
-        "comments": 6,
-        "created_at": "2026-03-04T14:56:06.000Z"
+        "title": "Relicensing with AI-Assisted Rewrite",
+        "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
+        "points": 69,
+        "comments": 55,
+        "created_at": "2026-03-05T05:07:33.000Z"
       },
       {
-        "title": "Show HN: P0 – Yes, AI can ship complex features into real codebases",
-        "url": "https://www.bepurple.ai/",
-        "points": 35,
-        "comments": 27,
-        "created_at": "2026-03-04T14:16:08.000Z"
+        "title": "DOJ proposes policy aimed at limiting state bar ethics probes into its attorneys",
+        "url": "https://abcnews.com/US/doj-proposes-policy-aimed-limiting-state-bar-ethics/story?id=130755238",
+        "points": 22,
+        "comments": 1,
+        "created_at": "2026-03-05T04:58:29.000Z"
       },
       {
-        "title": "Did Alibaba just kneecap its powerful Qwen AI team?",
-        "url": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in",
-        "points": 122,
-        "comments": 35,
-        "created_at": "2026-03-04T12:54:04.000Z"
+        "title": "Regulator contacts Meta over workers watching intimate AI glasses videos",
+        "url": "https://www.bbc.com/news/articles/c0q33nvj0qpo",
+        "points": 44,
+        "comments": 9,
+        "created_at": "2026-03-05T03:08:06.000Z"
       },
       {
-        "title": "Iran war wreaking havoc on shipping and air cargo, could create global delays",
-        "url": "https://www.theregister.com/2026/03/02/iran_war_tech_supply_chain/",
-        "points": 78,
-        "comments": 146,
-        "created_at": "2026-03-04T12:22:18.000Z"
+        "title": "Anthropic chief back in talks with Pentagon about AI deal",
+        "url": "https://www.ft.com/content/97bda2ef-fc06-40b3-a867-f61a711b148b",
+        "points": 41,
+        "comments": 8,
+        "created_at": "2026-03-05T01:48:31.000Z"
       },
       {
-        "title": "Marcus AI Claims Dataset",
-        "url": "https://github.com/davegoldblatt/marcus-claims-dataset",
-        "points": 63,
-        "comments": 52,
-        "created_at": "2026-03-04T01:30:43.000Z"
+        "title": "Father claims Google's AI product fuelled son's delusional spiral",
+        "url": "https://www.bbc.com/news/articles/czx44p99457o",
+        "points": 179,
+        "comments": 237,
+        "created_at": "2026-03-04T19:48:07.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "My spicy take on vibe coding for PMs",
         "url": "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/",
-        "points": 172,
-        "comments": 156,
+        "points": 190,
+        "comments": 178,
         "created_at": "2026-03-03T23:38:21.000Z"
       },
       {
@@ -143,29 +143,29 @@
       {
         "title": "Graphics Programming Resources",
         "url": "https://develop--gpvm-website.netlify.app/resources/",
-        "points": 173,
-        "comments": 17,
+        "points": 182,
+        "comments": 19,
         "created_at": "2026-03-04T02:23:01.000Z"
       },
       {
         "title": "I lost my ability to learn anything new because of AI and I need your opinions",
         "url": "https://news.ycombinator.com/item?id=47240612",
-        "points": 16,
-        "comments": 21,
+        "points": 18,
+        "comments": 27,
         "created_at": "2026-03-03T23:27:45.000Z"
       },
       {
         "title": "Voxile: A ray-traced game made in its own engine and programming language",
         "url": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update",
-        "points": 254,
-        "comments": 65,
+        "points": 272,
+        "comments": 74,
         "created_at": "2026-03-03T21:10:27.000Z"
       },
       {
         "title": "Show HN: We want to displace Notion with collaborative Markdown files",
         "url": "https://www.moment.dev/",
         "points": 27,
-        "comments": 6,
+        "comments": 9,
         "created_at": "2026-03-03T18:13:45.000Z"
       },
       {
