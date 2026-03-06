@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-03-05T20:04:17.550Z",
+  "updatedAt": "2026-03-06T07:53:46.959Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 7.9,
-      "humidity": 66,
-      "wind_kph": 4.6,
+      "temp_c": 14.6,
+      "humidity": 21,
+      "wind_kph": 11.7,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-03-06",
-      "temp_max_c": 17.3,
-      "temp_min_c": 4,
-      "humidity_max": 74,
-      "humidity_min": 23,
+      "date": "2026-03-07",
+      "temp_max_c": 15.3,
+      "temp_min_c": 7,
+      "humidity_max": 91,
+      "humidity_min": 49,
       "wind_kph": 23.5,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 5160.73,
+    "goldUSD": 5181,
     "oilUSD": 79,
-    "updatedAt": "2026-03-05T20:04:17.550Z",
-    "gold24KUSD": 165.92,
-    "gold21KUSD": 145.18,
-    "gold18KUSD": 124.44,
-    "gold24KJD": 117.64,
-    "gold21KJD": 102.93,
-    "gold18KJD": 88.23
+    "updatedAt": "2026-03-06T07:53:46.959Z",
+    "gold24KUSD": 166.57,
+    "gold21KUSD": 145.75,
+    "gold18KUSD": 124.93,
+    "gold24KJD": 118.1,
+    "gold21KJD": 103.34,
+    "gold18KJD": 88.58
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8609,
-    "GBP": 0.7491,
-    "SAR": 3.7507
+    "EUR": 0.8613,
+    "GBP": 0.7493,
+    "SAR": 3.7523
   },
   "prayer": {
-    "fajr": "04:52",
-    "maghrib": "17:37",
-    "date": "05 Mar 2005"
+    "fajr": "04:51",
+    "maghrib": "17:38",
+    "date": "06 Mar 2006"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
+        "title": "Labor market impacts of AI: A new measure and early evidence",
+        "url": "https://www.anthropic.com/research/labor-market-impacts",
+        "points": 160,
+        "comments": 222,
+        "created_at": "2026-03-05T22:55:01.000Z"
+      },
+      {
+        "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+        "url": "https://406.fail/",
+        "points": 161,
+        "comments": 53,
+        "created_at": "2026-03-05T22:04:59.000Z"
+      },
+      {
+        "title": "As AI Turns Prevalent, UI Becomes Irrelevant",
+        "url": "https://www.star-history.com/blog/ai-ui-irrelevant",
+        "points": 14,
+        "comments": 7,
+        "created_at": "2026-03-05T20:36:11.000Z"
+      },
+      {
+        "title": "Cloudflare rewrites Next.js as AI rewrites commercial open source",
+        "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-cloudflare-rewrites-nextjs",
+        "points": 22,
+        "comments": 4,
+        "created_at": "2026-03-05T18:21:29.000Z"
+      },
+      {
         "title": "Launch HN: Vela (YC W26) – AI for complex scheduling",
         "url": "https://news.ycombinator.com/item?id=47264741",
-        "points": 16,
-        "comments": 15,
+        "points": 44,
+        "comments": 37,
         "created_at": "2026-03-05T17:43:31.000Z"
-      },
-      {
-        "title": "AI and the Ship of Theseus",
-        "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
-        "points": 18,
-        "comments": 4,
-        "created_at": "2026-03-05T15:49:45.000Z"
-      },
-      {
-        "title": "Microplastics and nanoplastics in urban air originate mainly from tire abrasion",
-        "url": "https://phys.org/news/2026-03-microplastics-nanoplastics-urban-air-abrasion.html",
-        "points": 30,
-        "comments": 5,
-        "created_at": "2026-03-05T10:01:46.000Z"
-      },
-      {
-        "title": "Major airline bans 'barebeaters' across all 24 daily flights from UK airports",
-        "url": "https://metro.co.uk/2026/03/04/major-airline-bans-barebeaters-across-24-daily-flights-uk-airports-27221151/",
-        "points": 24,
-        "comments": 21,
-        "created_at": "2026-03-05T08:54:01.000Z"
-      },
-      {
-        "title": "Relicensing with AI-Assisted Rewrite",
-        "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
-        "points": 340,
-        "comments": 335,
-        "created_at": "2026-03-05T05:07:33.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "My spicy take on vibe coding for PMs",
         "url": "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/",
-        "points": 199,
-        "comments": 183,
+        "points": 200,
+        "comments": 186,
         "created_at": "2026-03-03T23:38:21.000Z"
       },
       {
@@ -143,15 +143,15 @@
       {
         "title": "Graphics Programming Resources",
         "url": "https://develop--gpvm-website.netlify.app/resources/",
-        "points": 188,
+        "points": 190,
         "comments": 20,
         "created_at": "2026-03-04T02:23:01.000Z"
       },
       {
         "title": "I lost my ability to learn anything new because of AI and I need your opinions",
         "url": "https://news.ycombinator.com/item?id=47240612",
-        "points": 18,
-        "comments": 27,
+        "points": 20,
+        "comments": 28,
         "created_at": "2026-03-03T23:27:45.000Z"
       },
       {
@@ -165,7 +165,7 @@
         "title": "Show HN: We want to displace Notion with collaborative Markdown files",
         "url": "https://www.moment.dev/",
         "points": 27,
-        "comments": 10,
+        "comments": 12,
         "created_at": "2026-03-03T18:13:45.000Z"
       },
       {
