@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-03-06T19:49:16.948Z",
+  "updatedAt": "2026-03-07T07:19:13.387Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 8.2,
-      "humidity": 76,
-      "wind_kph": 6.6,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 11.8,
+      "humidity": 70,
+      "wind_kph": 19.4,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-03-07",
-      "temp_max_c": 14.8,
-      "temp_min_c": 6.6,
-      "humidity_max": 86,
-      "humidity_min": 55,
-      "wind_kph": 26.4,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-03-08",
+      "temp_max_c": 14.3,
+      "temp_min_c": 5.2,
+      "humidity_max": 89,
+      "humidity_min": 30,
+      "wind_kph": 24.6,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 5181,
+    "goldUSD": 5082.68,
     "oilUSD": 79,
-    "updatedAt": "2026-03-06T19:49:16.948Z",
-    "gold24KUSD": 166.57,
-    "gold21KUSD": 145.75,
-    "gold18KUSD": 124.93,
-    "gold24KJD": 118.1,
-    "gold21KJD": 103.34,
-    "gold18KJD": 88.58
+    "updatedAt": "2026-03-07T07:19:13.387Z",
+    "gold24KUSD": 163.41,
+    "gold21KUSD": 142.99,
+    "gold18KUSD": 122.56,
+    "gold24KJD": 115.86,
+    "gold21KJD": 101.38,
+    "gold18KJD": 86.89
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8633,
-    "GBP": 0.7495,
-    "SAR": 3.7506
+    "EUR": 0.8632,
+    "GBP": 0.7491,
+    "SAR": 3.7523
   },
   "prayer": {
-    "fajr": "04:51",
+    "fajr": "04:50",
     "maghrib": "17:38",
-    "date": "06 Mar 2006"
+    "date": "07 Mar 2007"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
+        "title": "AI Error May Have Contributed to Girl's School Bombing in Iran",
+        "url": "https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/",
+        "points": 26,
+        "comments": 6,
+        "created_at": "2026-03-07T05:41:04.000Z"
+      },
+      {
+        "title": "AI and the Illegal War",
+        "url": "https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/",
+        "points": 45,
+        "comments": 9,
+        "created_at": "2026-03-07T03:14:50.000Z"
+      },
+      {
+        "title": "What if AI just makes us work harder?",
+        "url": "https://www.ft.com/content/e8bb5ab1-4b4d-473e-8f76-e690443e9fb4",
+        "points": 43,
+        "comments": 11,
+        "created_at": "2026-03-06T21:39:55.000Z"
+      },
+      {
+        "title": "When Using AI Leads to \"Brain Fry\"",
+        "url": "https://hbr.org/2026/03/when-using-ai-leads-to-brain-fry",
+        "points": 18,
+        "comments": 1,
+        "created_at": "2026-03-06T18:59:48.000Z"
+      },
+      {
         "title": "Russia is aiding Iran's war effort by providing Intel on US Military targets",
         "url": "https://www.cnn.com/2026/03/06/politics/russia-aiding-iran-targeting",
-        "points": 14,
-        "comments": 6,
+        "points": 18,
+        "comments": 7,
         "created_at": "2026-03-06T16:52:05.000Z"
-      },
-      {
-        "title": "United Airlines says it will boot passengers who refuse to use headphones",
-        "url": "https://www.nbcnews.com/business/business-news/united-boot-passengers-dont-use-headphones-rcna261908",
-        "points": 16,
-        "comments": 11,
-        "created_at": "2026-03-06T15:43:59.000Z"
-      },
-      {
-        "title": "If AI has a bright future, why does AI think it doesn't?",
-        "url": "https://claude.ai/share/5373cca0-f085-40a7-9a58-3f30b4f76195",
-        "points": 14,
-        "comments": 20,
-        "created_at": "2026-03-06T09:21:56.000Z"
-      },
-      {
-        "title": "We might all be AI engineers now",
-        "url": "https://yasint.dev/we-might-all-be-ai-engineers-now/",
-        "points": 106,
-        "comments": 152,
-        "created_at": "2026-03-06T09:13:30.000Z"
-      },
-      {
-        "title": "Ask HN: How are you using multi-agent AI systems in your daily workflow?",
-        "url": "https://news.ycombinator.com/item?id=47270020",
-        "points": 13,
-        "comments": 9,
-        "created_at": "2026-03-06T02:20:28.000Z"
       }
     ],
     "vibeCoding": [
@@ -136,21 +136,28 @@
       {
         "title": "Async Programming Is Just Inject Time",
         "url": "https://willhbr.net/2026/03/02/async-inject-and-effects/",
-        "points": 34,
+        "points": 36,
         "comments": 13,
         "created_at": "2026-03-06T11:52:01.000Z"
       },
       {
+        "title": "Show HN: 1v1 coding game that LLMs struggle with",
+        "url": "https://yare.io",
+        "points": 19,
+        "comments": 5,
+        "created_at": "2026-03-06T06:47:29.000Z"
+      },
+      {
         "title": "Graphics Programming Resources",
         "url": "https://develop--gpvm-website.netlify.app/resources/",
-        "points": 191,
-        "comments": 20,
+        "points": 192,
+        "comments": 22,
         "created_at": "2026-03-04T02:23:01.000Z"
       },
       {
         "title": "I lost my ability to learn anything new because of AI and I need your opinions",
         "url": "https://news.ycombinator.com/item?id=47240612",
-        "points": 21,
+        "points": 22,
         "comments": 28,
         "created_at": "2026-03-03T23:27:45.000Z"
       },
@@ -160,13 +167,6 @@
         "points": 273,
         "comments": 75,
         "created_at": "2026-03-03T21:10:27.000Z"
-      },
-      {
-        "title": "Show HN: We want to displace Notion with collaborative Markdown files",
-        "url": "https://www.moment.dev/",
-        "points": 27,
-        "comments": 12,
-        "created_at": "2026-03-03T18:13:45.000Z"
       }
     ]
   }
