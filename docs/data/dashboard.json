@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-03-08T07:43:36.851Z",
+  "updatedAt": "2026-03-08T19:02:22.217Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 10.2,
-      "humidity": 33,
-      "wind_kph": 21.3,
+      "temp_c": 7,
+      "humidity": 64,
+      "wind_kph": 9.5,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-03-09",
-      "temp_max_c": 14.7,
-      "temp_min_c": 2.4,
-      "humidity_max": 76,
-      "humidity_min": 24,
-      "wind_kph": 17.8,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_max_c": 14.9,
+      "temp_min_c": 2.1,
+      "humidity_max": 74,
+      "humidity_min": 23,
+      "wind_kph": 18.5,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     }
   },
   "metals": {
     "goldUSD": 5171.92,
     "oilUSD": 79,
-    "updatedAt": "2026-03-08T07:43:36.851Z",
+    "updatedAt": "2026-03-08T19:02:22.217Z",
     "gold24KUSD": 166.28,
     "gold21KUSD": 145.5,
     "gold18KUSD": 124.71,
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
+        "title": "Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat",
+        "url": "https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html",
+        "points": 139,
+        "comments": 155,
+        "created_at": "2026-03-08T15:37:32.000Z"
+      },
+      {
+        "title": "Show HN: AI agents run my one-person company on Gemini's free tier – $0/month",
+        "url": "https://news.ycombinator.com/item?id=47296664",
+        "points": 14,
+        "comments": 11,
+        "created_at": "2026-03-08T12:04:48.000Z"
+      },
+      {
+        "title": "Ask HN: Why there are no actual studies that show AI is more productive?",
+        "url": "https://news.ycombinator.com/item?id=47295628",
+        "points": 35,
+        "comments": 75,
+        "created_at": "2026-03-08T08:32:10.000Z"
+      },
+      {
+        "title": "New Research Reassesses the Value of Agents.md Files for AI Coding",
+        "url": "https://www.infoq.com/news/2026/03/agents-context-file-value-review/",
+        "points": 19,
+        "comments": 22,
+        "created_at": "2026-03-08T07:52:38.000Z"
+      },
+      {
         "title": "Why developers using AI are working longer hours",
         "url": "https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/",
-        "points": 63,
-        "comments": 65,
+        "points": 69,
+        "comments": 70,
         "created_at": "2026-03-07T23:39:04.000Z"
-      },
-      {
-        "title": "Training students to prove they're not robots is pushing them to use more AI",
-        "url": "https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/",
-        "points": 150,
-        "comments": 165,
-        "created_at": "2026-03-07T19:01:01.000Z"
-      },
-      {
-        "title": "Ask HN: Can we talk about AI Astroturfing?",
-        "url": "https://news.ycombinator.com/item?id=47290057",
-        "points": 27,
-        "comments": 24,
-        "created_at": "2026-03-07T18:17:53.000Z"
-      },
-      {
-        "title": "Track AIPAC – Follow Israel lobby spending in U.S. politics",
-        "url": "https://www.trackaipac.com",
-        "points": 26,
-        "comments": 2,
-        "created_at": "2026-03-07T18:01:08.000Z"
-      },
-      {
-        "title": "Verification debt: the hidden cost of AI-generated code",
-        "url": "https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981",
-        "points": 91,
-        "comments": 83,
-        "created_at": "2026-03-07T17:08:30.000Z"
       }
     ],
     "vibeCoding": [
@@ -127,39 +127,39 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: Eyot, A programming language where the GPU is just another thread",
+        "url": "https://cowleyforniastudios.com/2026/03/08/announcing-eyot/",
+        "points": 56,
+        "comments": 11,
+        "created_at": "2026-03-08T11:04:04.000Z"
+      },
+      {
         "title": "Lisp-style C++ template meta programming",
         "url": "https://github.com/mistivia/lmp",
-        "points": 40,
-        "comments": 6,
+        "points": 57,
+        "comments": 12,
         "created_at": "2026-03-07T22:21:57.000Z"
       },
       {
         "title": "Async Programming Is Just Inject Time",
         "url": "https://willhbr.net/2026/03/02/async-inject-and-effects/",
-        "points": 37,
+        "points": 39,
         "comments": 14,
         "created_at": "2026-03-06T11:52:01.000Z"
       },
       {
         "title": "Show HN: 1v1 coding game that LLMs struggle with",
         "url": "https://yare.io",
-        "points": 25,
-        "comments": 7,
+        "points": 26,
+        "comments": 8,
         "created_at": "2026-03-06T06:47:29.000Z"
       },
       {
         "title": "Graphics Programming Resources",
         "url": "https://develop--gpvm-website.netlify.app/resources/",
         "points": 193,
-        "comments": 23,
+        "comments": 24,
         "created_at": "2026-03-04T02:23:01.000Z"
-      },
-      {
-        "title": "I lost my ability to learn anything new because of AI and I need your opinions",
-        "url": "https://news.ycombinator.com/item?id=47240612",
-        "points": 23,
-        "comments": 28,
-        "created_at": "2026-03-03T23:27:45.000Z"
       }
     ]
   }
