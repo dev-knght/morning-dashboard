@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-03-09T08:01:46.732Z",
+  "updatedAt": "2026-03-09T19:53:55.490Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 10.9,
-      "humidity": 42,
-      "wind_kph": 10.4,
+      "temp_c": 6.6,
+      "humidity": 71,
+      "wind_kph": 3.7,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-03-10",
       "temp_max_c": 17.4,
-      "temp_min_c": 2.5,
-      "humidity_max": 82,
-      "humidity_min": 22,
-      "wind_kph": 16.3,
+      "temp_min_c": 2.7,
+      "humidity_max": 76,
+      "humidity_min": 20,
+      "wind_kph": 15.9,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 5171.87,
     "oilUSD": 79,
-    "updatedAt": "2026-03-09T08:01:46.732Z",
+    "updatedAt": "2026-03-09T19:53:55.490Z",
     "gold24KUSD": 166.28,
     "gold21KUSD": 145.49,
     "gold18KUSD": 124.71,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8676,
-    "GBP": 0.752,
-    "SAR": 3.7534
+    "EUR": 0.866,
+    "GBP": 0.75,
+    "SAR": 3.7506
   },
   "prayer": {
     "fajr": "04:47",
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "The Misconception That Air Supremacy Has Been Achieved over Iran",
-        "url": "https://www.twz.com/news-features/the-misconception-that-air-supremacy-has-been-achieved-over-iran",
+        "title": "The 1979 Design Choice Breaking AI Workloads",
+        "url": "https://www.cerebrium.ai/blog/rethinking-container-image-distribution-to-eliminate-cold-starts",
         "points": 22,
-        "comments": 8,
-        "created_at": "2026-03-08T20:09:10.000Z"
+        "comments": 19,
+        "created_at": "2026-03-09T16:59:05.000Z"
       },
       {
-        "title": "AI CEOs worry the government will nationalize AI",
-        "url": "https://yro.slashdot.org/story/26/03/07/2058213/ai-ceos-worry-the-government-will-nationalize-ai",
-        "points": 21,
-        "comments": 6,
-        "created_at": "2026-03-08T19:04:37.000Z"
+        "title": "Anthropic sues to block Pentagon blacklisting over AI use restrictions",
+        "url": "https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/",
+        "points": 62,
+        "comments": 27,
+        "created_at": "2026-03-09T15:25:40.000Z"
       },
       {
-        "title": "AI doesn't replace white collar work",
-        "url": "https://www.marble.onl/posts/ai_doesnt_replace_work.html",
-        "points": 59,
-        "comments": 93,
-        "created_at": "2026-03-08T18:57:21.000Z"
+        "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+        "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+        "points": 150,
+        "comments": 143,
+        "created_at": "2026-03-09T15:12:53.000Z"
       },
       {
-        "title": "Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat",
-        "url": "https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html",
-        "points": 169,
-        "comments": 216,
-        "created_at": "2026-03-08T15:37:32.000Z"
+        "title": "Jetbrains: Air Launches as Public Preview – A New Wave of Dev Tooling",
+        "url": "https://blog.jetbrains.com/air/2026/03/air-launches-as-public-preview-a-new-wave-of-dev-tooling-built-on-26-years-of-experience/",
+        "points": 14,
+        "comments": 1,
+        "created_at": "2026-03-09T15:05:22.000Z"
       },
       {
-        "title": "Show HN: AI agents run my one-person company on Gemini's free tier – $0/month",
-        "url": "https://news.ycombinator.com/item?id=47296664",
-        "points": 15,
-        "comments": 23,
-        "created_at": "2026-03-08T12:04:48.000Z"
+        "title": "Revealed: UK's multibillion AI drive is built on 'phantom investments'",
+        "url": "https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments",
+        "points": 75,
+        "comments": 38,
+        "created_at": "2026-03-09T14:45:12.000Z"
       }
     ],
     "vibeCoding": [
@@ -127,39 +127,39 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: The Mog Programming Language",
+        "url": "https://moglang.org",
+        "points": 46,
+        "comments": 13,
+        "created_at": "2026-03-09T17:57:00.000Z"
+      },
+      {
         "title": "We should revisit literate programming in the agent era",
         "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
-        "points": 220,
-        "comments": 135,
+        "points": 279,
+        "comments": 209,
         "created_at": "2026-03-08T19:58:15.000Z"
       },
       {
         "title": "I made a programming language with M&Ms",
         "url": "https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/",
-        "points": 75,
-        "comments": 34,
+        "points": 112,
+        "comments": 39,
         "created_at": "2026-03-08T18:18:40.000Z"
       },
       {
         "title": "Show HN: Eyot, A programming language where the GPU is just another thread",
         "url": "https://cowleyforniastudios.com/2026/03/08/announcing-eyot/",
-        "points": 71,
-        "comments": 13,
+        "points": 75,
+        "comments": 16,
         "created_at": "2026-03-08T11:04:04.000Z"
       },
       {
         "title": "Lisp-style C++ template meta programming",
         "url": "https://github.com/mistivia/lmp",
-        "points": 60,
-        "comments": 12,
+        "points": 61,
+        "comments": 13,
         "created_at": "2026-03-07T22:21:57.000Z"
-      },
-      {
-        "title": "Async Programming Is Just Inject Time",
-        "url": "https://willhbr.net/2026/03/02/async-inject-and-effects/",
-        "points": 39,
-        "comments": 14,
-        "created_at": "2026-03-06T11:52:01.000Z"
       }
     ]
   }
