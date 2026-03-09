@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-03-08T19:02:22.217Z",
+  "updatedAt": "2026-03-09T08:01:46.732Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 7,
-      "humidity": 64,
-      "wind_kph": 9.5,
+      "temp_c": 10.9,
+      "humidity": 42,
+      "wind_kph": 10.4,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-03-09",
-      "temp_max_c": 14.9,
-      "temp_min_c": 2.1,
-      "humidity_max": 74,
-      "humidity_min": 23,
-      "wind_kph": 18.5,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "date": "2026-03-10",
+      "temp_max_c": 17.4,
+      "temp_min_c": 2.5,
+      "humidity_max": 82,
+      "humidity_min": 22,
+      "wind_kph": 16.3,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 5171.92,
+    "goldUSD": 5171.87,
     "oilUSD": 79,
-    "updatedAt": "2026-03-08T19:02:22.217Z",
+    "updatedAt": "2026-03-09T08:01:46.732Z",
     "gold24KUSD": 166.28,
-    "gold21KUSD": 145.5,
+    "gold21KUSD": 145.49,
     "gold18KUSD": 124.71,
     "gold24KJD": 117.89,
     "gold21KJD": 103.16,
@@ -33,14 +33,14 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8632,
-    "GBP": 0.7491,
-    "SAR": 3.7523
+    "EUR": 0.8676,
+    "GBP": 0.752,
+    "SAR": 3.7534
   },
   "prayer": {
-    "fajr": "04:48",
+    "fajr": "04:47",
     "maghrib": "17:40",
-    "date": "08 Mar 2008"
+    "date": "09 Mar 2009"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
+        "title": "The Misconception That Air Supremacy Has Been Achieved over Iran",
+        "url": "https://www.twz.com/news-features/the-misconception-that-air-supremacy-has-been-achieved-over-iran",
+        "points": 22,
+        "comments": 8,
+        "created_at": "2026-03-08T20:09:10.000Z"
+      },
+      {
+        "title": "AI CEOs worry the government will nationalize AI",
+        "url": "https://yro.slashdot.org/story/26/03/07/2058213/ai-ceos-worry-the-government-will-nationalize-ai",
+        "points": 21,
+        "comments": 6,
+        "created_at": "2026-03-08T19:04:37.000Z"
+      },
+      {
+        "title": "AI doesn't replace white collar work",
+        "url": "https://www.marble.onl/posts/ai_doesnt_replace_work.html",
+        "points": 59,
+        "comments": 93,
+        "created_at": "2026-03-08T18:57:21.000Z"
+      },
+      {
         "title": "Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat",
         "url": "https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html",
-        "points": 139,
-        "comments": 155,
+        "points": 169,
+        "comments": 216,
         "created_at": "2026-03-08T15:37:32.000Z"
       },
       {
         "title": "Show HN: AI agents run my one-person company on Gemini's free tier – $0/month",
         "url": "https://news.ycombinator.com/item?id=47296664",
-        "points": 14,
-        "comments": 11,
+        "points": 15,
+        "comments": 23,
         "created_at": "2026-03-08T12:04:48.000Z"
-      },
-      {
-        "title": "Ask HN: Why there are no actual studies that show AI is more productive?",
-        "url": "https://news.ycombinator.com/item?id=47295628",
-        "points": 35,
-        "comments": 75,
-        "created_at": "2026-03-08T08:32:10.000Z"
-      },
-      {
-        "title": "New Research Reassesses the Value of Agents.md Files for AI Coding",
-        "url": "https://www.infoq.com/news/2026/03/agents-context-file-value-review/",
-        "points": 19,
-        "comments": 22,
-        "created_at": "2026-03-08T07:52:38.000Z"
-      },
-      {
-        "title": "Why developers using AI are working longer hours",
-        "url": "https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/",
-        "points": 69,
-        "comments": 70,
-        "created_at": "2026-03-07T23:39:04.000Z"
       }
     ],
     "vibeCoding": [
@@ -107,7 +107,7 @@
         "title": "My spicy take on vibe coding for PMs",
         "url": "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/",
         "points": 204,
-        "comments": 189,
+        "comments": 191,
         "created_at": "2026-03-03T23:38:21.000Z"
       },
       {
@@ -127,16 +127,30 @@
     ],
     "progDb": [
       {
+        "title": "We should revisit literate programming in the agent era",
+        "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
+        "points": 220,
+        "comments": 135,
+        "created_at": "2026-03-08T19:58:15.000Z"
+      },
+      {
+        "title": "I made a programming language with M&Ms",
+        "url": "https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/",
+        "points": 75,
+        "comments": 34,
+        "created_at": "2026-03-08T18:18:40.000Z"
+      },
+      {
         "title": "Show HN: Eyot, A programming language where the GPU is just another thread",
         "url": "https://cowleyforniastudios.com/2026/03/08/announcing-eyot/",
-        "points": 56,
-        "comments": 11,
+        "points": 71,
+        "comments": 13,
         "created_at": "2026-03-08T11:04:04.000Z"
       },
       {
         "title": "Lisp-style C++ template meta programming",
         "url": "https://github.com/mistivia/lmp",
-        "points": 57,
+        "points": 60,
         "comments": 12,
         "created_at": "2026-03-07T22:21:57.000Z"
       },
@@ -146,20 +160,6 @@
         "points": 39,
         "comments": 14,
         "created_at": "2026-03-06T11:52:01.000Z"
-      },
-      {
-        "title": "Show HN: 1v1 coding game that LLMs struggle with",
-        "url": "https://yare.io",
-        "points": 26,
-        "comments": 8,
-        "created_at": "2026-03-06T06:47:29.000Z"
-      },
-      {
-        "title": "Graphics Programming Resources",
-        "url": "https://develop--gpvm-website.netlify.app/resources/",
-        "points": 193,
-        "comments": 24,
-        "created_at": "2026-03-04T02:23:01.000Z"
       }
     ]
   }
