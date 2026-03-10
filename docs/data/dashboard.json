@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-03-10T07:56:59.122Z",
+  "updatedAt": "2026-03-10T19:53:52.368Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 11.7,
-      "humidity": 35,
-      "wind_kph": 12.6,
+      "temp_c": 8.6,
+      "humidity": 37,
+      "wind_kph": 5.8,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-03-11",
-      "temp_max_c": 19.6,
-      "temp_min_c": 4,
-      "humidity_max": 53,
-      "humidity_min": 21,
-      "wind_kph": 17.4,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_max_c": 20,
+      "temp_min_c": 4.7,
+      "humidity_max": 49,
+      "humidity_min": 20,
+      "wind_kph": 17.7,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
     "goldUSD": 5064.45,
     "oilUSD": 79,
-    "updatedAt": "2026-03-10T07:56:59.122Z",
+    "updatedAt": "2026-03-10T19:53:52.368Z",
     "gold24KUSD": 162.83,
     "gold21KUSD": 142.47,
     "gold18KUSD": 122.12,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8613,
-    "GBP": 0.7449,
-    "SAR": 3.7543
+    "EUR": 0.8595,
+    "GBP": 0.7437,
+    "SAR": 3.7506
   },
   "prayer": {
     "fajr": "04:46",
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "Amazon holds engineering meeting following AI-related outages",
-        "url": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de",
-        "points": 49,
-        "comments": 28,
-        "created_at": "2026-03-10T05:07:59.000Z"
+        "title": "You Hired the AI to Write the Tests. Of Course They Pass",
+        "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+        "points": 34,
+        "comments": 30,
+        "created_at": "2026-03-10T19:09:46.000Z"
       },
       {
-        "title": "Learnings from paying artists royalties for AI-generated art",
-        "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
-        "points": 118,
-        "comments": 87,
-        "created_at": "2026-03-10T02:24:52.000Z"
+        "title": "Amazon wins court order to block Perplexity's AI shopping agent",
+        "url": "https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html",
+        "points": 14,
+        "comments": 6,
+        "created_at": "2026-03-10T18:49:59.000Z"
       },
       {
-        "title": "Mark Zuckerberg creating new Applied AI engineering company, reorganises teams",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms",
-        "points": 97,
-        "comments": 57,
-        "created_at": "2026-03-09T21:19:58.000Z"
+        "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+        "url": "https://github.com/RunanywhereAI/rcli",
+        "points": 132,
+        "comments": 45,
+        "created_at": "2026-03-10T17:14:52.000Z"
       },
       {
-        "title": "In the '90s Germany's air traffic control ran on Emacs (2021)",
-        "url": "https://old.reddit.com/r/emacs/comments/lly7po/comment/gnvzisy/",
-        "points": 42,
-        "comments": 2,
-        "created_at": "2026-03-09T20:42:08.000Z"
+        "title": "Amazon is holding a mandatory meeting about AI breaking its systems",
+        "url": "https://twitter.com/lukolejnik/status/2031257644724342957",
+        "points": 273,
+        "comments": 193,
+        "created_at": "2026-03-10T15:01:35.000Z"
       },
       {
-        "title": "The first airplane fatality",
-        "url": "https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html",
-        "points": 79,
-        "comments": 21,
-        "created_at": "2026-03-09T20:32:45.000Z"
+        "title": "Debian decides not to decide on AI-generated contributions",
+        "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+        "points": 201,
+        "comments": 162,
+        "created_at": "2026-03-10T14:53:13.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "My spicy take on vibe coding for PMs",
         "url": "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/",
-        "points": 204,
-        "comments": 191,
+        "points": 205,
+        "comments": 192,
         "created_at": "2026-03-03T23:38:21.000Z"
       },
       {
@@ -121,45 +121,45 @@
         "title": "Will vibe coding end like the maker movement?",
         "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
         "points": 405,
-        "comments": 440,
+        "comments": 441,
         "created_at": "2026-02-26T16:07:11.000Z"
       }
     ],
     "progDb": [
       {
+        "title": "I built a programming language using Claude Code",
+        "url": "https://ankursethi.com/blog/programming-language-claude-code/",
+        "points": 70,
+        "comments": 90,
+        "created_at": "2026-03-10T16:37:29.000Z"
+      },
+      {
         "title": "Show HN: The Mog Programming Language",
         "url": "https://moglang.org",
-        "points": 145,
-        "comments": 70,
+        "points": 160,
+        "comments": 75,
         "created_at": "2026-03-09T17:57:00.000Z"
       },
       {
         "title": "We should revisit literate programming in the agent era",
         "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
-        "points": 286,
-        "comments": 226,
+        "points": 288,
+        "comments": 245,
         "created_at": "2026-03-08T19:58:15.000Z"
       },
       {
         "title": "I made a programming language with M&Ms",
         "url": "https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/",
-        "points": 116,
+        "points": 117,
         "comments": 41,
         "created_at": "2026-03-08T18:18:40.000Z"
       },
       {
         "title": "Show HN: Eyot, A programming language where the GPU is just another thread",
         "url": "https://cowleyforniastudios.com/2026/03/08/announcing-eyot/",
-        "points": 76,
+        "points": 78,
         "comments": 18,
         "created_at": "2026-03-08T11:04:04.000Z"
-      },
-      {
-        "title": "Lisp-style C++ template meta programming",
-        "url": "https://github.com/mistivia/lmp",
-        "points": 63,
-        "comments": 13,
-        "created_at": "2026-03-07T22:21:57.000Z"
       }
     ]
   }
