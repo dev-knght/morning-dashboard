@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-03-10T19:53:52.368Z",
+  "updatedAt": "2026-03-11T07:57:33.320Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 8.6,
-      "humidity": 37,
-      "wind_kph": 5.8,
+      "temp_c": 13.4,
+      "humidity": 30,
+      "wind_kph": 16.9,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-03-11",
-      "temp_max_c": 20,
-      "temp_min_c": 4.7,
-      "humidity_max": 49,
-      "humidity_min": 20,
-      "wind_kph": 17.7,
+      "date": "2026-03-12",
+      "temp_max_c": 19.6,
+      "temp_min_c": 6.2,
+      "humidity_max": 66,
+      "humidity_min": 27,
+      "wind_kph": 15.8,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 5064.45,
+    "goldUSD": 5144.09,
     "oilUSD": 79,
-    "updatedAt": "2026-03-10T19:53:52.368Z",
-    "gold24KUSD": 162.83,
-    "gold21KUSD": 142.47,
-    "gold18KUSD": 122.12,
-    "gold24KJD": 115.44,
-    "gold21KJD": 101.01,
-    "gold18KJD": 86.58
+    "updatedAt": "2026-03-11T07:57:33.320Z",
+    "gold24KUSD": 165.39,
+    "gold21KUSD": 144.71,
+    "gold18KUSD": 124.04,
+    "gold24KJD": 117.26,
+    "gold21KJD": 102.6,
+    "gold18KJD": 87.94
   },
   "exchange": {
     "JOD": 0.709,
     "EUR": 0.8595,
-    "GBP": 0.7437,
-    "SAR": 3.7506
+    "GBP": 0.7433,
+    "SAR": 3.7535
   },
   "prayer": {
     "fajr": "04:46",
     "maghrib": "17:41",
-    "date": "10 Mar 2010"
+    "date": "11 Mar 2011"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "You Hired the AI to Write the Tests. Of Course They Pass",
-        "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
-        "points": 34,
-        "comments": 30,
-        "created_at": "2026-03-10T19:09:46.000Z"
+        "title": "Professors scramble to save critical thinking in an age of AI",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/mar/10/ai-impact-professors-students-learning",
+        "points": 15,
+        "comments": 3,
+        "created_at": "2026-03-10T19:31:12.000Z"
       },
       {
         "title": "Amazon wins court order to block Perplexity's AI shopping agent",
         "url": "https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html",
-        "points": 14,
-        "comments": 6,
+        "points": 25,
+        "comments": 8,
         "created_at": "2026-03-10T18:49:59.000Z"
       },
       {
         "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
         "url": "https://github.com/RunanywhereAI/rcli",
-        "points": 132,
-        "comments": 45,
+        "points": 207,
+        "comments": 125,
         "created_at": "2026-03-10T17:14:52.000Z"
       },
       {
         "title": "Amazon is holding a mandatory meeting about AI breaking its systems",
         "url": "https://twitter.com/lukolejnik/status/2031257644724342957",
-        "points": 273,
-        "comments": 193,
+        "points": 287,
+        "comments": 10,
         "created_at": "2026-03-10T15:01:35.000Z"
       },
       {
-        "title": "Debian decides not to decide on AI-generated contributions",
-        "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-        "points": 201,
-        "comments": 162,
-        "created_at": "2026-03-10T14:53:13.000Z"
+        "title": "Microsoft 365 confirms new premium tier, stuffed with AI and few discounts",
+        "url": "https://www.theregister.com/2026/03/09/microsoft_adds_a_premium_tier/",
+        "points": 13,
+        "comments": 2,
+        "created_at": "2026-03-10T14:53:29.000Z"
       }
     ],
     "vibeCoding": [
@@ -129,22 +129,22 @@
       {
         "title": "I built a programming language using Claude Code",
         "url": "https://ankursethi.com/blog/programming-language-claude-code/",
-        "points": 70,
-        "comments": 90,
+        "points": 117,
+        "comments": 161,
         "created_at": "2026-03-10T16:37:29.000Z"
       },
       {
         "title": "Show HN: The Mog Programming Language",
         "url": "https://moglang.org",
-        "points": 160,
-        "comments": 75,
+        "points": 162,
+        "comments": 76,
         "created_at": "2026-03-09T17:57:00.000Z"
       },
       {
         "title": "We should revisit literate programming in the agent era",
         "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
-        "points": 288,
-        "comments": 245,
+        "points": 291,
+        "comments": 250,
         "created_at": "2026-03-08T19:58:15.000Z"
       },
       {
