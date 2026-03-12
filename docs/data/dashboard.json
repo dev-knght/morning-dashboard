@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-03-12T07:59:35.683Z",
+  "updatedAt": "2026-03-12T19:55:16.114Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 15.1,
-      "humidity": 32,
-      "wind_kph": 15.2,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 11.6,
+      "humidity": 60,
+      "wind_kph": 4.6,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-03-13",
-      "temp_max_c": 18.4,
-      "temp_min_c": 6.4,
-      "humidity_max": 73,
-      "humidity_min": 28,
-      "wind_kph": 12.7,
+      "temp_max_c": 19.4,
+      "temp_min_c": 6.9,
+      "humidity_max": 75,
+      "humidity_min": 25,
+      "wind_kph": 9.9,
       "weather_code": 80,
       "weather_desc": "Slight rain showers"
     }
@@ -23,19 +23,19 @@
   "metals": {
     "goldUSD": 5217.49,
     "oilUSD": 79,
-    "updatedAt": "2026-03-12T07:59:35.683Z",
+    "updatedAt": "2026-03-12T19:55:16.114Z",
     "gold24KUSD": 167.75,
     "gold21KUSD": 146.78,
     "gold18KUSD": 125.81,
-    "gold24KJD": 118.95,
-    "gold21KJD": 104.08,
-    "gold18KJD": 89.21
+    "gold24KJD": 118.93,
+    "gold21KJD": 104.07,
+    "gold18KJD": 89.2
   },
   "exchange": {
-    "JOD": 0.7091,
-    "EUR": 0.8671,
-    "GBP": 0.7483,
-    "SAR": 3.7524
+    "JOD": 0.709,
+    "EUR": 0.866,
+    "GBP": 0.7473,
+    "SAR": 3.7504
   },
   "prayer": {
     "fajr": "04:43",
@@ -67,46 +67,46 @@
   "news": {
     "ai": [
       {
-        "title": "How much of HN is AI?",
-        "url": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai",
-        "points": 86,
-        "comments": 50,
-        "created_at": "2026-03-12T01:15:40.000Z"
+        "title": "Show HN: LogClaw – Open-source AI SRE that auto-creates tickets from logs",
+        "url": "https://logclaw.ai",
+        "points": 17,
+        "comments": 14,
+        "created_at": "2026-03-12T17:06:42.000Z"
       },
       {
-        "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
-        "url": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/",
-        "points": 186,
-        "comments": 245,
-        "created_at": "2026-03-11T22:29:42.000Z"
+        "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
+        "url": "https://github.com/onecli/onecli",
+        "points": 75,
+        "comments": 27,
+        "created_at": "2026-03-12T16:41:06.000Z"
       },
       {
-        "title": "Nvidia Will Spend $26B to Build Open-Weight AI Models",
-        "url": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
-        "points": 25,
-        "comments": 8,
-        "created_at": "2026-03-11T22:24:48.000Z"
+        "title": "We will come to regret our every use of AI",
+        "url": "https://libresolutions.network/articles/ai-regret/",
+        "points": 12,
+        "comments": 1,
+        "created_at": "2026-03-12T16:26:38.000Z"
       },
       {
-        "title": "I Have 30 Years of Career Left. AI Made Me Rethink All of Them",
-        "url": "https://newsletter.thelongcommit.com/p/i-have-30-years-of-career-left-ai",
-        "points": 15,
-        "comments": 3,
-        "created_at": "2026-03-11T21:38:53.000Z"
+        "title": "The Emotional Labor Behind AI Intimacy (2025) [pdf]",
+        "url": "https://data-workers.org/wp-content/uploads/2025/12/The-Emotional-Labor-Behind-AI-Intimacy-1.pdf",
+        "points": 31,
+        "comments": 7,
+        "created_at": "2026-03-12T16:12:04.000Z"
       },
       {
-        "title": "Preliminary data from a longitudinal AI impact study",
-        "url": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not",
-        "points": 49,
-        "comments": 33,
-        "created_at": "2026-03-11T21:23:24.000Z"
+        "title": "AI should not replace people at Atlassian, says CEO",
+        "url": "https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html",
+        "points": 106,
+        "comments": 42,
+        "created_at": "2026-03-12T15:36:53.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "My spicy take on vibe coding for PMs",
         "url": "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/",
-        "points": 205,
+        "points": 206,
         "comments": 192,
         "created_at": "2026-03-03T23:38:21.000Z"
       },
@@ -116,20 +116,34 @@
         "points": 11,
         "comments": 5,
         "created_at": "2026-02-27T17:43:24.000Z"
-      },
-      {
-        "title": "Will vibe coding end like the maker movement?",
-        "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
-        "points": 405,
-        "comments": 441,
-        "created_at": "2026-02-26T16:07:11.000Z"
       }
     ],
     "progDb": [
       {
+        "title": "Custom programming languages make agents good",
+        "url": "https://blog.firetiger.com/custom-programming-languages-make-agents-really-really-smart/",
+        "points": 15,
+        "comments": 6,
+        "created_at": "2026-03-12T15:17:39.000Z"
+      },
+      {
+        "title": "Coders Coded Their Job Away. Why Are So Many of Them Happy About It?",
+        "url": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html",
+        "points": 26,
+        "comments": 5,
+        "created_at": "2026-03-12T10:29:45.000Z"
+      },
+      {
+        "title": "I don't use LLMs for programming",
+        "url": "https://neilmadden.blog/2026/03/02/why-i-dont-use-llms-for-programming/",
+        "points": 66,
+        "comments": 97,
+        "created_at": "2026-03-12T09:51:51.000Z"
+      },
+      {
         "title": "I built a programming language using Claude Code",
         "url": "https://ankursethi.com/blog/programming-language-claude-code/",
-        "points": 132,
+        "points": 133,
         "comments": 183,
         "created_at": "2026-03-10T16:37:29.000Z"
       },
@@ -139,27 +153,6 @@
         "points": 162,
         "comments": 82,
         "created_at": "2026-03-09T17:57:00.000Z"
-      },
-      {
-        "title": "We should revisit literate programming in the agent era",
-        "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
-        "points": 292,
-        "comments": 253,
-        "created_at": "2026-03-08T19:58:15.000Z"
-      },
-      {
-        "title": "I made a programming language with M&Ms",
-        "url": "https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/",
-        "points": 119,
-        "comments": 41,
-        "created_at": "2026-03-08T18:18:40.000Z"
-      },
-      {
-        "title": "Show HN: Eyot, A programming language where the GPU is just another thread",
-        "url": "https://cowleyforniastudios.com/2026/03/08/announcing-eyot/",
-        "points": 79,
-        "comments": 18,
-        "created_at": "2026-03-08T11:04:04.000Z"
       }
     ]
   }
