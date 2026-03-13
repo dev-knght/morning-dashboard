@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-03-12T19:55:16.114Z",
+  "updatedAt": "2026-03-13T07:58:55.638Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 11.6,
-      "humidity": 60,
-      "wind_kph": 4.6,
+      "temp_c": 16.2,
+      "humidity": 36,
+      "wind_kph": 3.6,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-03-13",
-      "temp_max_c": 19.4,
-      "temp_min_c": 6.9,
-      "humidity_max": 75,
-      "humidity_min": 25,
-      "wind_kph": 9.9,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "date": "2026-03-14",
+      "temp_max_c": 20.1,
+      "temp_min_c": 11.3,
+      "humidity_max": 92,
+      "humidity_min": 47,
+      "wind_kph": 36.1,
+      "weather_code": 95,
+      "weather_desc": "Thunderstorm"
     }
   },
   "metals": {
-    "goldUSD": 5217.49,
+    "goldUSD": 5156.23,
     "oilUSD": 79,
-    "updatedAt": "2026-03-12T19:55:16.114Z",
-    "gold24KUSD": 167.75,
-    "gold21KUSD": 146.78,
-    "gold18KUSD": 125.81,
-    "gold24KJD": 118.93,
-    "gold21KJD": 104.07,
-    "gold18KJD": 89.2
+    "updatedAt": "2026-03-13T07:58:55.638Z",
+    "gold24KUSD": 165.78,
+    "gold21KUSD": 145.05,
+    "gold18KUSD": 124.33,
+    "gold24KJD": 117.54,
+    "gold21KJD": 102.84,
+    "gold18KJD": 88.15
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.866,
-    "GBP": 0.7473,
-    "SAR": 3.7504
+    "EUR": 0.8693,
+    "GBP": 0.7501,
+    "SAR": 3.7526
   },
   "prayer": {
-    "fajr": "04:43",
-    "maghrib": "17:42",
-    "date": "12 Mar 2012"
+    "fajr": "05:42",
+    "maghrib": "18:43",
+    "date": "13 Mar 2013"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "Show HN: LogClaw – Open-source AI SRE that auto-creates tickets from logs",
-        "url": "https://logclaw.ai",
-        "points": 17,
-        "comments": 14,
-        "created_at": "2026-03-12T17:06:42.000Z"
-      },
-      {
-        "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
-        "url": "https://github.com/onecli/onecli",
-        "points": 75,
-        "comments": 27,
-        "created_at": "2026-03-12T16:41:06.000Z"
-      },
-      {
-        "title": "We will come to regret our every use of AI",
-        "url": "https://libresolutions.network/articles/ai-regret/",
+        "title": "AI is great at writing code. It's terrible at making decisions",
+        "url": "https://untangle.work/blog/ai-writes-code-terrible-at-decisions/",
         "points": 12,
-        "comments": 1,
-        "created_at": "2026-03-12T16:26:38.000Z"
+        "comments": 2,
+        "created_at": "2026-03-13T01:42:08.000Z"
       },
       {
-        "title": "The Emotional Labor Behind AI Intimacy (2025) [pdf]",
-        "url": "https://data-workers.org/wp-content/uploads/2025/12/The-Emotional-Labor-Behind-AI-Intimacy-1.pdf",
-        "points": 31,
-        "comments": 7,
-        "created_at": "2026-03-12T16:12:04.000Z"
+        "title": "Tennessee grandmother jailed after AI face recognition error links her to fraud",
+        "url": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud",
+        "points": 96,
+        "comments": 24,
+        "created_at": "2026-03-13T00:17:34.000Z"
       },
       {
-        "title": "AI should not replace people at Atlassian, says CEO",
-        "url": "https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html",
-        "points": 106,
-        "comments": 42,
-        "created_at": "2026-03-12T15:36:53.000Z"
+        "title": "Meta delays rollout of new AI model after performance concerns",
+        "url": "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html",
+        "points": 12,
+        "comments": 3,
+        "created_at": "2026-03-13T00:08:44.000Z"
+      },
+      {
+        "title": "Grief and the AI split",
+        "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
+        "points": 129,
+        "comments": 196,
+        "created_at": "2026-03-12T22:35:08.000Z"
+      },
+      {
+        "title": "Show HN: Slop or not – can you tell AI writing from human in everyday contexts?",
+        "url": "https://slop-or-not.space",
+        "points": 14,
+        "comments": 17,
+        "created_at": "2026-03-12T21:53:23.000Z"
       }
     ],
     "vibeCoding": [
@@ -120,24 +120,31 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: OpenClaw-class agents on ESP32 (and the IDE that makes it possible)",
+        "url": "https://pycoclaw.com/",
+        "points": 24,
+        "comments": 1,
+        "created_at": "2026-03-12T21:38:06.000Z"
+      },
+      {
         "title": "Custom programming languages make agents good",
         "url": "https://blog.firetiger.com/custom-programming-languages-make-agents-really-really-smart/",
-        "points": 15,
+        "points": 17,
         "comments": 6,
         "created_at": "2026-03-12T15:17:39.000Z"
       },
       {
         "title": "Coders Coded Their Job Away. Why Are So Many of Them Happy About It?",
         "url": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html",
-        "points": 26,
+        "points": 37,
         "comments": 5,
         "created_at": "2026-03-12T10:29:45.000Z"
       },
       {
         "title": "I don't use LLMs for programming",
         "url": "https://neilmadden.blog/2026/03/02/why-i-dont-use-llms-for-programming/",
-        "points": 66,
-        "comments": 97,
+        "points": 68,
+        "comments": 98,
         "created_at": "2026-03-12T09:51:51.000Z"
       },
       {
@@ -146,13 +153,6 @@
         "points": 133,
         "comments": 183,
         "created_at": "2026-03-10T16:37:29.000Z"
-      },
-      {
-        "title": "Show HN: The Mog Programming Language",
-        "url": "https://moglang.org",
-        "points": 162,
-        "comments": 82,
-        "created_at": "2026-03-09T17:57:00.000Z"
       }
     ]
   }
