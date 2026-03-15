@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-03-15T07:56:48.593Z",
+  "updatedAt": "2026-03-15T19:18:32.222Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 13.4,
-      "humidity": 75,
-      "wind_kph": 27.6,
+      "temp_c": 10.1,
+      "humidity": 92,
+      "wind_kph": 6.8,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-03-16",
-      "temp_max_c": 16.3,
-      "temp_min_c": 9.2,
+      "temp_max_c": 15.7,
+      "temp_min_c": 9.5,
       "humidity_max": 89,
-      "humidity_min": 42,
-      "wind_kph": 25.3,
+      "humidity_min": 54,
+      "wind_kph": 22,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 5018.79,
     "oilUSD": 79,
-    "updatedAt": "2026-03-15T07:56:48.593Z",
+    "updatedAt": "2026-03-15T19:18:32.222Z",
     "gold24KUSD": 161.36,
     "gold21KUSD": 141.19,
     "gold18KUSD": 121.02,
@@ -67,42 +67,56 @@
   "news": {
     "ai": [
       {
-        "title": "Airbus is preparing two uncrewed combat aircraft",
-        "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
-        "points": 122,
-        "comments": 70,
-        "created_at": "2026-03-14T23:10:24.000Z"
-      },
-      {
-        "title": "Tech boss uses AI and ChatGPT to create cancer vaccine for his dying dog",
-        "url": "https://theaustralian.com.au/business/technology/tech-boss-uses-ai-and-chatgpt-to-create-cancer-vaccine-for-his-dying-dog/news-story/292a21bcbe93efa17810bfcfcdfadbf7?123#qwe",
-        "points": 15,
-        "comments": 1,
-        "created_at": "2026-03-14T21:47:04.000Z"
-      },
-      {
-        "title": "How \"Hardwired\" AI Will Destroy Nvidia's Empire and Change the World",
-        "url": "https://medium.com/@mokrasar/the-last-chip-how-hardwired-ai-will-destroy-nvidias-empire-and-change-the-world-8da20571e706",
-        "points": 19,
+        "title": "Tech companies defeat bill as AI drains local water supplies",
+        "url": "https://www.theolympus.net/13531/",
+        "points": 34,
         "comments": 13,
-        "created_at": "2026-03-14T21:36:36.000Z"
+        "created_at": "2026-03-15T17:49:54.000Z"
       },
       {
-        "title": "Claudetop – htop for Claude Code sessions (see your AI spend in real-time)",
-        "url": "https://github.com/liorwn/claudetop",
-        "points": 51,
-        "comments": 26,
-        "created_at": "2026-03-14T19:26:24.000Z"
+        "title": "Ask HN: How is AI-assisted coding going for you professionally?",
+        "url": "https://news.ycombinator.com/item?id=47388646",
+        "points": 50,
+        "comments": 54,
+        "created_at": "2026-03-15T15:58:23.000Z"
       },
       {
-        "title": "AI Gets Wrong Woman Jailed for Six Months, Life Ruined",
-        "url": "https://www.youtube.com/watch?v=mzS7dmCUzcQ",
-        "points": 73,
-        "comments": 25,
-        "created_at": "2026-03-14T17:24:24.000Z"
+        "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+        "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+        "points": 316,
+        "comments": 286,
+        "created_at": "2026-03-15T10:15:47.000Z"
+      },
+      {
+        "title": "The Appalling Stupidity of Spotify's AI DJ",
+        "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
+        "points": 340,
+        "comments": 269,
+        "created_at": "2026-03-15T08:04:55.000Z"
+      },
+      {
+        "title": "Major investor 'shocked and sad' that the games industry is 'demonizing' gen AI",
+        "url": "https://www.pcgamer.com/software/ai/major-investor-is-shocked-and-sad-that-the-games-industry-is-demonizing-generative-ai/",
+        "points": 11,
+        "comments": 3,
+        "created_at": "2026-03-14T23:15:14.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "The 100 hour gap between a vibecoded prototype and a working product",
+        "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
+        "points": 183,
+        "comments": 239,
+        "created_at": "2026-03-15T12:09:30.000Z"
+      },
+      {
+        "title": "Ask HN: What was it like for programmers when spreadsheets became ubiquitous?",
+        "url": "https://news.ycombinator.com/item?id=47380940",
+        "points": 11,
+        "comments": 11,
+        "created_at": "2026-03-14T20:40:20.000Z"
+      },
       {
         "title": "My spicy take on vibe coding for PMs",
         "url": "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/",
@@ -113,16 +127,30 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?",
+        "url": "https://octetta.github.io/k-synth/",
+        "points": 53,
+        "comments": 27,
+        "created_at": "2026-03-15T12:58:13.000Z"
+      },
+      {
         "title": "Show HN: Han – A Korean programming language written in Rust",
         "url": "https://github.com/xodn348/han",
-        "points": 159,
-        "comments": 91,
+        "points": 201,
+        "comments": 112,
         "created_at": "2026-03-14T21:27:33.000Z"
+      },
+      {
+        "title": "Ask HN: What was it like for programmers when spreadsheets became ubiquitous?",
+        "url": "https://news.ycombinator.com/item?id=47380940",
+        "points": 11,
+        "comments": 11,
+        "created_at": "2026-03-14T20:40:20.000Z"
       },
       {
         "title": "Direnv Is All You Need to Parallelize Agentic Programming with Git Worktrees",
         "url": "https://waldencui.com/post/direnv_is_all_you_need_to_parallelize_claude_code_with_git_worktrees/",
-        "points": 27,
+        "points": 28,
         "comments": 7,
         "created_at": "2026-03-14T02:58:37.000Z"
       },
@@ -132,20 +160,6 @@
         "points": 65,
         "comments": 22,
         "created_at": "2026-03-13T12:15:11.000Z"
-      },
-      {
-        "title": "Show HN: OpenClaw-class agents on ESP32 (and the IDE that makes it possible)",
-        "url": "https://pycoclaw.com/",
-        "points": 29,
-        "comments": 4,
-        "created_at": "2026-03-12T21:38:06.000Z"
-      },
-      {
-        "title": "Custom programming languages make agents good",
-        "url": "https://blog.firetiger.com/custom-programming-languages-make-agents-really-really-smart/",
-        "points": 17,
-        "comments": 8,
-        "created_at": "2026-03-12T15:17:39.000Z"
       }
     ]
   }
