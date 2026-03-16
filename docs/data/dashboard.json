@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-03-16T09:46:07.450Z",
+  "updatedAt": "2026-03-16T19:58:58.536Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 14.4,
-      "humidity": 62,
-      "wind_kph": 22.9,
+      "temp_c": 10.2,
+      "humidity": 90,
+      "wind_kph": 3.2,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-03-17",
-      "temp_max_c": 20.4,
-      "temp_min_c": 6.3,
-      "humidity_max": 92,
-      "humidity_min": 39,
-      "wind_kph": 17.4,
+      "temp_max_c": 19.9,
+      "temp_min_c": 6.5,
+      "humidity_max": 94,
+      "humidity_min": 40,
+      "wind_kph": 15.6,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 5019.59,
     "oilUSD": 79,
-    "updatedAt": "2026-03-16T09:46:07.450Z",
+    "updatedAt": "2026-03-16T19:58:58.536Z",
     "gold24KUSD": 161.38,
     "gold21KUSD": 141.21,
     "gold18KUSD": 121.04,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8738,
-    "GBP": 0.7546,
-    "SAR": 3.7528
+    "EUR": 0.8727,
+    "GBP": 0.754,
+    "SAR": 3.7505
   },
   "prayer": {
     "fajr": "04:38",
@@ -67,54 +67,54 @@
   "news": {
     "ai": [
       {
-        "title": "Why I may ‘hire’ AI instead of a graduate student",
-        "url": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student",
+        "title": "Launch HN: Chamber (YC W26) – An AI Teammate for GPU Infrastructure",
+        "url": "https://www.usechamber.io/",
+        "points": 14,
+        "comments": 3,
+        "created_at": "2026-03-16T17:09:34.000Z"
+      },
+      {
+        "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects",
+        "url": "https://arxiv.org/abs/2511.04427",
+        "points": 53,
+        "comments": 24,
+        "created_at": "2026-03-16T17:07:37.000Z"
+      },
+      {
+        "title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
+        "url": "https://news.ycombinator.com/item?id=47401042",
         "points": 42,
-        "comments": 41,
-        "created_at": "2026-03-16T08:59:13.000Z"
+        "comments": 21,
+        "created_at": "2026-03-16T16:21:07.000Z"
       },
       {
-        "title": "Tell HN: AI tools are making me lose interest in CS fundamentals",
-        "url": "https://news.ycombinator.com/item?id=47394291",
-        "points": 61,
-        "comments": 63,
-        "created_at": "2026-03-16T02:02:12.000Z"
+        "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
+        "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
+        "points": 90,
+        "comments": 84,
+        "created_at": "2026-03-16T15:25:36.000Z"
       },
       {
-        "title": "Quillx is an open standard for disclosing AI involvement in software projects",
-        "url": "https://github.com/QAInsights/AIx",
-        "points": 21,
-        "comments": 30,
-        "created_at": "2026-03-16T01:21:39.000Z"
-      },
-      {
-        "title": "AI generates nude images that outrank real photographs in sexual appeal",
-        "url": "https://www.psypost.org/ai-generates-nude-images-that-outrank-real-photographs-in-sexual-appeal-study-finds/",
-        "points": 25,
-        "comments": 7,
-        "created_at": "2026-03-15T23:48:39.000Z"
-      },
-      {
-        "title": "Show HN: Open-source playground to red-team AI agents with exploits published",
-        "url": "https://github.com/fabraix/playground",
-        "points": 25,
-        "comments": 8,
-        "created_at": "2026-03-15T22:29:46.000Z"
+        "title": "Which jobs are most vulnerable to AI?",
+        "url": "https://www.washingtonpost.com/technology/interactive/2026/jobs-most-affected-ai-automation/",
+        "points": 15,
+        "comments": 20,
+        "created_at": "2026-03-16T15:15:37.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "The 100 hour gap between a vibecoded prototype and a working product",
         "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
-        "points": 238,
-        "comments": 314,
+        "points": 257,
+        "comments": 330,
         "created_at": "2026-03-15T12:09:30.000Z"
       },
       {
         "title": "Ask HN: What was it like for programmers when spreadsheets became ubiquitous?",
         "url": "https://news.ycombinator.com/item?id=47380940",
-        "points": 11,
-        "comments": 11,
+        "points": 12,
+        "comments": 12,
         "created_at": "2026-03-14T20:40:20.000Z"
       },
       {
@@ -129,36 +129,36 @@
       {
         "title": "The Linux Programming Interface as a university course text",
         "url": "https://man7.org/tlpi/academic/index.html",
-        "points": 97,
-        "comments": 10,
+        "points": 157,
+        "comments": 33,
         "created_at": "2026-03-15T23:51:26.000Z"
       },
       {
         "title": "Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?",
         "url": "https://octetta.github.io/k-synth/",
-        "points": 84,
-        "comments": 29,
+        "points": 88,
+        "comments": 31,
         "created_at": "2026-03-15T12:58:13.000Z"
       },
       {
         "title": "Show HN: Han – A Korean programming language written in Rust",
         "url": "https://github.com/xodn348/han",
-        "points": 205,
-        "comments": 114,
+        "points": 206,
+        "comments": 115,
         "created_at": "2026-03-14T21:27:33.000Z"
       },
       {
         "title": "Ask HN: What was it like for programmers when spreadsheets became ubiquitous?",
         "url": "https://news.ycombinator.com/item?id=47380940",
-        "points": 11,
-        "comments": 11,
+        "points": 12,
+        "comments": 12,
         "created_at": "2026-03-14T20:40:20.000Z"
       },
       {
         "title": "Direnv Is All You Need to Parallelize Agentic Programming with Git Worktrees",
         "url": "https://waldencui.com/post/direnv_is_all_you_need_to_parallelize_claude_code_with_git_worktrees/",
         "points": 29,
-        "comments": 7,
+        "comments": 8,
         "created_at": "2026-03-14T02:58:37.000Z"
       }
     ]
