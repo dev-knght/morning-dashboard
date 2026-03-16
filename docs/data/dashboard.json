@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-03-15T19:18:32.222Z",
+  "updatedAt": "2026-03-16T09:46:07.450Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 10.1,
-      "humidity": 92,
-      "wind_kph": 6.8,
+      "temp_c": 14.4,
+      "humidity": 62,
+      "wind_kph": 22.9,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-03-16",
-      "temp_max_c": 15.7,
-      "temp_min_c": 9.5,
-      "humidity_max": 89,
-      "humidity_min": 54,
-      "wind_kph": 22,
+      "date": "2026-03-17",
+      "temp_max_c": 20.4,
+      "temp_min_c": 6.3,
+      "humidity_max": 92,
+      "humidity_min": 39,
+      "wind_kph": 17.4,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 5018.79,
+    "goldUSD": 5019.59,
     "oilUSD": 79,
-    "updatedAt": "2026-03-15T19:18:32.222Z",
-    "gold24KUSD": 161.36,
-    "gold21KUSD": 141.19,
-    "gold18KUSD": 121.02,
-    "gold24KJD": 114.4,
-    "gold21KJD": 100.1,
-    "gold18KJD": 85.8
+    "updatedAt": "2026-03-16T09:46:07.450Z",
+    "gold24KUSD": 161.38,
+    "gold21KUSD": 141.21,
+    "gold18KUSD": 121.04,
+    "gold24KJD": 114.42,
+    "gold21KJD": 100.12,
+    "gold18KJD": 85.82
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8717,
-    "GBP": 0.7531,
-    "SAR": 3.7518
+    "EUR": 0.8738,
+    "GBP": 0.7546,
+    "SAR": 3.7528
   },
   "prayer": {
-    "fajr": "04:40",
-    "maghrib": "17:44",
-    "date": "15 Mar 2015"
+    "fajr": "04:38",
+    "maghrib": "17:45",
+    "date": "16 Mar 2016"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "Tech companies defeat bill as AI drains local water supplies",
-        "url": "https://www.theolympus.net/13531/",
-        "points": 34,
-        "comments": 13,
-        "created_at": "2026-03-15T17:49:54.000Z"
+        "title": "Why I may ‘hire’ AI instead of a graduate student",
+        "url": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student",
+        "points": 42,
+        "comments": 41,
+        "created_at": "2026-03-16T08:59:13.000Z"
       },
       {
-        "title": "Ask HN: How is AI-assisted coding going for you professionally?",
-        "url": "https://news.ycombinator.com/item?id=47388646",
-        "points": 50,
-        "comments": 54,
-        "created_at": "2026-03-15T15:58:23.000Z"
+        "title": "Tell HN: AI tools are making me lose interest in CS fundamentals",
+        "url": "https://news.ycombinator.com/item?id=47394291",
+        "points": 61,
+        "comments": 63,
+        "created_at": "2026-03-16T02:02:12.000Z"
       },
       {
-        "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
-        "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-        "points": 316,
-        "comments": 286,
-        "created_at": "2026-03-15T10:15:47.000Z"
+        "title": "Quillx is an open standard for disclosing AI involvement in software projects",
+        "url": "https://github.com/QAInsights/AIx",
+        "points": 21,
+        "comments": 30,
+        "created_at": "2026-03-16T01:21:39.000Z"
       },
       {
-        "title": "The Appalling Stupidity of Spotify's AI DJ",
-        "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
-        "points": 340,
-        "comments": 269,
-        "created_at": "2026-03-15T08:04:55.000Z"
+        "title": "AI generates nude images that outrank real photographs in sexual appeal",
+        "url": "https://www.psypost.org/ai-generates-nude-images-that-outrank-real-photographs-in-sexual-appeal-study-finds/",
+        "points": 25,
+        "comments": 7,
+        "created_at": "2026-03-15T23:48:39.000Z"
       },
       {
-        "title": "Major investor 'shocked and sad' that the games industry is 'demonizing' gen AI",
-        "url": "https://www.pcgamer.com/software/ai/major-investor-is-shocked-and-sad-that-the-games-industry-is-demonizing-generative-ai/",
-        "points": 11,
-        "comments": 3,
-        "created_at": "2026-03-14T23:15:14.000Z"
+        "title": "Show HN: Open-source playground to red-team AI agents with exploits published",
+        "url": "https://github.com/fabraix/playground",
+        "points": 25,
+        "comments": 8,
+        "created_at": "2026-03-15T22:29:46.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "The 100 hour gap between a vibecoded prototype and a working product",
         "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
-        "points": 183,
-        "comments": 239,
+        "points": 238,
+        "comments": 314,
         "created_at": "2026-03-15T12:09:30.000Z"
       },
       {
@@ -127,17 +127,24 @@
     ],
     "progDb": [
       {
+        "title": "The Linux Programming Interface as a university course text",
+        "url": "https://man7.org/tlpi/academic/index.html",
+        "points": 97,
+        "comments": 10,
+        "created_at": "2026-03-15T23:51:26.000Z"
+      },
+      {
         "title": "Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?",
         "url": "https://octetta.github.io/k-synth/",
-        "points": 53,
-        "comments": 27,
+        "points": 84,
+        "comments": 29,
         "created_at": "2026-03-15T12:58:13.000Z"
       },
       {
         "title": "Show HN: Han – A Korean programming language written in Rust",
         "url": "https://github.com/xodn348/han",
-        "points": 201,
-        "comments": 112,
+        "points": 205,
+        "comments": 114,
         "created_at": "2026-03-14T21:27:33.000Z"
       },
       {
@@ -150,16 +157,9 @@
       {
         "title": "Direnv Is All You Need to Parallelize Agentic Programming with Git Worktrees",
         "url": "https://waldencui.com/post/direnv_is_all_you_need_to_parallelize_claude_code_with_git_worktrees/",
-        "points": 28,
+        "points": 29,
         "comments": 7,
         "created_at": "2026-03-14T02:58:37.000Z"
-      },
-      {
-        "title": "Show HN: Algorithms and Data Structures in TypeScript – Free Book (~400 Pages)",
-        "url": "http://amoilanen.github.io/Algorithms-with-Typescript/",
-        "points": 65,
-        "comments": 22,
-        "created_at": "2026-03-13T12:15:11.000Z"
       }
     ]
   }
