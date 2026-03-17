@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-03-16T19:58:58.536Z",
+  "updatedAt": "2026-03-17T08:07:19.643Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 10.2,
-      "humidity": 90,
-      "wind_kph": 3.2,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 15.4,
+      "humidity": 58,
+      "wind_kph": 18.6,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-03-17",
-      "temp_max_c": 19.9,
-      "temp_min_c": 6.5,
-      "humidity_max": 94,
-      "humidity_min": 40,
-      "wind_kph": 15.6,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-03-18",
+      "temp_max_c": 22.3,
+      "temp_min_c": 8.5,
+      "humidity_max": 86,
+      "humidity_min": 28,
+      "wind_kph": 28.3,
+      "weather_code": 61,
+      "weather_desc": "Slight rain"
     }
   },
   "metals": {
-    "goldUSD": 5019.59,
+    "goldUSD": 4999.75,
     "oilUSD": 79,
-    "updatedAt": "2026-03-16T19:58:58.536Z",
-    "gold24KUSD": 161.38,
-    "gold21KUSD": 141.21,
-    "gold18KUSD": 121.04,
-    "gold24KJD": 114.42,
-    "gold21KJD": 100.12,
-    "gold18KJD": 85.82
+    "updatedAt": "2026-03-17T08:07:19.643Z",
+    "gold24KUSD": 160.75,
+    "gold21KUSD": 140.65,
+    "gold18KUSD": 120.56,
+    "gold24KJD": 113.97,
+    "gold21KJD": 99.72,
+    "gold18KJD": 85.48
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8727,
-    "GBP": 0.754,
-    "SAR": 3.7505
+    "EUR": 0.8698,
+    "GBP": 0.7512,
+    "SAR": 3.7529
   },
   "prayer": {
-    "fajr": "04:38",
-    "maghrib": "17:45",
-    "date": "16 Mar 2016"
+    "fajr": "04:37",
+    "maghrib": "17:46",
+    "date": "17 Mar 2017"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "Launch HN: Chamber (YC W26) – An AI Teammate for GPU Infrastructure",
-        "url": "https://www.usechamber.io/",
+        "title": "AI still doesn't work well, businesses are faking it, and a reckoning is coming",
+        "url": "https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/",
+        "points": 24,
+        "comments": 4,
+        "created_at": "2026-03-17T00:56:47.000Z"
+      },
+      {
+        "title": "Elon Musk's xAI sued for turning three girls' real photos into AI CSAM",
+        "url": "https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/",
+        "points": 20,
+        "comments": 1,
+        "created_at": "2026-03-16T23:58:44.000Z"
+      },
+      {
+        "title": "Amazon finds out AI programming isn't all it's cracked up to be",
+        "url": "https://www.computerworld.com/article/4145573/amazon-finds-out-ai-programming-isnt-all-its-cracked-up-to-be.html",
+        "points": 24,
+        "comments": 2,
+        "created_at": "2026-03-16T20:46:43.000Z"
+      },
+      {
+        "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
+        "points": 155,
+        "comments": 88,
+        "created_at": "2026-03-16T20:01:02.000Z"
+      },
+      {
+        "title": "Trump Airs a House Republican's Terminal Diagnosis, Claiming to Have Reversed It",
+        "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-neal-dunn-terminal-diagnosis-johnson.html",
         "points": 14,
-        "comments": 3,
-        "created_at": "2026-03-16T17:09:34.000Z"
-      },
-      {
-        "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects",
-        "url": "https://arxiv.org/abs/2511.04427",
-        "points": 53,
-        "comments": 24,
-        "created_at": "2026-03-16T17:07:37.000Z"
-      },
-      {
-        "title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
-        "url": "https://news.ycombinator.com/item?id=47401042",
-        "points": 42,
-        "comments": 21,
-        "created_at": "2026-03-16T16:21:07.000Z"
-      },
-      {
-        "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-        "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
-        "points": 90,
-        "comments": 84,
-        "created_at": "2026-03-16T15:25:36.000Z"
-      },
-      {
-        "title": "Which jobs are most vulnerable to AI?",
-        "url": "https://www.washingtonpost.com/technology/interactive/2026/jobs-most-affected-ai-automation/",
-        "points": 15,
-        "comments": 20,
-        "created_at": "2026-03-16T15:15:37.000Z"
+        "comments": 5,
+        "created_at": "2026-03-16T19:29:55.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "The 100 hour gap between a vibecoded prototype and a working product",
         "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
-        "points": 257,
-        "comments": 330,
+        "points": 261,
+        "comments": 332,
         "created_at": "2026-03-15T12:09:30.000Z"
       },
       {
@@ -127,39 +127,39 @@
     ],
     "progDb": [
       {
+        "title": "Amazon finds out AI programming isn't all it's cracked up to be",
+        "url": "https://www.computerworld.com/article/4145573/amazon-finds-out-ai-programming-isnt-all-its-cracked-up-to-be.html",
+        "points": 24,
+        "comments": 2,
+        "created_at": "2026-03-16T20:46:43.000Z"
+      },
+      {
+        "title": "Methods in Languages for Systems Programming (2023)",
+        "url": "https://blog.xoria.org/methods/",
+        "points": 17,
+        "comments": 7,
+        "created_at": "2026-03-16T16:51:29.000Z"
+      },
+      {
         "title": "The Linux Programming Interface as a university course text",
         "url": "https://man7.org/tlpi/academic/index.html",
-        "points": 157,
-        "comments": 33,
+        "points": 174,
+        "comments": 39,
         "created_at": "2026-03-15T23:51:26.000Z"
       },
       {
         "title": "Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?",
         "url": "https://octetta.github.io/k-synth/",
-        "points": 88,
+        "points": 90,
         "comments": 31,
         "created_at": "2026-03-15T12:58:13.000Z"
       },
       {
         "title": "Show HN: Han – A Korean programming language written in Rust",
         "url": "https://github.com/xodn348/han",
-        "points": 206,
-        "comments": 115,
+        "points": 207,
+        "comments": 116,
         "created_at": "2026-03-14T21:27:33.000Z"
-      },
-      {
-        "title": "Ask HN: What was it like for programmers when spreadsheets became ubiquitous?",
-        "url": "https://news.ycombinator.com/item?id=47380940",
-        "points": 12,
-        "comments": 12,
-        "created_at": "2026-03-14T20:40:20.000Z"
-      },
-      {
-        "title": "Direnv Is All You Need to Parallelize Agentic Programming with Git Worktrees",
-        "url": "https://waldencui.com/post/direnv_is_all_you_need_to_parallelize_claude_code_with_git_worktrees/",
-        "points": 29,
-        "comments": 8,
-        "created_at": "2026-03-14T02:58:37.000Z"
       }
     ]
   }
