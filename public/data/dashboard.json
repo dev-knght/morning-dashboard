@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-03-17T20:01:36.261Z",
+  "updatedAt": "2026-03-18T08:04:53.573Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 11.9,
-      "humidity": 72,
-      "wind_kph": 6.2,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 18.1,
+      "humidity": 35,
+      "wind_kph": 30,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-03-18",
-      "temp_max_c": 22.6,
-      "temp_min_c": 8.7,
-      "humidity_max": 80,
-      "humidity_min": 28,
-      "wind_kph": 30.1,
-      "weather_code": 61,
-      "weather_desc": "Slight rain"
+      "date": "2026-03-19",
+      "temp_max_c": 17.2,
+      "temp_min_c": 11.1,
+      "humidity_max": 94,
+      "humidity_min": 53,
+      "wind_kph": 31.3,
+      "weather_code": 95,
+      "weather_desc": "Thunderstorm"
     }
   },
   "metals": {
-    "goldUSD": 4999.75,
+    "goldUSD": 5010.71,
     "oilUSD": 79,
-    "updatedAt": "2026-03-17T20:01:36.261Z",
-    "gold24KUSD": 160.75,
-    "gold21KUSD": 140.65,
-    "gold18KUSD": 120.56,
-    "gold24KJD": 113.97,
-    "gold21KJD": 99.72,
-    "gold18KJD": 85.48
+    "updatedAt": "2026-03-18T08:04:53.573Z",
+    "gold24KUSD": 161.1,
+    "gold21KUSD": 140.96,
+    "gold18KUSD": 120.82,
+    "gold24KJD": 114.22,
+    "gold21KJD": 99.94,
+    "gold18KJD": 85.66
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8685,
-    "GBP": 0.7503,
-    "SAR": 3.7505
+    "EUR": 0.8664,
+    "GBP": 0.7483,
+    "SAR": 3.7555
   },
   "prayer": {
-    "fajr": "04:37",
+    "fajr": "04:36",
     "maghrib": "17:46",
-    "date": "17 Mar 2017"
+    "date": "18 Mar 2018"
   },
   "events": [
     {
@@ -67,47 +67,54 @@
   "news": {
     "ai": [
       {
-        "title": "Show HN: March Madness Bracket Challenge for AI Agents Only",
-        "url": "https://www.Bracketmadness.ai",
-        "points": 51,
-        "comments": 22,
-        "created_at": "2026-03-17T12:56:24.000Z"
+        "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+        "url": "https://amaiya.github.io/onprem/examples_agent.html",
+        "points": 31,
+        "comments": 6,
+        "created_at": "2026-03-18T01:10:19.000Z"
       },
       {
-        "title": "Encyclopedia Britannica sues OpenAI over AI training",
-        "url": "https://www.reuters.com/legal/litigation/encyclopedia-britannica-sues-openai-over-ai-training-2026-03-16/",
-        "points": 17,
-        "comments": 3,
-        "created_at": "2026-03-17T07:00:48.000Z"
+        "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
+        "url": "https://arxiv.org/abs/2603.15381",
+        "points": 98,
+        "comments": 29,
+        "created_at": "2026-03-17T21:42:39.000Z"
       },
       {
-        "title": "AI still doesn't work well, businesses are faking it, and a reckoning is coming",
-        "url": "https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/",
-        "points": 59,
-        "comments": 17,
-        "created_at": "2026-03-17T00:56:47.000Z"
+        "title": "Mistral AI Releases Forge",
+        "url": "https://mistral.ai/news/forge",
+        "points": 360,
+        "comments": 64,
+        "created_at": "2026-03-17T21:04:26.000Z"
       },
       {
-        "title": "Elon Musk's xAI sued for turning three girls' real photos into AI CSAM",
-        "url": "https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/",
-        "points": 21,
-        "comments": 1,
-        "created_at": "2026-03-16T23:58:44.000Z"
+        "title": "Nvidia's DLSS 5 uses generative AI to boost photorealism in video games",
+        "url": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
+        "points": 19,
+        "comments": 28,
+        "created_at": "2026-03-17T19:35:24.000Z"
       },
       {
-        "title": "Amazon finds out AI programming isn't all it's cracked up to be",
-        "url": "https://www.computerworld.com/article/4145573/amazon-finds-out-ai-programming-isnt-all-its-cracked-up-to-be.html",
-        "points": 24,
-        "comments": 2,
-        "created_at": "2026-03-16T20:46:43.000Z"
+        "title": "Why refusing AI is a fight for the soul",
+        "url": "https://restofworld.org/2026/techno-negative-thomas-dekeyser-fighting-ai/",
+        "points": 22,
+        "comments": 6,
+        "created_at": "2026-03-17T17:07:32.000Z"
       }
     ],
     "vibeCoding": [
       {
+        "title": "Ask HN: Is vibe coding a new mandatory job requirement?",
+        "url": "https://news.ycombinator.com/item?id=47420767",
+        "points": 26,
+        "comments": 44,
+        "created_at": "2026-03-18T01:56:53.000Z"
+      },
+      {
         "title": "The 100 hour gap between a vibecoded prototype and a working product",
         "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
         "points": 261,
-        "comments": 334,
+        "comments": 328,
         "created_at": "2026-03-15T12:09:30.000Z"
       },
       {
@@ -116,20 +123,13 @@
         "points": 12,
         "comments": 12,
         "created_at": "2026-03-14T20:40:20.000Z"
-      },
-      {
-        "title": "My spicy take on vibe coding for PMs",
-        "url": "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/",
-        "points": 206,
-        "comments": 192,
-        "created_at": "2026-03-03T23:38:21.000Z"
       }
     ],
     "progDb": [
       {
         "title": "The Functional Programming Hiring Problem",
         "url": "https://blog.janissary.xyz/posts/hiring-functional-programming",
-        "points": 25,
+        "points": 31,
         "comments": 12,
         "created_at": "2026-03-17T03:27:18.000Z"
       },
@@ -150,7 +150,7 @@
       {
         "title": "The Linux Programming Interface as a university course text",
         "url": "https://man7.org/tlpi/academic/index.html",
-        "points": 183,
+        "points": 186,
         "comments": 41,
         "created_at": "2026-03-15T23:51:26.000Z"
       },
