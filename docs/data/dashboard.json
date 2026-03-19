@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-03-19T08:00:25.760Z",
+  "updatedAt": "2026-03-19T19:56:11.217Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.9,
-      "humidity": 64,
-      "wind_kph": 21.7,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 11.6,
+      "humidity": 93,
+      "wind_kph": 22.2,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     },
     "tomorrow": {
       "date": "2026-03-20",
-      "temp_max_c": 15.3,
-      "temp_min_c": 10.1,
+      "temp_max_c": 15.8,
+      "temp_min_c": 10.4,
       "humidity_max": 95,
-      "humidity_min": 55,
-      "wind_kph": 30.5,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "humidity_min": 51,
+      "wind_kph": 33.4,
+      "weather_code": 95,
+      "weather_desc": "Thunderstorm"
     }
   },
   "metals": {
     "goldUSD": 5012,
     "oilUSD": 79,
-    "updatedAt": "2026-03-19T08:00:25.760Z",
+    "updatedAt": "2026-03-19T19:56:11.217Z",
     "gold24KUSD": 161.14,
     "gold21KUSD": 141,
     "gold18KUSD": 120.85,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.872,
-    "GBP": 0.7533,
-    "SAR": 3.7547
+    "EUR": 0.8711,
+    "GBP": 0.7526,
+    "SAR": 3.7506
   },
   "prayer": {
     "fajr": "04:35",
@@ -67,54 +67,54 @@
   "news": {
     "ai": [
       {
-        "title": "What 81,000 people want from AI",
-        "url": "https://www.anthropic.com/features/81k-interviews",
-        "points": 90,
-        "comments": 68,
-        "created_at": "2026-03-19T05:00:56.000Z"
-      },
-      {
-        "title": "A BEAM-native personal autonomous AI agent built on Elixir/OTP",
-        "url": "https://github.com/thatsme/AlexClaw",
-        "points": 21,
-        "comments": 0,
-        "created_at": "2026-03-18T21:52:33.000Z"
-      },
-      {
-        "title": "Val Kilmer set to be be resurrected with AI for new film",
-        "url": "https://www.theguardian.com/film/2026/mar/18/val-kilmer-resurrected-in-movie-ai",
-        "points": 12,
+        "title": "Show HN: I built a P2P network where AI agents publish formally verified science",
+        "url": "https://news.ycombinator.com/item?id=47444212",
+        "points": 14,
         "comments": 3,
-        "created_at": "2026-03-18T20:24:34.000Z"
+        "created_at": "2026-03-19T19:00:43.000Z"
       },
       {
-        "title": "AI chatbots often validate delusions and suicidal thoughts, study finds",
-        "url": "https://www.ft.com/content/7f635a68-3b2a-4e4f-ae3d-926ff06ff068",
-        "points": 33,
-        "comments": 11,
-        "created_at": "2026-03-18T17:34:50.000Z"
+        "title": "A rogue AI led to a serious security incident at Meta",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+        "points": 52,
+        "comments": 34,
+        "created_at": "2026-03-19T18:59:02.000Z"
       },
       {
-        "title": "AI coding is gambling",
-        "url": "https://notes.visaint.space/ai-coding-is-gambling/",
-        "points": 326,
-        "comments": 397,
-        "created_at": "2026-03-18T17:22:02.000Z"
+        "title": "Launch HN: Canary (YC W26) – AI QA that understands your code",
+        "url": "https://news.ycombinator.com/item?id=47441629",
+        "points": 21,
+        "comments": 12,
+        "created_at": "2026-03-19T16:01:30.000Z"
+      },
+      {
+        "title": "AI Isn't Killing Developers–It's Creating a $10T Maintenance Crisis",
+        "url": "https://rakiabensassi.substack.com/p/ai-isnt-killing-developersits-creating",
+        "points": 23,
+        "comments": 9,
+        "created_at": "2026-03-19T14:31:58.000Z"
+      },
+      {
+        "title": "Top AI models underperform in languages other than English",
+        "url": "https://www.economist.com/science-and-technology/2026/03/18/top-ai-models-underperform-in-languages-other-than-english",
+        "points": 19,
+        "comments": 4,
+        "created_at": "2026-03-19T12:28:47.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: Is vibe coding a new mandatory job requirement?",
         "url": "https://news.ycombinator.com/item?id=47420767",
-        "points": 30,
-        "comments": 66,
+        "points": 31,
+        "comments": 70,
         "created_at": "2026-03-18T01:56:53.000Z"
       },
       {
         "title": "The 100 hour gap between a vibecoded prototype and a working product",
         "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
         "points": 261,
-        "comments": 330,
+        "comments": 332,
         "created_at": "2026-03-15T12:09:30.000Z"
       },
       {
@@ -127,16 +127,23 @@
     ],
     "progDb": [
       {
+        "title": "The Two Worlds of Programming",
+        "url": "https://www.baldurbjarnason.com/2026/the-two-worlds-of-programming/",
+        "points": 12,
+        "comments": 3,
+        "created_at": "2026-03-19T12:52:48.000Z"
+      },
+      {
         "title": "Rob Pike’s Rules of Programming (1989)",
         "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-        "points": 918,
-        "comments": 431,
+        "points": 956,
+        "comments": 446,
         "created_at": "2026-03-18T09:59:54.000Z"
       },
       {
         "title": "The Functional Programming Hiring Problem",
         "url": "https://blog.janissary.xyz/posts/hiring-functional-programming",
-        "points": 35,
+        "points": 36,
         "comments": 14,
         "created_at": "2026-03-17T03:27:18.000Z"
       },
@@ -153,13 +160,6 @@
         "points": 18,
         "comments": 8,
         "created_at": "2026-03-16T16:51:29.000Z"
-      },
-      {
-        "title": "The Linux Programming Interface as a university course text",
-        "url": "https://man7.org/tlpi/academic/index.html",
-        "points": 191,
-        "comments": 41,
-        "created_at": "2026-03-15T23:51:26.000Z"
       }
     ]
   }
