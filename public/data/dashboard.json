@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-03-19T19:56:11.217Z",
+  "updatedAt": "2026-03-20T06:55:09.477Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 11.6,
-      "humidity": 93,
-      "wind_kph": 22.2,
+      "temp_c": 12.9,
+      "humidity": 76,
+      "wind_kph": 28.5,
       "weather_code": 80,
       "weather_desc": "Slight rain showers"
     },
     "tomorrow": {
-      "date": "2026-03-20",
-      "temp_max_c": 15.8,
-      "temp_min_c": 10.4,
-      "humidity_max": 95,
-      "humidity_min": 51,
-      "wind_kph": 33.4,
+      "date": "2026-03-21",
+      "temp_max_c": 13.6,
+      "temp_min_c": 7.4,
+      "humidity_max": 91,
+      "humidity_min": 65,
+      "wind_kph": 28.7,
       "weather_code": 95,
       "weather_desc": "Thunderstorm"
     }
   },
   "metals": {
-    "goldUSD": 5012,
+    "goldUSD": 4838.91,
     "oilUSD": 79,
-    "updatedAt": "2026-03-19T19:56:11.217Z",
-    "gold24KUSD": 161.14,
-    "gold21KUSD": 141,
-    "gold18KUSD": 120.85,
-    "gold24KJD": 114.25,
-    "gold21KJD": 99.97,
-    "gold18KJD": 85.69
+    "updatedAt": "2026-03-20T06:55:09.477Z",
+    "gold24KUSD": 155.57,
+    "gold21KUSD": 136.13,
+    "gold18KUSD": 116.68,
+    "gold24KJD": 110.3,
+    "gold21KJD": 96.51,
+    "gold18KJD": 82.73
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8711,
-    "GBP": 0.7526,
-    "SAR": 3.7506
+    "EUR": 0.8651,
+    "GBP": 0.746,
+    "SAR": 3.7527
   },
   "prayer": {
-    "fajr": "04:35",
-    "maghrib": "17:47",
-    "date": "19 Mar 2019"
+    "fajr": "04:33",
+    "maghrib": "17:48",
+    "date": "20 Mar 2020"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
+        "title": "Be intentional about how AI changes your codebase",
+        "url": "https://aicode.swerdlow.dev",
+        "points": 102,
+        "comments": 39,
+        "created_at": "2026-03-19T21:23:24.000Z"
+      },
+      {
+        "title": "The Need for an Independent AI Grid",
+        "url": "https://amppublic.com/",
+        "points": 23,
+        "comments": 3,
+        "created_at": "2026-03-19T21:13:40.000Z"
+      },
+      {
+        "title": "No AI in Node.js Core",
+        "url": "https://github.com/indutny/no-ai-in-nodejs-core",
+        "points": 50,
+        "comments": 28,
+        "created_at": "2026-03-19T19:35:37.000Z"
+      },
+      {
+        "title": "AI won't fix your family drama, might help you hear what they're trying to say",
+        "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/19/i-asked-ai-to-explain-my-mother-to-me",
+        "points": 13,
+        "comments": 4,
+        "created_at": "2026-03-19T19:05:29.000Z"
+      },
+      {
         "title": "Show HN: I built a P2P network where AI agents publish formally verified science",
         "url": "https://news.ycombinator.com/item?id=47444212",
-        "points": 14,
-        "comments": 3,
+        "points": 35,
+        "comments": 8,
         "created_at": "2026-03-19T19:00:43.000Z"
-      },
-      {
-        "title": "A rogue AI led to a serious security incident at Meta",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
-        "points": 52,
-        "comments": 34,
-        "created_at": "2026-03-19T18:59:02.000Z"
-      },
-      {
-        "title": "Launch HN: Canary (YC W26) – AI QA that understands your code",
-        "url": "https://news.ycombinator.com/item?id=47441629",
-        "points": 21,
-        "comments": 12,
-        "created_at": "2026-03-19T16:01:30.000Z"
-      },
-      {
-        "title": "AI Isn't Killing Developers–It's Creating a $10T Maintenance Crisis",
-        "url": "https://rakiabensassi.substack.com/p/ai-isnt-killing-developersits-creating",
-        "points": 23,
-        "comments": 9,
-        "created_at": "2026-03-19T14:31:58.000Z"
-      },
-      {
-        "title": "Top AI models underperform in languages other than English",
-        "url": "https://www.economist.com/science-and-technology/2026/03/18/top-ai-models-underperform-in-languages-other-than-english",
-        "points": 19,
-        "comments": 4,
-        "created_at": "2026-03-19T12:28:47.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: Is vibe coding a new mandatory job requirement?",
         "url": "https://news.ycombinator.com/item?id=47420767",
-        "points": 31,
-        "comments": 70,
+        "points": 33,
+        "comments": 71,
         "created_at": "2026-03-18T01:56:53.000Z"
       },
       {
@@ -129,14 +129,14 @@
       {
         "title": "The Two Worlds of Programming",
         "url": "https://www.baldurbjarnason.com/2026/the-two-worlds-of-programming/",
-        "points": 12,
+        "points": 13,
         "comments": 3,
         "created_at": "2026-03-19T12:52:48.000Z"
       },
       {
         "title": "Rob Pike’s Rules of Programming (1989)",
         "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-        "points": 956,
+        "points": 972,
         "comments": 446,
         "created_at": "2026-03-18T09:59:54.000Z"
       },
