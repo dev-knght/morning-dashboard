@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-03-20T06:55:09.477Z",
+  "updatedAt": "2026-03-20T18:50:23.879Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 12.9,
-      "humidity": 76,
-      "wind_kph": 28.5,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "temp_c": 11.5,
+      "humidity": 73,
+      "wind_kph": 4.7,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-03-21",
-      "temp_max_c": 13.6,
-      "temp_min_c": 7.4,
-      "humidity_max": 91,
-      "humidity_min": 65,
-      "wind_kph": 28.7,
+      "temp_max_c": 14.5,
+      "temp_min_c": 8.1,
+      "humidity_max": 96,
+      "humidity_min": 52,
+      "wind_kph": 25.9,
       "weather_code": 95,
       "weather_desc": "Thunderstorm"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4838.91,
     "oilUSD": 79,
-    "updatedAt": "2026-03-20T06:55:09.477Z",
+    "updatedAt": "2026-03-20T18:50:23.879Z",
     "gold24KUSD": 155.57,
     "gold21KUSD": 136.13,
     "gold18KUSD": 116.68,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8651,
-    "GBP": 0.746,
-    "SAR": 3.7527
+    "EUR": 0.8655,
+    "GBP": 0.7471,
+    "SAR": 3.7508
   },
   "prayer": {
     "fajr": "04:33",
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "Be intentional about how AI changes your codebase",
-        "url": "https://aicode.swerdlow.dev",
-        "points": 102,
-        "comments": 39,
-        "created_at": "2026-03-19T21:23:24.000Z"
+        "title": "Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility",
+        "url": "https://news.ycombinator.com/item?id=47457472",
+        "points": 19,
+        "comments": 17,
+        "created_at": "2026-03-20T17:05:38.000Z"
       },
       {
-        "title": "The Need for an Independent AI Grid",
-        "url": "https://amppublic.com/",
-        "points": 23,
-        "comments": 3,
-        "created_at": "2026-03-19T21:13:40.000Z"
+        "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
+        "url": "https://www.sharpai.org/benchmark/",
+        "points": 83,
+        "comments": 96,
+        "created_at": "2026-03-20T16:41:42.000Z"
       },
       {
-        "title": "No AI in Node.js Core",
-        "url": "https://github.com/indutny/no-ai-in-nodejs-core",
-        "points": 50,
-        "comments": 28,
-        "created_at": "2026-03-19T19:35:37.000Z"
+        "title": "We Have 700 AI Agents Playing a Game We Don't Understand",
+        "url": "https://www.spacemolt.com/news/700-agents",
+        "points": 12,
+        "comments": 1,
+        "created_at": "2026-03-20T15:30:18.000Z"
       },
       {
-        "title": "AI won't fix your family drama, might help you hear what they're trying to say",
-        "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/19/i-asked-ai-to-explain-my-mother-to-me",
+        "title": "Google Search is now using AI to replace headlines",
+        "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
+        "points": 33,
+        "comments": 10,
+        "created_at": "2026-03-20T14:39:05.000Z"
+      },
+      {
+        "title": "Trump Unveils National AI Legislative Framework",
+        "url": "https://www.whitehouse.gov/articles/2026/03/president-donald-j-trump-unveils-national-ai-legislative-framework/",
         "points": 13,
-        "comments": 4,
-        "created_at": "2026-03-19T19:05:29.000Z"
-      },
-      {
-        "title": "Show HN: I built a P2P network where AI agents publish formally verified science",
-        "url": "https://news.ycombinator.com/item?id=47444212",
-        "points": 35,
-        "comments": 8,
-        "created_at": "2026-03-19T19:00:43.000Z"
+        "comments": 2,
+        "created_at": "2026-03-20T14:26:38.000Z"
       }
     ],
     "vibeCoding": [
@@ -130,14 +130,14 @@
         "title": "The Two Worlds of Programming",
         "url": "https://www.baldurbjarnason.com/2026/the-two-worlds-of-programming/",
         "points": 13,
-        "comments": 3,
+        "comments": 5,
         "created_at": "2026-03-19T12:52:48.000Z"
       },
       {
         "title": "Rob Pike’s Rules of Programming (1989)",
         "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-        "points": 972,
-        "comments": 446,
+        "points": 988,
+        "comments": 447,
         "created_at": "2026-03-18T09:59:54.000Z"
       },
       {
