@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-03-21T06:42:22.978Z",
+  "updatedAt": "2026-03-21T18:36:09.459Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 13.5,
-      "humidity": 56,
-      "wind_kph": 22.7,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 8.5,
+      "humidity": 90,
+      "wind_kph": 11.2,
+      "weather_code": 61,
+      "weather_desc": "Slight rain"
     },
     "tomorrow": {
       "date": "2026-03-22",
-      "temp_max_c": 13.8,
-      "temp_min_c": 7.2,
-      "humidity_max": 91,
-      "humidity_min": 57,
-      "wind_kph": 22.7,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "temp_max_c": 14,
+      "temp_min_c": 7.3,
+      "humidity_max": 94,
+      "humidity_min": 56,
+      "wind_kph": 22.4,
+      "weather_code": 95,
+      "weather_desc": "Thunderstorm"
     }
   },
   "metals": {
     "goldUSD": 4656.53,
     "oilUSD": 79,
-    "updatedAt": "2026-03-21T06:42:22.978Z",
+    "updatedAt": "2026-03-21T18:36:09.459Z",
     "gold24KUSD": 149.71,
     "gold21KUSD": 131,
     "gold18KUSD": 112.28,
@@ -67,46 +67,53 @@
   "news": {
     "ai": [
       {
-        "title": "Pentagon to adopt Palantir AI as core US Military system",
-        "url": "https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/",
-        "points": 38,
-        "comments": 1,
-        "created_at": "2026-03-20T23:58:29.000Z"
+        "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
+        "points": 14,
+        "comments": 3,
+        "created_at": "2026-03-21T15:30:29.000Z"
       },
       {
-        "title": "Why I'm Not Worried About Running Out of Work in the Age of AI",
-        "url": "https://kellblog.com/2026/03/19/why-im-not-worried-about-running-out-of-work-in-the-age-of-ai/",
-        "points": 34,
-        "comments": 38,
-        "created_at": "2026-03-20T23:33:48.000Z"
+        "title": "Senior European journalist suspended over AI-generated quotes",
+        "url": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes",
+        "points": 52,
+        "comments": 35,
+        "created_at": "2026-03-21T14:50:13.000Z"
       },
       {
-        "title": "Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts",
-        "url": "https://github.com/FormerLab/shadow-fleet-tracker-light",
-        "points": 45,
-        "comments": 14,
-        "created_at": "2026-03-20T21:04:11.000Z"
+        "title": "Show HN: AI SDLC Scaffold, repo template for AI-assisted software development",
+        "url": "https://github.com/pangon/ai-sdlc-scaffold/",
+        "points": 17,
+        "comments": 5,
+        "created_at": "2026-03-21T12:43:09.000Z"
       },
       {
-        "title": "OpenCode – Open source AI coding agent",
-        "url": "https://opencode.ai/",
-        "points": 641,
-        "comments": 278,
-        "created_at": "2026-03-20T21:03:52.000Z"
+        "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
+        "url": "https://blog.atuin.sh/atuin-v18-13/",
+        "points": 70,
+        "comments": 67,
+        "created_at": "2026-03-21T10:35:20.000Z"
       },
       {
-        "title": "Thousands have swooned over this MAGA dream girl. She's made with AI",
-        "url": "https://www.washingtonpost.com/technology/2026/03/20/jessica-foster-maga-dream-girl-ai-fake/",
-        "points": 24,
-        "comments": 19,
-        "created_at": "2026-03-20T18:37:32.000Z"
+        "title": "AI Slop Is Infiltrating Online Children's Content",
+        "url": "https://undark.org/2026/03/20/ai-slop-children/",
+        "points": 13,
+        "comments": 4,
+        "created_at": "2026-03-21T10:34:02.000Z"
       }
     ],
     "vibeCoding": [
       {
+        "title": "Show HN: AI SDLC Scaffold, repo template for AI-assisted software development",
+        "url": "https://github.com/pangon/ai-sdlc-scaffold/",
+        "points": 17,
+        "comments": 5,
+        "created_at": "2026-03-21T12:43:09.000Z"
+      },
+      {
         "title": "Ask HN: Is vibe coding a new mandatory job requirement?",
         "url": "https://news.ycombinator.com/item?id=47420767",
-        "points": 34,
+        "points": 35,
         "comments": 72,
         "created_at": "2026-03-18T01:56:53.000Z"
       },
@@ -114,7 +121,7 @@
         "title": "The 100 hour gap between a vibecoded prototype and a working product",
         "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
         "points": 261,
-        "comments": 332,
+        "comments": 333,
         "created_at": "2026-03-15T12:09:30.000Z"
       },
       {
@@ -129,8 +136,8 @@
       {
         "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
         "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
-        "points": 62,
-        "comments": 8,
+        "points": 144,
+        "comments": 18,
         "created_at": "2026-03-20T23:57:22.000Z"
       },
       {
@@ -143,7 +150,7 @@
       {
         "title": "Rob Pike’s Rules of Programming (1989)",
         "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-        "points": 993,
+        "points": 999,
         "comments": 447,
         "created_at": "2026-03-18T09:59:54.000Z"
       },
