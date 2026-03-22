@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-03-22T06:51:47.593Z",
+  "updatedAt": "2026-03-22T18:37:09.465Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 10.5,
-      "humidity": 74,
-      "wind_kph": 13.4,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 8.5,
+      "humidity": 93,
+      "wind_kph": 2.3,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-03-23",
-      "temp_max_c": 15.9,
-      "temp_min_c": 5.1,
-      "humidity_max": 91,
-      "humidity_min": 50,
-      "wind_kph": 15.6,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "temp_max_c": 15.6,
+      "temp_min_c": 5.4,
+      "humidity_max": 93,
+      "humidity_min": 48,
+      "wind_kph": 14,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
     "goldUSD": 4492.62,
     "oilUSD": 79,
-    "updatedAt": "2026-03-22T06:51:47.593Z",
+    "updatedAt": "2026-03-22T18:37:09.465Z",
     "gold24KUSD": 144.44,
     "gold21KUSD": 126.39,
     "gold18KUSD": 108.33,
@@ -67,54 +67,54 @@
   "news": {
     "ai": [
       {
+        "title": "Nintendo's not-AI, not-a-game toy",
+        "url": "https://tapestry.news/culture/nintendo-talking-flower/",
+        "points": 15,
+        "comments": 10,
+        "created_at": "2026-03-22T14:01:28.000Z"
+      },
+      {
+        "title": "Show HN: Revise – An AI Editor for Documents",
+        "url": "https://revise.io",
+        "points": 27,
+        "comments": 28,
+        "created_at": "2026-03-22T13:28:45.000Z"
+      },
+      {
+        "title": "Ask HN: AI productivity gains – do you fire devs or build better products?",
+        "url": "https://news.ycombinator.com/item?id=47475859",
+        "points": 63,
+        "comments": 93,
+        "created_at": "2026-03-22T09:37:30.000Z"
+      },
+      {
         "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
         "url": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922",
-        "points": 72,
-        "comments": 56,
+        "points": 84,
+        "comments": 66,
         "created_at": "2026-03-21T22:03:05.000Z"
       },
       {
         "title": "US to embed Palantir AI across military",
         "url": "https://thecradle.co/articles-id/36667",
-        "points": 29,
-        "comments": 21,
+        "points": 37,
+        "comments": 24,
         "created_at": "2026-03-21T21:33:10.000Z"
-      },
-      {
-        "title": "Tinybox – Offline AI device 120B parameters",
-        "url": "https://tinygrad.org/#tinybox",
-        "points": 426,
-        "comments": 258,
-        "created_at": "2026-03-21T20:08:37.000Z"
-      },
-      {
-        "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
-        "points": 121,
-        "comments": 68,
-        "created_at": "2026-03-21T15:30:29.000Z"
-      },
-      {
-        "title": "Senior European journalist suspended over AI-generated quotes",
-        "url": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes",
-        "points": 84,
-        "comments": 74,
-        "created_at": "2026-03-21T14:50:13.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Show HN: AI SDLC Scaffold, repo template for AI-assisted software development",
         "url": "https://github.com/pangon/ai-sdlc-scaffold/",
-        "points": 22,
-        "comments": 6,
+        "points": 25,
+        "comments": 11,
         "created_at": "2026-03-21T12:43:09.000Z"
       },
       {
         "title": "Ask HN: Is vibe coding a new mandatory job requirement?",
         "url": "https://news.ycombinator.com/item?id=47420767",
         "points": 36,
-        "comments": 73,
+        "comments": 74,
         "created_at": "2026-03-18T01:56:53.000Z"
       },
       {
@@ -134,9 +134,23 @@
     ],
     "progDb": [
       {
+        "title": "I hate: Programming Wayland applications",
+        "url": "https://www.p4m.dev/posts/29/index.html",
+        "points": 137,
+        "comments": 116,
+        "created_at": "2026-03-22T15:06:29.000Z"
+      },
+      {
+        "title": "Can Programming Be Liberated from the von Neumann Style? (1977) [pdf]",
+        "url": "https://worrydream.com/refs/Backus_1978_-_Can_Programming_Be_Liberated_from_the_von_Neumann_Style.pdf",
+        "points": 14,
+        "comments": 2,
+        "created_at": "2026-03-22T11:43:57.000Z"
+      },
+      {
         "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
         "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
-        "points": 156,
+        "points": 162,
         "comments": 19,
         "created_at": "2026-03-20T23:57:22.000Z"
       },
@@ -150,23 +164,9 @@
       {
         "title": "Rob Pike’s Rules of Programming (1989)",
         "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-        "points": 1002,
+        "points": 1004,
         "comments": 448,
         "created_at": "2026-03-18T09:59:54.000Z"
-      },
-      {
-        "title": "The Functional Programming Hiring Problem",
-        "url": "https://blog.janissary.xyz/posts/hiring-functional-programming",
-        "points": 36,
-        "comments": 14,
-        "created_at": "2026-03-17T03:27:18.000Z"
-      },
-      {
-        "title": "Amazon finds out AI programming isn't all it's cracked up to be",
-        "url": "https://www.computerworld.com/article/4145573/amazon-finds-out-ai-programming-isnt-all-its-cracked-up-to-be.html",
-        "points": 25,
-        "comments": 2,
-        "created_at": "2026-03-16T20:46:43.000Z"
       }
     ]
   }
