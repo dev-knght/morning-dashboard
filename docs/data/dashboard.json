@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-03-23T07:09:48.229Z",
+  "updatedAt": "2026-03-23T18:54:46.223Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 12,
-      "humidity": 67,
-      "wind_kph": 7.9,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 9.6,
+      "humidity": 83,
+      "wind_kph": 4.1,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-03-24",
-      "temp_max_c": 15.9,
-      "temp_min_c": 5.2,
-      "humidity_max": 93,
-      "humidity_min": 46,
-      "wind_kph": 20.9,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_max_c": 16.1,
+      "temp_min_c": 5.6,
+      "humidity_max": 92,
+      "humidity_min": 48,
+      "wind_kph": 21.2,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
     "goldUSD": 4493.78,
     "oilUSD": 79,
-    "updatedAt": "2026-03-23T07:09:48.229Z",
+    "updatedAt": "2026-03-23T18:54:46.223Z",
     "gold24KUSD": 144.48,
     "gold21KUSD": 126.42,
     "gold18KUSD": 108.36,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8658,
-    "GBP": 0.7506,
-    "SAR": 3.753
+    "EUR": 0.8659,
+    "GBP": 0.7497,
+    "SAR": 3.7507
   },
   "prayer": {
     "fajr": "05:30",
@@ -67,60 +67,60 @@
   "news": {
     "ai": [
       {
-        "title": "Storing Solar Energy as Ice for Air Conditioning",
-        "url": "https://hackaday.com/2026/03/22/storing-solar-energy-as-ice-for-air-conditioning/",
-        "points": 19,
-        "comments": 0,
-        "created_at": "2026-03-23T03:07:41.000Z"
+        "title": "Show HN: Littlebird – Screenreading is the missing link in AI",
+        "url": "https://littlebird.ai/",
+        "points": 23,
+        "comments": 6,
+        "created_at": "2026-03-23T17:39:08.000Z"
       },
       {
-        "title": "AI ends online anonymity: the ease of unmasking pseudonymous accounts",
-        "url": "https://english.elpais.com/technology/2026-03-12/ai-ends-online-anonymity-the-ease-of-unmasking-pseudonymous-accounts.html",
-        "points": 18,
-        "comments": 2,
-        "created_at": "2026-03-23T02:26:01.000Z"
+        "title": "Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO",
+        "url": "https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5",
+        "points": 17,
+        "comments": 12,
+        "created_at": "2026-03-23T16:04:20.000Z"
       },
       {
-        "title": "Diverse perspectives on AI from Rust contributors and maintainers",
-        "url": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html",
-        "points": 132,
-        "comments": 72,
-        "created_at": "2026-03-22T22:19:03.000Z"
+        "title": "Snowflake lays off documentation staff after they train AI replacement",
+        "url": "https://threadreaderapp.com/thread/2035197183230709874.html",
+        "points": 21,
+        "comments": 12,
+        "created_at": "2026-03-23T11:35:30.000Z"
       },
       {
-        "title": "AI Is Garbage and a Bubble",
-        "url": "https://www.richardcarrier.info/archives/38652",
-        "points": 26,
-        "comments": 11,
-        "created_at": "2026-03-22T21:17:43.000Z"
+        "title": "I built an AI receptionist for a mechanic shop",
+        "url": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
+        "points": 111,
+        "comments": 124,
+        "created_at": "2026-03-23T10:32:33.000Z"
       },
       {
-        "title": "Tom Homan confirms ICE to be at airports starting Monday",
-        "url": "https://www.politico.com/news/2026/03/22/homan-confirms-ice-airports-monday-00839426",
-        "points": 80,
-        "comments": 81,
-        "created_at": "2026-03-22T18:42:42.000Z"
+        "title": "White-collar AI apocalypse narrative is just another bullshit",
+        "url": "https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/",
+        "points": 57,
+        "comments": 93,
+        "created_at": "2026-03-23T08:16:34.000Z"
       }
     ],
     "vibeCoding": [
       {
-        "title": "They're Vibe-Coding Spam Now",
+        "title": "They’re vibe-coding spam now",
         "url": "https://tedium.co/2026/02/25/vibe-coded-email-spam/",
-        "points": 72,
-        "comments": 44,
+        "points": 119,
+        "comments": 70,
         "created_at": "2026-03-22T22:11:54.000Z"
       },
       {
         "title": "Show HN: AI SDLC Scaffold, repo template for AI-assisted software development",
         "url": "https://github.com/pangon/ai-sdlc-scaffold/",
         "points": 26,
-        "comments": 11,
+        "comments": 12,
         "created_at": "2026-03-21T12:43:09.000Z"
       },
       {
         "title": "Ask HN: Is vibe coding a new mandatory job requirement?",
         "url": "https://news.ycombinator.com/item?id=47420767",
-        "points": 37,
+        "points": 38,
         "comments": 75,
         "created_at": "2026-03-18T01:56:53.000Z"
       },
@@ -141,23 +141,30 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: Threadprocs – executables sharing one address space (0-copy pointers)",
+        "url": "https://github.com/jer-irl/threadprocs",
+        "points": 39,
+        "comments": 29,
+        "created_at": "2026-03-23T16:08:01.000Z"
+      },
+      {
         "title": "I hate: Programming Wayland applications",
         "url": "https://www.p4m.dev/posts/29/index.html",
-        "points": 165,
-        "comments": 157,
+        "points": 170,
+        "comments": 167,
         "created_at": "2026-03-22T15:06:29.000Z"
       },
       {
         "title": "Can Programming Be Liberated from the von Neumann Style? (1977) [pdf]",
         "url": "https://worrydream.com/refs/Backus_1978_-_Can_Programming_Be_Liberated_from_the_von_Neumann_Style.pdf",
-        "points": 21,
+        "points": 24,
         "comments": 3,
         "created_at": "2026-03-22T11:43:57.000Z"
       },
       {
         "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
         "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
-        "points": 165,
+        "points": 166,
         "comments": 19,
         "created_at": "2026-03-20T23:57:22.000Z"
       },
@@ -167,13 +174,6 @@
         "points": 13,
         "comments": 6,
         "created_at": "2026-03-19T12:52:48.000Z"
-      },
-      {
-        "title": "Rob Pike’s Rules of Programming (1989)",
-        "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-        "points": 1007,
-        "comments": 448,
-        "created_at": "2026-03-18T09:59:54.000Z"
       }
     ]
   }
