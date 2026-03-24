@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-03-24T07:03:58.948Z",
+  "updatedAt": "2026-03-24T19:02:31.532Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 12.8,
-      "humidity": 61,
-      "wind_kph": 8.3,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 10,
+      "humidity": 83,
+      "wind_kph": 5,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-03-25",
       "temp_max_c": 12.3,
-      "temp_min_c": 6.8,
-      "humidity_max": 92,
-      "humidity_min": 72,
-      "wind_kph": 20.6,
+      "temp_min_c": 6.1,
+      "humidity_max": 94,
+      "humidity_min": 73,
+      "wind_kph": 18.4,
       "weather_code": 95,
       "weather_desc": "Thunderstorm"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4410.47,
     "oilUSD": 79,
-    "updatedAt": "2026-03-24T07:03:58.948Z",
+    "updatedAt": "2026-03-24T19:02:31.532Z",
     "gold24KUSD": 141.8,
     "gold21KUSD": 124.07,
     "gold18KUSD": 106.35,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.865,
-    "GBP": 0.7487,
-    "SAR": 3.7528
+    "EUR": 0.8634,
+    "GBP": 0.7469,
+    "SAR": 3.7507
   },
   "prayer": {
     "fajr": "05:27",
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "I created my first AI-assisted pull request",
-        "url": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/",
-        "points": 70,
-        "comments": 71,
-        "created_at": "2026-03-24T01:42:38.000Z"
+        "title": "The AI Industry Is Lying to You",
+        "url": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/",
+        "points": 81,
+        "comments": 32,
+        "created_at": "2026-03-24T17:30:55.000Z"
       },
       {
-        "title": "AI boom risks widening wealth divide, says BlackRock's Larry Fink",
-        "url": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink",
-        "points": 50,
-        "comments": 27,
-        "created_at": "2026-03-23T23:32:17.000Z"
+        "title": "The bridge to wealth is being pulled up with AI",
+        "url": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/",
+        "points": 242,
+        "comments": 330,
+        "created_at": "2026-03-24T14:39:20.000Z"
       },
       {
-        "title": "Dusking is a trend aimed at helping people switch off at the end of the day",
-        "url": "https://theconversation.com/dusking-is-a-trend-aimed-at-helping-people-switch-off-at-the-end-of-the-day-how-does-it-work-277814",
+        "title": "So where are all the AI apps?",
+        "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
+        "points": 303,
+        "comments": 286,
+        "created_at": "2026-03-24T14:19:59.000Z"
+      },
+      {
+        "title": "A free tool for bot and AI agent developers to validate their Web Bot Auth setup",
+        "url": "https://fingerprint.com/blog/web-bot-auth-guide/",
+        "points": 13,
+        "comments": 5,
+        "created_at": "2026-03-24T13:51:24.000Z"
+      },
+      {
+        "title": "Sandboxing AI agents, 100x faster",
+        "url": "https://blog.cloudflare.com/dynamic-workers/",
         "points": 19,
-        "comments": 1,
-        "created_at": "2026-03-23T23:31:16.000Z"
-      },
-      {
-        "title": "Flipper Zero gets an AI upgrade",
-        "url": "https://gizmodo.com/flipper-zero-everyones-favorite-legally-dubious-hacker-tool-gets-an-ai-upgrade-2000736967",
-        "points": 29,
-        "comments": 4,
-        "created_at": "2026-03-23T20:56:48.000Z"
-      },
-      {
-        "title": "Ask HN: Is anyone here also developing \"perpetual AI psychosis\" like Karpathy?",
-        "url": "https://news.ycombinator.com/item?id=47493938",
-        "points": 22,
-        "comments": 17,
-        "created_at": "2026-03-23T19:21:22.000Z"
+        "comments": 3,
+        "created_at": "2026-03-24T13:40:04.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "They’re vibe-coding spam now",
         "url": "https://tedium.co/2026/02/25/vibe-coded-email-spam/",
-        "points": 127,
-        "comments": 75,
+        "points": 130,
+        "comments": 74,
         "created_at": "2026-03-22T22:11:54.000Z"
       },
       {
@@ -143,15 +143,15 @@
       {
         "title": "Show HN: Threadprocs – executables sharing one address space (0-copy pointers)",
         "url": "https://github.com/jer-irl/threadprocs",
-        "points": 63,
-        "comments": 40,
+        "points": 64,
+        "comments": 43,
         "created_at": "2026-03-23T16:08:01.000Z"
       },
       {
         "title": "I hate: Programming Wayland applications",
         "url": "https://www.p4m.dev/posts/29/index.html",
         "points": 173,
-        "comments": 174,
+        "comments": 175,
         "created_at": "2026-03-22T15:06:29.000Z"
       },
       {
