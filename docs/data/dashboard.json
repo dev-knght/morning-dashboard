@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-03-25T07:02:02.869Z",
+  "updatedAt": "2026-03-25T18:55:13.227Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 12.3,
-      "humidity": 69,
-      "wind_kph": 6.6,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 9.9,
+      "humidity": 95,
+      "wind_kph": 9.4,
+      "weather_code": 61,
+      "weather_desc": "Slight rain"
     },
     "tomorrow": {
       "date": "2026-03-26",
-      "temp_max_c": 12,
-      "temp_min_c": 8.4,
-      "humidity_max": 96,
-      "humidity_min": 78,
-      "wind_kph": 22.4,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "temp_max_c": 11.8,
+      "temp_min_c": 8.2,
+      "humidity_max": 97,
+      "humidity_min": 76,
+      "wind_kph": 23.4,
+      "weather_code": 95,
+      "weather_desc": "Thunderstorm"
     }
   },
   "metals": {
     "goldUSD": 4347.9,
     "oilUSD": 79,
-    "updatedAt": "2026-03-25T07:02:02.869Z",
+    "updatedAt": "2026-03-25T18:55:13.227Z",
     "gold24KUSD": 139.79,
     "gold21KUSD": 122.31,
     "gold18KUSD": 104.84,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8622,
-    "GBP": 0.7468,
-    "SAR": 3.7526
+    "EUR": 0.8624,
+    "GBP": 0.7467,
+    "SAR": 3.7506
   },
   "prayer": {
     "fajr": "05:26",
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
+        "title": "How to Keep ICE Agents Out of Your Devices at Airports",
+        "url": "https://theintercept.com/2026/03/25/ice-airports-phone-security-privacy-safety/",
+        "points": 78,
+        "comments": 120,
+        "created_at": "2026-03-25T14:52:30.000Z"
+      },
+      {
+        "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
+        "url": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
+        "points": 128,
+        "comments": 146,
+        "created_at": "2026-03-25T10:28:49.000Z"
+      },
+      {
         "title": "TurboQuant: Redefining AI efficiency with extreme compression",
         "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-        "points": 70,
-        "comments": 3,
+        "points": 415,
+        "comments": 118,
         "created_at": "2026-03-25T05:00:54.000Z"
+      },
+      {
+        "title": "I Love the Em Dash–Too Bad If AI Does Too",
+        "url": "https://thewalrus.ca/i-love-the-em-dash-too-bad-if-ai-does-too/",
+        "points": 11,
+        "comments": 7,
+        "created_at": "2026-03-25T04:33:56.000Z"
       },
       {
         "title": "Flighty Airports",
         "url": "https://flighty.com/airports",
-        "points": 253,
-        "comments": 82,
+        "points": 479,
+        "comments": 165,
         "created_at": "2026-03-25T00:29:45.000Z"
-      },
-      {
-        "title": "Disney Exits OpenAI Deal After AI Giant Shutters Sora",
-        "url": "https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/",
-        "points": 201,
-        "comments": 2,
-        "created_at": "2026-03-24T21:01:21.000Z"
-      },
-      {
-        "title": "Is anybody else bored of talking about AI?",
-        "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
-        "points": 622,
-        "comments": 420,
-        "created_at": "2026-03-24T20:31:08.000Z"
-      },
-      {
-        "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-        "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-        "points": 11,
-        "comments": 1,
-        "created_at": "2026-03-24T20:04:49.000Z"
       }
     ],
     "vibeCoding": [
@@ -107,7 +107,7 @@
         "title": "They’re vibe-coding spam now",
         "url": "https://tedium.co/2026/02/25/vibe-coded-email-spam/",
         "points": 130,
-        "comments": 74,
+        "comments": 75,
         "created_at": "2026-03-22T22:11:54.000Z"
       },
       {
@@ -121,7 +121,7 @@
         "title": "Ask HN: Is vibe coding a new mandatory job requirement?",
         "url": "https://news.ycombinator.com/item?id=47420767",
         "points": 39,
-        "comments": 79,
+        "comments": 80,
         "created_at": "2026-03-18T01:56:53.000Z"
       },
       {
@@ -144,7 +144,7 @@
         "title": "Show HN: Threadprocs – executables sharing one address space (0-copy pointers)",
         "url": "https://github.com/jer-irl/threadprocs",
         "points": 64,
-        "comments": 44,
+        "comments": 46,
         "created_at": "2026-03-23T16:08:01.000Z"
       },
       {
