@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-03-24T19:02:31.532Z",
+  "updatedAt": "2026-03-25T07:02:02.869Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 10,
-      "humidity": 83,
-      "wind_kph": 5,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 12.3,
+      "humidity": 69,
+      "wind_kph": 6.6,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-03-25",
-      "temp_max_c": 12.3,
-      "temp_min_c": 6.1,
-      "humidity_max": 94,
-      "humidity_min": 73,
-      "wind_kph": 18.4,
-      "weather_code": 95,
-      "weather_desc": "Thunderstorm"
+      "date": "2026-03-26",
+      "temp_max_c": 12,
+      "temp_min_c": 8.4,
+      "humidity_max": 96,
+      "humidity_min": 78,
+      "wind_kph": 22.4,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
-    "goldUSD": 4410.47,
+    "goldUSD": 4347.9,
     "oilUSD": 79,
-    "updatedAt": "2026-03-24T19:02:31.532Z",
-    "gold24KUSD": 141.8,
-    "gold21KUSD": 124.07,
-    "gold18KUSD": 106.35,
-    "gold24KJD": 100.54,
-    "gold21KJD": 87.97,
-    "gold18KJD": 75.4
+    "updatedAt": "2026-03-25T07:02:02.869Z",
+    "gold24KUSD": 139.79,
+    "gold21KUSD": 122.31,
+    "gold18KUSD": 104.84,
+    "gold24KJD": 99.11,
+    "gold21KJD": 86.72,
+    "gold18KJD": 74.33
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8634,
-    "GBP": 0.7469,
-    "SAR": 3.7507
+    "EUR": 0.8622,
+    "GBP": 0.7468,
+    "SAR": 3.7526
   },
   "prayer": {
-    "fajr": "05:27",
+    "fajr": "05:26",
     "maghrib": "18:51",
-    "date": "24 Mar 2024"
+    "date": "25 Mar 2025"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "The AI Industry Is Lying to You",
-        "url": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/",
-        "points": 81,
-        "comments": 32,
-        "created_at": "2026-03-24T17:30:55.000Z"
-      },
-      {
-        "title": "The bridge to wealth is being pulled up with AI",
-        "url": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/",
-        "points": 242,
-        "comments": 330,
-        "created_at": "2026-03-24T14:39:20.000Z"
-      },
-      {
-        "title": "So where are all the AI apps?",
-        "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
-        "points": 303,
-        "comments": 286,
-        "created_at": "2026-03-24T14:19:59.000Z"
-      },
-      {
-        "title": "A free tool for bot and AI agent developers to validate their Web Bot Auth setup",
-        "url": "https://fingerprint.com/blog/web-bot-auth-guide/",
-        "points": 13,
-        "comments": 5,
-        "created_at": "2026-03-24T13:51:24.000Z"
-      },
-      {
-        "title": "Sandboxing AI agents, 100x faster",
-        "url": "https://blog.cloudflare.com/dynamic-workers/",
-        "points": 19,
+        "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+        "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+        "points": 70,
         "comments": 3,
-        "created_at": "2026-03-24T13:40:04.000Z"
+        "created_at": "2026-03-25T05:00:54.000Z"
+      },
+      {
+        "title": "Flighty Airports",
+        "url": "https://flighty.com/airports",
+        "points": 253,
+        "comments": 82,
+        "created_at": "2026-03-25T00:29:45.000Z"
+      },
+      {
+        "title": "Disney Exits OpenAI Deal After AI Giant Shutters Sora",
+        "url": "https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/",
+        "points": 201,
+        "comments": 2,
+        "created_at": "2026-03-24T21:01:21.000Z"
+      },
+      {
+        "title": "Is anybody else bored of talking about AI?",
+        "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+        "points": 622,
+        "comments": 420,
+        "created_at": "2026-03-24T20:31:08.000Z"
+      },
+      {
+        "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+        "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+        "points": 11,
+        "comments": 1,
+        "created_at": "2026-03-24T20:04:49.000Z"
       }
     ],
     "vibeCoding": [
@@ -113,7 +113,7 @@
       {
         "title": "Show HN: AI SDLC Scaffold, repo template for AI-assisted software development",
         "url": "https://github.com/pangon/ai-sdlc-scaffold/",
-        "points": 26,
+        "points": 27,
         "comments": 13,
         "created_at": "2026-03-21T12:43:09.000Z"
       },
@@ -144,7 +144,7 @@
         "title": "Show HN: Threadprocs – executables sharing one address space (0-copy pointers)",
         "url": "https://github.com/jer-irl/threadprocs",
         "points": 64,
-        "comments": 43,
+        "comments": 44,
         "created_at": "2026-03-23T16:08:01.000Z"
       },
       {
