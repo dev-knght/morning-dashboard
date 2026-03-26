@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-03-25T18:55:13.227Z",
+  "updatedAt": "2026-03-26T07:08:28.283Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 9.9,
-      "humidity": 95,
-      "wind_kph": 9.4,
-      "weather_code": 61,
-      "weather_desc": "Slight rain"
+      "temp_c": 10.5,
+      "humidity": 81,
+      "wind_kph": 6,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-03-26",
-      "temp_max_c": 11.8,
-      "temp_min_c": 8.2,
+      "date": "2026-03-27",
+      "temp_max_c": 13.9,
+      "temp_min_c": 8.9,
       "humidity_max": 97,
-      "humidity_min": 76,
-      "wind_kph": 23.4,
-      "weather_code": 95,
-      "weather_desc": "Thunderstorm"
+      "humidity_min": 71,
+      "wind_kph": 34.8,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4347.9,
+    "goldUSD": 4572.97,
     "oilUSD": 79,
-    "updatedAt": "2026-03-25T18:55:13.227Z",
-    "gold24KUSD": 139.79,
-    "gold21KUSD": 122.31,
-    "gold18KUSD": 104.84,
-    "gold24KJD": 99.11,
-    "gold21KJD": 86.72,
-    "gold18KJD": 74.33
+    "updatedAt": "2026-03-26T07:08:28.283Z",
+    "gold24KUSD": 147.02,
+    "gold21KUSD": 128.65,
+    "gold18KUSD": 110.27,
+    "gold24KJD": 104.24,
+    "gold21KJD": 91.21,
+    "gold18KJD": 78.18
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8624,
-    "GBP": 0.7467,
-    "SAR": 3.7506
+    "EUR": 0.8644,
+    "GBP": 0.7482,
+    "SAR": 3.751
   },
   "prayer": {
-    "fajr": "05:26",
-    "maghrib": "18:51",
-    "date": "25 Mar 2025"
+    "fajr": "05:25",
+    "maghrib": "18:52",
+    "date": "26 Mar 2026"
   },
   "events": [
     {
@@ -67,54 +67,61 @@
   "news": {
     "ai": [
       {
-        "title": "How to Keep ICE Agents Out of Your Devices at Airports",
-        "url": "https://theintercept.com/2026/03/25/ice-airports-phone-security-privacy-safety/",
-        "points": 78,
-        "comments": 120,
-        "created_at": "2026-03-25T14:52:30.000Z"
+        "title": "Show HN: Nit – I rebuilt Git in Zig to save AI agents 71% on tokens",
+        "url": "https://justfielding.com/blog/nit-replacing-git-with-zig",
+        "points": 21,
+        "comments": 21,
+        "created_at": "2026-03-26T03:14:54.000Z"
       },
       {
-        "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-        "url": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
-        "points": 128,
-        "comments": 146,
-        "created_at": "2026-03-25T10:28:49.000Z"
+        "title": "Delta Air Lines Says It Will Suspend Special Services for Congress Members",
+        "url": "https://www.nytimes.com/2026/03/24/business/delta-congress-travel-services-suspended.html",
+        "points": 44,
+        "comments": 4,
+        "created_at": "2026-03-25T23:12:41.000Z"
       },
       {
-        "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-        "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-        "points": 415,
-        "comments": 118,
-        "created_at": "2026-03-25T05:00:54.000Z"
+        "title": "Grove: Distributed ML Training over AirDrop",
+        "url": "https://swarnimjain.com/grove",
+        "points": 32,
+        "comments": 1,
+        "created_at": "2026-03-25T22:39:54.000Z"
       },
       {
-        "title": "I Love the Em Dash–Too Bad If AI Does Too",
-        "url": "https://thewalrus.ca/i-love-the-em-dash-too-bad-if-ai-does-too/",
-        "points": 11,
-        "comments": 7,
-        "created_at": "2026-03-25T04:33:56.000Z"
+        "title": "Tired of AI When will this era end?",
+        "url": "https://news.ycombinator.com/item?id=47522856",
+        "points": 25,
+        "comments": 15,
+        "created_at": "2026-03-25T20:36:45.000Z"
       },
       {
-        "title": "Flighty Airports",
-        "url": "https://flighty.com/airports",
-        "points": 479,
-        "comments": 165,
-        "created_at": "2026-03-25T00:29:45.000Z"
+        "title": "Airport wait times are longest in TSA history, agency says",
+        "url": "https://www.usatoday.com/story/news/nation/2026/03/25/tsa-line-airport-wait-times-highest-in-history/89314232007/",
+        "points": 48,
+        "comments": 21,
+        "created_at": "2026-03-25T19:20:01.000Z"
       }
     ],
     "vibeCoding": [
       {
+        "title": "Tired of AI When will this era end?",
+        "url": "https://news.ycombinator.com/item?id=47522856",
+        "points": 25,
+        "comments": 15,
+        "created_at": "2026-03-25T20:36:45.000Z"
+      },
+      {
         "title": "They’re vibe-coding spam now",
         "url": "https://tedium.co/2026/02/25/vibe-coded-email-spam/",
         "points": 130,
-        "comments": 75,
+        "comments": 74,
         "created_at": "2026-03-22T22:11:54.000Z"
       },
       {
         "title": "Show HN: AI SDLC Scaffold, repo template for AI-assisted software development",
         "url": "https://github.com/pangon/ai-sdlc-scaffold/",
         "points": 27,
-        "comments": 13,
+        "comments": 12,
         "created_at": "2026-03-21T12:43:09.000Z"
       },
       {
@@ -127,16 +134,9 @@
       {
         "title": "The 100 hour gap between a vibecoded prototype and a working product",
         "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
-        "points": 261,
+        "points": 262,
         "comments": 331,
         "created_at": "2026-03-15T12:09:30.000Z"
-      },
-      {
-        "title": "Ask HN: What was it like for programmers when spreadsheets became ubiquitous?",
-        "url": "https://news.ycombinator.com/item?id=47380940",
-        "points": 13,
-        "comments": 12,
-        "created_at": "2026-03-14T20:40:20.000Z"
       }
     ],
     "progDb": [
@@ -162,18 +162,18 @@
         "created_at": "2026-03-22T11:43:57.000Z"
       },
       {
+        "title": "Proof Theory and Logic Programming",
+        "url": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/ptlp/",
+        "points": 11,
+        "comments": 0,
+        "created_at": "2026-03-22T05:55:31.000Z"
+      },
+      {
         "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
         "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
         "points": 169,
         "comments": 19,
         "created_at": "2026-03-20T23:57:22.000Z"
-      },
-      {
-        "title": "The Two Worlds of Programming",
-        "url": "https://www.baldurbjarnason.com/2026/the-two-worlds-of-programming/",
-        "points": 13,
-        "comments": 7,
-        "created_at": "2026-03-19T12:52:48.000Z"
       }
     ]
   }
