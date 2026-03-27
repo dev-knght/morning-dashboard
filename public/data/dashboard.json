@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-03-26T19:05:02.519Z",
+  "updatedAt": "2026-03-27T07:06:50.699Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 9.3,
-      "humidity": 93,
-      "wind_kph": 15.4,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 12.2,
+      "humidity": 86,
+      "wind_kph": 30.5,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-03-27",
-      "temp_max_c": 14.3,
-      "temp_min_c": 9.1,
-      "humidity_max": 95,
-      "humidity_min": 70,
-      "wind_kph": 33.9,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "date": "2026-03-28",
+      "temp_max_c": 18.2,
+      "temp_min_c": 7,
+      "humidity_max": 93,
+      "humidity_min": 42,
+      "wind_kph": 17.3,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4572.97,
+    "goldUSD": 4538.63,
     "oilUSD": 79,
-    "updatedAt": "2026-03-26T19:05:02.519Z",
-    "gold24KUSD": 147.02,
-    "gold21KUSD": 128.65,
-    "gold18KUSD": 110.27,
-    "gold24KJD": 104.24,
-    "gold21KJD": 91.21,
-    "gold18KJD": 78.18
+    "updatedAt": "2026-03-27T07:06:50.699Z",
+    "gold24KUSD": 145.92,
+    "gold21KUSD": 127.68,
+    "gold18KUSD": 109.44,
+    "gold24KJD": 103.46,
+    "gold21KJD": 90.53,
+    "gold18KJD": 77.59
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8655,
-    "GBP": 0.7491,
-    "SAR": 3.7503
+    "EUR": 0.8664,
+    "GBP": 0.7494,
+    "SAR": 3.7512
   },
   "prayer": {
-    "fajr": "05:25",
+    "fajr": "05:24",
     "maghrib": "18:52",
-    "date": "26 Mar 2026"
+    "date": "27 Mar 2027"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "Show HN: Claude skill that evaluates B2B vendors by talking to their AI agents",
-        "url": "https://github.com/salespeak-ai/buyer-eval-skill",
-        "points": 45,
-        "comments": 6,
-        "created_at": "2026-03-26T16:00:47.000Z"
+        "title": "A leak reveals that Anthropic is testing a more capable AI model \"Claude Mythos\"",
+        "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+        "points": 18,
+        "comments": 7,
+        "created_at": "2026-03-27T03:21:35.000Z"
       },
       {
-        "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+        "title": "Call your lawmakers – No AI-powered warrantless surveillance of Americans",
+        "url": "https://act.demandprogress.org/call/callpage-702-ai-surveillance/?link_id=1&can_id=3b2cebf422aaa35898d6d8ce17355809&source=email-quitgpt-update-join-us-at-no-kings-3&email_referrer=email_3164702&email_subject=quitgpt-update-join-us-at-no-kings-3&&",
         "points": 11,
-        "comments": 3,
-        "created_at": "2026-03-26T15:26:58.000Z"
+        "comments": 2,
+        "created_at": "2026-03-27T00:30:37.000Z"
       },
       {
-        "title": "AI and bots have officially taken over the internet, report finds",
-        "url": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
-        "points": 15,
-        "comments": 6,
-        "created_at": "2026-03-26T14:02:02.000Z"
+        "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+        "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+        "points": 193,
+        "comments": 63,
+        "created_at": "2026-03-26T22:41:25.000Z"
       },
       {
-        "title": "AI users whose lives were wrecked by delusion",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion",
-        "points": 141,
-        "comments": 153,
-        "created_at": "2026-03-26T13:32:23.000Z"
+        "title": "We rewrote JSONata with AI in a day, saved $500k/year",
+        "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
+        "points": 109,
+        "comments": 111,
+        "created_at": "2026-03-26T22:36:41.000Z"
       },
       {
-        "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
-        "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
-        "points": 14,
-        "comments": 1,
-        "created_at": "2026-03-26T07:03:39.000Z"
+        "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
+        "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
+        "points": 285,
+        "comments": 138,
+        "created_at": "2026-03-26T20:35:04.000Z"
       }
     ],
     "vibeCoding": [
@@ -141,6 +141,27 @@
     ],
     "progDb": [
       {
+        "title": "Agent-to-agent pair programming",
+        "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
+        "points": 49,
+        "comments": 15,
+        "created_at": "2026-03-27T01:47:55.000Z"
+      },
+      {
+        "title": "Taming LLMs: Using Executable Oracles to Prevent Bad Code",
+        "url": "https://john.regehr.org/writing/zero_dof_programming.html",
+        "points": 32,
+        "comments": 18,
+        "created_at": "2026-03-26T17:51:42.000Z"
+      },
+      {
+        "title": "Whistler: Live eBPF Programming from the Common Lisp REPL",
+        "url": "https://atgreen.github.io/repl-yell/posts/whistler/",
+        "points": 73,
+        "comments": 2,
+        "created_at": "2026-03-23T21:13:16.000Z"
+      },
+      {
         "title": "Show HN: Threadprocs – executables sharing one address space (0-copy pointers)",
         "url": "https://github.com/jer-irl/threadprocs",
         "points": 64,
@@ -150,30 +171,9 @@
       {
         "title": "I hate: Programming Wayland applications",
         "url": "https://www.p4m.dev/posts/29/index.html",
-        "points": 174,
+        "points": 175,
         "comments": 177,
         "created_at": "2026-03-22T15:06:29.000Z"
-      },
-      {
-        "title": "Can Programming Be Liberated from the von Neumann Style? (1977) [pdf]",
-        "url": "https://worrydream.com/refs/Backus_1978_-_Can_Programming_Be_Liberated_from_the_von_Neumann_Style.pdf",
-        "points": 26,
-        "comments": 3,
-        "created_at": "2026-03-22T11:43:57.000Z"
-      },
-      {
-        "title": "Proof Theory and Logic Programming",
-        "url": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/ptlp/",
-        "points": 11,
-        "comments": 0,
-        "created_at": "2026-03-22T05:55:31.000Z"
-      },
-      {
-        "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
-        "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
-        "points": 169,
-        "comments": 19,
-        "created_at": "2026-03-20T23:57:22.000Z"
       }
     ]
   }
