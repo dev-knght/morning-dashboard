@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-03-27T07:06:50.699Z",
+  "updatedAt": "2026-03-27T18:55:21.736Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 12.2,
-      "humidity": 86,
-      "wind_kph": 30.5,
+      "temp_c": 10.5,
+      "humidity": 91,
+      "wind_kph": 12.4,
       "weather_code": 3,
       "weather_desc": "Overcast"
     },
     "tomorrow": {
       "date": "2026-03-28",
-      "temp_max_c": 18.2,
-      "temp_min_c": 7,
-      "humidity_max": 93,
-      "humidity_min": 42,
-      "wind_kph": 17.3,
+      "temp_max_c": 18.1,
+      "temp_min_c": 7.4,
+      "humidity_max": 92,
+      "humidity_min": 45,
+      "wind_kph": 17.2,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4538.63,
     "oilUSD": 79,
-    "updatedAt": "2026-03-27T07:06:50.699Z",
+    "updatedAt": "2026-03-27T18:55:21.736Z",
     "gold24KUSD": 145.92,
     "gold21KUSD": 127.68,
     "gold18KUSD": 109.44,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8664,
-    "GBP": 0.7494,
-    "SAR": 3.7512
+    "EUR": 0.8677,
+    "GBP": 0.7513,
+    "SAR": 3.7504
   },
   "prayer": {
     "fajr": "05:24",
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
+        "title": "I am leaving the AI party after one drink",
+        "url": "https://lara-aigmueller.at/thoughts/leaving-the-ai-party/",
+        "points": 91,
+        "comments": 93,
+        "created_at": "2026-03-27T16:41:59.000Z"
+      },
+      {
+        "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+        "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+        "points": 158,
+        "comments": 101,
+        "created_at": "2026-03-27T16:39:32.000Z"
+      },
+      {
+        "title": "Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x",
+        "url": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
+        "points": 12,
+        "comments": 3,
+        "created_at": "2026-03-27T15:14:58.000Z"
+      },
+      {
+        "title": "Rising Air-Conditioning Use Intensifies Global Warming",
+        "url": "https://www.nature.com/articles/s41467-026-69393-1",
+        "points": 23,
+        "comments": 35,
+        "created_at": "2026-03-27T14:53:43.000Z"
+      },
+      {
         "title": "A leak reveals that Anthropic is testing a more capable AI model \"Claude Mythos\"",
         "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
-        "points": 18,
-        "comments": 7,
+        "points": 46,
+        "comments": 18,
         "created_at": "2026-03-27T03:21:35.000Z"
-      },
-      {
-        "title": "Call your lawmakers – No AI-powered warrantless surveillance of Americans",
-        "url": "https://act.demandprogress.org/call/callpage-702-ai-surveillance/?link_id=1&can_id=3b2cebf422aaa35898d6d8ce17355809&source=email-quitgpt-update-join-us-at-no-kings-3&email_referrer=email_3164702&email_subject=quitgpt-update-join-us-at-no-kings-3&&",
-        "points": 11,
-        "comments": 2,
-        "created_at": "2026-03-27T00:30:37.000Z"
-      },
-      {
-        "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
-        "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
-        "points": 193,
-        "comments": 63,
-        "created_at": "2026-03-26T22:41:25.000Z"
-      },
-      {
-        "title": "We rewrote JSONata with AI in a day, saved $500k/year",
-        "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
-        "points": 109,
-        "comments": 111,
-        "created_at": "2026-03-26T22:36:41.000Z"
-      },
-      {
-        "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
-        "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
-        "points": 285,
-        "comments": 138,
-        "created_at": "2026-03-26T20:35:04.000Z"
       }
     ],
     "vibeCoding": [
@@ -143,22 +143,22 @@
       {
         "title": "Agent-to-agent pair programming",
         "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
-        "points": 49,
-        "comments": 15,
+        "points": 120,
+        "comments": 56,
         "created_at": "2026-03-27T01:47:55.000Z"
       },
       {
         "title": "Taming LLMs: Using Executable Oracles to Prevent Bad Code",
         "url": "https://john.regehr.org/writing/zero_dof_programming.html",
-        "points": 32,
+        "points": 38,
         "comments": 18,
         "created_at": "2026-03-26T17:51:42.000Z"
       },
       {
         "title": "Whistler: Live eBPF Programming from the Common Lisp REPL",
         "url": "https://atgreen.github.io/repl-yell/posts/whistler/",
-        "points": 73,
-        "comments": 2,
+        "points": 125,
+        "comments": 18,
         "created_at": "2026-03-23T21:13:16.000Z"
       },
       {
