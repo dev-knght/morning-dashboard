@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-03-27T18:55:21.736Z",
+  "updatedAt": "2026-03-28T06:58:41.327Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 10.5,
-      "humidity": 91,
-      "wind_kph": 12.4,
+      "temp_c": 13.8,
+      "humidity": 64,
+      "wind_kph": 2.5,
       "weather_code": 3,
       "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-03-28",
-      "temp_max_c": 18.1,
-      "temp_min_c": 7.4,
-      "humidity_max": 92,
-      "humidity_min": 45,
-      "wind_kph": 17.2,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-03-29",
+      "temp_max_c": 16.9,
+      "temp_min_c": 9.4,
+      "humidity_max": 86,
+      "humidity_min": 58,
+      "wind_kph": 29.1,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
-    "goldUSD": 4538.63,
+    "goldUSD": 4397.05,
     "oilUSD": 79,
-    "updatedAt": "2026-03-27T18:55:21.736Z",
-    "gold24KUSD": 145.92,
-    "gold21KUSD": 127.68,
-    "gold18KUSD": 109.44,
-    "gold24KJD": 103.46,
-    "gold21KJD": 90.53,
-    "gold18KJD": 77.59
+    "updatedAt": "2026-03-28T06:58:41.327Z",
+    "gold24KUSD": 141.37,
+    "gold21KUSD": 123.7,
+    "gold18KUSD": 106.03,
+    "gold24KJD": 100.23,
+    "gold21KJD": 87.7,
+    "gold18KJD": 75.17
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8677,
-    "GBP": 0.7513,
-    "SAR": 3.7504
+    "EUR": 0.8678,
+    "GBP": 0.7517,
+    "SAR": 3.7514
   },
   "prayer": {
-    "fajr": "05:24",
-    "maghrib": "18:52",
-    "date": "27 Mar 2027"
+    "fajr": "05:22",
+    "maghrib": "18:54",
+    "date": "28 Mar 2028"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "I am leaving the AI party after one drink",
-        "url": "https://lara-aigmueller.at/thoughts/leaving-the-ai-party/",
-        "points": 91,
-        "comments": 93,
-        "created_at": "2026-03-27T16:41:59.000Z"
+        "title": "Why are executives enamored with AI, but ICs aren't?",
+        "url": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/",
+        "points": 64,
+        "comments": 117,
+        "created_at": "2026-03-27T23:19:18.000Z"
       },
       {
-        "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
-        "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
-        "points": 158,
-        "comments": 101,
-        "created_at": "2026-03-27T16:39:32.000Z"
-      },
-      {
-        "title": "Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x",
-        "url": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
-        "points": 12,
+        "title": "Memory chip stocks shed $100B as AI-driven shortage trade unwinds",
+        "url": "https://www.ft.com/content/e4e15692-187e-4466-832e-ec267e792292",
+        "points": 21,
         "comments": 3,
-        "created_at": "2026-03-27T15:14:58.000Z"
+        "created_at": "2026-03-27T20:52:27.000Z"
       },
       {
-        "title": "Rising Air-Conditioning Use Intensifies Global Warming",
-        "url": "https://www.nature.com/articles/s41467-026-69393-1",
-        "points": 23,
-        "comments": 35,
-        "created_at": "2026-03-27T14:53:43.000Z"
+        "title": "AI bug reports went from junk to legit overnight, says Linux kernel czar",
+        "url": "https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/",
+        "points": 43,
+        "comments": 0,
+        "created_at": "2026-03-27T20:30:35.000Z"
       },
       {
-        "title": "A leak reveals that Anthropic is testing a more capable AI model \"Claude Mythos\"",
-        "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
-        "points": 46,
-        "comments": 18,
-        "created_at": "2026-03-27T03:21:35.000Z"
+        "title": "Was the Iran War Caused by AI Psychosis?",
+        "url": "https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/",
+        "points": 21,
+        "comments": 17,
+        "created_at": "2026-03-27T20:16:31.000Z"
+      },
+      {
+        "title": "Some uncomfortable truths about AI coding agents",
+        "url": "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/",
+        "points": 71,
+        "comments": 80,
+        "created_at": "2026-03-27T17:32:48.000Z"
       }
     ],
     "vibeCoding": [
@@ -143,22 +143,22 @@
       {
         "title": "Agent-to-agent pair programming",
         "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
-        "points": 120,
-        "comments": 56,
+        "points": 129,
+        "comments": 57,
         "created_at": "2026-03-27T01:47:55.000Z"
       },
       {
         "title": "Taming LLMs: Using Executable Oracles to Prevent Bad Code",
         "url": "https://john.regehr.org/writing/zero_dof_programming.html",
-        "points": 38,
+        "points": 40,
         "comments": 18,
         "created_at": "2026-03-26T17:51:42.000Z"
       },
       {
         "title": "Whistler: Live eBPF Programming from the Common Lisp REPL",
         "url": "https://atgreen.github.io/repl-yell/posts/whistler/",
-        "points": 125,
-        "comments": 18,
+        "points": 127,
+        "comments": 19,
         "created_at": "2026-03-23T21:13:16.000Z"
       },
       {
@@ -172,7 +172,7 @@
         "title": "I hate: Programming Wayland applications",
         "url": "https://www.p4m.dev/posts/29/index.html",
         "points": 175,
-        "comments": 177,
+        "comments": 179,
         "created_at": "2026-03-22T15:06:29.000Z"
       }
     ]
