@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-03-28T18:40:17.938Z",
+  "updatedAt": "2026-03-29T07:02:55.562Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 12.8,
-      "humidity": 67,
-      "wind_kph": 4,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 15.5,
+      "humidity": 63,
+      "wind_kph": 21.2,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-03-29",
-      "temp_max_c": 16.1,
-      "temp_min_c": 9.4,
-      "humidity_max": 88,
-      "humidity_min": 62,
-      "wind_kph": 26.7,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "date": "2026-03-30",
+      "temp_max_c": 15.6,
+      "temp_min_c": 8.8,
+      "humidity_max": 95,
+      "humidity_min": 57,
+      "wind_kph": 31.7,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4397.05,
+    "goldUSD": 4493.87,
     "oilUSD": 79,
-    "updatedAt": "2026-03-28T18:40:17.938Z",
-    "gold24KUSD": 141.37,
-    "gold21KUSD": 123.7,
-    "gold18KUSD": 106.03,
-    "gold24KJD": 100.23,
-    "gold21KJD": 87.7,
-    "gold18KJD": 75.17
+    "updatedAt": "2026-03-29T07:02:55.562Z",
+    "gold24KUSD": 144.48,
+    "gold21KUSD": 126.42,
+    "gold18KUSD": 108.36,
+    "gold24KJD": 102.44,
+    "gold21KJD": 89.63,
+    "gold18KJD": 76.83
   },
   "exchange": {
     "JOD": 0.709,
@@ -38,9 +38,9 @@
     "SAR": 3.7514
   },
   "prayer": {
-    "fajr": "05:22",
+    "fajr": "05:21",
     "maghrib": "18:54",
-    "date": "28 Mar 2028"
+    "date": "29 Mar 2029"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "Wikipedia bans AI-generated content in its online encyclopedia",
-        "url": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai",
-        "points": 12,
-        "comments": 0,
-        "created_at": "2026-03-28T16:34:04.000Z"
+        "title": "Wikipedia officially bans AI-generated content",
+        "url": "https://nypost.com/2026/03/28/tech/wikipedia-officially-bans-ai-generated-encyclopedia-entries/",
+        "points": 21,
+        "comments": 1,
+        "created_at": "2026-03-29T03:55:08.000Z"
       },
       {
-        "title": "AI data centres can warm surrounding areas by up to 9.1°C",
-        "url": "https://www.newscientist.com/article/2521256-ai-data-centres-can-warm-surrounding-areas-by-up-to-9-1c/",
-        "points": 16,
+        "title": "Will the AI data centre boom become a $9T bust?",
+        "url": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723",
+        "points": 37,
+        "comments": 50,
+        "created_at": "2026-03-29T02:35:59.000Z"
+      },
+      {
+        "title": "Computer chip material inspired by the human brain could slash AI energy use",
+        "url": "https://www.cam.ac.uk/research/news/new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use",
+        "points": 11,
+        "comments": 6,
+        "created_at": "2026-03-28T23:04:14.000Z"
+      },
+      {
+        "title": "Airfare Is Just the Beginning",
+        "url": "https://www.theatlantic.com/newsletters/2026/03/expensive-plane-tickets-oil-iran/686604/",
+        "points": 21,
         "comments": 3,
-        "created_at": "2026-03-28T15:41:59.000Z"
+        "created_at": "2026-03-28T22:15:43.000Z"
       },
       {
-        "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-        "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
-        "points": 183,
-        "comments": 133,
-        "created_at": "2026-03-28T14:49:25.000Z"
-      },
-      {
-        "title": "The risk of AI isn't making us lazy, but making \"lazy\" look productive",
-        "url": "https://news.ycombinator.com/item?id=47555081",
-        "points": 44,
-        "comments": 40,
-        "created_at": "2026-03-28T14:48:14.000Z"
-      },
-      {
-        "title": "AI overly affirms users asking for personal advice",
-        "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-        "points": 359,
-        "comments": 285,
-        "created_at": "2026-03-28T14:08:33.000Z"
+        "title": "The first 40 months of the AI era",
+        "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+        "points": 162,
+        "comments": 86,
+        "created_at": "2026-03-28T18:42:08.000Z"
       }
     ],
     "vibeCoding": [
@@ -143,21 +143,21 @@
       {
         "title": "Agent-to-agent pair programming",
         "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
-        "points": 130,
-        "comments": 58,
+        "points": 133,
+        "comments": 59,
         "created_at": "2026-03-27T01:47:55.000Z"
       },
       {
         "title": "Taming LLMs: Using Executable Oracles to Prevent Bad Code",
         "url": "https://john.regehr.org/writing/zero_dof_programming.html",
-        "points": 43,
-        "comments": 18,
+        "points": 44,
+        "comments": 20,
         "created_at": "2026-03-26T17:51:42.000Z"
       },
       {
         "title": "Whistler: Live eBPF Programming from the Common Lisp REPL",
         "url": "https://atgreen.github.io/repl-yell/posts/whistler/",
-        "points": 127,
+        "points": 128,
         "comments": 19,
         "created_at": "2026-03-23T21:13:16.000Z"
       },
