@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-03-29T18:41:42.895Z",
+  "updatedAt": "2026-03-30T07:27:12.058Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 10.2,
-      "humidity": 80,
-      "wind_kph": 12.7,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
-    },
-    "tomorrow": {
-      "date": "2026-03-30",
-      "temp_max_c": 15.5,
-      "temp_min_c": 9.4,
-      "humidity_max": 94,
-      "humidity_min": 58,
-      "wind_kph": 31.7,
+      "temp_c": 12.3,
+      "humidity": 75,
+      "wind_kph": 25.5,
       "weather_code": 3,
       "weather_desc": "Overcast"
+    },
+    "tomorrow": {
+      "date": "2026-03-31",
+      "temp_max_c": 17,
+      "temp_min_c": 9.3,
+      "humidity_max": 95,
+      "humidity_min": 53,
+      "wind_kph": 15.8,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
-    "goldUSD": 4493.87,
+    "goldUSD": 4493.86,
     "oilUSD": 79,
-    "updatedAt": "2026-03-29T18:41:42.895Z",
+    "updatedAt": "2026-03-30T07:27:12.058Z",
     "gold24KUSD": 144.48,
     "gold21KUSD": 126.42,
     "gold18KUSD": 108.36,
@@ -33,14 +33,14 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8678,
-    "GBP": 0.7517,
+    "EUR": 0.8685,
+    "GBP": 0.7537,
     "SAR": 3.7514
   },
   "prayer": {
-    "fajr": "05:21",
-    "maghrib": "18:54",
-    "date": "29 Mar 2029"
+    "fajr": "05:20",
+    "maghrib": "18:55",
+    "date": "30 Mar 2030"
   },
   "events": [
     {
@@ -67,47 +67,54 @@
   "news": {
     "ai": [
       {
-        "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-        "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
-        "points": 192,
-        "comments": 72,
-        "created_at": "2026-03-29T14:20:23.000Z"
+        "title": "AI and bots have officially taken over the internet",
+        "url": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
+        "points": 12,
+        "comments": 13,
+        "created_at": "2026-03-30T06:29:17.000Z"
       },
       {
-        "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-        "url": "https://github.com/austin-weeks/miasma",
-        "points": 216,
-        "comments": 170,
-        "created_at": "2026-03-29T10:10:12.000Z"
+        "title": "AI Tokens Are Mana",
+        "url": "https://www.proofofconcept.pub/p/ai-tokens-are-mana",
+        "points": 11,
+        "comments": 2,
+        "created_at": "2026-03-30T00:19:21.000Z"
       },
       {
-        "title": "What if AI doesn't need more RAM but better math?",
-        "url": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more",
-        "points": 148,
-        "comments": 80,
-        "created_at": "2026-03-29T08:18:55.000Z"
+        "title": "Rare US \"Eye in the Sky\" Command Plane Destroyed in Iran Strike on Saudi AirBase",
+        "url": "https://simpleflying.com/rare-us-command-plane-destroyed-iran-missile-strike/",
+        "points": 11,
+        "comments": 0,
+        "created_at": "2026-03-29T23:18:13.000Z"
       },
       {
-        "title": "Ask HN: Why isn't using AI in production considered stupid?",
-        "url": "https://news.ycombinator.com/item?id=47560855",
-        "points": 14,
-        "comments": 24,
-        "created_at": "2026-03-29T06:30:20.000Z"
+        "title": "AI isn't killing jobs, it's 'unbundling' them into lower-paid chunks",
+        "url": "https://www.theregister.com/2026/03/24/ai_job_unbundling/",
+        "points": 45,
+        "comments": 30,
+        "created_at": "2026-03-29T20:51:55.000Z"
       },
       {
-        "title": "Wikipedia officially bans AI-generated content",
-        "url": "https://nypost.com/2026/03/28/tech/wikipedia-officially-bans-ai-generated-encyclopedia-entries/",
-        "points": 46,
-        "comments": 1,
-        "created_at": "2026-03-29T03:55:08.000Z"
+        "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
+        "url": "https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a",
+        "points": 86,
+        "comments": 74,
+        "created_at": "2026-03-29T20:00:02.000Z"
       }
     ],
     "vibeCoding": [
       {
+        "title": "The \"Vibe Coding\" Wall of Shame",
+        "url": "https://crackr.dev/vibe-coding-failures",
+        "points": 122,
+        "comments": 75,
+        "created_at": "2026-03-29T19:42:26.000Z"
+      },
+      {
         "title": "Ask HN: Is it just me?",
         "url": "https://news.ycombinator.com/item?id=47556554",
-        "points": 12,
-        "comments": 28,
+        "points": 14,
+        "comments": 29,
         "created_at": "2026-03-28T17:17:57.000Z"
       },
       {
@@ -130,20 +137,27 @@
         "points": 27,
         "comments": 12,
         "created_at": "2026-03-21T12:43:09.000Z"
-      },
-      {
-        "title": "Ask HN: Is vibe coding a new mandatory job requirement?",
-        "url": "https://news.ycombinator.com/item?id=47420767",
-        "points": 39,
-        "comments": 80,
-        "created_at": "2026-03-18T01:56:53.000Z"
       }
     ],
     "progDb": [
       {
+        "title": "Show HN: I made a \"programming language\" looking for feedback",
+        "url": "https://github.com/alonsovm44/glupe",
+        "points": 31,
+        "comments": 34,
+        "created_at": "2026-03-29T18:35:58.000Z"
+      },
+      {
+        "title": "Ask HN: Best stack for building a tiny game with an 11-year-old?",
+        "url": "https://news.ycombinator.com/item?id=47563423",
+        "points": 12,
+        "comments": 24,
+        "created_at": "2026-03-29T14:24:59.000Z"
+      },
+      {
         "title": "Agent-to-agent pair programming",
         "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
-        "points": 134,
+        "points": 135,
         "comments": 60,
         "created_at": "2026-03-27T01:47:55.000Z"
       },
@@ -157,23 +171,9 @@
       {
         "title": "Whistler: Live eBPF Programming from the Common Lisp REPL",
         "url": "https://atgreen.github.io/repl-yell/posts/whistler/",
-        "points": 128,
+        "points": 129,
         "comments": 19,
         "created_at": "2026-03-23T21:13:16.000Z"
-      },
-      {
-        "title": "Show HN: Threadprocs – executables sharing one address space (0-copy pointers)",
-        "url": "https://github.com/jer-irl/threadprocs",
-        "points": 64,
-        "comments": 46,
-        "created_at": "2026-03-23T16:08:01.000Z"
-      },
-      {
-        "title": "I hate: Programming Wayland applications",
-        "url": "https://www.p4m.dev/posts/29/index.html",
-        "points": 175,
-        "comments": 180,
-        "created_at": "2026-03-22T15:06:29.000Z"
       }
     ]
   }
