@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-03-30T07:27:12.058Z",
+  "updatedAt": "2026-03-30T18:59:27.373Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 12.3,
-      "humidity": 75,
-      "wind_kph": 25.5,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 10.5,
+      "humidity": 91,
+      "wind_kph": 13.4,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-03-31",
-      "temp_max_c": 17,
-      "temp_min_c": 9.3,
-      "humidity_max": 95,
-      "humidity_min": 53,
-      "wind_kph": 15.8,
+      "temp_max_c": 17.3,
+      "temp_min_c": 9.6,
+      "humidity_max": 97,
+      "humidity_min": 52,
+      "wind_kph": 14.8,
       "weather_code": 80,
       "weather_desc": "Slight rain showers"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4493.86,
     "oilUSD": 79,
-    "updatedAt": "2026-03-30T07:27:12.058Z",
+    "updatedAt": "2026-03-30T18:59:27.373Z",
     "gold24KUSD": 144.48,
     "gold21KUSD": 126.42,
     "gold18KUSD": 108.36,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8685,
-    "GBP": 0.7537,
-    "SAR": 3.7514
+    "EUR": 0.8698,
+    "GBP": 0.7551,
+    "SAR": 3.7505
   },
   "prayer": {
     "fajr": "05:20",
@@ -67,54 +67,54 @@
   "news": {
     "ai": [
       {
-        "title": "AI and bots have officially taken over the internet",
-        "url": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
-        "points": 12,
-        "comments": 13,
-        "created_at": "2026-03-30T06:29:17.000Z"
+        "title": "Spain shuts airspace for US planes involved in Iran war",
+        "url": "https://english.aawsat.com/world/5256772-spain-shuts-airspace-us-planes-involved-iran-war",
+        "points": 68,
+        "comments": 28,
+        "created_at": "2026-03-30T17:23:36.000Z"
       },
       {
-        "title": "AI Tokens Are Mana",
-        "url": "https://www.proofofconcept.pub/p/ai-tokens-are-mana",
-        "points": 11,
-        "comments": 2,
-        "created_at": "2026-03-30T00:19:21.000Z"
-      },
-      {
-        "title": "Rare US \"Eye in the Sky\" Command Plane Destroyed in Iran Strike on Saudi AirBase",
-        "url": "https://simpleflying.com/rare-us-command-plane-destroyed-iran-missile-strike/",
+        "title": "Show HN: We scored 50k PRs with AI – what we learned about code complexity",
+        "url": "https://gitvelocity.dev",
         "points": 11,
         "comments": 0,
-        "created_at": "2026-03-29T23:18:13.000Z"
+        "created_at": "2026-03-30T14:18:09.000Z"
       },
       {
-        "title": "AI isn't killing jobs, it's 'unbundling' them into lower-paid chunks",
-        "url": "https://www.theregister.com/2026/03/24/ai_job_unbundling/",
-        "points": 45,
-        "comments": 30,
-        "created_at": "2026-03-29T20:51:55.000Z"
+        "title": "The ladder is missing rungs – Engineering Progression When AI Ate the Middle",
+        "url": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/",
+        "points": 24,
+        "comments": 1,
+        "created_at": "2026-03-30T13:51:31.000Z"
       },
       {
-        "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
-        "url": "https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a",
-        "points": 86,
-        "comments": 74,
-        "created_at": "2026-03-29T20:00:02.000Z"
+        "title": "Show HN: Phantom – Open-source AI agent on its own VM that rewrites its config",
+        "url": "https://github.com/ghostwright/phantom",
+        "points": 17,
+        "comments": 13,
+        "created_at": "2026-03-30T13:30:00.000Z"
+      },
+      {
+        "title": "How the AI Bubble Bursts",
+        "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
+        "points": 337,
+        "comments": 421,
+        "created_at": "2026-03-30T12:28:36.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "The \"Vibe Coding\" Wall of Shame",
         "url": "https://crackr.dev/vibe-coding-failures",
-        "points": 122,
-        "comments": 75,
+        "points": 129,
+        "comments": 80,
         "created_at": "2026-03-29T19:42:26.000Z"
       },
       {
         "title": "Ask HN: Is it just me?",
         "url": "https://news.ycombinator.com/item?id=47556554",
-        "points": 14,
-        "comments": 29,
+        "points": 15,
+        "comments": 30,
         "created_at": "2026-03-28T17:17:57.000Z"
       },
       {
@@ -141,18 +141,32 @@
     ],
     "progDb": [
       {
+        "title": "Build123d: A Python CAD programming library",
+        "url": "https://github.com/gumyr/build123d",
+        "points": 71,
+        "comments": 23,
+        "created_at": "2026-03-29T20:58:22.000Z"
+      },
+      {
         "title": "Show HN: I made a \"programming language\" looking for feedback",
         "url": "https://github.com/alonsovm44/glupe",
-        "points": 31,
-        "comments": 34,
+        "points": 35,
+        "comments": 38,
         "created_at": "2026-03-29T18:35:58.000Z"
       },
       {
         "title": "Ask HN: Best stack for building a tiny game with an 11-year-old?",
         "url": "https://news.ycombinator.com/item?id=47563423",
-        "points": 12,
+        "points": 13,
         "comments": 24,
         "created_at": "2026-03-29T14:24:59.000Z"
+      },
+      {
+        "title": "Cherri – programming language that compiles to an Apple Shortuct",
+        "url": "https://github.com/electrikmilk/cherri",
+        "points": 93,
+        "comments": 9,
+        "created_at": "2026-03-27T23:39:44.000Z"
       },
       {
         "title": "Agent-to-agent pair programming",
@@ -160,20 +174,6 @@
         "points": 135,
         "comments": 60,
         "created_at": "2026-03-27T01:47:55.000Z"
-      },
-      {
-        "title": "Taming LLMs: Using Executable Oracles to Prevent Bad Code",
-        "url": "https://john.regehr.org/writing/zero_dof_programming.html",
-        "points": 45,
-        "comments": 20,
-        "created_at": "2026-03-26T17:51:42.000Z"
-      },
-      {
-        "title": "Whistler: Live eBPF Programming from the Common Lisp REPL",
-        "url": "https://atgreen.github.io/repl-yell/posts/whistler/",
-        "points": 129,
-        "comments": 19,
-        "created_at": "2026-03-23T21:13:16.000Z"
       }
     ]
   }
