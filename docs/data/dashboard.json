@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-03-31T07:13:36.863Z",
+  "updatedAt": "2026-03-31T19:02:19.592Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 12.9,
-      "humidity": 74,
-      "wind_kph": 13.2,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 10.8,
+      "humidity": 79,
+      "wind_kph": 4.3,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
       "date": "2026-04-01",
-      "temp_max_c": 21.1,
-      "temp_min_c": 10.5,
-      "humidity_max": 96,
+      "temp_max_c": 20.1,
+      "temp_min_c": 8.6,
+      "humidity_max": 86,
       "humidity_min": 44,
-      "wind_kph": 21.3,
-      "weather_code": 61,
-      "weather_desc": "Slight rain"
+      "wind_kph": 23.2,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
     "goldUSD": 4425.96,
     "oilUSD": 79,
-    "updatedAt": "2026-03-31T07:13:36.863Z",
+    "updatedAt": "2026-03-31T19:02:19.592Z",
     "gold24KUSD": 142.3,
     "gold21KUSD": 124.51,
     "gold18KUSD": 106.72,
@@ -32,10 +32,7 @@
     "gold18KJD": 75.67
   },
   "exchange": {
-    "JOD": 0.709,
-    "EUR": 0.8719,
-    "GBP": 0.7578,
-    "SAR": 3.7518
+    "JOD": 0.709
   },
   "prayer": {
     "fajr": "05:19",
@@ -67,46 +64,46 @@
   "news": {
     "ai": [
       {
-        "title": "Trump Tells Aides He's Willing to End War Without Reopening Hormuz",
-        "url": "https://www.wsj.com/world/middle-east/trump-iran-war-strait-of-hormuz-ee950ad4",
-        "points": 16,
-        "comments": 14,
-        "created_at": "2026-03-31T02:28:09.000Z"
+        "title": "Raspberry Pi profit surges as AI boom lifts demand",
+        "url": "https://www.ft.com/content/5c167591-80bb-4290-ae66-7d04112cbd1c",
+        "points": 15,
+        "comments": 5,
+        "created_at": "2026-03-31T17:15:42.000Z"
       },
       {
-        "title": "Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent",
-        "url": "https://github.com/virpo/pegboard",
-        "points": 33,
+        "title": "Ask HN: Academic study on AI's impact on software development – want to join?",
+        "url": "https://news.ycombinator.com/item?id=47590261",
+        "points": 22,
+        "comments": 9,
+        "created_at": "2026-03-31T16:57:34.000Z"
+      },
+      {
+        "title": "Italy blocks US use of Sicily air base for Middle East war",
+        "url": "https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/",
+        "points": 164,
+        "comments": 84,
+        "created_at": "2026-03-31T15:39:45.000Z"
+      },
+      {
+        "title": "AI data centres can warm surrounding areas by up to 9.1°C",
+        "url": "https://www.newscientist.com/article/2521256-ai-data-centres-can-warm-surrounding-areas-by-up-to-9-1c/",
+        "points": 37,
         "comments": 6,
-        "created_at": "2026-03-30T23:20:02.000Z"
+        "created_at": "2026-03-31T10:46:06.000Z"
       },
       {
-        "title": "Agentic AI and the next intelligence explosion",
-        "url": "https://arxiv.org/abs/2603.20639",
-        "points": 17,
-        "comments": 3,
-        "created_at": "2026-03-30T21:40:57.000Z"
-      },
-      {
-        "title": "Mistral raises $830M to build Nvidia-powered AI centres in Europe",
-        "url": "https://www.ft.com/content/229f4f59-d518-4e00-abd6-5a5b727cd2aa",
-        "points": 12,
-        "comments": 0,
-        "created_at": "2026-03-30T20:40:25.000Z"
-      },
-      {
-        "title": "Spain shuts airspace for US planes involved in Iran war",
-        "url": "https://english.aawsat.com/world/5256772-spain-shuts-airspace-us-planes-involved-iran-war",
-        "points": 88,
-        "comments": 50,
-        "created_at": "2026-03-30T17:23:36.000Z"
+        "title": "Show HN: Pardus Browser- a browser for AI agents without Chromium",
+        "url": "https://github.com/JasonHonKL/PardusBrowser/tree/main",
+        "points": 14,
+        "comments": 8,
+        "created_at": "2026-03-31T10:21:33.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "The \"Vibe Coding\" Wall of Shame",
         "url": "https://crackr.dev/vibe-coding-failures",
-        "points": 130,
+        "points": 131,
         "comments": 80,
         "created_at": "2026-03-29T19:42:26.000Z"
       },
@@ -143,36 +140,36 @@
       {
         "title": "Ask HN: What was it like in the era of BBS before the internet?",
         "url": "https://news.ycombinator.com/item?id=47579221",
-        "points": 21,
-        "comments": 25,
+        "points": 24,
+        "comments": 31,
         "created_at": "2026-03-30T20:19:06.000Z"
       },
       {
         "title": "Build123d: A Python CAD programming library",
         "url": "https://github.com/gumyr/build123d",
-        "points": 137,
-        "comments": 50,
+        "points": 144,
+        "comments": 56,
         "created_at": "2026-03-29T20:58:22.000Z"
       },
       {
         "title": "Show HN: I made a \"programming language\" looking for feedback",
         "url": "https://github.com/alonsovm44/glupe",
         "points": 36,
-        "comments": 38,
+        "comments": 39,
         "created_at": "2026-03-29T18:35:58.000Z"
       },
       {
         "title": "Ask HN: Best stack for building a tiny game with an 11-year-old?",
         "url": "https://news.ycombinator.com/item?id=47563423",
         "points": 14,
-        "comments": 25,
+        "comments": 27,
         "created_at": "2026-03-29T14:24:59.000Z"
       },
       {
         "title": "Cherri – programming language that compiles to an Apple Shortuct",
         "url": "https://github.com/electrikmilk/cherri",
-        "points": 291,
-        "comments": 58,
+        "points": 335,
+        "comments": 72,
         "created_at": "2026-03-27T23:39:44.000Z"
       }
     ]
