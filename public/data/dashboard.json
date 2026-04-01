@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-04-01T07:20:21.454Z",
+  "updatedAt": "2026-04-01T19:01:32.980Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 18,
-      "humidity": 47,
-      "wind_kph": 10.4,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 13.2,
+      "humidity": 87,
+      "wind_kph": 11.7,
+      "weather_code": 63,
+      "weather_desc": "Moderate rain"
     },
     "tomorrow": {
       "date": "2026-04-02",
-      "temp_max_c": 21.3,
-      "temp_min_c": 14,
-      "humidity_max": 96,
-      "humidity_min": 70,
-      "wind_kph": 25.7,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "temp_max_c": 19.7,
+      "temp_min_c": 13.6,
+      "humidity_max": 98,
+      "humidity_min": 76,
+      "wind_kph": 29.7,
+      "weather_code": 95,
+      "weather_desc": "Thunderstorm"
     }
   },
   "metals": {
     "goldUSD": 4518.5,
     "oilUSD": 79,
-    "updatedAt": "2026-04-01T07:20:21.454Z",
+    "updatedAt": "2026-04-01T19:01:32.980Z",
     "gold24KUSD": 145.27,
     "gold21KUSD": 127.11,
     "gold18KUSD": 108.95,
-    "gold24KJD": 103,
-    "gold21KJD": 90.12,
-    "gold18KJD": 77.25
+    "gold24KJD": 102.98,
+    "gold21KJD": 90.11,
+    "gold18KJD": 77.24
   },
   "exchange": {
-    "JOD": 0.709,
-    "EUR": 0.8647,
-    "GBP": 0.7551,
-    "SAR": 3.7521
+    "JOD": 0.7089,
+    "EUR": 0.8628,
+    "GBP": 0.7526,
+    "SAR": 3.7504
   },
   "prayer": {
     "fajr": "05:17",
@@ -67,42 +67,56 @@
   "news": {
     "ai": [
       {
-        "title": "I built a 516-panel financial terminal in 3 weeks using AI",
-        "url": "https://neuberg.ai/",
-        "points": 37,
-        "comments": 34,
-        "created_at": "2026-04-01T04:00:51.000Z"
-      },
-      {
-        "title": "OpenAI closes funding round at an $852B valuation",
-        "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-        "points": 417,
-        "comments": 363,
-        "created_at": "2026-03-31T20:07:30.000Z"
-      },
-      {
-        "title": "Leaked Memo Suggests Red Hat's Chugging the AI Kool-Aid",
-        "url": "https://www.theregister.com/2026/03/31/red_hat_ai_dev/",
-        "points": 20,
-        "comments": 1,
-        "created_at": "2026-03-31T18:54:13.000Z"
-      },
-      {
-        "title": "'Worst in Show' CES products include AI fridges, AI companions and AI doorbells",
-        "url": "https://apnews.com/article/ces-worst-show-ai-0ce7fbc5aff68e8ff6d7b8e6fb7b007d",
-        "points": 16,
+        "title": "The AI Marketing BS Index",
+        "url": "https://bastian.rieck.me/blog/2026/bs/",
+        "points": 26,
         "comments": 2,
-        "created_at": "2026-03-31T18:26:18.000Z"
+        "created_at": "2026-04-01T17:55:12.000Z"
       },
       {
-        "title": "Raspberry Pi profit surges as AI boom lifts demand",
-        "url": "https://www.ft.com/content/5c167591-80bb-4290-ae66-7d04112cbd1c",
-        "points": 27,
-        "comments": 9,
-        "created_at": "2026-03-31T17:15:42.000Z"
+        "title": "AI companies charge you 60% more based on your language, BPE tokens",
+        "url": "https://tokenstree.com/newsletter-article-5.html",
+        "points": 22,
+        "comments": 17,
+        "created_at": "2026-04-01T17:34:28.000Z"
+      },
+      {
+        "title": "AI for American-Produced Cement and Concrete",
+        "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+        "points": 57,
+        "comments": 45,
+        "created_at": "2026-04-01T17:17:24.000Z"
+      },
+      {
+        "title": "Anthropic Races to Contain Leak of Code Behind Claude AI Agent",
+        "url": "https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7",
+        "points": 14,
+        "comments": 6,
+        "created_at": "2026-04-01T14:19:37.000Z"
+      },
+      {
+        "title": "AI has suddenly become more useful to open-source developers",
+        "url": "https://www.zdnet.com/article/maybe-open-source-needs-ai/",
+        "points": 48,
+        "comments": 46,
+        "created_at": "2026-04-01T14:07:50.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Apple Removes iPhone Vibe Coding App from App Store",
+        "url": "https://gizmodo.com/apple-removes-iphone-vibe-coding-app-from-app-store-2000740084",
+        "points": 43,
+        "comments": 47,
+        "created_at": "2026-04-01T14:36:51.000Z"
+      },
+      {
+        "title": "Ask HN: Client took over development by vibe coding. What to do?",
+        "url": "https://news.ycombinator.com/item?id=47599303",
+        "points": 42,
+        "comments": 28,
+        "created_at": "2026-04-01T11:09:03.000Z"
+      },
       {
         "title": "The \"Vibe Coding\" Wall of Shame",
         "url": "https://crackr.dev/vibe-coding-failures",
@@ -113,8 +127,8 @@
       {
         "title": "Ask HN: Is it just me?",
         "url": "https://news.ycombinator.com/item?id=47556554",
-        "points": 17,
-        "comments": 30,
+        "points": 18,
+        "comments": 31,
         "created_at": "2026-03-28T17:17:57.000Z"
       },
       {
@@ -123,35 +137,28 @@
         "points": 27,
         "comments": 17,
         "created_at": "2026-03-25T20:36:45.000Z"
-      },
-      {
-        "title": "They’re vibe-coding spam now",
-        "url": "https://tedium.co/2026/02/25/vibe-coded-email-spam/",
-        "points": 132,
-        "comments": 74,
-        "created_at": "2026-03-22T22:11:54.000Z"
-      },
-      {
-        "title": "Show HN: AI SDLC Scaffold, repo template for AI-assisted software development",
-        "url": "https://github.com/pangon/ai-sdlc-scaffold/",
-        "points": 27,
-        "comments": 12,
-        "created_at": "2026-03-21T12:43:09.000Z"
       }
     ],
     "progDb": [
       {
+        "title": "CUDA Released in Basic",
+        "url": "https://developer.nvidia.com/blog/cuda-tile-programming-now-available-for-basic/",
+        "points": 18,
+        "comments": 3,
+        "created_at": "2026-04-01T16:19:49.000Z"
+      },
+      {
         "title": "Ask HN: What was it like in the era of BBS before the internet?",
         "url": "https://news.ycombinator.com/item?id=47579221",
-        "points": 25,
-        "comments": 32,
+        "points": 27,
+        "comments": 34,
         "created_at": "2026-03-30T20:19:06.000Z"
       },
       {
         "title": "Build123d: A Python CAD programming library",
         "url": "https://github.com/gumyr/build123d",
-        "points": 148,
-        "comments": 60,
+        "points": 150,
+        "comments": 62,
         "created_at": "2026-03-29T20:58:22.000Z"
       },
       {
@@ -164,16 +171,9 @@
       {
         "title": "Ask HN: Best stack for building a tiny game with an 11-year-old?",
         "url": "https://news.ycombinator.com/item?id=47563423",
-        "points": 15,
-        "comments": 27,
+        "points": 17,
+        "comments": 28,
         "created_at": "2026-03-29T14:24:59.000Z"
-      },
-      {
-        "title": "Cherri – programming language that compiles to an Apple Shortuct",
-        "url": "https://github.com/electrikmilk/cherri",
-        "points": 344,
-        "comments": 72,
-        "created_at": "2026-03-27T23:39:44.000Z"
       }
     ]
   }
