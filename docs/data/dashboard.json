@@ -1,43 +1,46 @@
 {
-  "updatedAt": "2026-03-31T19:02:19.592Z",
+  "updatedAt": "2026-04-01T07:20:21.454Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 10.8,
-      "humidity": 79,
-      "wind_kph": 4.3,
+      "temp_c": 18,
+      "humidity": 47,
+      "wind_kph": 10.4,
       "weather_code": 3,
       "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-04-01",
-      "temp_max_c": 20.1,
-      "temp_min_c": 8.6,
-      "humidity_max": 86,
-      "humidity_min": 44,
-      "wind_kph": 23.2,
+      "date": "2026-04-02",
+      "temp_max_c": 21.3,
+      "temp_min_c": 14,
+      "humidity_max": 96,
+      "humidity_min": 70,
+      "wind_kph": 25.7,
       "weather_code": 80,
       "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
-    "goldUSD": 4425.96,
+    "goldUSD": 4518.5,
     "oilUSD": 79,
-    "updatedAt": "2026-03-31T19:02:19.592Z",
-    "gold24KUSD": 142.3,
-    "gold21KUSD": 124.51,
-    "gold18KUSD": 106.72,
-    "gold24KJD": 100.89,
-    "gold21KJD": 88.28,
-    "gold18KJD": 75.67
+    "updatedAt": "2026-04-01T07:20:21.454Z",
+    "gold24KUSD": 145.27,
+    "gold21KUSD": 127.11,
+    "gold18KUSD": 108.95,
+    "gold24KJD": 103,
+    "gold21KJD": 90.12,
+    "gold18KJD": 77.25
   },
   "exchange": {
-    "JOD": 0.709
+    "JOD": 0.709,
+    "EUR": 0.8647,
+    "GBP": 0.7551,
+    "SAR": 3.7521
   },
   "prayer": {
-    "fajr": "05:19",
-    "maghrib": "18:55",
-    "date": "31 Mar 2031"
+    "fajr": "05:17",
+    "maghrib": "18:56",
+    "date": "01 Apr 2001"
   },
   "events": [
     {
@@ -64,39 +67,39 @@
   "news": {
     "ai": [
       {
+        "title": "I built a 516-panel financial terminal in 3 weeks using AI",
+        "url": "https://neuberg.ai/",
+        "points": 37,
+        "comments": 34,
+        "created_at": "2026-04-01T04:00:51.000Z"
+      },
+      {
+        "title": "OpenAI closes funding round at an $852B valuation",
+        "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+        "points": 417,
+        "comments": 363,
+        "created_at": "2026-03-31T20:07:30.000Z"
+      },
+      {
+        "title": "Leaked Memo Suggests Red Hat's Chugging the AI Kool-Aid",
+        "url": "https://www.theregister.com/2026/03/31/red_hat_ai_dev/",
+        "points": 20,
+        "comments": 1,
+        "created_at": "2026-03-31T18:54:13.000Z"
+      },
+      {
+        "title": "'Worst in Show' CES products include AI fridges, AI companions and AI doorbells",
+        "url": "https://apnews.com/article/ces-worst-show-ai-0ce7fbc5aff68e8ff6d7b8e6fb7b007d",
+        "points": 16,
+        "comments": 2,
+        "created_at": "2026-03-31T18:26:18.000Z"
+      },
+      {
         "title": "Raspberry Pi profit surges as AI boom lifts demand",
         "url": "https://www.ft.com/content/5c167591-80bb-4290-ae66-7d04112cbd1c",
-        "points": 15,
-        "comments": 5,
-        "created_at": "2026-03-31T17:15:42.000Z"
-      },
-      {
-        "title": "Ask HN: Academic study on AI's impact on software development – want to join?",
-        "url": "https://news.ycombinator.com/item?id=47590261",
-        "points": 22,
+        "points": 27,
         "comments": 9,
-        "created_at": "2026-03-31T16:57:34.000Z"
-      },
-      {
-        "title": "Italy blocks US use of Sicily air base for Middle East war",
-        "url": "https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/",
-        "points": 164,
-        "comments": 84,
-        "created_at": "2026-03-31T15:39:45.000Z"
-      },
-      {
-        "title": "AI data centres can warm surrounding areas by up to 9.1°C",
-        "url": "https://www.newscientist.com/article/2521256-ai-data-centres-can-warm-surrounding-areas-by-up-to-9-1c/",
-        "points": 37,
-        "comments": 6,
-        "created_at": "2026-03-31T10:46:06.000Z"
-      },
-      {
-        "title": "Show HN: Pardus Browser- a browser for AI agents without Chromium",
-        "url": "https://github.com/JasonHonKL/PardusBrowser/tree/main",
-        "points": 14,
-        "comments": 8,
-        "created_at": "2026-03-31T10:21:33.000Z"
+        "created_at": "2026-03-31T17:15:42.000Z"
       }
     ],
     "vibeCoding": [
@@ -111,7 +114,7 @@
         "title": "Ask HN: Is it just me?",
         "url": "https://news.ycombinator.com/item?id=47556554",
         "points": 17,
-        "comments": 31,
+        "comments": 30,
         "created_at": "2026-03-28T17:17:57.000Z"
       },
       {
@@ -140,35 +143,35 @@
       {
         "title": "Ask HN: What was it like in the era of BBS before the internet?",
         "url": "https://news.ycombinator.com/item?id=47579221",
-        "points": 24,
-        "comments": 31,
+        "points": 25,
+        "comments": 32,
         "created_at": "2026-03-30T20:19:06.000Z"
       },
       {
         "title": "Build123d: A Python CAD programming library",
         "url": "https://github.com/gumyr/build123d",
-        "points": 144,
-        "comments": 56,
+        "points": 148,
+        "comments": 60,
         "created_at": "2026-03-29T20:58:22.000Z"
       },
       {
         "title": "Show HN: I made a \"programming language\" looking for feedback",
         "url": "https://github.com/alonsovm44/glupe",
-        "points": 36,
+        "points": 37,
         "comments": 39,
         "created_at": "2026-03-29T18:35:58.000Z"
       },
       {
         "title": "Ask HN: Best stack for building a tiny game with an 11-year-old?",
         "url": "https://news.ycombinator.com/item?id=47563423",
-        "points": 14,
+        "points": 15,
         "comments": 27,
         "created_at": "2026-03-29T14:24:59.000Z"
       },
       {
         "title": "Cherri – programming language that compiles to an Apple Shortuct",
         "url": "https://github.com/electrikmilk/cherri",
-        "points": 335,
+        "points": 344,
         "comments": 72,
         "created_at": "2026-03-27T23:39:44.000Z"
       }
