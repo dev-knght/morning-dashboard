@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-04-03T07:08:16.134Z",
+  "updatedAt": "2026-04-03T18:46:43.487Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 13.1,
-      "humidity": 75,
-      "wind_kph": 23.4,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 10.6,
+      "humidity": 58,
+      "wind_kph": 4.1,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-04-04",
-      "temp_max_c": 18.5,
-      "temp_min_c": 6.5,
-      "humidity_max": 69,
+      "temp_max_c": 18.7,
+      "temp_min_c": 7.2,
+      "humidity_max": 88,
       "humidity_min": 33,
-      "wind_kph": 17.3,
+      "wind_kph": 18.7,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4791.99,
     "oilUSD": 79,
-    "updatedAt": "2026-04-03T07:08:16.134Z",
+    "updatedAt": "2026-04-03T18:46:43.487Z",
     "gold24KUSD": 154.07,
     "gold21KUSD": 134.81,
     "gold18KUSD": 115.55,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8673,
-    "GBP": 0.7566,
-    "SAR": 3.7524
+    "EUR": 0.8668,
+    "GBP": 0.7537,
+    "SAR": 3.75
   },
   "prayer": {
     "fajr": "05:15",
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "Marc Andreessen Is Right That AI Isn't Killing Jobs. Interest Rate Hikes Are",
-        "url": "https://www.governance.fyi/p/marc-andreessen-is-right-that-ai",
-        "points": 31,
-        "comments": 7,
-        "created_at": "2026-04-02T21:03:15.000Z"
+        "title": "Show HN: I built a frontpage for personal blogs",
+        "url": "https://text.blogosphere.app/",
+        "points": 469,
+        "comments": 137,
+        "created_at": "2026-04-03T12:33:45.000Z"
       },
       {
-        "title": "Reporting potholes with an ESP32, LoRA, and AI",
-        "url": "https://thingswemake.com/pothole-in-one/",
-        "points": 14,
+        "title": "Show HN: Apfel – The free AI already on your Mac",
+        "url": "https://apfel.franzai.com",
+        "points": 560,
+        "comments": 126,
+        "created_at": "2026-04-03T09:15:34.000Z"
+      },
+      {
+        "title": "AI's fluency in other languages hides a Western worldview that can mislead users",
+        "url": "https://theconversation.com/ais-fluency-in-other-languages-hides-a-western-worldview-that-can-mislead-users-a-scholar-of-indonesian-society-explains-276865",
+        "points": 12,
+        "comments": 1,
+        "created_at": "2026-04-03T09:03:07.000Z"
+      },
+      {
+        "title": "AI models will deceive you to save their own kind",
+        "url": "https://www.theregister.com/2026/04/02/ai_models_will_deceive_you/",
+        "points": 11,
         "comments": 0,
-        "created_at": "2026-04-02T20:53:44.000Z"
+        "created_at": "2026-04-03T07:45:44.000Z"
       },
       {
-        "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
-        "url": "https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is",
-        "points": 63,
-        "comments": 37,
-        "created_at": "2026-04-02T19:49:51.000Z"
-      },
-      {
-        "title": "Mistral secures $830M in debt financing to fund AI data center",
-        "url": "https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html",
-        "points": 32,
-        "comments": 3,
-        "created_at": "2026-04-02T18:31:00.000Z"
-      },
-      {
-        "title": "Show HN: I tested 15 free AI models at building real software on a $25/year VPS",
-        "url": "https://georgelarson.me/writing/2026-04-03-25-dollar-ai-lab/",
-        "points": 19,
-        "comments": 3,
-        "created_at": "2026-04-02T17:13:59.000Z"
+        "title": "Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",
+        "url": "https://mehuleo.github.io/encircle/",
+        "points": 18,
+        "comments": 7,
+        "created_at": "2026-04-03T04:00:56.000Z"
       }
     ],
     "vibeCoding": [
@@ -113,7 +113,7 @@
       {
         "title": "Ask HN: Client took over development by vibe coding. What to do?",
         "url": "https://news.ycombinator.com/item?id=47599303",
-        "points": 58,
+        "points": 59,
         "comments": 38,
         "created_at": "2026-04-01T11:09:03.000Z"
       },
@@ -143,22 +143,22 @@
       {
         "title": "Bringing Clojure programming to Enterprise (2021)",
         "url": "https://blogit.michelin.io/clojure-programming/",
-        "points": 190,
-        "comments": 103,
+        "points": 196,
+        "comments": 114,
         "created_at": "2026-04-02T08:19:11.000Z"
       },
       {
         "title": "r/programming bans all discussion of LLM programming",
         "url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
-        "points": 187,
-        "comments": 193,
+        "points": 190,
+        "comments": 209,
         "created_at": "2026-04-02T05:33:20.000Z"
       },
       {
         "title": "The beginning of programming as we'll know it?",
         "url": "https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/",
-        "points": 57,
-        "comments": 46,
+        "points": 62,
+        "comments": 61,
         "created_at": "2026-04-02T00:39:26.000Z"
       },
       {
@@ -171,8 +171,8 @@
       {
         "title": "Ask HN: What was it like in the era of BBS before the internet?",
         "url": "https://news.ycombinator.com/item?id=47579221",
-        "points": 31,
-        "comments": 35,
+        "points": 32,
+        "comments": 37,
         "created_at": "2026-03-30T20:19:06.000Z"
       }
     ]
