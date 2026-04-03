@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-04-02T18:56:33.782Z",
+  "updatedAt": "2026-04-03T07:08:16.134Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16,
-      "humidity": 97,
-      "wind_kph": 8.5,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 13.1,
+      "humidity": 75,
+      "wind_kph": 23.4,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-04-03",
-      "temp_max_c": 17.4,
-      "temp_min_c": 9.9,
-      "humidity_max": 97,
-      "humidity_min": 44,
-      "wind_kph": 25.3,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-04-04",
+      "temp_max_c": 18.5,
+      "temp_min_c": 6.5,
+      "humidity_max": 69,
+      "humidity_min": 33,
+      "wind_kph": 17.3,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4697.89,
+    "goldUSD": 4791.99,
     "oilUSD": 79,
-    "updatedAt": "2026-04-02T18:56:33.782Z",
-    "gold24KUSD": 151.04,
-    "gold21KUSD": 132.16,
-    "gold18KUSD": 113.28,
-    "gold24KJD": 107.09,
-    "gold21KJD": 93.7,
-    "gold18KJD": 80.32
+    "updatedAt": "2026-04-03T07:08:16.134Z",
+    "gold24KUSD": 154.07,
+    "gold21KUSD": 134.81,
+    "gold18KUSD": 115.55,
+    "gold24KJD": 109.23,
+    "gold21KJD": 95.58,
+    "gold18KJD": 81.92
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8674,
-    "GBP": 0.7567,
-    "SAR": 3.7506
+    "EUR": 0.8673,
+    "GBP": 0.7566,
+    "SAR": 3.7524
   },
   "prayer": {
-    "fajr": "05:16",
-    "maghrib": "18:56",
-    "date": "02 Apr 2002"
+    "fajr": "05:15",
+    "maghrib": "18:57",
+    "date": "03 Apr 2003"
   },
   "events": [
     {
@@ -67,54 +67,54 @@
   "news": {
     "ai": [
       {
-        "title": "Group Pushing Age Verification for AI Turns Out to Be Backed by OpenAI",
-        "url": "https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069",
-        "points": 13,
+        "title": "Marc Andreessen Is Right That AI Isn't Killing Jobs. Interest Rate Hikes Are",
+        "url": "https://www.governance.fyi/p/marc-andreessen-is-right-that-ai",
+        "points": 31,
+        "comments": 7,
+        "created_at": "2026-04-02T21:03:15.000Z"
+      },
+      {
+        "title": "Reporting potholes with an ESP32, LoRA, and AI",
+        "url": "https://thingswemake.com/pothole-in-one/",
+        "points": 14,
         "comments": 0,
-        "created_at": "2026-04-02T16:30:41.000Z"
+        "created_at": "2026-04-02T20:53:44.000Z"
       },
       {
-        "title": "Rewrites.bio: 60x speedup in Genomics QC and AI rewrite principles for Science",
-        "url": "https://rewrites.bio/",
-        "points": 11,
-        "comments": 2,
-        "created_at": "2026-04-02T16:25:42.000Z"
+        "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
+        "url": "https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is",
+        "points": 63,
+        "comments": 37,
+        "created_at": "2026-04-02T19:49:51.000Z"
       },
       {
-        "title": "Men are ditching TV for YouTube as AI usage and social media fatigue grow",
-        "url": "https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed",
-        "points": 43,
-        "comments": 113,
-        "created_at": "2026-04-02T09:43:08.000Z"
+        "title": "Mistral secures $830M in debt financing to fund AI data center",
+        "url": "https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html",
+        "points": 32,
+        "comments": 3,
+        "created_at": "2026-04-02T18:31:00.000Z"
       },
       {
-        "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
-        "url": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/",
-        "points": 72,
-        "comments": 34,
-        "created_at": "2026-04-01T23:45:03.000Z"
-      },
-      {
-        "title": "43 hours battery life: Dell XPS 14 2026 lasts almost 3x longer vs MacBook Air 15",
-        "url": "https://www.notebookcheck.net/43-hours-battery-life-Dell-XPS-14-2026-lasts-almost-3x-longer-vs-MacBook-Air-15-M5-in-web-browsing-test.1262947.0.html",
-        "points": 28,
-        "comments": 9,
-        "created_at": "2026-04-01T23:35:07.000Z"
+        "title": "Show HN: I tested 15 free AI models at building real software on a $25/year VPS",
+        "url": "https://georgelarson.me/writing/2026-04-03-25-dollar-ai-lab/",
+        "points": 19,
+        "comments": 3,
+        "created_at": "2026-04-02T17:13:59.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Apple removes iPhone vibe coding app from app store",
         "url": "https://gizmodo.com/apple-removes-iphone-vibe-coding-app-from-app-store-2000740084",
-        "points": 59,
+        "points": 65,
         "comments": 57,
         "created_at": "2026-04-01T14:36:51.000Z"
       },
       {
         "title": "Ask HN: Client took over development by vibe coding. What to do?",
         "url": "https://news.ycombinator.com/item?id=47599303",
-        "points": 55,
-        "comments": 35,
+        "points": 58,
+        "comments": 38,
         "created_at": "2026-04-01T11:09:03.000Z"
       },
       {
@@ -143,16 +143,23 @@
       {
         "title": "Bringing Clojure programming to Enterprise (2021)",
         "url": "https://blogit.michelin.io/clojure-programming/",
-        "points": 168,
-        "comments": 96,
+        "points": 190,
+        "comments": 103,
         "created_at": "2026-04-02T08:19:11.000Z"
       },
       {
         "title": "r/programming bans all discussion of LLM programming",
         "url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
-        "points": 164,
-        "comments": 166,
+        "points": 187,
+        "comments": 193,
         "created_at": "2026-04-02T05:33:20.000Z"
+      },
+      {
+        "title": "The beginning of programming as we'll know it?",
+        "url": "https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/",
+        "points": 57,
+        "comments": 46,
+        "created_at": "2026-04-02T00:39:26.000Z"
       },
       {
         "title": "CUDA Released in Basic",
@@ -167,13 +174,6 @@
         "points": 31,
         "comments": 35,
         "created_at": "2026-03-30T20:19:06.000Z"
-      },
-      {
-        "title": "Build123d: A Python CAD programming library",
-        "url": "https://github.com/gumyr/build123d",
-        "points": 150,
-        "comments": 64,
-        "created_at": "2026-03-29T20:58:22.000Z"
       }
     ]
   }
