@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-04-03T18:46:43.487Z",
+  "updatedAt": "2026-04-04T07:00:27.135Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 10.6,
-      "humidity": 58,
-      "wind_kph": 4.1,
+      "temp_c": 15.6,
+      "humidity": 42,
+      "wind_kph": 5.4,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-04-04",
-      "temp_max_c": 18.7,
-      "temp_min_c": 7.2,
-      "humidity_max": 88,
-      "humidity_min": 33,
-      "wind_kph": 18.7,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "date": "2026-04-05",
+      "temp_max_c": 14.6,
+      "temp_min_c": 7.8,
+      "humidity_max": 95,
+      "humidity_min": 65,
+      "wind_kph": 22.1,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
-    "goldUSD": 4791.99,
+    "goldUSD": 4676.72,
     "oilUSD": 79,
-    "updatedAt": "2026-04-03T18:46:43.487Z",
-    "gold24KUSD": 154.07,
-    "gold21KUSD": 134.81,
-    "gold18KUSD": 115.55,
-    "gold24KJD": 109.23,
-    "gold21KJD": 95.58,
-    "gold18KJD": 81.92
+    "updatedAt": "2026-04-04T07:00:27.135Z",
+    "gold24KUSD": 150.36,
+    "gold21KUSD": 131.56,
+    "gold18KUSD": 112.77,
+    "gold24KJD": 106.61,
+    "gold21KJD": 93.28,
+    "gold18KJD": 79.95
   },
   "exchange": {
     "JOD": 0.709,
@@ -38,9 +38,9 @@
     "SAR": 3.75
   },
   "prayer": {
-    "fajr": "05:15",
-    "maghrib": "18:57",
-    "date": "03 Apr 2003"
+    "fajr": "05:13",
+    "maghrib": "18:58",
+    "date": "04 Apr 2004"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "Show HN: I built a frontpage for personal blogs",
-        "url": "https://text.blogosphere.app/",
-        "points": 469,
-        "comments": 137,
-        "created_at": "2026-04-03T12:33:45.000Z"
+        "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
+        "url": "https://github.com/borski/travel-hacking-toolkit",
+        "points": 57,
+        "comments": 24,
+        "created_at": "2026-04-04T02:26:42.000Z"
       },
       {
-        "title": "Show HN: Apfel – The free AI already on your Mac",
-        "url": "https://apfel.franzai.com",
-        "points": 560,
-        "comments": 126,
-        "created_at": "2026-04-03T09:15:34.000Z"
+        "title": "Y Combinator's CEO says he ships 37,000 lines of AI code per day",
+        "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+        "points": 13,
+        "comments": 18,
+        "created_at": "2026-04-03T23:06:55.000Z"
       },
       {
-        "title": "AI's fluency in other languages hides a Western worldview that can mislead users",
-        "url": "https://theconversation.com/ais-fluency-in-other-languages-hides-a-western-worldview-that-can-mislead-users-a-scholar-of-indonesian-society-explains-276865",
-        "points": 12,
-        "comments": 1,
-        "created_at": "2026-04-03T09:03:07.000Z"
-      },
-      {
-        "title": "AI models will deceive you to save their own kind",
-        "url": "https://www.theregister.com/2026/04/02/ai_models_will_deceive_you/",
+        "title": "Meta Pauses Work with Mercor After Data Breach Puts AI Industry Secrets at Risk",
+        "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
         "points": 11,
-        "comments": 0,
-        "created_at": "2026-04-03T07:45:44.000Z"
+        "comments": 1,
+        "created_at": "2026-04-03T22:34:27.000Z"
       },
       {
-        "title": "Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",
-        "url": "https://mehuleo.github.io/encircle/",
-        "points": 18,
-        "comments": 7,
-        "created_at": "2026-04-03T04:00:56.000Z"
+        "title": "The Subprime AI Crisis Is Here",
+        "url": "https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/",
+        "points": 47,
+        "comments": 19,
+        "created_at": "2026-04-03T22:25:22.000Z"
+      },
+      {
+        "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
+        "url": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
+        "points": 11,
+        "comments": 1,
+        "created_at": "2026-04-03T21:51:50.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Apple removes iPhone vibe coding app from app store",
         "url": "https://gizmodo.com/apple-removes-iphone-vibe-coding-app-from-app-store-2000740084",
-        "points": 65,
-        "comments": 57,
+        "points": 67,
+        "comments": 58,
         "created_at": "2026-04-01T14:36:51.000Z"
       },
       {
@@ -143,36 +143,36 @@
       {
         "title": "Bringing Clojure programming to Enterprise (2021)",
         "url": "https://blogit.michelin.io/clojure-programming/",
-        "points": 196,
-        "comments": 114,
+        "points": 200,
+        "comments": 122,
         "created_at": "2026-04-02T08:19:11.000Z"
       },
       {
         "title": "r/programming bans all discussion of LLM programming",
         "url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
-        "points": 190,
-        "comments": 209,
+        "points": 191,
+        "comments": 210,
         "created_at": "2026-04-02T05:33:20.000Z"
       },
       {
         "title": "The beginning of programming as we'll know it?",
         "url": "https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/",
         "points": 62,
-        "comments": 61,
+        "comments": 65,
         "created_at": "2026-04-02T00:39:26.000Z"
       },
       {
         "title": "CUDA Released in Basic",
         "url": "https://developer.nvidia.com/blog/cuda-tile-programming-now-available-for-basic/",
         "points": 29,
-        "comments": 8,
+        "comments": 9,
         "created_at": "2026-04-01T16:19:49.000Z"
       },
       {
         "title": "Ask HN: What was it like in the era of BBS before the internet?",
         "url": "https://news.ycombinator.com/item?id=47579221",
         "points": 32,
-        "comments": 37,
+        "comments": 38,
         "created_at": "2026-03-30T20:19:06.000Z"
       }
     ]
