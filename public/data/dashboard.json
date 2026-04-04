@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-04-04T07:00:27.135Z",
+  "updatedAt": "2026-04-04T18:41:57.128Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 15.6,
-      "humidity": 42,
-      "wind_kph": 5.4,
+      "temp_c": 11.1,
+      "humidity": 69,
+      "wind_kph": 7.8,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-04-05",
-      "temp_max_c": 14.6,
-      "temp_min_c": 7.8,
-      "humidity_max": 95,
-      "humidity_min": 65,
-      "wind_kph": 22.1,
+      "temp_max_c": 15,
+      "temp_min_c": 7.7,
+      "humidity_max": 93,
+      "humidity_min": 66,
+      "wind_kph": 19.7,
       "weather_code": 80,
       "weather_desc": "Slight rain showers"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4676.72,
     "oilUSD": 79,
-    "updatedAt": "2026-04-04T07:00:27.135Z",
+    "updatedAt": "2026-04-04T18:41:57.128Z",
     "gold24KUSD": 150.36,
     "gold21KUSD": 131.56,
     "gold18KUSD": 112.77,
@@ -67,54 +67,54 @@
   "news": {
     "ai": [
       {
+        "title": "Iran's Network of Cameras Bolsters Air Defenses, Expert Says",
+        "url": "https://www.wsj.com/livecoverage/iran-war-news-2026/card/iran-s-network-of-cameras-bolsters-air-defenses-expert-says-IqjSSuOcGNrxzsrp52i8",
+        "points": 34,
+        "comments": 11,
+        "created_at": "2026-04-04T17:06:29.000Z"
+      },
+      {
+        "title": "12k AI-generated blog posts added in a single commit",
+        "url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
+        "points": 109,
+        "comments": 94,
+        "created_at": "2026-04-04T16:45:31.000Z"
+      },
+      {
+        "title": "Let's be Honest about AI Coding",
+        "url": "https://kenkantzer.com/lets-be-honest-about-ai/",
+        "points": 15,
+        "comments": 2,
+        "created_at": "2026-04-04T03:20:19.000Z"
+      },
+      {
         "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
         "url": "https://github.com/borski/travel-hacking-toolkit",
-        "points": 57,
-        "comments": 24,
+        "points": 81,
+        "comments": 36,
         "created_at": "2026-04-04T02:26:42.000Z"
       },
       {
         "title": "Y Combinator's CEO says he ships 37,000 lines of AI code per day",
         "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
         "points": 13,
-        "comments": 18,
+        "comments": 20,
         "created_at": "2026-04-03T23:06:55.000Z"
-      },
-      {
-        "title": "Meta Pauses Work with Mercor After Data Breach Puts AI Industry Secrets at Risk",
-        "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
-        "points": 11,
-        "comments": 1,
-        "created_at": "2026-04-03T22:34:27.000Z"
-      },
-      {
-        "title": "The Subprime AI Crisis Is Here",
-        "url": "https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/",
-        "points": 47,
-        "comments": 19,
-        "created_at": "2026-04-03T22:25:22.000Z"
-      },
-      {
-        "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
-        "url": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
-        "points": 11,
-        "comments": 1,
-        "created_at": "2026-04-03T21:51:50.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Apple removes iPhone vibe coding app from app store",
         "url": "https://gizmodo.com/apple-removes-iphone-vibe-coding-app-from-app-store-2000740084",
-        "points": 67,
+        "points": 68,
         "comments": 58,
         "created_at": "2026-04-01T14:36:51.000Z"
       },
       {
         "title": "Ask HN: Client took over development by vibe coding. What to do?",
         "url": "https://news.ycombinator.com/item?id=47599303",
-        "points": 59,
-        "comments": 38,
+        "points": 60,
+        "comments": 42,
         "created_at": "2026-04-01T11:09:03.000Z"
       },
       {
@@ -150,15 +150,15 @@
       {
         "title": "r/programming bans all discussion of LLM programming",
         "url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
-        "points": 191,
-        "comments": 210,
+        "points": 194,
+        "comments": 214,
         "created_at": "2026-04-02T05:33:20.000Z"
       },
       {
         "title": "The beginning of programming as we'll know it?",
         "url": "https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/",
         "points": 62,
-        "comments": 65,
+        "comments": 68,
         "created_at": "2026-04-02T00:39:26.000Z"
       },
       {
