@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-04-05T07:05:50.621Z",
+  "updatedAt": "2026-04-05T18:42:46.451Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 13.4,
-      "humidity": 69,
-      "wind_kph": 18.5,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 10.9,
+      "humidity": 88,
+      "wind_kph": 4,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-04-06",
-      "temp_max_c": 16.5,
-      "temp_min_c": 7,
-      "humidity_max": 95,
-      "humidity_min": 54,
-      "wind_kph": 20.6,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_max_c": 16.9,
+      "temp_min_c": 8,
+      "humidity_max": 91,
+      "humidity_min": 49,
+      "wind_kph": 23.9,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
     "goldUSD": 4676.75,
     "oilUSD": 79,
-    "updatedAt": "2026-04-05T07:05:50.621Z",
+    "updatedAt": "2026-04-05T18:42:46.451Z",
     "gold24KUSD": 150.36,
     "gold21KUSD": 131.57,
     "gold18KUSD": 112.77,
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
+        "title": "With one million displaced, Lebanon turns to digital wallets for aid",
+        "url": "https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/",
+        "points": 22,
+        "comments": 19,
+        "created_at": "2026-04-05T17:02:38.000Z"
+      },
+      {
+        "title": "Banray.eu: Raising awareness of the terrible idea that is always-on AI glasses",
+        "url": "https://banray.eu/en/index.html",
+        "points": 30,
+        "comments": 13,
+        "created_at": "2026-04-05T14:49:41.000Z"
+      },
+      {
+        "title": "Eight years of wanting, three months of building with AI",
+        "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+        "points": 329,
+        "comments": 102,
+        "created_at": "2026-04-05T12:43:47.000Z"
+      },
+      {
         "title": "I used AI. It worked. I hated it",
         "url": "https://taggart-tech.com/reckoning/",
-        "points": 38,
-        "comments": 75,
+        "points": 50,
+        "comments": 111,
         "created_at": "2026-04-05T05:08:39.000Z"
       },
       {
-        "title": "AI that copied musical artist files copyright claim against artist [updated]",
-        "url": "https://twitter.com/VladTheInflator/status/2039577001531768906",
-        "points": 52,
-        "comments": 12,
-        "created_at": "2026-04-05T03:55:10.000Z"
-      },
-      {
-        "title": "Writing Lisp is AI resistant and I'm sad",
-        "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
-        "points": 59,
-        "comments": 58,
-        "created_at": "2026-04-05T02:01:31.000Z"
-      },
-      {
-        "title": "Iran's Network of Cameras Bolsters Air Defenses, Expert Says",
-        "url": "https://www.wsj.com/livecoverage/iran-war-news-2026/card/iran-s-network-of-cameras-bolsters-air-defenses-expert-says-IqjSSuOcGNrxzsrp52i8",
-        "points": 45,
-        "comments": 16,
-        "created_at": "2026-04-04T17:06:29.000Z"
-      },
-      {
-        "title": "12k AI-generated blog posts added in a single commit",
-        "url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
-        "points": 145,
-        "comments": 144,
-        "created_at": "2026-04-04T16:45:31.000Z"
+        "title": "US forces locate and evacuate downed airman in Iran",
+        "url": "https://www.foxnews.com/live-news/second-us-fighter-jet-downed-by-strait-of-hormuz-as-search-for-f-15e-crew-member-in-iran-continues",
+        "points": 22,
+        "comments": 56,
+        "created_at": "2026-04-05T04:12:40.000Z"
       }
     ],
     "vibeCoding": [
@@ -151,21 +151,21 @@
         "title": "r/programming bans all discussion of LLM programming",
         "url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
         "points": 196,
-        "comments": 216,
+        "comments": 223,
         "created_at": "2026-04-02T05:33:20.000Z"
       },
       {
         "title": "The beginning of programming as we'll know it?",
         "url": "https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/",
         "points": 62,
-        "comments": 68,
+        "comments": 69,
         "created_at": "2026-04-02T00:39:26.000Z"
       },
       {
         "title": "Functional programming accelerates agentic feature development",
         "url": "https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai",
-        "points": 41,
-        "comments": 21,
+        "points": 53,
+        "comments": 29,
         "created_at": "2026-04-01T18:32:05.000Z"
       },
       {
