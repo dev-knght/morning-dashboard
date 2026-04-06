@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-04-06T07:42:39.176Z",
+  "updatedAt": "2026-04-06T18:58:51.605Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 15.1,
-      "humidity": 61,
-      "wind_kph": 12.8,
+      "temp_c": 11.1,
+      "humidity": 88,
+      "wind_kph": 6.6,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-04-07",
-      "temp_max_c": 15.2,
-      "temp_min_c": 6.7,
-      "humidity_max": 97,
-      "humidity_min": 60,
-      "wind_kph": 26.4,
+      "temp_max_c": 14.6,
+      "temp_min_c": 7.5,
+      "humidity_max": 95,
+      "humidity_min": 66,
+      "wind_kph": 26.3,
       "weather_code": 80,
       "weather_desc": "Slight rain showers"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4676.64,
     "oilUSD": 79,
-    "updatedAt": "2026-04-06T07:42:39.176Z",
+    "updatedAt": "2026-04-06T18:58:51.605Z",
     "gold24KUSD": 150.36,
     "gold21KUSD": 131.56,
     "gold18KUSD": 112.77,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8668,
-    "GBP": 0.7537,
-    "SAR": 3.75
+    "EUR": 0.8665,
+    "GBP": 0.7557,
+    "SAR": 3.7548
   },
   "prayer": {
     "fajr": "05:10",
@@ -67,42 +67,49 @@
   "news": {
     "ai": [
       {
-        "title": "AI Is a Threat to Everything the American People Hold Dear – Bernie Sanders OpEd",
-        "url": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459",
-        "points": 14,
-        "comments": 3,
-        "created_at": "2026-04-06T00:56:41.000Z"
+        "title": "Show HN: I Built Paul Graham's Intellectual Captcha Idea",
+        "url": "https://mentwire.com/sample",
+        "points": 27,
+        "comments": 31,
+        "created_at": "2026-04-06T16:36:00.000Z"
       },
       {
-        "title": "Apex Protocol – An open MCP-based standard for AI agent trading",
-        "url": "https://apexstandard.org/",
-        "points": 12,
-        "comments": 3,
-        "created_at": "2026-04-06T00:50:32.000Z"
+        "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
+        "url": "https://www.freestyle.sh",
+        "points": 90,
+        "comments": 49,
+        "created_at": "2026-04-06T16:32:11.000Z"
       },
       {
-        "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
-        "url": "https://github.com/kessler/gemma-gem",
-        "points": 60,
-        "comments": 11,
-        "created_at": "2026-04-06T00:14:37.000Z"
+        "title": "AI Singer Now Occupies Eleven Spots on iTunes Singles Chart",
+        "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
+        "points": 43,
+        "comments": 61,
+        "created_at": "2026-04-06T15:57:07.000Z"
       },
       {
-        "title": "'Cognitive Surrender' Is a New and Useful Term for How AI Melts Brains",
-        "url": "https://gizmodo.com/cognitive-surrender-is-a-new-and-useful-term-for-how-ai-melts-brains-2000742595",
-        "points": 36,
-        "comments": 7,
-        "created_at": "2026-04-05T23:45:20.000Z"
+        "title": "When Virality Is the Message: The New Age of AI Propaganda",
+        "url": "https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/",
+        "points": 55,
+        "comments": 53,
+        "created_at": "2026-04-06T14:16:35.000Z"
       },
       {
-        "title": "Musician says AI company is cloning her music, filing claims against her",
-        "url": "https://twitter.com/unlimited_ls/status/2040577536136974444",
-        "points": 110,
-        "comments": 18,
-        "created_at": "2026-04-05T20:19:11.000Z"
+        "title": "China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
+        "url": "https://www.bbc.com/news/articles/cy41n17e23go",
+        "points": 16,
+        "comments": 1,
+        "created_at": "2026-04-06T06:37:13.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "The Cult of Vibe Coding Is Insane",
+        "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
+        "points": 35,
+        "comments": 7,
+        "created_at": "2026-04-06T18:31:03.000Z"
+      },
       {
         "title": "Apple removes iPhone vibe coding app from app store",
         "url": "https://gizmodo.com/apple-removes-iphone-vibe-coding-app-from-app-store-2000740084",
@@ -113,7 +120,7 @@
       {
         "title": "Ask HN: Client took over development by vibe coding. What to do?",
         "url": "https://news.ycombinator.com/item?id=47599303",
-        "points": 60,
+        "points": 61,
         "comments": 42,
         "created_at": "2026-04-01T11:09:03.000Z"
       },
@@ -130,21 +137,14 @@
         "points": 18,
         "comments": 33,
         "created_at": "2026-03-28T17:17:57.000Z"
-      },
-      {
-        "title": "Tired of AI When will this era end?",
-        "url": "https://news.ycombinator.com/item?id=47522856",
-        "points": 27,
-        "comments": 17,
-        "created_at": "2026-03-25T20:36:45.000Z"
       }
     ],
     "progDb": [
       {
         "title": "Music for Programming",
         "url": "https://musicforprogramming.net",
-        "points": 165,
-        "comments": 72,
+        "points": 313,
+        "comments": 159,
         "created_at": "2026-04-05T18:23:08.000Z"
       },
       {
@@ -171,7 +171,7 @@
       {
         "title": "Functional programming accelerates agentic feature development",
         "url": "https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai",
-        "points": 55,
+        "points": 58,
         "comments": 30,
         "created_at": "2026-04-01T18:32:05.000Z"
       }
