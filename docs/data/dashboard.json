@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-04-05T18:42:46.451Z",
+  "updatedAt": "2026-04-06T07:42:39.176Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 10.9,
-      "humidity": 88,
-      "wind_kph": 4,
+      "temp_c": 15.1,
+      "humidity": 61,
+      "wind_kph": 12.8,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-04-06",
-      "temp_max_c": 16.9,
-      "temp_min_c": 8,
-      "humidity_max": 91,
-      "humidity_min": 49,
-      "wind_kph": 23.9,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-04-07",
+      "temp_max_c": 15.2,
+      "temp_min_c": 6.7,
+      "humidity_max": 97,
+      "humidity_min": 60,
+      "wind_kph": 26.4,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
-    "goldUSD": 4676.75,
+    "goldUSD": 4676.64,
     "oilUSD": 79,
-    "updatedAt": "2026-04-05T18:42:46.451Z",
+    "updatedAt": "2026-04-06T07:42:39.176Z",
     "gold24KUSD": 150.36,
-    "gold21KUSD": 131.57,
+    "gold21KUSD": 131.56,
     "gold18KUSD": 112.77,
-    "gold24KJD": 106.61,
+    "gold24KJD": 106.6,
     "gold21KJD": 93.28,
     "gold18KJD": 79.95
   },
@@ -38,9 +38,9 @@
     "SAR": 3.75
   },
   "prayer": {
-    "fajr": "05:12",
+    "fajr": "05:10",
     "maghrib": "18:59",
-    "date": "05 Apr 2005"
+    "date": "06 Apr 2006"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "With one million displaced, Lebanon turns to digital wallets for aid",
-        "url": "https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/",
-        "points": 22,
-        "comments": 19,
-        "created_at": "2026-04-05T17:02:38.000Z"
+        "title": "AI Is a Threat to Everything the American People Hold Dear – Bernie Sanders OpEd",
+        "url": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459",
+        "points": 14,
+        "comments": 3,
+        "created_at": "2026-04-06T00:56:41.000Z"
       },
       {
-        "title": "Banray.eu: Raising awareness of the terrible idea that is always-on AI glasses",
-        "url": "https://banray.eu/en/index.html",
-        "points": 30,
-        "comments": 13,
-        "created_at": "2026-04-05T14:49:41.000Z"
+        "title": "Apex Protocol – An open MCP-based standard for AI agent trading",
+        "url": "https://apexstandard.org/",
+        "points": 12,
+        "comments": 3,
+        "created_at": "2026-04-06T00:50:32.000Z"
       },
       {
-        "title": "Eight years of wanting, three months of building with AI",
-        "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-        "points": 329,
-        "comments": 102,
-        "created_at": "2026-04-05T12:43:47.000Z"
+        "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+        "url": "https://github.com/kessler/gemma-gem",
+        "points": 60,
+        "comments": 11,
+        "created_at": "2026-04-06T00:14:37.000Z"
       },
       {
-        "title": "I used AI. It worked. I hated it",
-        "url": "https://taggart-tech.com/reckoning/",
-        "points": 50,
-        "comments": 111,
-        "created_at": "2026-04-05T05:08:39.000Z"
+        "title": "'Cognitive Surrender' Is a New and Useful Term for How AI Melts Brains",
+        "url": "https://gizmodo.com/cognitive-surrender-is-a-new-and-useful-term-for-how-ai-melts-brains-2000742595",
+        "points": 36,
+        "comments": 7,
+        "created_at": "2026-04-05T23:45:20.000Z"
       },
       {
-        "title": "US forces locate and evacuate downed airman in Iran",
-        "url": "https://www.foxnews.com/live-news/second-us-fighter-jet-downed-by-strait-of-hormuz-as-search-for-f-15e-crew-member-in-iran-continues",
-        "points": 22,
-        "comments": 56,
-        "created_at": "2026-04-05T04:12:40.000Z"
+        "title": "Musician says AI company is cloning her music, filing claims against her",
+        "url": "https://twitter.com/unlimited_ls/status/2040577536136974444",
+        "points": 110,
+        "comments": 18,
+        "created_at": "2026-04-05T20:19:11.000Z"
       }
     ],
     "vibeCoding": [
@@ -121,7 +121,7 @@
         "title": "The \"Vibe Coding\" Wall of Shame",
         "url": "https://crackr.dev/vibe-coding-failures",
         "points": 131,
-        "comments": 80,
+        "comments": 79,
         "created_at": "2026-03-29T19:42:26.000Z"
       },
       {
@@ -141,6 +141,13 @@
     ],
     "progDb": [
       {
+        "title": "Music for Programming",
+        "url": "https://musicforprogramming.net",
+        "points": 165,
+        "comments": 72,
+        "created_at": "2026-04-05T18:23:08.000Z"
+      },
+      {
         "title": "Bringing Clojure programming to Enterprise (2021)",
         "url": "https://blogit.michelin.io/clojure-programming/",
         "points": 201,
@@ -150,7 +157,7 @@
       {
         "title": "r/programming bans all discussion of LLM programming",
         "url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
-        "points": 196,
+        "points": 198,
         "comments": 223,
         "created_at": "2026-04-02T05:33:20.000Z"
       },
@@ -164,16 +171,9 @@
       {
         "title": "Functional programming accelerates agentic feature development",
         "url": "https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai",
-        "points": 53,
-        "comments": 29,
+        "points": 55,
+        "comments": 30,
         "created_at": "2026-04-01T18:32:05.000Z"
-      },
-      {
-        "title": "CUDA Released in Basic",
-        "url": "https://developer.nvidia.com/blog/cuda-tile-programming-now-available-for-basic/",
-        "points": 29,
-        "comments": 9,
-        "created_at": "2026-04-01T16:19:49.000Z"
       }
     ]
   }
