@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T18:58:51.605Z",
+  "updatedAt": "2026-04-07T07:16:40.336Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
@@ -21,26 +21,26 @@
     }
   },
   "metals": {
-    "goldUSD": 4676.64,
+    "goldUSD": 4624.74,
     "oilUSD": 79,
-    "updatedAt": "2026-04-06T18:58:51.605Z",
-    "gold24KUSD": 150.36,
-    "gold21KUSD": 131.56,
-    "gold18KUSD": 112.77,
-    "gold24KJD": 106.6,
-    "gold21KJD": 93.28,
-    "gold18KJD": 79.95
+    "updatedAt": "2026-04-07T07:16:40.336Z",
+    "gold24KUSD": 148.69,
+    "gold21KUSD": 130.1,
+    "gold18KUSD": 111.52,
+    "gold24KJD": 105.42,
+    "gold21KJD": 92.24,
+    "gold18KJD": 79.07
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8665,
-    "GBP": 0.7557,
-    "SAR": 3.7548
+    "EUR": 0.8661,
+    "GBP": 0.7554,
+    "SAR": 3.755
   },
   "prayer": {
-    "fajr": "05:10",
-    "maghrib": "18:59",
-    "date": "06 Apr 2006"
+    "fajr": "05:09",
+    "maghrib": "19:00",
+    "date": "07 Apr 2007"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "Show HN: I Built Paul Graham's Intellectual Captcha Idea",
-        "url": "https://mentwire.com/sample",
-        "points": 27,
-        "comments": 31,
-        "created_at": "2026-04-06T16:36:00.000Z"
+        "title": "The back story behind the first \"$1.8B\" dollar \"AI Company\"",
+        "url": "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18",
+        "points": 53,
+        "comments": 9,
+        "created_at": "2026-04-06T23:16:27.000Z"
       },
       {
-        "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
-        "url": "https://www.freestyle.sh",
-        "points": 90,
-        "comments": 49,
-        "created_at": "2026-04-06T16:32:11.000Z"
+        "title": "Bernie Sanders: \"AI Is a Threat to Everything the American People Hold Dear\"",
+        "url": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459",
+        "points": 49,
+        "comments": 39,
+        "created_at": "2026-04-06T21:57:54.000Z"
       },
       {
-        "title": "AI Singer Now Occupies Eleven Spots on iTunes Singles Chart",
-        "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
-        "points": 43,
-        "comments": 61,
-        "created_at": "2026-04-06T15:57:07.000Z"
+        "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+        "url": "https://github.com/kitfunso/hippo-memory",
+        "points": 83,
+        "comments": 16,
+        "created_at": "2026-04-06T21:49:34.000Z"
       },
       {
-        "title": "When Virality Is the Message: The New Age of AI Propaganda",
-        "url": "https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/",
-        "points": 55,
-        "comments": 53,
-        "created_at": "2026-04-06T14:16:35.000Z"
+        "title": "Wikipedia's AI agent row likely just the beginning of the bot-ocalypse",
+        "url": "https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse",
+        "points": 52,
+        "comments": 58,
+        "created_at": "2026-04-06T19:41:39.000Z"
       },
       {
-        "title": "China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
-        "url": "https://www.bbc.com/news/articles/cy41n17e23go",
-        "points": 16,
-        "comments": 1,
-        "created_at": "2026-04-06T06:37:13.000Z"
+        "title": "Zooming UIs in 2026: Prezi, impress.js, and why I built something different",
+        "url": "https://news.ycombinator.com/item?id=47665194",
+        "points": 88,
+        "comments": 42,
+        "created_at": "2026-04-06T18:53:15.000Z"
       }
     ],
     "vibeCoding": [
       {
-        "title": "The Cult of Vibe Coding Is Insane",
+        "title": "The cult of vibe coding is dogfooding run amok",
         "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
-        "points": 35,
-        "comments": 7,
+        "points": 531,
+        "comments": 452,
         "created_at": "2026-04-06T18:31:03.000Z"
       },
       {
@@ -120,7 +120,7 @@
       {
         "title": "Ask HN: Client took over development by vibe coding. What to do?",
         "url": "https://news.ycombinator.com/item?id=47599303",
-        "points": 61,
+        "points": 62,
         "comments": 42,
         "created_at": "2026-04-01T11:09:03.000Z"
       },
@@ -143,8 +143,8 @@
       {
         "title": "Music for Programming",
         "url": "https://musicforprogramming.net",
-        "points": 313,
-        "comments": 159,
+        "points": 340,
+        "comments": 169,
         "created_at": "2026-04-05T18:23:08.000Z"
       },
       {
