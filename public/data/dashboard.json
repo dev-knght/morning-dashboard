@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-04-08T19:15:48.914Z",
+  "updatedAt": "2026-04-09T07:21:55.686Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 11.4,
-      "humidity": 93,
-      "wind_kph": 11.5,
+      "temp_c": 14.4,
+      "humidity": 66,
+      "wind_kph": 19,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-04-09",
-      "temp_max_c": 18.5,
-      "temp_min_c": 10.3,
-      "humidity_max": 93,
+      "date": "2026-04-10",
+      "temp_max_c": 18.9,
+      "temp_min_c": 8.7,
+      "humidity_max": 95,
       "humidity_min": 48,
-      "wind_kph": 23.1,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "wind_kph": 25.3,
+      "weather_code": 95,
+      "weather_desc": "Thunderstorm"
     }
   },
   "metals": {
-    "goldUSD": 4659.87,
+    "goldUSD": 4840.1,
     "oilUSD": 79,
-    "updatedAt": "2026-04-08T19:15:48.914Z",
-    "gold24KUSD": 149.82,
-    "gold21KUSD": 131.09,
-    "gold18KUSD": 112.36,
-    "gold24KJD": 106.24,
-    "gold21KJD": 92.96,
-    "gold18KJD": 79.68
+    "updatedAt": "2026-04-09T07:21:55.686Z",
+    "gold24KUSD": 155.61,
+    "gold21KUSD": 136.16,
+    "gold18KUSD": 116.71,
+    "gold24KJD": 110.34,
+    "gold21KJD": 96.55,
+    "gold18KJD": 82.76
   },
   "exchange": {
     "JOD": 0.7091,
-    "EUR": 0.8552,
-    "GBP": 0.7438,
-    "SAR": 3.7512
+    "EUR": 0.8554,
+    "GBP": 0.7439,
+    "SAR": 3.7521
   },
   "prayer": {
-    "fajr": "05:07",
+    "fajr": "05:06",
     "maghrib": "19:01",
-    "date": "08 Apr 2008"
+    "date": "09 Apr 2009"
   },
   "events": [
     {
@@ -67,54 +67,54 @@
   "news": {
     "ai": [
       {
-        "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
-        "url": "https://github.com/onesuper/tui-use",
-        "points": 18,
-        "comments": 17,
-        "created_at": "2026-04-08T16:41:16.000Z"
+        "title": "Process Manager for Autonomous AI Agents",
+        "url": "https://botctl.dev/",
+        "points": 11,
+        "comments": 0,
+        "created_at": "2026-04-09T06:00:55.000Z"
       },
       {
-        "title": "Meta debuts Muse Spark, first AI model under Alexandr Wang",
-        "url": "https://www.axios.com/2026/04/08/meta-muse-alexandr-wang",
-        "points": 14,
+        "title": "'There's a lot of desperation': older workers turn to AI training to stay afloat",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs",
+        "points": 19,
         "comments": 2,
-        "created_at": "2026-04-08T16:15:10.000Z"
+        "created_at": "2026-04-09T03:52:18.000Z"
       },
       {
-        "title": "Muse Spark – Meta Superintelligence Labs",
-        "url": "https://meta.ai/",
-        "points": 188,
-        "comments": 5,
-        "created_at": "2026-04-08T16:05:54.000Z"
+        "title": "App Store sees 84% surge in new apps as AI coding tools take off",
+        "url": "https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/",
+        "points": 50,
+        "comments": 57,
+        "created_at": "2026-04-09T03:51:41.000Z"
       },
       {
-        "title": "Muse Spark: Scaling towards personal superintelligence",
-        "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
-        "points": 130,
-        "comments": 196,
-        "created_at": "2026-04-08T16:01:32.000Z"
+        "title": "You Can Just Print an Air Purifier",
+        "url": "https://aftermath.site/3d-printing-air-purifier-corsi-rosenthal/",
+        "points": 11,
+        "comments": 0,
+        "created_at": "2026-04-09T00:54:21.000Z"
       },
       {
-        "title": "Show HN: BAREmail ʕ·ᴥ·ʔ – minimalist Gmail client for bad WiFi",
-        "url": "https://github.com/matt-virgo/baremail",
-        "points": 37,
-        "comments": 28,
-        "created_at": "2026-04-08T14:44:23.000Z"
+        "title": "AI Did It in 12 Minutes. It Took Me 10 Hours to Fix It",
+        "url": "https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code",
+        "points": 15,
+        "comments": 4,
+        "created_at": "2026-04-08T21:36:37.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "The cult of vibe coding is dogfooding run amok",
         "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
-        "points": 612,
+        "points": 613,
         "comments": 505,
         "created_at": "2026-04-06T18:31:03.000Z"
       },
       {
         "title": "Slightly safer vibecoding by adopting old hacker habits",
         "url": "http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html",
-        "points": 162,
-        "comments": 86,
+        "points": 171,
+        "comments": 90,
         "created_at": "2026-04-03T01:53:15.000Z"
       },
       {
@@ -158,7 +158,7 @@
         "title": "Bringing Clojure programming to Enterprise (2021)",
         "url": "https://blogit.michelin.io/clojure-programming/",
         "points": 202,
-        "comments": 121,
+        "comments": 124,
         "created_at": "2026-04-02T08:19:11.000Z"
       },
       {
