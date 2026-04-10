@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-04-10T07:26:58.344Z",
+  "updatedAt": "2026-04-10T18:52:53.097Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 15.8,
-      "humidity": 66,
-      "wind_kph": 15.5,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 12.1,
+      "humidity": 95,
+      "wind_kph": 12,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-04-11",
-      "temp_max_c": 18.2,
-      "temp_min_c": 7.1,
-      "humidity_max": 93,
-      "humidity_min": 49,
-      "wind_kph": 24.6,
+      "temp_max_c": 18,
+      "temp_min_c": 7.2,
+      "humidity_max": 92,
+      "humidity_min": 48,
+      "wind_kph": 23.7,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4700.07,
     "oilUSD": 79,
-    "updatedAt": "2026-04-10T07:26:58.344Z",
+    "updatedAt": "2026-04-10T18:52:53.097Z",
     "gold24KUSD": 151.11,
     "gold21KUSD": 132.22,
     "gold18KUSD": 113.33,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8555,
-    "GBP": 0.7452,
-    "SAR": 3.7518
+    "EUR": 0.855,
+    "GBP": 0.7447,
+    "SAR": 3.7505
   },
   "prayer": {
     "fajr": "05:05",
@@ -67,46 +67,53 @@
   "news": {
     "ai": [
       {
-        "title": "The tool that won't let AI say anything it can't cite",
-        "url": "https://github.com/grainulation/grainulator",
-        "points": 33,
-        "comments": 12,
-        "created_at": "2026-04-10T06:09:47.000Z"
+        "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
+        "url": "https://twill.ai",
+        "points": 16,
+        "comments": 5,
+        "created_at": "2026-04-10T16:22:13.000Z"
       },
       {
-        "title": "OpenAI backs bill to exempt AI firms from harm lawsuits",
-        "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
-        "points": 11,
-        "comments": 1,
-        "created_at": "2026-04-10T03:03:18.000Z"
+        "title": "Why do we tell ourselves scary stories about AI?",
+        "url": "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/",
+        "points": 31,
+        "comments": 82,
+        "created_at": "2026-04-10T14:35:35.000Z"
       },
       {
-        "title": "Google's AI Overviews spew false answers per hour, bombshell study reveals",
-        "url": "https://nypost.com/2026/04/09/business/googles-ai-overviews-spew-out-millions-of-false-answers-per-hour-bombshell-study/",
-        "points": 22,
-        "comments": 4,
-        "created_at": "2026-04-10T02:08:40.000Z"
-      },
-      {
-        "title": "US defense official overseeing AI reaped millions selling xAI stock",
-        "url": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael",
-        "points": 48,
-        "comments": 7,
-        "created_at": "2026-04-09T20:14:23.000Z"
-      },
-      {
-        "title": "Instant 1.0, a backend for AI-coded apps",
-        "url": "https://www.instantdb.com/essays/architecture",
-        "points": 128,
+        "title": "US summons bank bosses over cyber risks from Anthropic's latest AI model",
+        "url": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model",
+        "points": 93,
         "comments": 74,
-        "created_at": "2026-04-09T18:30:59.000Z"
+        "created_at": "2026-04-10T13:47:17.000Z"
+      },
+      {
+        "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
+        "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+        "points": 395,
+        "comments": 289,
+        "created_at": "2026-04-10T13:08:43.000Z"
+      },
+      {
+        "title": "Scientists invented a fake disease. AI told people it was real",
+        "url": "https://www.nature.com/articles/d41586-026-01100-y",
+        "points": 85,
+        "comments": 88,
+        "created_at": "2026-04-10T08:44:37.000Z"
       }
     ],
     "vibeCoding": [
       {
+        "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
+        "url": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
+        "points": 23,
+        "comments": 6,
+        "created_at": "2026-04-10T14:35:05.000Z"
+      },
+      {
         "title": "The cult of vibe coding is dogfooding run amok",
         "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
-        "points": 614,
+        "points": 615,
         "comments": 508,
         "created_at": "2026-04-06T18:31:03.000Z"
       },
@@ -130,35 +137,28 @@
         "points": 63,
         "comments": 42,
         "created_at": "2026-04-01T11:09:03.000Z"
-      },
-      {
-        "title": "The \"Vibe Coding\" Wall of Shame",
-        "url": "https://crackr.dev/vibe-coding-failures",
-        "points": 132,
-        "comments": 78,
-        "created_at": "2026-03-29T19:42:26.000Z"
       }
     ],
     "progDb": [
       {
         "title": "Introduction to Nintendo DS Programming",
         "url": "https://www.patater.com/files/projects/manual/manual.html",
-        "points": 237,
-        "comments": 56,
+        "points": 240,
+        "comments": 58,
         "created_at": "2026-04-08T05:22:42.000Z"
       },
       {
         "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
         "url": "https://github.com/marimo-team/marimo-pair",
-        "points": 27,
-        "comments": 1,
+        "points": 107,
+        "comments": 27,
         "created_at": "2026-04-07T17:47:46.000Z"
       },
       {
         "title": "Music for Programming",
         "url": "https://musicforprogramming.net",
-        "points": 351,
-        "comments": 173,
+        "points": 353,
+        "comments": 174,
         "created_at": "2026-04-05T18:23:08.000Z"
       },
       {
