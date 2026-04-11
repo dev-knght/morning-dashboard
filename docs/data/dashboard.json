@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-04-10T18:52:53.097Z",
+  "updatedAt": "2026-04-11T07:00:38.079Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 12.1,
-      "humidity": 95,
-      "wind_kph": 12,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 14.9,
+      "humidity": 65,
+      "wind_kph": 11.6,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-04-11",
-      "temp_max_c": 18,
-      "temp_min_c": 7.2,
-      "humidity_max": 92,
-      "humidity_min": 48,
-      "wind_kph": 23.7,
+      "date": "2026-04-12",
+      "temp_max_c": 17.4,
+      "temp_min_c": 8.6,
+      "humidity_max": 97,
+      "humidity_min": 49,
+      "wind_kph": 26.1,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4700.07,
+    "goldUSD": 4752.93,
     "oilUSD": 79,
-    "updatedAt": "2026-04-10T18:52:53.097Z",
-    "gold24KUSD": 151.11,
-    "gold21KUSD": 132.22,
-    "gold18KUSD": 113.33,
-    "gold24KJD": 107.14,
-    "gold21KJD": 93.75,
-    "gold18KJD": 80.35
+    "updatedAt": "2026-04-11T07:00:38.079Z",
+    "gold24KUSD": 152.81,
+    "gold21KUSD": 133.71,
+    "gold18KUSD": 114.61,
+    "gold24KJD": 108.34,
+    "gold21KJD": 94.8,
+    "gold18KJD": 81.26
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.855,
-    "GBP": 0.7447,
-    "SAR": 3.7505
+    "EUR": 0.8545,
+    "GBP": 0.7442,
+    "SAR": 3.7519
   },
   "prayer": {
-    "fajr": "05:05",
+    "fajr": "05:04",
     "maghrib": "19:02",
-    "date": "10 Apr 2010"
+    "date": "11 Apr 2011"
   },
   "events": [
     {
@@ -67,46 +67,46 @@
   "news": {
     "ai": [
       {
-        "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
-        "url": "https://twill.ai",
-        "points": 16,
-        "comments": 5,
-        "created_at": "2026-04-10T16:22:13.000Z"
+        "title": "Show HN: DecisionNode – shared structured memory for all AI coding tools via MCP",
+        "url": "https://github.com/decisionnode/DecisionNode",
+        "points": 21,
+        "comments": 4,
+        "created_at": "2026-04-10T20:50:55.000Z"
       },
       {
-        "title": "Why do we tell ourselves scary stories about AI?",
-        "url": "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/",
-        "points": 31,
-        "comments": 82,
-        "created_at": "2026-04-10T14:35:35.000Z"
+        "title": "We're running out of benchmarks to upper bound AI capabilities",
+        "url": "https://www.lesswrong.com/posts/gfkJp8Mr9sBm83Rcz/we-re-actually-running-out-of-benchmarks-to-upper-bound-ai",
+        "points": 15,
+        "comments": 8,
+        "created_at": "2026-04-10T20:16:58.000Z"
       },
       {
-        "title": "US summons bank bosses over cyber risks from Anthropic's latest AI model",
-        "url": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model",
-        "points": 93,
-        "comments": 74,
-        "created_at": "2026-04-10T13:47:17.000Z"
+        "title": "Why Isn't Everything Different Yet? (AI, where are you?)",
+        "url": "https://davegriffith.substack.com/p/why-isnt-everything-different-yet",
+        "points": 14,
+        "comments": 8,
+        "created_at": "2026-04-10T19:27:30.000Z"
       },
       {
-        "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
-        "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
-        "points": 395,
-        "comments": 289,
-        "created_at": "2026-04-10T13:08:43.000Z"
+        "title": "Ask HN: Hiring in the age of AI-assisted coding: what works?",
+        "url": "https://news.ycombinator.com/item?id=47722081",
+        "points": 18,
+        "comments": 12,
+        "created_at": "2026-04-10T18:47:49.000Z"
       },
       {
-        "title": "Scientists invented a fake disease. AI told people it was real",
-        "url": "https://www.nature.com/articles/d41586-026-01100-y",
-        "points": 85,
-        "comments": 88,
-        "created_at": "2026-04-10T08:44:37.000Z"
+        "title": "Show HN: A WYSIWYG word processor in Python",
+        "url": "https://codeberg.org/chrisecker/miniword",
+        "points": 70,
+        "comments": 29,
+        "created_at": "2026-04-10T18:40:34.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
         "url": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
-        "points": 23,
+        "points": 26,
         "comments": 6,
         "created_at": "2026-04-10T14:35:05.000Z"
       },
@@ -114,7 +114,7 @@
         "title": "The cult of vibe coding is dogfooding run amok",
         "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
         "points": 615,
-        "comments": 508,
+        "comments": 510,
         "created_at": "2026-04-06T18:31:03.000Z"
       },
       {
@@ -143,21 +143,21 @@
       {
         "title": "Introduction to Nintendo DS Programming",
         "url": "https://www.patater.com/files/projects/manual/manual.html",
-        "points": 240,
+        "points": 242,
         "comments": 58,
         "created_at": "2026-04-08T05:22:42.000Z"
       },
       {
         "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
         "url": "https://github.com/marimo-team/marimo-pair",
-        "points": 107,
-        "comments": 27,
+        "points": 129,
+        "comments": 31,
         "created_at": "2026-04-07T17:47:46.000Z"
       },
       {
         "title": "Music for Programming",
         "url": "https://musicforprogramming.net",
-        "points": 353,
+        "points": 354,
         "comments": 174,
         "created_at": "2026-04-05T18:23:08.000Z"
       },
