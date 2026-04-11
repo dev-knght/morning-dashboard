@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-04-11T07:00:38.079Z",
+  "updatedAt": "2026-04-11T18:43:10.190Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 14.9,
-      "humidity": 65,
-      "wind_kph": 11.6,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 11.5,
+      "humidity": 83,
+      "wind_kph": 10.4,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-04-12",
-      "temp_max_c": 17.4,
-      "temp_min_c": 8.6,
-      "humidity_max": 97,
-      "humidity_min": 49,
-      "wind_kph": 26.1,
+      "temp_max_c": 17,
+      "temp_min_c": 8.9,
+      "humidity_max": 95,
+      "humidity_min": 52,
+      "wind_kph": 24.9,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4752.93,
     "oilUSD": 79,
-    "updatedAt": "2026-04-11T07:00:38.079Z",
+    "updatedAt": "2026-04-11T18:43:10.190Z",
     "gold24KUSD": 152.81,
     "gold21KUSD": 133.71,
     "gold18KUSD": 114.61,
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "Show HN: DecisionNode – shared structured memory for all AI coding tools via MCP",
-        "url": "https://github.com/decisionnode/DecisionNode",
-        "points": 21,
-        "comments": 4,
-        "created_at": "2026-04-10T20:50:55.000Z"
-      },
-      {
-        "title": "We're running out of benchmarks to upper bound AI capabilities",
-        "url": "https://www.lesswrong.com/posts/gfkJp8Mr9sBm83Rcz/we-re-actually-running-out-of-benchmarks-to-upper-bound-ai",
+        "title": "\"AI polls\" are fake polls",
+        "url": "https://www.natesilver.net/p/ai-polls-are-fake-polls",
         "points": 15,
-        "comments": 8,
-        "created_at": "2026-04-10T20:16:58.000Z"
+        "comments": 5,
+        "created_at": "2026-04-11T16:42:14.000Z"
       },
       {
-        "title": "Why Isn't Everything Different Yet? (AI, where are you?)",
-        "url": "https://davegriffith.substack.com/p/why-isnt-everything-different-yet",
-        "points": 14,
-        "comments": 8,
-        "created_at": "2026-04-10T19:27:30.000Z"
+        "title": "Meta is set to pay its top AI executives almost a billion each in bonuses",
+        "url": "https://www.msn.com/en-my/news/other/meta-is-set-to-pay-its-top-ai-executives-almost-a-billion-each-in-bonuses-if-they-hit-their-targets/ar-AA1ZszqA",
+        "points": 36,
+        "comments": 21,
+        "created_at": "2026-04-11T12:25:02.000Z"
       },
       {
-        "title": "Ask HN: Hiring in the age of AI-assisted coding: what works?",
-        "url": "https://news.ycombinator.com/item?id=47722081",
-        "points": 18,
-        "comments": 12,
-        "created_at": "2026-04-10T18:47:49.000Z"
+        "title": "Researchers used AI to analyze 400k Reddit posts, revealing GLP-1 side effects",
+        "url": "https://www.seas.upenn.edu/stories/penn-researchers-use-ai-to-surface-unreported-glp-1-side-effects-in-reddit-posts/",
+        "points": 21,
+        "comments": 2,
+        "created_at": "2026-04-11T11:41:57.000Z"
       },
       {
-        "title": "Show HN: A WYSIWYG word processor in Python",
-        "url": "https://codeberg.org/chrisecker/miniword",
-        "points": 70,
-        "comments": 29,
-        "created_at": "2026-04-10T18:40:34.000Z"
+        "title": "Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours",
+        "url": "https://www.hormuz-havoc.com/",
+        "points": 45,
+        "comments": 13,
+        "created_at": "2026-04-11T10:58:36.000Z"
+      },
+      {
+        "title": "Gen Z workers who fear AI will take their job actively sabotaging its rollout",
+        "url": "https://fortune.com/2026/04/08/gen-z-workers-sabotage-ai-rollout-backlash/",
+        "points": 13,
+        "comments": 4,
+        "created_at": "2026-04-11T09:10:05.000Z"
       }
     ],
     "vibeCoding": [
@@ -141,6 +141,20 @@
     ],
     "progDb": [
       {
+        "title": "Ask HN: Best books on building a programming language",
+        "url": "https://news.ycombinator.com/item?id=47728352",
+        "points": 11,
+        "comments": 5,
+        "created_at": "2026-04-11T07:27:56.000Z"
+      },
+      {
+        "title": "Ask HN: Why Databases Instead of Filesystem?",
+        "url": "https://news.ycombinator.com/item?id=47718113",
+        "points": 11,
+        "comments": 19,
+        "created_at": "2026-04-10T13:47:16.000Z"
+      },
+      {
         "title": "Introduction to Nintendo DS Programming",
         "url": "https://www.patater.com/files/projects/manual/manual.html",
         "points": 242,
@@ -150,8 +164,8 @@
       {
         "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
         "url": "https://github.com/marimo-team/marimo-pair",
-        "points": 129,
-        "comments": 31,
+        "points": 134,
+        "comments": 34,
         "created_at": "2026-04-07T17:47:46.000Z"
       },
       {
@@ -160,20 +174,6 @@
         "points": 354,
         "comments": 174,
         "created_at": "2026-04-05T18:23:08.000Z"
-      },
-      {
-        "title": "Bringing Clojure programming to Enterprise (2021)",
-        "url": "https://blogit.michelin.io/clojure-programming/",
-        "points": 203,
-        "comments": 124,
-        "created_at": "2026-04-02T08:19:11.000Z"
-      },
-      {
-        "title": "r/programming bans all discussion of LLM programming",
-        "url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
-        "points": 198,
-        "comments": 223,
-        "created_at": "2026-04-02T05:33:20.000Z"
       }
     ]
   }
