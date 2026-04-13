@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-04-12T18:50:02.418Z",
+  "updatedAt": "2026-04-13T08:02:56.925Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 11.4,
-      "humidity": 90,
-      "wind_kph": 8,
+      "temp_c": 15.2,
+      "humidity": 68,
+      "wind_kph": 15.6,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-04-13",
-      "temp_max_c": 18.8,
-      "temp_min_c": 9.5,
-      "humidity_max": 95,
-      "humidity_min": 48,
-      "wind_kph": 17.7,
+      "date": "2026-04-14",
+      "temp_max_c": 24.4,
+      "temp_min_c": 6.4,
+      "humidity_max": 71,
+      "humidity_min": 35,
+      "wind_kph": 18.9,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4749.13,
+    "goldUSD": 4749.05,
     "oilUSD": 79,
-    "updatedAt": "2026-04-12T18:50:02.418Z",
+    "updatedAt": "2026-04-13T08:02:56.925Z",
     "gold24KUSD": 152.69,
     "gold21KUSD": 133.6,
-    "gold18KUSD": 114.52,
-    "gold24KJD": 108.26,
+    "gold18KUSD": 114.51,
+    "gold24KJD": 108.25,
     "gold21KJD": 94.72,
     "gold18KJD": 81.19
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8545,
-    "GBP": 0.7442,
-    "SAR": 3.7519
+    "EUR": 0.8555,
+    "GBP": 0.7459,
+    "SAR": 3.7532
   },
   "prayer": {
-    "fajr": "05:02",
+    "fajr": "05:01",
     "maghrib": "19:04",
-    "date": "12 Apr 2012"
+    "date": "13 Apr 2013"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-        "url": "https://boringbar.app/",
-        "points": 65,
-        "comments": 38,
-        "created_at": "2026-04-12T17:25:44.000Z"
+        "title": "The AI Layoff Trap",
+        "url": "https://arxiv.org/abs/2603.20617",
+        "points": 46,
+        "comments": 69,
+        "created_at": "2026-04-13T05:56:49.000Z"
       },
       {
-        "title": "Why AI Sucks at Front End",
-        "url": "https://nerdy.dev/why-ai-sucks-at-front-end",
-        "points": 62,
-        "comments": 70,
-        "created_at": "2026-04-12T12:26:09.000Z"
+        "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+        "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+        "points": 157,
+        "comments": 143,
+        "created_at": "2026-04-13T02:53:10.000Z"
       },
       {
-        "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-        "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-        "points": 11,
-        "comments": 6,
-        "created_at": "2026-04-12T09:29:02.000Z"
+        "title": "Tech valuations are back to pre-AI boom levels",
+        "url": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
+        "points": 133,
+        "comments": 35,
+        "created_at": "2026-04-12T22:13:22.000Z"
       },
       {
-        "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-        "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
-        "points": 309,
-        "comments": 544,
-        "created_at": "2026-04-12T09:16:35.000Z"
+        "title": "India's frugal AI models are a blueprint for resource-strapped nations",
+        "url": "https://restofworld.org/2026/india-frugal-ai-sarvam-krutrim-sovereign/",
+        "points": 12,
+        "comments": 5,
+        "created_at": "2026-04-12T21:47:33.000Z"
       },
       {
-        "title": "Ask HN: Do you trust AI agents with API keys / private keys?",
-        "url": "https://news.ycombinator.com/item?id=47736831",
-        "points": 11,
-        "comments": 23,
-        "created_at": "2026-04-12T06:57:04.000Z"
+        "title": "European AI. A playbook to own it",
+        "url": "https://europe.mistral.ai/",
+        "points": 176,
+        "comments": 103,
+        "created_at": "2026-04-12T19:51:06.000Z"
       }
     ],
     "vibeCoding": [
@@ -141,16 +141,23 @@
     ],
     "progDb": [
       {
+        "title": "A perfectable programming language",
+        "url": "https://alok.github.io/lean-pages/perfectable-lean/",
+        "points": 111,
+        "comments": 39,
+        "created_at": "2026-04-12T21:11:24.000Z"
+      },
+      {
         "title": "The APL programming language source code (2012)",
         "url": "https://computerhistory.org/blog/the-apl-programming-language-source-code/",
-        "points": 76,
-        "comments": 26,
+        "points": 80,
+        "comments": 27,
         "created_at": "2026-04-11T17:34:10.000Z"
       },
       {
         "title": "Ask HN: Best books on building a programming language",
         "url": "https://news.ycombinator.com/item?id=47728352",
-        "points": 16,
+        "points": 17,
         "comments": 8,
         "created_at": "2026-04-11T07:27:56.000Z"
       },
@@ -167,13 +174,6 @@
         "points": 243,
         "comments": 58,
         "created_at": "2026-04-08T05:22:42.000Z"
-      },
-      {
-        "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
-        "url": "https://github.com/marimo-team/marimo-pair",
-        "points": 138,
-        "comments": 34,
-        "created_at": "2026-04-07T17:47:46.000Z"
       }
     ]
   }
