@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-04-13T08:02:56.925Z",
+  "updatedAt": "2026-04-13T19:14:11.231Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 15.2,
-      "humidity": 68,
-      "wind_kph": 15.6,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 10.8,
+      "humidity": 69,
+      "wind_kph": 4.4,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-04-14",
-      "temp_max_c": 24.4,
-      "temp_min_c": 6.4,
-      "humidity_max": 71,
-      "humidity_min": 35,
-      "wind_kph": 18.9,
+      "temp_max_c": 24.9,
+      "temp_min_c": 7.3,
+      "humidity_max": 78,
+      "humidity_min": 32,
+      "wind_kph": 18.7,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4749.05,
     "oilUSD": 79,
-    "updatedAt": "2026-04-13T08:02:56.925Z",
+    "updatedAt": "2026-04-13T19:14:11.231Z",
     "gold24KUSD": 152.69,
     "gold21KUSD": 133.6,
     "gold18KUSD": 114.51,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8555,
-    "GBP": 0.7459,
-    "SAR": 3.7532
+    "EUR": 0.8557,
+    "GBP": 0.7453,
+    "SAR": 3.7505
   },
   "prayer": {
     "fajr": "05:01",
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
+        "title": "Claude.ai down",
+        "url": "https://status.claude.com/incidents/6jd2m42f8mld",
+        "points": 120,
+        "comments": 118,
+        "created_at": "2026-04-13T15:41:08.000Z"
+      },
+      {
+        "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+        "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+        "points": 57,
+        "comments": 64,
+        "created_at": "2026-04-13T14:21:29.000Z"
+      },
+      {
+        "title": "AI could be the end of the digital wave, not the next big thing",
+        "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+        "points": 167,
+        "comments": 244,
+        "created_at": "2026-04-13T12:29:39.000Z"
+      },
+      {
+        "title": "Can AI be a 'child of God'? Inside Anthropic's meeting with Christian leaders",
+        "url": "https://www.msn.com/en-us/news/us/can-ai-be-a-child-of-god-inside-anthropic-s-meeting-with-christian-leaders/ar-AA20Eb2w",
+        "points": 11,
+        "comments": 8,
+        "created_at": "2026-04-13T10:26:43.000Z"
+      },
+      {
         "title": "The AI Layoff Trap",
         "url": "https://arxiv.org/abs/2603.20617",
-        "points": 46,
-        "comments": 69,
+        "points": 57,
+        "comments": 94,
         "created_at": "2026-04-13T05:56:49.000Z"
-      },
-      {
-        "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-        "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
-        "points": 157,
-        "comments": 143,
-        "created_at": "2026-04-13T02:53:10.000Z"
-      },
-      {
-        "title": "Tech valuations are back to pre-AI boom levels",
-        "url": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
-        "points": 133,
-        "comments": 35,
-        "created_at": "2026-04-12T22:13:22.000Z"
-      },
-      {
-        "title": "India's frugal AI models are a blueprint for resource-strapped nations",
-        "url": "https://restofworld.org/2026/india-frugal-ai-sarvam-krutrim-sovereign/",
-        "points": 12,
-        "comments": 5,
-        "created_at": "2026-04-12T21:47:33.000Z"
-      },
-      {
-        "title": "European AI. A playbook to own it",
-        "url": "https://europe.mistral.ai/",
-        "points": 176,
-        "comments": 103,
-        "created_at": "2026-04-12T19:51:06.000Z"
       }
     ],
     "vibeCoding": [
@@ -114,7 +114,7 @@
         "title": "The cult of vibe coding is dogfooding run amok",
         "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
         "points": 616,
-        "comments": 511,
+        "comments": 512,
         "created_at": "2026-04-06T18:31:03.000Z"
       },
       {
@@ -141,39 +141,39 @@
     ],
     "progDb": [
       {
+        "title": "Programming Used to Be Free",
+        "url": "https://purplesyringa.moe/blog/programming-used-to-be-free/",
+        "points": 57,
+        "comments": 60,
+        "created_at": "2026-04-13T06:24:39.000Z"
+      },
+      {
         "title": "A perfectable programming language",
         "url": "https://alok.github.io/lean-pages/perfectable-lean/",
-        "points": 111,
-        "comments": 39,
+        "points": 196,
+        "comments": 110,
         "created_at": "2026-04-12T21:11:24.000Z"
       },
       {
         "title": "The APL programming language source code (2012)",
         "url": "https://computerhistory.org/blog/the-apl-programming-language-source-code/",
         "points": 80,
-        "comments": 27,
+        "comments": 29,
         "created_at": "2026-04-11T17:34:10.000Z"
       },
       {
         "title": "Ask HN: Best books on building a programming language",
         "url": "https://news.ycombinator.com/item?id=47728352",
         "points": 17,
-        "comments": 8,
+        "comments": 9,
         "created_at": "2026-04-11T07:27:56.000Z"
       },
       {
         "title": "Ask HN: Why Databases Instead of Filesystem?",
         "url": "https://news.ycombinator.com/item?id=47718113",
-        "points": 12,
+        "points": 14,
         "comments": 20,
         "created_at": "2026-04-10T13:47:16.000Z"
-      },
-      {
-        "title": "Introduction to Nintendo DS Programming",
-        "url": "https://www.patater.com/files/projects/manual/manual.html",
-        "points": 243,
-        "comments": 58,
-        "created_at": "2026-04-08T05:22:42.000Z"
       }
     ]
   }
