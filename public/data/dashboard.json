@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-04-13T19:14:11.231Z",
+  "updatedAt": "2026-04-14T07:45:22.977Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 10.8,
-      "humidity": 69,
-      "wind_kph": 4.4,
+      "temp_c": 17.9,
+      "humidity": 48,
+      "wind_kph": 19.7,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-04-14",
-      "temp_max_c": 24.9,
-      "temp_min_c": 7.3,
-      "humidity_max": 78,
-      "humidity_min": 32,
-      "wind_kph": 18.7,
+      "date": "2026-04-15",
+      "temp_max_c": 27.1,
+      "temp_min_c": 11.2,
+      "humidity_max": 64,
+      "humidity_min": 27,
+      "wind_kph": 25.1,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4749.05,
+    "goldUSD": 4670.61,
     "oilUSD": 79,
-    "updatedAt": "2026-04-13T19:14:11.231Z",
-    "gold24KUSD": 152.69,
-    "gold21KUSD": 133.6,
-    "gold18KUSD": 114.51,
-    "gold24KJD": 108.25,
-    "gold21KJD": 94.72,
-    "gold18KJD": 81.19
+    "updatedAt": "2026-04-14T07:45:22.977Z",
+    "gold24KUSD": 150.16,
+    "gold21KUSD": 131.39,
+    "gold18KUSD": 112.62,
+    "gold24KJD": 106.47,
+    "gold21KJD": 93.16,
+    "gold18KJD": 79.85
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8557,
-    "GBP": 0.7453,
-    "SAR": 3.7505
+    "EUR": 0.8499,
+    "GBP": 0.7398,
+    "SAR": 3.7522
   },
   "prayer": {
-    "fajr": "05:01",
-    "maghrib": "19:04",
-    "date": "13 Apr 2013"
+    "fajr": "05:00",
+    "maghrib": "19:05",
+    "date": "14 Apr 2014"
   },
   "events": [
     {
@@ -67,42 +67,49 @@
   "news": {
     "ai": [
       {
-        "title": "Claude.ai down",
-        "url": "https://status.claude.com/incidents/6jd2m42f8mld",
-        "points": 120,
-        "comments": 118,
-        "created_at": "2026-04-13T15:41:08.000Z"
+        "title": "Meta spins up AI version of Mark Zuckerberg to engage with employees",
+        "url": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/",
+        "points": 12,
+        "comments": 3,
+        "created_at": "2026-04-14T02:27:28.000Z"
       },
       {
-        "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
-        "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
-        "points": 57,
-        "comments": 64,
-        "created_at": "2026-04-13T14:21:29.000Z"
+        "title": "The AI revolution in math has arrived",
+        "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
+        "points": 81,
+        "comments": 48,
+        "created_at": "2026-04-13T23:26:04.000Z"
       },
       {
-        "title": "AI could be the end of the digital wave, not the next big thing",
-        "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
-        "points": 167,
-        "comments": 244,
-        "created_at": "2026-04-13T12:29:39.000Z"
+        "title": "Sam Altman Attack Suspect Had 'Anti-AI' Document with CEO Names",
+        "url": "https://www.wsj.com/tech/ai/sam-altman-attack-suspect-had-anti-ai-document-with-ceo-names-authorities-say-74ddfe88",
+        "points": 20,
+        "comments": 3,
+        "created_at": "2026-04-13T23:01:27.000Z"
       },
       {
-        "title": "Can AI be a 'child of God'? Inside Anthropic's meeting with Christian leaders",
-        "url": "https://www.msn.com/en-us/news/us/can-ai-be-a-child-of-god-inside-anthropic-s-meeting-with-christian-leaders/ar-AA20Eb2w",
-        "points": 11,
-        "comments": 8,
-        "created_at": "2026-04-13T10:26:43.000Z"
+        "title": "When AI Trading Works, You Won't Hear About It",
+        "url": "https://magis.substack.com/p/ai-trading-bots-dont-work-yet",
+        "points": 26,
+        "comments": 4,
+        "created_at": "2026-04-13T22:42:08.000Z"
       },
       {
-        "title": "The AI Layoff Trap",
-        "url": "https://arxiv.org/abs/2603.20617",
-        "points": 57,
-        "comments": 94,
-        "created_at": "2026-04-13T05:56:49.000Z"
+        "title": "The human cost of 10x: How AI is physically breaking senior engineers",
+        "url": "https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically",
+        "points": 66,
+        "comments": 60,
+        "created_at": "2026-04-13T22:40:26.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Tokens – The New Dopamine Economy",
+        "url": "https://www.enfuse.io/blog/vibe-coding-trap",
+        "points": 15,
+        "comments": 5,
+        "created_at": "2026-04-13T21:48:00.000Z"
+      },
       {
         "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
         "url": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
@@ -130,34 +137,27 @@
         "points": 68,
         "comments": 58,
         "created_at": "2026-04-01T14:36:51.000Z"
-      },
-      {
-        "title": "Ask HN: Client took over development by vibe coding. What to do?",
-        "url": "https://news.ycombinator.com/item?id=47599303",
-        "points": 63,
-        "comments": 42,
-        "created_at": "2026-04-01T11:09:03.000Z"
       }
     ],
     "progDb": [
       {
         "title": "Programming Used to Be Free",
         "url": "https://purplesyringa.moe/blog/programming-used-to-be-free/",
-        "points": 57,
-        "comments": 60,
+        "points": 70,
+        "comments": 71,
         "created_at": "2026-04-13T06:24:39.000Z"
       },
       {
         "title": "A perfectable programming language",
         "url": "https://alok.github.io/lean-pages/perfectable-lean/",
-        "points": 196,
-        "comments": 110,
+        "points": 204,
+        "comments": 122,
         "created_at": "2026-04-12T21:11:24.000Z"
       },
       {
         "title": "The APL programming language source code (2012)",
         "url": "https://computerhistory.org/blog/the-apl-programming-language-source-code/",
-        "points": 80,
+        "points": 82,
         "comments": 29,
         "created_at": "2026-04-11T17:34:10.000Z"
       },
