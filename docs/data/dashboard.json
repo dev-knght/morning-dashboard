@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-04-14T07:45:22.977Z",
+  "updatedAt": "2026-04-14T19:15:17.563Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 17.9,
-      "humidity": 48,
-      "wind_kph": 19.7,
+      "temp_c": 15.3,
+      "humidity": 56,
+      "wind_kph": 6.9,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-04-15",
-      "temp_max_c": 27.1,
-      "temp_min_c": 11.2,
-      "humidity_max": 64,
-      "humidity_min": 27,
-      "wind_kph": 25.1,
+      "temp_max_c": 26.9,
+      "temp_min_c": 11.8,
+      "humidity_max": 69,
+      "humidity_min": 28,
+      "wind_kph": 22.9,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4670.61,
     "oilUSD": 79,
-    "updatedAt": "2026-04-14T07:45:22.977Z",
+    "updatedAt": "2026-04-14T19:15:17.563Z",
     "gold24KUSD": 150.16,
     "gold21KUSD": 131.39,
     "gold18KUSD": 112.62,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8499,
-    "GBP": 0.7398,
-    "SAR": 3.7522
+    "EUR": 0.8488,
+    "GBP": 0.7384,
+    "SAR": 3.7504
   },
   "prayer": {
     "fajr": "05:00",
@@ -67,46 +67,53 @@
   "news": {
     "ai": [
       {
-        "title": "Meta spins up AI version of Mark Zuckerberg to engage with employees",
-        "url": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/",
-        "points": 12,
-        "comments": 3,
-        "created_at": "2026-04-14T02:27:28.000Z"
+        "title": "Turn your best AI prompts into one-click tools in Chrome",
+        "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+        "points": 21,
+        "comments": 6,
+        "created_at": "2026-04-14T17:09:43.000Z"
       },
       {
-        "title": "The AI revolution in math has arrived",
-        "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
-        "points": 81,
-        "comments": 48,
-        "created_at": "2026-04-13T23:26:04.000Z"
+        "title": "AI will never be ethical or safe",
+        "url": "https://meiert.com/blog/ai-ethics-and-safety/",
+        "points": 54,
+        "comments": 30,
+        "created_at": "2026-04-14T15:30:48.000Z"
       },
       {
-        "title": "Sam Altman Attack Suspect Had 'Anti-AI' Document with CEO Names",
-        "url": "https://www.wsj.com/tech/ai/sam-altman-attack-suspect-had-anti-ai-document-with-ceo-names-authorities-say-74ddfe88",
-        "points": 20,
-        "comments": 3,
-        "created_at": "2026-04-13T23:01:27.000Z"
+        "title": "The AI School Bus Camera Company Blanketing America in Tickets",
+        "url": "https://www.bloomberg.com/news/features/2026-04-14/buspatrol-school-bus-traffic-tickets-have-limited-safety-benefits-critics-say",
+        "points": 35,
+        "comments": 67,
+        "created_at": "2026-04-14T15:06:38.000Z"
       },
       {
-        "title": "When AI Trading Works, You Won't Hear About It",
-        "url": "https://magis.substack.com/p/ai-trading-bots-dont-work-yet",
-        "points": 26,
-        "comments": 4,
-        "created_at": "2026-04-13T22:42:08.000Z"
+        "title": "90% of CEOs Say AI Changed Nothing. The Other 10% Have a PR Team",
+        "url": "https://businessasusual.io/p/ninety-percent-of-ceos-say-ai-changed",
+        "points": 35,
+        "comments": 27,
+        "created_at": "2026-04-14T14:31:15.000Z"
       },
       {
-        "title": "The human cost of 10x: How AI is physically breaking senior engineers",
-        "url": "https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically",
-        "points": 66,
-        "comments": 60,
-        "created_at": "2026-04-13T22:40:26.000Z"
+        "title": "Schools Never Taught Critical Thinking: AI Exposed the Lie",
+        "url": "https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking",
+        "points": 58,
+        "comments": 81,
+        "created_at": "2026-04-14T14:29:55.000Z"
       }
     ],
     "vibeCoding": [
       {
+        "title": "An AI Vibe Coding Horror Story",
+        "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
+        "points": 196,
+        "comments": 194,
+        "created_at": "2026-04-14T08:35:45.000Z"
+      },
+      {
         "title": "Tokens – The New Dopamine Economy",
         "url": "https://www.enfuse.io/blog/vibe-coding-trap",
-        "points": 15,
+        "points": 16,
         "comments": 5,
         "created_at": "2026-04-13T21:48:00.000Z"
       },
@@ -130,20 +137,13 @@
         "points": 178,
         "comments": 94,
         "created_at": "2026-04-03T01:53:15.000Z"
-      },
-      {
-        "title": "Apple removes iPhone vibe coding app from app store",
-        "url": "https://gizmodo.com/apple-removes-iphone-vibe-coding-app-from-app-store-2000740084",
-        "points": 68,
-        "comments": 58,
-        "created_at": "2026-04-01T14:36:51.000Z"
       }
     ],
     "progDb": [
       {
         "title": "Programming Used to Be Free",
         "url": "https://purplesyringa.moe/blog/programming-used-to-be-free/",
-        "points": 70,
+        "points": 75,
         "comments": 71,
         "created_at": "2026-04-13T06:24:39.000Z"
       },
@@ -151,7 +151,7 @@
         "title": "A perfectable programming language",
         "url": "https://alok.github.io/lean-pages/perfectable-lean/",
         "points": 204,
-        "comments": 122,
+        "comments": 128,
         "created_at": "2026-04-12T21:11:24.000Z"
       },
       {
@@ -164,16 +164,16 @@
       {
         "title": "Ask HN: Best books on building a programming language",
         "url": "https://news.ycombinator.com/item?id=47728352",
-        "points": 17,
+        "points": 18,
         "comments": 9,
         "created_at": "2026-04-11T07:27:56.000Z"
       },
       {
-        "title": "Ask HN: Why Databases Instead of Filesystem?",
-        "url": "https://news.ycombinator.com/item?id=47718113",
-        "points": 14,
-        "comments": 20,
-        "created_at": "2026-04-10T13:47:16.000Z"
+        "title": "The Mouse Programming Language on CP/M",
+        "url": "https://techtinkering.com/articles/the-mouse-programming-language-on-cpm/",
+        "points": 23,
+        "comments": 3,
+        "created_at": "2026-04-10T23:18:37.000Z"
       }
     ]
   }
