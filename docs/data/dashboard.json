@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-04-15T19:17:19.885Z",
+  "updatedAt": "2026-04-16T07:45:31.446Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 18.1,
-      "humidity": 45,
-      "wind_kph": 7.8,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 24.5,
+      "humidity": 39,
+      "wind_kph": 27.1,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-04-16",
-      "temp_max_c": 28.2,
-      "temp_min_c": 15.6,
-      "humidity_max": 56,
-      "humidity_min": 34,
-      "wind_kph": 22.5,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-04-17",
+      "temp_max_c": 28.8,
+      "temp_min_c": 18.1,
+      "humidity_max": 83,
+      "humidity_min": 40,
+      "wind_kph": 30.9,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
-    "goldUSD": 4757.89,
+    "goldUSD": 4832.48,
     "oilUSD": 79,
-    "updatedAt": "2026-04-15T19:17:19.885Z",
-    "gold24KUSD": 152.97,
-    "gold21KUSD": 133.85,
-    "gold18KUSD": 114.73,
-    "gold24KJD": 108.46,
-    "gold21KJD": 94.9,
-    "gold18KJD": 81.34
+    "updatedAt": "2026-04-16T07:45:31.446Z",
+    "gold24KUSD": 155.37,
+    "gold21KUSD": 135.95,
+    "gold18KUSD": 116.53,
+    "gold24KJD": 110.16,
+    "gold21KJD": 96.39,
+    "gold18KJD": 82.62
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8484,
-    "GBP": 0.7375,
-    "SAR": 3.7504
+    "EUR": 0.8471,
+    "GBP": 0.7368,
+    "SAR": 3.7511
   },
   "prayer": {
-    "fajr": "04:58",
-    "maghrib": "19:05",
-    "date": "15 Apr 2015"
+    "fajr": "04:56",
+    "maghrib": "19:06",
+    "date": "16 Apr 2016"
   },
   "events": [
     {
@@ -67,46 +67,46 @@
   "news": {
     "ai": [
       {
-        "title": "AI-Assisted Cognition Endangers Human Development",
+        "title": "Sal Khan's AI revolution hasn't happened yet",
+        "url": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/",
+        "points": 47,
+        "comments": 58,
+        "created_at": "2026-04-16T05:05:44.000Z"
+      },
+      {
+        "title": "Amazon AI Cancelling Webcomics",
+        "url": "http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html",
+        "points": 59,
+        "comments": 10,
+        "created_at": "2026-04-16T00:52:33.000Z"
+      },
+      {
+        "title": "The AI Market Is Hitting Peak Absurdity",
+        "url": "https://garymarcus.substack.com/p/peak-absurdity-part-ii",
+        "points": 26,
+        "comments": 4,
+        "created_at": "2026-04-16T00:17:05.000Z"
+      },
+      {
+        "title": "Robot Police Dogs Powered by AI Take over Atlanta's Streets",
+        "url": "https://www.newsweek.com/robot-police-dogs-powered-by-ai-take-over-atlantas-streets-11782889",
+        "points": 11,
+        "comments": 2,
+        "created_at": "2026-04-16T00:14:55.000Z"
+      },
+      {
+        "title": "AI-assisted cognition endangers human development?",
         "url": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/",
-        "points": 95,
-        "comments": 34,
+        "points": 221,
+        "comments": 174,
         "created_at": "2026-04-15T18:16:50.000Z"
-      },
-      {
-        "title": "Allbirds shares soar 600% as it pivots from footwear to AI",
-        "url": "https://www.cnn.com/2026/04/15/investing/allbirds-pivot-to-ai",
-        "points": 17,
-        "comments": 6,
-        "created_at": "2026-04-15T17:04:51.000Z"
-      },
-      {
-        "title": "Show HN: Libretto – Making AI browser automations deterministic",
-        "url": "https://github.com/saffron-health/libretto",
-        "points": 44,
-        "comments": 9,
-        "created_at": "2026-04-15T15:57:54.000Z"
-      },
-      {
-        "title": "Elevated errors on Claude.ai, API, Claude Code",
-        "url": "https://claudestatus.com/",
-        "points": 230,
-        "comments": 209,
-        "created_at": "2026-04-15T14:44:00.000Z"
-      },
-      {
-        "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-        "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
-        "points": 85,
-        "comments": 77,
-        "created_at": "2026-04-15T13:47:40.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "An AI Vibe Coding Horror Story",
         "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
-        "points": 210,
+        "points": 211,
         "comments": 210,
         "created_at": "2026-04-14T08:35:45.000Z"
       },
@@ -143,14 +143,14 @@
       {
         "title": "Programming Used to Be Free",
         "url": "https://purplesyringa.moe/blog/programming-used-to-be-free/",
-        "points": 79,
-        "comments": 72,
+        "points": 80,
+        "comments": 73,
         "created_at": "2026-04-13T06:24:39.000Z"
       },
       {
         "title": "A perfectable programming language",
         "url": "https://alok.github.io/lean-pages/perfectable-lean/",
-        "points": 206,
+        "points": 207,
         "comments": 136,
         "created_at": "2026-04-12T21:11:24.000Z"
       },
