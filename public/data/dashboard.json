@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-04-16T07:45:31.446Z",
+  "updatedAt": "2026-04-16T19:12:59.784Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 24.5,
-      "humidity": 39,
-      "wind_kph": 27.1,
+      "temp_c": 21.8,
+      "humidity": 49,
+      "wind_kph": 7.4,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-04-17",
       "temp_max_c": 28.8,
-      "temp_min_c": 18.1,
-      "humidity_max": 83,
-      "humidity_min": 40,
-      "wind_kph": 30.9,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "temp_min_c": 17.5,
+      "humidity_max": 93,
+      "humidity_min": 42,
+      "wind_kph": 26.5,
+      "weather_code": 95,
+      "weather_desc": "Thunderstorm"
     }
   },
   "metals": {
     "goldUSD": 4832.48,
     "oilUSD": 79,
-    "updatedAt": "2026-04-16T07:45:31.446Z",
+    "updatedAt": "2026-04-16T19:12:59.784Z",
     "gold24KUSD": 155.37,
     "gold21KUSD": 135.95,
     "gold18KUSD": 116.53,
-    "gold24KJD": 110.16,
-    "gold21KJD": 96.39,
-    "gold18KJD": 82.62
+    "gold24KJD": 110.14,
+    "gold21KJD": 96.37,
+    "gold18KJD": 82.61
   },
   "exchange": {
-    "JOD": 0.709,
-    "EUR": 0.8471,
-    "GBP": 0.7368,
-    "SAR": 3.7511
+    "JOD": 0.7089,
+    "EUR": 0.8481,
+    "GBP": 0.7378,
+    "SAR": 3.7503
   },
   "prayer": {
     "fajr": "04:56",
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "Sal Khan's AI revolution hasn't happened yet",
-        "url": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/",
+        "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
+        "url": "https://andonlabs.com/blog/andon-market-launch",
+        "points": 133,
+        "comments": 193,
+        "created_at": "2026-04-16T15:13:13.000Z"
+      },
+      {
+        "title": "There's yet another study about how bad AI is for our brains",
+        "url": "https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.html",
         "points": 47,
-        "comments": 58,
-        "created_at": "2026-04-16T05:05:44.000Z"
+        "comments": 57,
+        "created_at": "2026-04-16T14:30:38.000Z"
       },
       {
-        "title": "Amazon AI Cancelling Webcomics",
-        "url": "http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html",
-        "points": 59,
-        "comments": 10,
-        "created_at": "2026-04-16T00:52:33.000Z"
-      },
-      {
-        "title": "The AI Market Is Hitting Peak Absurdity",
-        "url": "https://garymarcus.substack.com/p/peak-absurdity-part-ii",
-        "points": 26,
-        "comments": 4,
-        "created_at": "2026-04-16T00:17:05.000Z"
-      },
-      {
-        "title": "Robot Police Dogs Powered by AI Take over Atlanta's Streets",
-        "url": "https://www.newsweek.com/robot-police-dogs-powered-by-ai-take-over-atlantas-streets-11782889",
+        "title": "Estimating the market value of top AI researchers",
+        "url": "https://futuresearch.ai/most-valuable-researchers/",
         "points": 11,
-        "comments": 2,
-        "created_at": "2026-04-16T00:14:55.000Z"
+        "comments": 0,
+        "created_at": "2026-04-16T13:38:12.000Z"
       },
       {
-        "title": "AI-assisted cognition endangers human development?",
-        "url": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/",
-        "points": 221,
-        "comments": 174,
-        "created_at": "2026-04-15T18:16:50.000Z"
+        "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+        "url": "https://blog.cloudflare.com/ai-platform/",
+        "points": 165,
+        "comments": 41,
+        "created_at": "2026-04-16T13:17:37.000Z"
+      },
+      {
+        "title": "The public sours on AI, data centers as firms look to IPO, tech keeps spending",
+        "url": "https://www.cnbc.com/2026/04/15/public-opinion-ai-data-centers-anthropic-openai-ipo.html",
+        "points": 12,
+        "comments": 0,
+        "created_at": "2026-04-16T13:14:51.000Z"
       }
     ],
     "vibeCoding": [
