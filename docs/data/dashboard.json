@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-04-17T07:46:08.952Z",
+  "updatedAt": "2026-04-17T18:59:54.180Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 24.4,
-      "humidity": 56,
-      "wind_kph": 26.4,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 17.3,
+      "humidity": 80,
+      "wind_kph": 4.9,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
       "date": "2026-04-18",
       "temp_max_c": 23.5,
-      "temp_min_c": 13.8,
-      "humidity_max": 98,
-      "humidity_min": 35,
-      "wind_kph": 29.1,
+      "temp_min_c": 13.9,
+      "humidity_max": 96,
+      "humidity_min": 34,
+      "wind_kph": 32.6,
       "weather_code": 45,
       "weather_desc": "Fog"
     }
@@ -23,19 +23,19 @@
   "metals": {
     "goldUSD": 4830.31,
     "oilUSD": 79,
-    "updatedAt": "2026-04-17T07:46:08.952Z",
+    "updatedAt": "2026-04-17T18:59:54.180Z",
     "gold24KUSD": 155.3,
     "gold21KUSD": 135.89,
     "gold18KUSD": 116.47,
-    "gold24KJD": 110.09,
-    "gold21KJD": 96.33,
-    "gold18KJD": 82.57
+    "gold24KJD": 110.11,
+    "gold21KJD": 96.34,
+    "gold18KJD": 82.58
   },
   "exchange": {
-    "JOD": 0.7089,
-    "EUR": 0.8483,
-    "GBP": 0.738,
-    "SAR": 3.7508
+    "JOD": 0.709,
+    "EUR": 0.8481,
+    "GBP": 0.7392,
+    "SAR": 3.7502
   },
   "prayer": {
     "fajr": "04:55",
@@ -67,17 +67,24 @@
   "news": {
     "ai": [
       {
+        "title": "Scan your website to see how ready it is for AI agents",
+        "url": "https://isitagentready.com",
+        "points": 76,
+        "comments": 132,
+        "created_at": "2026-04-17T13:55:25.000Z"
+      },
+      {
         "title": "AI companies are buying the Slack data of failed startups",
         "url": "https://twitter.com/_iainmartin/status/2044758204773486925",
-        "points": 24,
-        "comments": 5,
+        "points": 37,
+        "comments": 10,
         "created_at": "2026-04-17T01:10:29.000Z"
       },
       {
         "title": "George Orwell Predicted the Rise of \"AI Slop\" in Nineteen Eighty-Four",
         "url": "https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html",
-        "points": 75,
-        "comments": 50,
+        "points": 82,
+        "comments": 59,
         "created_at": "2026-04-16T23:17:47.000Z"
       },
       {
@@ -90,24 +97,24 @@
       {
         "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
         "url": "https://github.com/gainsec/autoprober",
-        "points": 157,
-        "comments": 33,
+        "points": 215,
+        "comments": 45,
         "created_at": "2026-04-16T21:56:37.000Z"
-      },
-      {
-        "title": "The beginning of scarcity in AI",
-        "url": "https://tomtunguz.com/ai-compute-crisis-2026/",
-        "points": 52,
-        "comments": 78,
-        "created_at": "2026-04-16T20:49:35.000Z"
       }
     ],
     "vibeCoding": [
       {
+        "title": "Ask HN: Building a solo business is impossible?",
+        "url": "https://news.ycombinator.com/item?id=47803524",
+        "points": 29,
+        "comments": 45,
+        "created_at": "2026-04-17T07:55:18.000Z"
+      },
+      {
         "title": "Ask HN: How do you maintain flow when vibe coding?",
         "url": "https://news.ycombinator.com/item?id=47797632",
-        "points": 27,
-        "comments": 24,
+        "points": 29,
+        "comments": 28,
         "created_at": "2026-04-16T18:38:08.000Z"
       },
       {
@@ -130,50 +137,43 @@
         "points": 27,
         "comments": 6,
         "created_at": "2026-04-10T14:35:05.000Z"
-      },
-      {
-        "title": "The cult of vibe coding is dogfooding run amok",
-        "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
-        "points": 616,
-        "comments": 513,
-        "created_at": "2026-04-06T18:31:03.000Z"
       }
     ],
     "progDb": [
       {
+        "title": "Ask HN: Building a solo business is impossible?",
+        "url": "https://news.ycombinator.com/item?id=47803524",
+        "points": 29,
+        "comments": 45,
+        "created_at": "2026-04-17T07:55:18.000Z"
+      },
+      {
         "title": "A Better R Programming Experience Thanks to Tree-sitter",
         "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
-        "points": 119,
-        "comments": 14,
+        "points": 149,
+        "comments": 30,
         "created_at": "2026-04-16T21:14:02.000Z"
+      },
+      {
+        "title": "Reflections on 30 years of HPC programming",
+        "url": "https://chapel-lang.org/blog/posts/30years/",
+        "points": 111,
+        "comments": 83,
+        "created_at": "2026-04-13T23:45:58.000Z"
       },
       {
         "title": "Programming Used to Be Free",
         "url": "https://purplesyringa.moe/blog/programming-used-to-be-free/",
-        "points": 81,
+        "points": 82,
         "comments": 73,
         "created_at": "2026-04-13T06:24:39.000Z"
       },
       {
         "title": "A perfectable programming language",
         "url": "https://alok.github.io/lean-pages/perfectable-lean/",
-        "points": 208,
+        "points": 209,
         "comments": 142,
         "created_at": "2026-04-12T21:11:24.000Z"
-      },
-      {
-        "title": "The APL programming language source code (2012)",
-        "url": "https://computerhistory.org/blog/the-apl-programming-language-source-code/",
-        "points": 82,
-        "comments": 29,
-        "created_at": "2026-04-11T17:34:10.000Z"
-      },
-      {
-        "title": "Ask HN: Best books on building a programming language",
-        "url": "https://news.ycombinator.com/item?id=47728352",
-        "points": 18,
-        "comments": 9,
-        "created_at": "2026-04-11T07:27:56.000Z"
       }
     ]
   }
