@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-04-17T18:59:54.180Z",
+  "updatedAt": "2026-04-18T07:07:03.765Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 17.3,
-      "humidity": 80,
-      "wind_kph": 4.9,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 21.8,
+      "humidity": 32,
+      "wind_kph": 19,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-04-18",
-      "temp_max_c": 23.5,
-      "temp_min_c": 13.9,
-      "humidity_max": 96,
-      "humidity_min": 34,
-      "wind_kph": 32.6,
-      "weather_code": 45,
-      "weather_desc": "Fog"
+      "date": "2026-04-19",
+      "temp_max_c": 20.8,
+      "temp_min_c": 13,
+      "humidity_max": 93,
+      "humidity_min": 49,
+      "wind_kph": 27.5,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4830.31,
+    "goldUSD": 4789.8,
     "oilUSD": 79,
-    "updatedAt": "2026-04-17T18:59:54.180Z",
-    "gold24KUSD": 155.3,
-    "gold21KUSD": 135.89,
-    "gold18KUSD": 116.47,
-    "gold24KJD": 110.11,
-    "gold21KJD": 96.34,
-    "gold18KJD": 82.58
+    "updatedAt": "2026-04-18T07:07:03.765Z",
+    "gold24KUSD": 154,
+    "gold21KUSD": 134.75,
+    "gold18KUSD": 115.5,
+    "gold24KJD": 109.18,
+    "gold21KJD": 95.53,
+    "gold18KJD": 81.89
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8481,
-    "GBP": 0.7392,
-    "SAR": 3.7502
+    "EUR": 0.8479,
+    "GBP": 0.7389,
+    "SAR": 3.7511
   },
   "prayer": {
-    "fajr": "04:55",
+    "fajr": "04:54",
     "maghrib": "19:07",
-    "date": "17 Apr 2017"
+    "date": "18 Apr 2018"
   },
   "events": [
     {
@@ -67,16 +67,30 @@
   "news": {
     "ai": [
       {
+        "title": "Shuttered startups are selling old Slack chats and emails to AI companies",
+        "url": "https://www.fastcompany.com/91528808/shuttered-startups-are-selling-old-slack-chats-and-emails-to-ai-companies",
+        "points": 29,
+        "comments": 8,
+        "created_at": "2026-04-17T23:34:04.000Z"
+      },
+      {
+        "title": "Airline adds bunk beds for economy travelers but bans snacks, smells and cuddles",
+        "url": "https://apnews.com/article/air-new-zealand-economy-bunk-beds-sleep-c2c434f60116f332c0ce96c69d662c3b",
+        "points": 20,
+        "comments": 3,
+        "created_at": "2026-04-17T16:55:04.000Z"
+      },
+      {
         "title": "Scan your website to see how ready it is for AI agents",
         "url": "https://isitagentready.com",
-        "points": 76,
-        "comments": 132,
+        "points": 105,
+        "comments": 167,
         "created_at": "2026-04-17T13:55:25.000Z"
       },
       {
         "title": "AI companies are buying the Slack data of failed startups",
         "url": "https://twitter.com/_iainmartin/status/2044758204773486925",
-        "points": 37,
+        "points": 38,
         "comments": 10,
         "created_at": "2026-04-17T01:10:29.000Z"
       },
@@ -86,41 +100,27 @@
         "points": 82,
         "comments": 59,
         "created_at": "2026-04-16T23:17:47.000Z"
-      },
-      {
-        "title": "15% of Reddit Posts are Likely AI-generated in 2025",
-        "url": "https://originality.ai/blog/ai-reddit-posts-study",
-        "points": 11,
-        "comments": 6,
-        "created_at": "2026-04-16T22:16:54.000Z"
-      },
-      {
-        "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-        "url": "https://github.com/gainsec/autoprober",
-        "points": 215,
-        "comments": 45,
-        "created_at": "2026-04-16T21:56:37.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 29,
-        "comments": 45,
+        "points": 37,
+        "comments": 59,
         "created_at": "2026-04-17T07:55:18.000Z"
       },
       {
         "title": "Ask HN: How do you maintain flow when vibe coding?",
         "url": "https://news.ycombinator.com/item?id=47797632",
         "points": 29,
-        "comments": 28,
+        "comments": 29,
         "created_at": "2026-04-16T18:38:08.000Z"
       },
       {
         "title": "An AI Vibe Coding Horror Story",
         "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
-        "points": 212,
+        "points": 213,
         "comments": 211,
         "created_at": "2026-04-14T08:35:45.000Z"
       },
@@ -143,23 +143,30 @@
       {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 29,
-        "comments": 45,
+        "points": 37,
+        "comments": 59,
         "created_at": "2026-04-17T07:55:18.000Z"
       },
       {
-        "title": "A Better R Programming Experience Thanks to Tree-sitter",
+        "title": "A better R programming experience thanks to Tree-sitter",
         "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
-        "points": 149,
-        "comments": 30,
+        "points": 154,
+        "comments": 31,
         "created_at": "2026-04-16T21:14:02.000Z"
       },
       {
         "title": "Reflections on 30 years of HPC programming",
         "url": "https://chapel-lang.org/blog/posts/30years/",
-        "points": 111,
-        "comments": 83,
+        "points": 141,
+        "comments": 109,
         "created_at": "2026-04-13T23:45:58.000Z"
+      },
+      {
+        "title": "Brunost: The Nynorsk Programming Language",
+        "url": "https://lindbakk.com/blog/introducing-brunost",
+        "points": 37,
+        "comments": 8,
+        "created_at": "2026-04-13T18:49:55.000Z"
       },
       {
         "title": "Programming Used to Be Free",
@@ -167,13 +174,6 @@
         "points": 82,
         "comments": 73,
         "created_at": "2026-04-13T06:24:39.000Z"
-      },
-      {
-        "title": "A perfectable programming language",
-        "url": "https://alok.github.io/lean-pages/perfectable-lean/",
-        "points": 209,
-        "comments": 142,
-        "created_at": "2026-04-12T21:11:24.000Z"
       }
     ]
   }
