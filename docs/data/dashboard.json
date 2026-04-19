@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-04-18T18:51:15.677Z",
+  "updatedAt": "2026-04-19T07:18:53.406Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 14,
-      "humidity": 93,
-      "wind_kph": 14.8,
+      "temp_c": 17.1,
+      "humidity": 60,
+      "wind_kph": 20.1,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-04-19",
-      "temp_max_c": 20.5,
-      "temp_min_c": 12.8,
-      "humidity_max": 95,
-      "humidity_min": 45,
-      "wind_kph": 25.6,
+      "date": "2026-04-20",
+      "temp_max_c": 18.8,
+      "temp_min_c": 11.6,
+      "humidity_max": 96,
+      "humidity_min": 41,
+      "wind_kph": 28.4,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4789.8,
+    "goldUSD": 4830.46,
     "oilUSD": 79,
-    "updatedAt": "2026-04-18T18:51:15.677Z",
-    "gold24KUSD": 154,
-    "gold21KUSD": 134.75,
-    "gold18KUSD": 115.5,
-    "gold24KJD": 109.18,
-    "gold21KJD": 95.53,
-    "gold18KJD": 81.89
+    "updatedAt": "2026-04-19T07:18:53.406Z",
+    "gold24KUSD": 155.3,
+    "gold21KUSD": 135.89,
+    "gold18KUSD": 116.48,
+    "gold24KJD": 110.11,
+    "gold21KJD": 96.35,
+    "gold18KJD": 82.58
   },
   "exchange": {
     "JOD": 0.709,
@@ -38,9 +38,9 @@
     "SAR": 3.7511
   },
   "prayer": {
-    "fajr": "04:54",
-    "maghrib": "19:07",
-    "date": "18 Apr 2018"
+    "fajr": "04:53",
+    "maghrib": "19:08",
+    "date": "19 Apr 2019"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "Graphs That Explain the State of AI in 2026",
-        "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
-        "points": 16,
-        "comments": 6,
-        "created_at": "2026-04-18T17:12:44.000Z"
+        "title": "Air Is Full of DNA",
+        "url": "https://www.nature.com/articles/d41586-026-01099-2",
+        "points": 17,
+        "comments": 0,
+        "created_at": "2026-04-18T21:38:46.000Z"
       },
       {
-        "title": "Respect to the Man Chasing AI Immortality, While Freeloading Off Our Platform",
-        "url": "https://blog.mulerun.com/p/ai-immortality-postmortem/",
-        "points": 13,
-        "comments": 8,
-        "created_at": "2026-04-18T15:03:03.000Z"
+        "title": "Ask HN: How can I support the AI resistance movement financially?",
+        "url": "https://news.ycombinator.com/item?id=47819138",
+        "points": 11,
+        "comments": 9,
+        "created_at": "2026-04-18T20:10:18.000Z"
       },
       {
-        "title": "Graph RAG finds what's similar. We should aim for what's relevant",
-        "url": "https://github.com/FlowElement-ai/m_flow",
-        "points": 68,
-        "comments": 11,
-        "created_at": "2026-04-18T12:46:51.000Z"
+        "title": "College instructor turns to typewriters to curb AI-written work",
+        "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+        "points": 243,
+        "comments": 214,
+        "created_at": "2026-04-18T19:00:00.000Z"
       },
       {
-        "title": "Shuttered startups are selling old Slack chats and emails to AI companies",
-        "url": "https://www.fastcompany.com/91528808/shuttered-startups-are-selling-old-slack-chats-and-emails-to-ai-companies",
-        "points": 36,
-        "comments": 10,
-        "created_at": "2026-04-17T23:34:04.000Z"
+        "title": "In the AI propaganda war, Iran is winning",
+        "url": "https://www.economist.com/culture/2026/04/17/in-the-ai-propaganda-war-iran-is-winning",
+        "points": 28,
+        "comments": 13,
+        "created_at": "2026-04-18T18:38:53.000Z"
       },
       {
-        "title": "Airline adds bunk beds for economy travelers but bans snacks, smells and cuddles",
-        "url": "https://apnews.com/article/air-new-zealand-economy-bunk-beds-sleep-c2c434f60116f332c0ce96c69d662c3b",
-        "points": 22,
-        "comments": 3,
-        "created_at": "2026-04-17T16:55:04.000Z"
+        "title": "Headless Everything for Personal AI",
+        "url": "https://interconnected.org/home/2026/04/18/headless",
+        "points": 19,
+        "comments": 4,
+        "created_at": "2026-04-18T17:49:22.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 50,
-        "comments": 71,
+        "points": 55,
+        "comments": 77,
         "created_at": "2026-04-17T07:55:18.000Z"
       },
       {
@@ -143,37 +143,37 @@
       {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 50,
-        "comments": 71,
+        "points": 55,
+        "comments": 77,
         "created_at": "2026-04-17T07:55:18.000Z"
+      },
+      {
+        "title": "Does your DSL little language need operator precedence?",
+        "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/LittleLanguagesVsOpPrecedence",
+        "points": 13,
+        "comments": 7,
+        "created_at": "2026-04-17T06:12:15.000Z"
       },
       {
         "title": "A better R programming experience thanks to Tree-sitter",
         "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
-        "points": 159,
-        "comments": 31,
+        "points": 161,
+        "comments": 32,
         "created_at": "2026-04-16T21:14:02.000Z"
       },
       {
         "title": "Reflections on 30 years of HPC programming",
         "url": "https://chapel-lang.org/blog/posts/30years/",
         "points": 144,
-        "comments": 118,
+        "comments": 120,
         "created_at": "2026-04-13T23:45:58.000Z"
       },
       {
         "title": "Brunost: The Nynorsk Programming Language",
         "url": "https://lindbakk.com/blog/introducing-brunost",
-        "points": 127,
-        "comments": 62,
+        "points": 138,
+        "comments": 72,
         "created_at": "2026-04-13T18:49:55.000Z"
-      },
-      {
-        "title": "Programming Used to Be Free",
-        "url": "https://purplesyringa.moe/blog/programming-used-to-be-free/",
-        "points": 82,
-        "comments": 73,
-        "created_at": "2026-04-13T06:24:39.000Z"
       }
     ]
   }
