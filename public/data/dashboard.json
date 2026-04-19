@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-04-19T07:18:53.406Z",
+  "updatedAt": "2026-04-19T18:51:22.124Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 17.1,
-      "humidity": 60,
-      "wind_kph": 20.1,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 13.2,
+      "humidity": 86,
+      "wind_kph": 5,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-04-20",
-      "temp_max_c": 18.8,
-      "temp_min_c": 11.6,
+      "temp_max_c": 19.1,
+      "temp_min_c": 11.7,
       "humidity_max": 96,
-      "humidity_min": 41,
-      "wind_kph": 28.4,
+      "humidity_min": 37,
+      "wind_kph": 27.5,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4830.46,
     "oilUSD": 79,
-    "updatedAt": "2026-04-19T07:18:53.406Z",
+    "updatedAt": "2026-04-19T18:51:22.124Z",
     "gold24KUSD": 155.3,
     "gold21KUSD": 135.89,
     "gold18KUSD": 116.48,
@@ -67,54 +67,54 @@
   "news": {
     "ai": [
       {
+        "title": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
+        "url": "https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/",
+        "points": 195,
+        "comments": 124,
+        "created_at": "2026-04-19T13:13:09.000Z"
+      },
+      {
+        "title": "Ask HN: How did you land your first projects as a solo engineer/consultant?",
+        "url": "https://news.ycombinator.com/item?id=47822940",
+        "points": 200,
+        "comments": 92,
+        "created_at": "2026-04-19T09:17:12.000Z"
+      },
+      {
+        "title": "Air Canada suspends 6 routes 'no longer economically feasible'",
+        "url": "https://www.cbc.ca/news/canada/air-canada-jet-fuel-flights-9.7167904",
+        "points": 18,
+        "comments": 2,
+        "created_at": "2026-04-19T03:07:21.000Z"
+      },
+      {
         "title": "Air Is Full of DNA",
         "url": "https://www.nature.com/articles/d41586-026-01099-2",
-        "points": 17,
-        "comments": 0,
+        "points": 26,
+        "comments": 4,
         "created_at": "2026-04-18T21:38:46.000Z"
       },
       {
         "title": "Ask HN: How can I support the AI resistance movement financially?",
         "url": "https://news.ycombinator.com/item?id=47819138",
-        "points": 11,
-        "comments": 9,
+        "points": 12,
+        "comments": 8,
         "created_at": "2026-04-18T20:10:18.000Z"
-      },
-      {
-        "title": "College instructor turns to typewriters to curb AI-written work",
-        "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-        "points": 243,
-        "comments": 214,
-        "created_at": "2026-04-18T19:00:00.000Z"
-      },
-      {
-        "title": "In the AI propaganda war, Iran is winning",
-        "url": "https://www.economist.com/culture/2026/04/17/in-the-ai-propaganda-war-iran-is-winning",
-        "points": 28,
-        "comments": 13,
-        "created_at": "2026-04-18T18:38:53.000Z"
-      },
-      {
-        "title": "Headless Everything for Personal AI",
-        "url": "https://interconnected.org/home/2026/04/18/headless",
-        "points": 19,
-        "comments": 4,
-        "created_at": "2026-04-18T17:49:22.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 55,
-        "comments": 77,
+        "points": 58,
+        "comments": 80,
         "created_at": "2026-04-17T07:55:18.000Z"
       },
       {
         "title": "Ask HN: How do you maintain flow when vibe coding?",
         "url": "https://news.ycombinator.com/item?id=47797632",
-        "points": 30,
-        "comments": 29,
+        "points": 31,
+        "comments": 30,
         "created_at": "2026-04-16T18:38:08.000Z"
       },
       {
@@ -141,39 +141,39 @@
     ],
     "progDb": [
       {
+        "title": "The seven programming ur-languages (2022)",
+        "url": "https://madhadron.com/programming/seven_ur_languages.html",
+        "points": 199,
+        "comments": 78,
+        "created_at": "2026-04-19T07:38:08.000Z"
+      },
+      {
+        "title": "Show HN: Sostactic – polynomial inequalities using sums-of-squares in Lean",
+        "url": "https://github.com/mmaaz-git/sostactic",
+        "points": 12,
+        "comments": 1,
+        "created_at": "2026-04-18T22:36:33.000Z"
+      },
+      {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 55,
-        "comments": 77,
+        "points": 58,
+        "comments": 80,
         "created_at": "2026-04-17T07:55:18.000Z"
       },
       {
         "title": "Does your DSL little language need operator precedence?",
         "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/LittleLanguagesVsOpPrecedence",
-        "points": 13,
-        "comments": 7,
+        "points": 17,
+        "comments": 9,
         "created_at": "2026-04-17T06:12:15.000Z"
       },
       {
         "title": "A better R programming experience thanks to Tree-sitter",
         "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
-        "points": 161,
+        "points": 162,
         "comments": 32,
         "created_at": "2026-04-16T21:14:02.000Z"
-      },
-      {
-        "title": "Reflections on 30 years of HPC programming",
-        "url": "https://chapel-lang.org/blog/posts/30years/",
-        "points": 144,
-        "comments": 120,
-        "created_at": "2026-04-13T23:45:58.000Z"
-      },
-      {
-        "title": "Brunost: The Nynorsk Programming Language",
-        "url": "https://lindbakk.com/blog/introducing-brunost",
-        "points": 138,
-        "comments": 72,
-        "created_at": "2026-04-13T18:49:55.000Z"
       }
     ]
   }
