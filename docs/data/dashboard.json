@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-04-20T08:06:16.572Z",
+  "updatedAt": "2026-04-20T19:04:56.244Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.3,
-      "humidity": 56,
-      "wind_kph": 25.6,
+      "temp_c": 12,
+      "humidity": 89,
+      "wind_kph": 8.8,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-04-21",
-      "temp_max_c": 19,
-      "temp_min_c": 10.7,
-      "humidity_max": 95,
-      "humidity_min": 45,
-      "wind_kph": 23.2,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_max_c": 19.4,
+      "temp_min_c": 11,
+      "humidity_max": 94,
+      "humidity_min": 42,
+      "wind_kph": 22.7,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
     "goldUSD": 4831.17,
     "oilUSD": 79,
-    "updatedAt": "2026-04-20T08:06:16.572Z",
+    "updatedAt": "2026-04-20T19:04:56.244Z",
     "gold24KUSD": 155.33,
     "gold21KUSD": 135.91,
     "gold18KUSD": 116.49,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8509,
-    "GBP": 0.7412,
-    "SAR": 3.7508
+    "EUR": 0.8505,
+    "GBP": 0.7407,
+    "SAR": 3.7502
   },
   "prayer": {
     "fajr": "04:51",
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "The Uncanny Valley and the Rising Power of Anti-AI Sentiment",
-        "url": "https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/",
-        "points": 40,
-        "comments": 66,
-        "created_at": "2026-04-20T00:34:39.000Z"
+        "title": "Peter Thiel Is Building a Parallel Justice System – Powered by AI",
+        "url": "https://www.codastory.com/polarization/can-we-trust-an-ai-jury-to-judge-journalism/",
+        "points": 26,
+        "comments": 4,
+        "created_at": "2026-04-20T16:02:26.000Z"
       },
       {
-        "title": "Swiss AI Initiative (2023)",
-        "url": "https://www.swiss-ai.org",
-        "points": 64,
-        "comments": 23,
-        "created_at": "2026-04-19T22:58:35.000Z"
+        "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+        "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+        "points": 151,
+        "comments": 170,
+        "created_at": "2026-04-20T15:41:02.000Z"
       },
       {
-        "title": "CEOs admit AI had no impact on employment or productivity",
-        "url": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/",
-        "points": 80,
-        "comments": 74,
-        "created_at": "2026-04-19T21:56:22.000Z"
+        "title": "Allbirds' Move to AI Has Echoes of the Dot-Com Frenzy",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-04-20/allbirds-pivot-to-ai-stirs-memory-of-dot-com-boom-and-bust",
+        "points": 21,
+        "comments": 6,
+        "created_at": "2026-04-20T15:13:00.000Z"
       },
       {
-        "title": "Show HN: Nyx – multi-turn, adaptive, offensive testing harness for AI agents",
-        "url": "https://fabraix.com",
-        "points": 19,
-        "comments": 8,
-        "created_at": "2026-04-19T21:32:44.000Z"
+        "title": "Yann LeCun says Dario Amodei \"knows nothing about AI effects on jobs\"",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/godfather-of-ai-and-metas-most-popular-ex-employee-yann-lecun-says-anthropic-ceo-dario-amodei-knows-absolutely-nothing-about-ai-effects-on-jobs-dario-is-wrong/articleshow/130377621.cms",
+        "points": 22,
+        "comments": 16,
+        "created_at": "2026-04-20T14:21:26.000Z"
       },
       {
-        "title": "The time when we suffer from large amounts of AI slop is gone",
-        "url": "https://lists.haxx.se/pipermail/daniel/2026-April/000153.html",
-        "points": 29,
-        "comments": 0,
-        "created_at": "2026-04-19T20:24:18.000Z"
+        "title": "AI chatbots could be making you stupider",
+        "url": "https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider",
+        "points": 36,
+        "comments": 41,
+        "created_at": "2026-04-20T13:36:11.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 61,
-        "comments": 83,
+        "points": 62,
+        "comments": 88,
         "created_at": "2026-04-17T07:55:18.000Z"
       },
       {
@@ -143,15 +143,15 @@
       {
         "title": "I wrote a CHIP-8 emulator in my own programming language",
         "url": "https://github.com/navid-m/chip8emu",
-        "points": 69,
-        "comments": 15,
+        "points": 77,
+        "comments": 20,
         "created_at": "2026-04-19T19:21:22.000Z"
       },
       {
         "title": "The seven programming ur-languages (2022)",
         "url": "https://madhadron.com/programming/seven_ur_languages.html",
-        "points": 327,
-        "comments": 128,
+        "points": 338,
+        "comments": 142,
         "created_at": "2026-04-19T07:38:08.000Z"
       },
       {
@@ -162,18 +162,18 @@
         "created_at": "2026-04-18T22:36:33.000Z"
       },
       {
-        "title": "Ask HN: Building a solo business is impossible?",
-        "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 61,
-        "comments": 83,
-        "created_at": "2026-04-17T07:55:18.000Z"
+        "title": "Why don't we just ask AI to write assembler?",
+        "url": "https://news.ycombinator.com/item?id=47813874",
+        "points": 11,
+        "comments": 15,
+        "created_at": "2026-04-18T07:22:44.000Z"
       },
       {
-        "title": "Does your DSL little language need operator precedence?",
-        "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/LittleLanguagesVsOpPrecedence",
-        "points": 18,
-        "comments": 9,
-        "created_at": "2026-04-17T06:12:15.000Z"
+        "title": "Ask HN: Building a solo business is impossible?",
+        "url": "https://news.ycombinator.com/item?id=47803524",
+        "points": 62,
+        "comments": 88,
+        "created_at": "2026-04-17T07:55:18.000Z"
       }
     ]
   }
