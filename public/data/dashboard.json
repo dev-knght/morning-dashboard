@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-04-19T18:51:22.124Z",
+  "updatedAt": "2026-04-20T08:06:16.572Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 13.2,
-      "humidity": 86,
-      "wind_kph": 5,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 16.3,
+      "humidity": 56,
+      "wind_kph": 25.6,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-04-20",
-      "temp_max_c": 19.1,
-      "temp_min_c": 11.7,
-      "humidity_max": 96,
-      "humidity_min": 37,
-      "wind_kph": 27.5,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-04-21",
+      "temp_max_c": 19,
+      "temp_min_c": 10.7,
+      "humidity_max": 95,
+      "humidity_min": 45,
+      "wind_kph": 23.2,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4830.46,
+    "goldUSD": 4831.17,
     "oilUSD": 79,
-    "updatedAt": "2026-04-19T18:51:22.124Z",
-    "gold24KUSD": 155.3,
-    "gold21KUSD": 135.89,
-    "gold18KUSD": 116.48,
-    "gold24KJD": 110.11,
-    "gold21KJD": 96.35,
-    "gold18KJD": 82.58
+    "updatedAt": "2026-04-20T08:06:16.572Z",
+    "gold24KUSD": 155.33,
+    "gold21KUSD": 135.91,
+    "gold18KUSD": 116.49,
+    "gold24KJD": 110.13,
+    "gold21KJD": 96.36,
+    "gold18KJD": 82.59
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8479,
-    "GBP": 0.7389,
-    "SAR": 3.7511
+    "EUR": 0.8509,
+    "GBP": 0.7412,
+    "SAR": 3.7508
   },
   "prayer": {
-    "fajr": "04:53",
-    "maghrib": "19:08",
-    "date": "19 Apr 2019"
+    "fajr": "04:51",
+    "maghrib": "19:09",
+    "date": "20 Apr 2020"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
-        "url": "https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/",
-        "points": 195,
-        "comments": 124,
-        "created_at": "2026-04-19T13:13:09.000Z"
+        "title": "The Uncanny Valley and the Rising Power of Anti-AI Sentiment",
+        "url": "https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/",
+        "points": 40,
+        "comments": 66,
+        "created_at": "2026-04-20T00:34:39.000Z"
       },
       {
-        "title": "Ask HN: How did you land your first projects as a solo engineer/consultant?",
-        "url": "https://news.ycombinator.com/item?id=47822940",
-        "points": 200,
-        "comments": 92,
-        "created_at": "2026-04-19T09:17:12.000Z"
+        "title": "Swiss AI Initiative (2023)",
+        "url": "https://www.swiss-ai.org",
+        "points": 64,
+        "comments": 23,
+        "created_at": "2026-04-19T22:58:35.000Z"
       },
       {
-        "title": "Air Canada suspends 6 routes 'no longer economically feasible'",
-        "url": "https://www.cbc.ca/news/canada/air-canada-jet-fuel-flights-9.7167904",
-        "points": 18,
-        "comments": 2,
-        "created_at": "2026-04-19T03:07:21.000Z"
+        "title": "CEOs admit AI had no impact on employment or productivity",
+        "url": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/",
+        "points": 80,
+        "comments": 74,
+        "created_at": "2026-04-19T21:56:22.000Z"
       },
       {
-        "title": "Air Is Full of DNA",
-        "url": "https://www.nature.com/articles/d41586-026-01099-2",
-        "points": 26,
-        "comments": 4,
-        "created_at": "2026-04-18T21:38:46.000Z"
-      },
-      {
-        "title": "Ask HN: How can I support the AI resistance movement financially?",
-        "url": "https://news.ycombinator.com/item?id=47819138",
-        "points": 12,
+        "title": "Show HN: Nyx – multi-turn, adaptive, offensive testing harness for AI agents",
+        "url": "https://fabraix.com",
+        "points": 19,
         "comments": 8,
-        "created_at": "2026-04-18T20:10:18.000Z"
+        "created_at": "2026-04-19T21:32:44.000Z"
+      },
+      {
+        "title": "The time when we suffer from large amounts of AI slop is gone",
+        "url": "https://lists.haxx.se/pipermail/daniel/2026-April/000153.html",
+        "points": 29,
+        "comments": 0,
+        "created_at": "2026-04-19T20:24:18.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 58,
-        "comments": 80,
+        "points": 61,
+        "comments": 83,
         "created_at": "2026-04-17T07:55:18.000Z"
       },
       {
@@ -141,10 +141,17 @@
     ],
     "progDb": [
       {
+        "title": "I wrote a CHIP-8 emulator in my own programming language",
+        "url": "https://github.com/navid-m/chip8emu",
+        "points": 69,
+        "comments": 15,
+        "created_at": "2026-04-19T19:21:22.000Z"
+      },
+      {
         "title": "The seven programming ur-languages (2022)",
         "url": "https://madhadron.com/programming/seven_ur_languages.html",
-        "points": 199,
-        "comments": 78,
+        "points": 327,
+        "comments": 128,
         "created_at": "2026-04-19T07:38:08.000Z"
       },
       {
@@ -157,23 +164,16 @@
       {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 58,
-        "comments": 80,
+        "points": 61,
+        "comments": 83,
         "created_at": "2026-04-17T07:55:18.000Z"
       },
       {
         "title": "Does your DSL little language need operator precedence?",
         "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/LittleLanguagesVsOpPrecedence",
-        "points": 17,
+        "points": 18,
         "comments": 9,
         "created_at": "2026-04-17T06:12:15.000Z"
-      },
-      {
-        "title": "A better R programming experience thanks to Tree-sitter",
-        "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
-        "points": 162,
-        "comments": 32,
-        "created_at": "2026-04-16T21:14:02.000Z"
       }
     ]
   }
