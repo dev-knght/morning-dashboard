@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-04-20T19:04:56.244Z",
+  "updatedAt": "2026-04-21T07:49:22.908Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 12,
-      "humidity": 89,
-      "wind_kph": 8.8,
+      "temp_c": 15.7,
+      "humidity": 62,
+      "wind_kph": 16.9,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-04-21",
-      "temp_max_c": 19.4,
-      "temp_min_c": 11,
-      "humidity_max": 94,
-      "humidity_min": 42,
-      "wind_kph": 22.7,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-04-22",
+      "temp_max_c": 22,
+      "temp_min_c": 7.2,
+      "humidity_max": 90,
+      "humidity_min": 22,
+      "wind_kph": 19,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4831.17,
+    "goldUSD": 4751.37,
     "oilUSD": 79,
-    "updatedAt": "2026-04-20T19:04:56.244Z",
-    "gold24KUSD": 155.33,
-    "gold21KUSD": 135.91,
-    "gold18KUSD": 116.49,
-    "gold24KJD": 110.13,
-    "gold21KJD": 96.36,
-    "gold18KJD": 82.59
+    "updatedAt": "2026-04-21T07:49:22.908Z",
+    "gold24KUSD": 152.76,
+    "gold21KUSD": 133.66,
+    "gold18KUSD": 114.57,
+    "gold24KJD": 108.31,
+    "gold21KJD": 94.77,
+    "gold18KJD": 81.23
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8505,
-    "GBP": 0.7407,
-    "SAR": 3.7502
+    "EUR": 0.8501,
+    "GBP": 0.7403,
+    "SAR": 3.7505
   },
   "prayer": {
-    "fajr": "04:51",
-    "maghrib": "19:09",
-    "date": "20 Apr 2020"
+    "fajr": "04:50",
+    "maghrib": "19:10",
+    "date": "21 Apr 2021"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
+        "title": "Less human AI agents, please",
+        "url": "https://nial.se/blog/less-human-ai-agents-please/",
+        "points": 13,
+        "comments": 8,
+        "created_at": "2026-04-21T06:58:08.000Z"
+      },
+      {
+        "title": "Ask HN: What skills are future proof in an AI driven job market?",
+        "url": "https://news.ycombinator.com/item?id=47845050",
+        "points": 11,
+        "comments": 18,
+        "created_at": "2026-04-21T05:49:44.000Z"
+      },
+      {
+        "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+        "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+        "points": 120,
+        "comments": 40,
+        "created_at": "2026-04-21T04:12:12.000Z"
+      },
+      {
+        "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
+        "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
+        "points": 355,
+        "comments": 341,
+        "created_at": "2026-04-20T20:19:13.000Z"
+      },
+      {
         "title": "Peter Thiel Is Building a Parallel Justice System – Powered by AI",
         "url": "https://www.codastory.com/polarization/can-we-trust-an-ai-jury-to-judge-journalism/",
-        "points": 26,
-        "comments": 4,
+        "points": 63,
+        "comments": 19,
         "created_at": "2026-04-20T16:02:26.000Z"
-      },
-      {
-        "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-        "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
-        "points": 151,
-        "comments": 170,
-        "created_at": "2026-04-20T15:41:02.000Z"
-      },
-      {
-        "title": "Allbirds' Move to AI Has Echoes of the Dot-Com Frenzy",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-04-20/allbirds-pivot-to-ai-stirs-memory-of-dot-com-boom-and-bust",
-        "points": 21,
-        "comments": 6,
-        "created_at": "2026-04-20T15:13:00.000Z"
-      },
-      {
-        "title": "Yann LeCun says Dario Amodei \"knows nothing about AI effects on jobs\"",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/godfather-of-ai-and-metas-most-popular-ex-employee-yann-lecun-says-anthropic-ceo-dario-amodei-knows-absolutely-nothing-about-ai-effects-on-jobs-dario-is-wrong/articleshow/130377621.cms",
-        "points": 22,
-        "comments": 16,
-        "created_at": "2026-04-20T14:21:26.000Z"
-      },
-      {
-        "title": "AI chatbots could be making you stupider",
-        "url": "https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider",
-        "points": 36,
-        "comments": 41,
-        "created_at": "2026-04-20T13:36:11.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 62,
-        "comments": 88,
+        "points": 67,
+        "comments": 91,
         "created_at": "2026-04-17T07:55:18.000Z"
       },
       {
@@ -150,8 +150,8 @@
       {
         "title": "The seven programming ur-languages (2022)",
         "url": "https://madhadron.com/programming/seven_ur_languages.html",
-        "points": 338,
-        "comments": 142,
+        "points": 345,
+        "comments": 149,
         "created_at": "2026-04-19T07:38:08.000Z"
       },
       {
@@ -164,15 +164,15 @@
       {
         "title": "Why don't we just ask AI to write assembler?",
         "url": "https://news.ycombinator.com/item?id=47813874",
-        "points": 11,
-        "comments": 15,
+        "points": 12,
+        "comments": 16,
         "created_at": "2026-04-18T07:22:44.000Z"
       },
       {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 62,
-        "comments": 88,
+        "points": 67,
+        "comments": 91,
         "created_at": "2026-04-17T07:55:18.000Z"
       }
     ]
