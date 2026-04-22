@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-04-21T19:10:48.374Z",
+  "updatedAt": "2026-04-22T07:46:33.920Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 12,
-      "humidity": 72,
-      "wind_kph": 7.3,
+      "temp_c": 18.7,
+      "humidity": 37,
+      "wind_kph": 1.8,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-04-22",
-      "temp_max_c": 22.6,
-      "temp_min_c": 6.9,
-      "humidity_max": 86,
-      "humidity_min": 19,
-      "wind_kph": 18.1,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "date": "2026-04-23",
+      "temp_max_c": 23.7,
+      "temp_min_c": 8,
+      "humidity_max": 47,
+      "humidity_min": 16,
+      "wind_kph": 19.9,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     }
   },
   "metals": {
-    "goldUSD": 4751.37,
+    "goldUSD": 4829.38,
     "oilUSD": 79,
-    "updatedAt": "2026-04-21T19:10:48.374Z",
-    "gold24KUSD": 152.76,
-    "gold21KUSD": 133.66,
-    "gold18KUSD": 114.57,
-    "gold24KJD": 108.31,
-    "gold21KJD": 94.77,
-    "gold18KJD": 81.23
+    "updatedAt": "2026-04-22T07:46:33.920Z",
+    "gold24KUSD": 155.27,
+    "gold21KUSD": 135.86,
+    "gold18KUSD": 116.45,
+    "gold24KJD": 110.09,
+    "gold21KJD": 96.32,
+    "gold18KJD": 82.56
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8496,
-    "GBP": 0.74,
-    "SAR": 3.7502
+    "EUR": 0.8509,
+    "GBP": 0.7393,
+    "SAR": 3.7506
   },
   "prayer": {
-    "fajr": "04:50",
+    "fajr": "04:49",
     "maghrib": "19:10",
-    "date": "21 Apr 2021"
+    "date": "22 Apr 2022"
   },
   "events": [
     {
@@ -67,53 +67,53 @@
   "news": {
     "ai": [
       {
-        "title": "Meta capturing employee mouse movements, keystrokes for AI training data",
-        "url": "https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr",
-        "points": 55,
-        "comments": 19,
-        "created_at": "2026-04-21T17:40:39.000Z"
+        "title": "Tell HN: I'm sick of AI everything",
+        "url": "https://news.ycombinator.com/item?id=47857461",
+        "points": 244,
+        "comments": 138,
+        "created_at": "2026-04-22T01:19:30.000Z"
+      },
+      {
+        "title": "Air Force can't quit the A-10 Warthog, extends service into 2030",
+        "url": "https://taskandpurpose.com/news/air-force-a10-warthog-2030/",
+        "points": 16,
+        "comments": 4,
+        "created_at": "2026-04-21T21:13:00.000Z"
+      },
+      {
+        "title": "Demand for AI-related skills has grown and older workers are acing the pivot",
+        "url": "https://www.rnz.co.nz/news/business/593019/demand-for-ai-related-skills-has-grown-and-older-workers-are-acing-the-pivot",
+        "points": 11,
+        "comments": 1,
+        "created_at": "2026-04-21T19:00:59.000Z"
       },
       {
         "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
         "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-        "points": 22,
-        "comments": 6,
-        "created_at": "2026-04-21T16:43:12.000Z"
+        "points": 498,
+        "comments": 372,
+        "created_at": "2026-04-21T17:40:39.000Z"
       },
       {
-        "title": "Meta to start capturing employee mouse movement, keystrokes for AI training data",
-        "url": "https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-start-capturing-employee-162745587.html",
-        "points": 37,
-        "comments": 17,
-        "created_at": "2026-04-21T16:32:26.000Z"
-      },
-      {
-        "title": "Scammer Used an AI-Generated MAGA Girl to Grift 'Super Dumb' Men",
-        "url": "https://www.wired.com/story/ai-generated-maga-girls/",
-        "points": 55,
-        "comments": 30,
-        "created_at": "2026-04-21T14:41:36.000Z"
-      },
-      {
-        "title": "Show HN: GoModel – an open-source AI gateway in Go",
-        "url": "https://github.com/ENTERPILOT/GOModel/",
-        "points": 113,
-        "comments": 41,
-        "created_at": "2026-04-21T14:11:53.000Z"
+        "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+        "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+        "points": 304,
+        "comments": 109,
+        "created_at": "2026-04-21T17:14:35.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 69,
-        "comments": 92,
+        "points": 71,
+        "comments": 93,
         "created_at": "2026-04-17T07:55:18.000Z"
       },
       {
         "title": "Ask HN: How do you maintain flow when vibe coding?",
         "url": "https://news.ycombinator.com/item?id=47797632",
-        "points": 31,
+        "points": 32,
         "comments": 31,
         "created_at": "2026-04-16T18:38:08.000Z"
       },
@@ -151,13 +151,13 @@
         "title": "The seven programming ur-languages (2022)",
         "url": "https://madhadron.com/programming/seven_ur_languages.html",
         "points": 348,
-        "comments": 154,
+        "comments": 155,
         "created_at": "2026-04-19T07:38:08.000Z"
       },
       {
         "title": "Show HN: Sostactic – polynomial inequalities using sums-of-squares in Lean",
         "url": "https://github.com/mmaaz-git/sostactic",
-        "points": 12,
+        "points": 13,
         "comments": 2,
         "created_at": "2026-04-18T22:36:33.000Z"
       },
@@ -171,8 +171,8 @@
       {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 69,
-        "comments": 92,
+        "points": 71,
+        "comments": 93,
         "created_at": "2026-04-17T07:55:18.000Z"
       }
     ]
