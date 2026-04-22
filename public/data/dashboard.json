@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-04-22T07:46:33.920Z",
+  "updatedAt": "2026-04-22T19:12:48.579Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 18.7,
-      "humidity": 37,
-      "wind_kph": 1.8,
+      "temp_c": 13,
+      "humidity": 56,
+      "wind_kph": 4.1,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-04-23",
-      "temp_max_c": 23.7,
-      "temp_min_c": 8,
-      "humidity_max": 47,
+      "temp_max_c": 24,
+      "temp_min_c": 8.2,
+      "humidity_max": 54,
       "humidity_min": 16,
-      "wind_kph": 19.9,
+      "wind_kph": 18.8,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4829.38,
     "oilUSD": 79,
-    "updatedAt": "2026-04-22T07:46:33.920Z",
+    "updatedAt": "2026-04-22T19:12:48.579Z",
     "gold24KUSD": 155.27,
     "gold21KUSD": 135.86,
     "gold18KUSD": 116.45,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8509,
-    "GBP": 0.7393,
-    "SAR": 3.7506
+    "EUR": 0.8514,
+    "GBP": 0.7398,
+    "SAR": 3.7502
   },
   "prayer": {
     "fajr": "04:49",
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "Tell HN: I'm sick of AI everything",
-        "url": "https://news.ycombinator.com/item?id=47857461",
-        "points": 244,
-        "comments": 138,
-        "created_at": "2026-04-22T01:19:30.000Z"
+        "title": "Anker made its own chip to bring AI to all its products",
+        "url": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement",
+        "points": 39,
+        "comments": 25,
+        "created_at": "2026-04-22T17:10:46.000Z"
       },
       {
-        "title": "Air Force can't quit the A-10 Warthog, extends service into 2030",
-        "url": "https://taskandpurpose.com/news/air-force-a10-warthog-2030/",
-        "points": 16,
-        "comments": 4,
-        "created_at": "2026-04-21T21:13:00.000Z"
+        "title": "Startups Brag They Spend More Money on AI Than Human Employees",
+        "url": "https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/",
+        "points": 43,
+        "comments": 43,
+        "created_at": "2026-04-22T16:34:21.000Z"
       },
       {
-        "title": "Demand for AI-related skills has grown and older workers are acing the pivot",
-        "url": "https://www.rnz.co.nz/news/business/593019/demand-for-ai-related-skills-has-grown-and-older-workers-are-acing-the-pivot",
-        "points": 11,
-        "comments": 1,
-        "created_at": "2026-04-21T19:00:59.000Z"
+        "title": "Health AI Startup Has Helped Reverse Denied Health Insurance Claims",
+        "url": "https://www.bloomberg.com/news/features/2026-04-22/ai-and-mark-cuban-among-startup-s-tools-to-fight-denied-health-care-claims",
+        "points": 15,
+        "comments": 9,
+        "created_at": "2026-04-22T15:46:24.000Z"
       },
       {
-        "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-        "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-        "points": 498,
-        "comments": 372,
-        "created_at": "2026-04-21T17:40:39.000Z"
+        "title": "Top MAGA influencer revealed to be AI",
+        "url": "https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/",
+        "points": 74,
+        "comments": 43,
+        "created_at": "2026-04-22T15:15:04.000Z"
       },
       {
-        "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-        "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-        "points": 304,
-        "comments": 109,
-        "created_at": "2026-04-21T17:14:35.000Z"
+        "title": "Scoring Show HN submissions for AI design patterns",
+        "url": "https://www.adriankrebs.ch/blog/design-slop/",
+        "points": 229,
+        "comments": 178,
+        "created_at": "2026-04-22T14:44:32.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 71,
-        "comments": 93,
+        "points": 73,
+        "comments": 95,
         "created_at": "2026-04-17T07:55:18.000Z"
       },
       {
@@ -143,14 +143,14 @@
       {
         "title": "I wrote a CHIP-8 emulator in my own programming language",
         "url": "https://github.com/navid-m/chip8emu",
-        "points": 78,
+        "points": 79,
         "comments": 20,
         "created_at": "2026-04-19T19:21:22.000Z"
       },
       {
         "title": "The seven programming ur-languages (2022)",
         "url": "https://madhadron.com/programming/seven_ur_languages.html",
-        "points": 348,
+        "points": 349,
         "comments": 155,
         "created_at": "2026-04-19T07:38:08.000Z"
       },
@@ -164,15 +164,15 @@
       {
         "title": "Why don't we just ask AI to write assembler?",
         "url": "https://news.ycombinator.com/item?id=47813874",
-        "points": 12,
+        "points": 14,
         "comments": 16,
         "created_at": "2026-04-18T07:22:44.000Z"
       },
       {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 71,
-        "comments": 93,
+        "points": 73,
+        "comments": 95,
         "created_at": "2026-04-17T07:55:18.000Z"
       }
     ]
