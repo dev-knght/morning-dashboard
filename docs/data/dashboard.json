@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-04-22T19:12:48.579Z",
+  "updatedAt": "2026-04-23T07:52:00.835Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 13,
-      "humidity": 56,
-      "wind_kph": 4.1,
+      "temp_c": 20.6,
+      "humidity": 30,
+      "wind_kph": 8.4,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-04-23",
-      "temp_max_c": 24,
-      "temp_min_c": 8.2,
-      "humidity_max": 54,
-      "humidity_min": 16,
-      "wind_kph": 18.8,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "date": "2026-04-24",
+      "temp_max_c": 24.1,
+      "temp_min_c": 8.5,
+      "humidity_max": 57,
+      "humidity_min": 18,
+      "wind_kph": 18.3,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4829.38,
+    "goldUSD": 4745.16,
     "oilUSD": 79,
-    "updatedAt": "2026-04-22T19:12:48.579Z",
-    "gold24KUSD": 155.27,
-    "gold21KUSD": 135.86,
-    "gold18KUSD": 116.45,
-    "gold24KJD": 110.09,
-    "gold21KJD": 96.32,
-    "gold18KJD": 82.56
+    "updatedAt": "2026-04-23T07:52:00.835Z",
+    "gold24KUSD": 152.56,
+    "gold21KUSD": 133.49,
+    "gold18KUSD": 114.42,
+    "gold24KJD": 108.17,
+    "gold21KJD": 94.64,
+    "gold18KJD": 81.12
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8514,
-    "GBP": 0.7398,
+    "EUR": 0.8518,
+    "GBP": 0.7399,
     "SAR": 3.7502
   },
   "prayer": {
-    "fajr": "04:49",
-    "maghrib": "19:10",
-    "date": "22 Apr 2022"
+    "fajr": "04:48",
+    "maghrib": "19:11",
+    "date": "23 Apr 2023"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "Anker made its own chip to bring AI to all its products",
-        "url": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement",
-        "points": 39,
-        "comments": 25,
-        "created_at": "2026-04-22T17:10:46.000Z"
+        "title": "Ars Technica: Our newsroom AI policy",
+        "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+        "points": 32,
+        "comments": 13,
+        "created_at": "2026-04-23T05:14:05.000Z"
       },
       {
-        "title": "Startups Brag They Spend More Money on AI Than Human Employees",
-        "url": "https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/",
-        "points": 43,
-        "comments": 43,
-        "created_at": "2026-04-22T16:34:21.000Z"
+        "title": "Israeli airstrike kills Lebanese journalist Amal Khalil",
+        "url": "https://apnews.com/article/lebanese-journalist-amal-khalil-killed-israel-airstrike-14cabe8f773f59450b1ac47e7706d0e6",
+        "points": 24,
+        "comments": 3,
+        "created_at": "2026-04-23T00:18:55.000Z"
       },
       {
-        "title": "Health AI Startup Has Helped Reverse Denied Health Insurance Claims",
-        "url": "https://www.bloomberg.com/news/features/2026-04-22/ai-and-mark-cuban-among-startup-s-tools-to-fight-denied-health-care-claims",
-        "points": 15,
-        "comments": 9,
-        "created_at": "2026-04-22T15:46:24.000Z"
+        "title": "HEPA air purifiers may boost brain power in adults over 40",
+        "url": "https://medicalxpress.com/news/2026-04-hepa-air-purifiers-boost-brain.html",
+        "points": 14,
+        "comments": 0,
+        "created_at": "2026-04-22T22:21:58.000Z"
       },
       {
-        "title": "Top MAGA influencer revealed to be AI",
-        "url": "https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/",
-        "points": 74,
-        "comments": 43,
-        "created_at": "2026-04-22T15:15:04.000Z"
+        "title": "Failed Companies Are Selling Old Slack Chats and Email Archives to Train AI",
+        "url": "https://gizmodo.com/failed-companies-are-selling-old-slack-chats-and-email-archives-to-train-ai-2000747916",
+        "points": 23,
+        "comments": 7,
+        "created_at": "2026-04-22T21:03:42.000Z"
       },
       {
-        "title": "Scoring Show HN submissions for AI design patterns",
-        "url": "https://www.adriankrebs.ch/blog/design-slop/",
-        "points": 229,
-        "comments": 178,
-        "created_at": "2026-04-22T14:44:32.000Z"
+        "title": "Ars Technica newsroom AI policy",
+        "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+        "points": 17,
+        "comments": 6,
+        "created_at": "2026-04-22T20:52:04.000Z"
       }
     ],
     "vibeCoding": [
@@ -107,7 +107,7 @@
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
         "points": 73,
-        "comments": 95,
+        "comments": 96,
         "created_at": "2026-04-17T07:55:18.000Z"
       },
       {
@@ -150,7 +150,7 @@
       {
         "title": "The seven programming ur-languages (2022)",
         "url": "https://madhadron.com/programming/seven_ur_languages.html",
-        "points": 349,
+        "points": 350,
         "comments": 155,
         "created_at": "2026-04-19T07:38:08.000Z"
       },
@@ -172,7 +172,7 @@
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
         "points": 73,
-        "comments": 95,
+        "comments": 96,
         "created_at": "2026-04-17T07:55:18.000Z"
       }
     ]
