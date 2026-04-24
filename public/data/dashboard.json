@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-04-23T19:07:09.151Z",
+  "updatedAt": "2026-04-24T08:02:56.798Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 12.9,
-      "humidity": 43,
-      "wind_kph": 4,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 21.2,
+      "humidity": 36,
+      "wind_kph": 10,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-04-24",
-      "temp_max_c": 24.3,
-      "temp_min_c": 8.6,
-      "humidity_max": 48,
-      "humidity_min": 22,
-      "wind_kph": 17.8,
+      "date": "2026-04-25",
+      "temp_max_c": 27.2,
+      "temp_min_c": 12.5,
+      "humidity_max": 66,
+      "humidity_min": 26,
+      "wind_kph": 19.6,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4745.16,
+    "goldUSD": 4706.34,
     "oilUSD": 79,
-    "updatedAt": "2026-04-23T19:07:09.151Z",
-    "gold24KUSD": 152.56,
-    "gold21KUSD": 133.49,
-    "gold18KUSD": 114.42,
-    "gold24KJD": 108.17,
-    "gold21KJD": 94.64,
-    "gold18KJD": 81.12
+    "updatedAt": "2026-04-24T08:02:56.798Z",
+    "gold24KUSD": 151.31,
+    "gold21KUSD": 132.4,
+    "gold18KUSD": 113.48,
+    "gold24KJD": 107.28,
+    "gold21KJD": 93.87,
+    "gold18KJD": 80.46
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8547,
-    "GBP": 0.7406,
-    "SAR": 3.7502
+    "EUR": 0.8561,
+    "GBP": 0.7426,
+    "SAR": 3.7507
   },
   "prayer": {
-    "fajr": "04:48",
-    "maghrib": "19:11",
-    "date": "23 Apr 2023"
+    "fajr": "04:46",
+    "maghrib": "19:12",
+    "date": "24 Apr 2024"
   },
   "events": [
     {
@@ -67,10 +67,31 @@
   "news": {
     "ai": [
       {
+        "title": "AI run store in SF can't stop ordering candies and paying women less.",
+        "url": "https://sfist.com/2026/04/21/ai-store-manager-paying-female-employees-less-cant-stop-ordering-candles/",
+        "points": 14,
+        "comments": 5,
+        "created_at": "2026-04-24T03:57:24.000Z"
+      },
+      {
+        "title": "DeepSeek v4",
+        "url": "https://api-docs.deepseek.com/",
+        "points": 752,
+        "comments": 421,
+        "created_at": "2026-04-24T03:01:21.000Z"
+      },
+      {
+        "title": "Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases",
+        "url": "https://github.com/refactoringhq/tolaria",
+        "points": 183,
+        "comments": 69,
+        "created_at": "2026-04-23T22:01:59.000Z"
+      },
+      {
         "title": "MeshCore development team splits over trademark dispute and AI-generated code",
         "url": "https://blog.meshcore.io/2026/04/23/the-split",
-        "points": 53,
-        "comments": 30,
+        "points": 209,
+        "comments": 110,
         "created_at": "2026-04-23T16:55:13.000Z"
       },
       {
@@ -79,27 +100,6 @@
         "points": 11,
         "comments": 13,
         "created_at": "2026-04-23T14:38:01.000Z"
-      },
-      {
-        "title": "Congressman Introduces Bill to Ban AI Chatbots in Children's Toys",
-        "url": "https://blakemoore.house.gov/media/press-releases/congressman-blake-moore-introduces-bill-to-ban-artificial-intelligence-chatbots-in-childrens-toys",
-        "points": 26,
-        "comments": 2,
-        "created_at": "2026-04-23T10:35:04.000Z"
-      },
-      {
-        "title": "Do you want the US to \"win\" AI?",
-        "url": "https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html",
-        "points": 47,
-        "comments": 97,
-        "created_at": "2026-04-23T09:41:20.000Z"
-      },
-      {
-        "title": "Our newsroom AI policy",
-        "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-        "points": 165,
-        "comments": 111,
-        "created_at": "2026-04-23T05:14:05.000Z"
       }
     ],
     "vibeCoding": [
@@ -107,7 +107,7 @@
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
         "points": 74,
-        "comments": 96,
+        "comments": 97,
         "created_at": "2026-04-17T07:55:18.000Z"
       },
       {
@@ -143,14 +143,14 @@
       {
         "title": "I wrote a CHIP-8 emulator in my own programming language",
         "url": "https://github.com/navid-m/chip8emu",
-        "points": 79,
+        "points": 80,
         "comments": 20,
         "created_at": "2026-04-19T19:21:22.000Z"
       },
       {
         "title": "The seven programming ur-languages (2022)",
         "url": "https://madhadron.com/programming/seven_ur_languages.html",
-        "points": 350,
+        "points": 351,
         "comments": 155,
         "created_at": "2026-04-19T07:38:08.000Z"
       },
@@ -172,7 +172,7 @@
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
         "points": 74,
-        "comments": 96,
+        "comments": 97,
         "created_at": "2026-04-17T07:55:18.000Z"
       }
     ]
