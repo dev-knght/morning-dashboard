@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-04-24T08:02:56.798Z",
+  "updatedAt": "2026-04-24T18:52:02.839Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 21.2,
-      "humidity": 36,
-      "wind_kph": 10,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 16.7,
+      "humidity": 64,
+      "wind_kph": 3.9,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
       "date": "2026-04-25",
-      "temp_max_c": 27.2,
-      "temp_min_c": 12.5,
-      "humidity_max": 66,
+      "temp_max_c": 27.9,
+      "temp_min_c": 12.8,
+      "humidity_max": 72,
       "humidity_min": 26,
-      "wind_kph": 19.6,
+      "wind_kph": 20.2,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4706.34,
     "oilUSD": 79,
-    "updatedAt": "2026-04-24T08:02:56.798Z",
+    "updatedAt": "2026-04-24T18:52:02.839Z",
     "gold24KUSD": 151.31,
     "gold21KUSD": 132.4,
     "gold18KUSD": 113.48,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8561,
-    "GBP": 0.7426,
-    "SAR": 3.7507
+    "EUR": 0.8551,
+    "GBP": 0.7419,
+    "SAR": 3.7501
   },
   "prayer": {
     "fajr": "04:46",
@@ -67,42 +67,49 @@
   "news": {
     "ai": [
       {
-        "title": "AI run store in SF can't stop ordering candies and paying women less.",
-        "url": "https://sfist.com/2026/04/21/ai-store-manager-paying-female-employees-less-cant-stop-ordering-candles/",
-        "points": 14,
-        "comments": 5,
-        "created_at": "2026-04-24T03:57:24.000Z"
+        "title": "Tesla (TSLA) discloses $2B AI hardware company acquisition buried",
+        "url": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/",
+        "points": 42,
+        "comments": 24,
+        "created_at": "2026-04-24T16:51:46.000Z"
       },
       {
-        "title": "DeepSeek v4",
-        "url": "https://api-docs.deepseek.com/",
-        "points": 752,
-        "comments": 421,
-        "created_at": "2026-04-24T03:01:21.000Z"
-      },
-      {
-        "title": "Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases",
-        "url": "https://github.com/refactoringhq/tolaria",
-        "points": 183,
-        "comments": 69,
-        "created_at": "2026-04-23T22:01:59.000Z"
-      },
-      {
-        "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-        "url": "https://blog.meshcore.io/2026/04/23/the-split",
-        "points": 209,
-        "comments": 110,
-        "created_at": "2026-04-23T16:55:13.000Z"
-      },
-      {
-        "title": "Be sinceerly human – AI to undo your AI writing",
-        "url": "https://sinceerly.com/",
-        "points": 11,
+        "title": "The pope moves to police AI",
+        "url": "https://www.axios.com/2026/04/24/catholics-pope-vatican-artificial-intelligence",
+        "points": 19,
         "comments": 13,
-        "created_at": "2026-04-23T14:38:01.000Z"
+        "created_at": "2026-04-24T13:36:42.000Z"
+      },
+      {
+        "title": "Show HN: Atomic – Local-first, AI-augmented personal knowledge base",
+        "url": "https://atomicapp.ai/",
+        "points": 44,
+        "comments": 23,
+        "created_at": "2026-04-24T12:07:30.000Z"
+      },
+      {
+        "title": "Wikipedia's AI Policy",
+        "url": "https://en.wikipedia.org/wiki/Wikipedia:Artificial_intelligence",
+        "points": 14,
+        "comments": 3,
+        "created_at": "2026-04-24T10:16:01.000Z"
+      },
+      {
+        "title": "Ask HN: Am I getting old, or is working with AI juniors becoming a nightmare?",
+        "url": "https://news.ycombinator.com/item?id=47888068",
+        "points": 31,
+        "comments": 43,
+        "created_at": "2026-04-24T10:07:25.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Ask HN: How do solo devs protect their work in the age of vibe coding?",
+        "url": "https://news.ycombinator.com/item?id=47884457",
+        "points": 15,
+        "comments": 10,
+        "created_at": "2026-04-24T01:33:26.000Z"
+      },
       {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
@@ -130,16 +137,16 @@
         "points": 16,
         "comments": 5,
         "created_at": "2026-04-13T21:48:00.000Z"
-      },
-      {
-        "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
-        "url": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
-        "points": 27,
-        "comments": 6,
-        "created_at": "2026-04-10T14:35:05.000Z"
       }
     ],
     "progDb": [
+      {
+        "title": "Ask HN: Would you take a job programming VMS?",
+        "url": "https://news.ycombinator.com/item?id=47873423",
+        "points": 11,
+        "comments": 19,
+        "created_at": "2026-04-23T08:28:03.000Z"
+      },
       {
         "title": "I wrote a CHIP-8 emulator in my own programming language",
         "url": "https://github.com/navid-m/chip8emu",
@@ -167,13 +174,6 @@
         "points": 14,
         "comments": 16,
         "created_at": "2026-04-18T07:22:44.000Z"
-      },
-      {
-        "title": "Ask HN: Building a solo business is impossible?",
-        "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 74,
-        "comments": 97,
-        "created_at": "2026-04-17T07:55:18.000Z"
       }
     ]
   }
