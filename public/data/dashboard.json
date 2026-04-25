@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-04-24T18:52:02.839Z",
+  "updatedAt": "2026-04-25T07:15:38.205Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.7,
-      "humidity": 64,
-      "wind_kph": 3.9,
+      "temp_c": 21.5,
+      "humidity": 38,
+      "wind_kph": 12.3,
       "weather_code": 3,
       "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-04-25",
-      "temp_max_c": 27.9,
-      "temp_min_c": 12.8,
-      "humidity_max": 72,
-      "humidity_min": 26,
-      "wind_kph": 20.2,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-04-26",
+      "temp_max_c": 28.3,
+      "temp_min_c": 12.5,
+      "humidity_max": 76,
+      "humidity_min": 15,
+      "wind_kph": 24.2,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
-    "goldUSD": 4706.34,
+    "goldUSD": 4696.39,
     "oilUSD": 79,
-    "updatedAt": "2026-04-24T18:52:02.839Z",
-    "gold24KUSD": 151.31,
-    "gold21KUSD": 132.4,
-    "gold18KUSD": 113.48,
-    "gold24KJD": 107.28,
-    "gold21KJD": 93.87,
-    "gold18KJD": 80.46
+    "updatedAt": "2026-04-25T07:15:38.205Z",
+    "gold24KUSD": 150.99,
+    "gold21KUSD": 132.12,
+    "gold18KUSD": 113.24,
+    "gold24KJD": 107.05,
+    "gold21KJD": 93.67,
+    "gold18KJD": 80.29
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8551,
-    "GBP": 0.7419,
-    "SAR": 3.7501
+    "EUR": 0.8548,
+    "GBP": 0.7415,
+    "SAR": 3.7503
   },
   "prayer": {
-    "fajr": "04:46",
-    "maghrib": "19:12",
-    "date": "24 Apr 2024"
+    "fajr": "04:45",
+    "maghrib": "19:13",
+    "date": "25 Apr 2025"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "Tesla (TSLA) discloses $2B AI hardware company acquisition buried",
-        "url": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/",
-        "points": 42,
-        "comments": 24,
-        "created_at": "2026-04-24T16:51:46.000Z"
-      },
-      {
-        "title": "The pope moves to police AI",
-        "url": "https://www.axios.com/2026/04/24/catholics-pope-vatican-artificial-intelligence",
-        "points": 19,
-        "comments": 13,
-        "created_at": "2026-04-24T13:36:42.000Z"
-      },
-      {
-        "title": "Show HN: Atomic – Local-first, AI-augmented personal knowledge base",
-        "url": "https://atomicapp.ai/",
-        "points": 44,
-        "comments": 23,
-        "created_at": "2026-04-24T12:07:30.000Z"
-      },
-      {
-        "title": "Wikipedia's AI Policy",
-        "url": "https://en.wikipedia.org/wiki/Wikipedia:Artificial_intelligence",
-        "points": 14,
+        "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+        "url": "https://alash3al.github.io/stash?_v01",
+        "points": 18,
         "comments": 3,
-        "created_at": "2026-04-24T10:16:01.000Z"
+        "created_at": "2026-04-25T01:24:40.000Z"
       },
       {
-        "title": "Ask HN: Am I getting old, or is working with AI juniors becoming a nightmare?",
-        "url": "https://news.ycombinator.com/item?id=47888068",
-        "points": 31,
-        "comments": 43,
-        "created_at": "2026-04-24T10:07:25.000Z"
+        "title": "California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower",
+        "url": "https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower",
+        "points": 15,
+        "comments": 0,
+        "created_at": "2026-04-24T20:28:22.000Z"
+      },
+      {
+        "title": "Officials underestimated impact of AI datacentres on UK carbon emissions",
+        "url": "https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions",
+        "points": 12,
+        "comments": 0,
+        "created_at": "2026-04-24T20:17:49.000Z"
+      },
+      {
+        "title": "MenteDB – open-source memory database for AI agents (Rust)",
+        "url": "https://github.com/nambok/mentedb",
+        "points": 16,
+        "comments": 1,
+        "created_at": "2026-04-24T19:51:09.000Z"
+      },
+      {
+        "title": "SFO Quiet Airport (2025)",
+        "url": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
+        "points": 142,
+        "comments": 82,
+        "created_at": "2026-04-24T18:29:53.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: How do solo devs protect their work in the age of vibe coding?",
         "url": "https://news.ycombinator.com/item?id=47884457",
-        "points": 15,
-        "comments": 10,
+        "points": 19,
+        "comments": 13,
         "created_at": "2026-04-24T01:33:26.000Z"
       },
       {
@@ -165,7 +165,7 @@
         "title": "Show HN: Sostactic – polynomial inequalities using sums-of-squares in Lean",
         "url": "https://github.com/mmaaz-git/sostactic",
         "points": 13,
-        "comments": 2,
+        "comments": 1,
         "created_at": "2026-04-18T22:36:33.000Z"
       },
       {
