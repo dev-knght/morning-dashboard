@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-04-25T07:15:38.205Z",
+  "updatedAt": "2026-04-25T18:52:30.764Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 21.5,
-      "humidity": 38,
-      "wind_kph": 12.3,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 19.1,
+      "humidity": 44,
+      "wind_kph": 4.6,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-04-26",
-      "temp_max_c": 28.3,
-      "temp_min_c": 12.5,
-      "humidity_max": 76,
-      "humidity_min": 15,
-      "wind_kph": 24.2,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "temp_max_c": 29.5,
+      "temp_min_c": 13.4,
+      "humidity_max": 92,
+      "humidity_min": 19,
+      "wind_kph": 27.2,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
     "goldUSD": 4696.39,
     "oilUSD": 79,
-    "updatedAt": "2026-04-25T07:15:38.205Z",
+    "updatedAt": "2026-04-25T18:52:30.764Z",
     "gold24KUSD": 150.99,
     "gold21KUSD": 132.12,
     "gold18KUSD": 113.24,
@@ -67,47 +67,54 @@
   "news": {
     "ai": [
       {
-        "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-        "url": "https://alash3al.github.io/stash?_v01",
-        "points": 18,
-        "comments": 3,
-        "created_at": "2026-04-25T01:24:40.000Z"
-      },
-      {
-        "title": "California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower",
-        "url": "https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower",
-        "points": 15,
-        "comments": 0,
-        "created_at": "2026-04-24T20:28:22.000Z"
-      },
-      {
-        "title": "Officials underestimated impact of AI datacentres on UK carbon emissions",
-        "url": "https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions",
+        "title": "The Tsundoku Trap: Why AI Makes You Start Everything and Finish Nothing",
+        "url": "https://blog.danielvaughan.com/the-tsundoku-trap-why-ai-makes-you-start-everything-and-finish-nothing-7087184a4342",
         "points": 12,
         "comments": 0,
-        "created_at": "2026-04-24T20:17:49.000Z"
+        "created_at": "2026-04-25T12:42:53.000Z"
       },
       {
-        "title": "MenteDB – open-source memory database for AI agents (Rust)",
-        "url": "https://github.com/nambok/mentedb",
-        "points": 16,
+        "title": "Lambda Calculus Benchmark for AI",
+        "url": "https://victortaelin.github.io/lambench/",
+        "points": 97,
+        "comments": 31,
+        "created_at": "2026-04-25T11:16:23.000Z"
+      },
+      {
+        "title": "You probably wouldn't notice if an AI chatbot slipped ads into its responses",
+        "url": "https://theconversation.com/you-probably-wouldnt-notice-if-an-ai-chatbot-slipped-ads-into-its-responses-276010",
+        "points": 14,
         "comments": 1,
-        "created_at": "2026-04-24T19:51:09.000Z"
+        "created_at": "2026-04-25T10:25:02.000Z"
       },
       {
-        "title": "SFO Quiet Airport (2025)",
-        "url": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
-        "points": 142,
-        "comments": 82,
-        "created_at": "2026-04-24T18:29:53.000Z"
+        "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+        "url": "https://github.com/nex-crm/wuphf",
+        "points": 197,
+        "comments": 92,
+        "created_at": "2026-04-25T08:53:53.000Z"
+      },
+      {
+        "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+        "url": "https://alash3al.github.io/stash?_v01",
+        "points": 150,
+        "comments": 61,
+        "created_at": "2026-04-25T01:24:40.000Z"
       }
     ],
     "vibeCoding": [
       {
+        "title": "Apple TV remote is the perfect accessory for vibe coding",
+        "url": "https://github.com/machinarii/hypervibe",
+        "points": 16,
+        "comments": 7,
+        "created_at": "2026-04-24T21:12:53.000Z"
+      },
+      {
         "title": "Ask HN: How do solo devs protect their work in the age of vibe coding?",
         "url": "https://news.ycombinator.com/item?id=47884457",
-        "points": 19,
-        "comments": 13,
+        "points": 27,
+        "comments": 15,
         "created_at": "2026-04-24T01:33:26.000Z"
       },
       {
@@ -130,20 +137,13 @@
         "points": 213,
         "comments": 211,
         "created_at": "2026-04-14T08:35:45.000Z"
-      },
-      {
-        "title": "Tokens – The New Dopamine Economy",
-        "url": "https://www.enfuse.io/blog/vibe-coding-trap",
-        "points": 16,
-        "comments": 5,
-        "created_at": "2026-04-13T21:48:00.000Z"
       }
     ],
     "progDb": [
       {
         "title": "Ask HN: Would you take a job programming VMS?",
         "url": "https://news.ycombinator.com/item?id=47873423",
-        "points": 11,
+        "points": 14,
         "comments": 19,
         "created_at": "2026-04-23T08:28:03.000Z"
       },
