@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-04-26T07:28:02.030Z",
+  "updatedAt": "2026-04-26T18:54:04.919Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 26.3,
-      "humidity": 25,
-      "wind_kph": 2.8,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 15.4,
+      "humidity": 84,
+      "wind_kph": 12.6,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-04-27",
-      "temp_max_c": 22.7,
-      "temp_min_c": 11.7,
-      "humidity_max": 92,
-      "humidity_min": 36,
-      "wind_kph": 22.9,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "temp_max_c": 22.4,
+      "temp_min_c": 12.2,
+      "humidity_max": 91,
+      "humidity_min": 40,
+      "wind_kph": 26,
+      "weather_code": 95,
+      "weather_desc": "Thunderstorm"
     }
   },
   "metals": {
     "goldUSD": 4709.45,
     "oilUSD": 79,
-    "updatedAt": "2026-04-26T07:28:02.030Z",
+    "updatedAt": "2026-04-26T18:54:04.919Z",
     "gold24KUSD": 151.41,
     "gold21KUSD": 132.49,
     "gold18KUSD": 113.56,
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
+        "title": "An AI agent deleted our production database. The agent's confession is below",
+        "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+        "points": 54,
+        "comments": 53,
+        "created_at": "2026-04-26T16:27:29.000Z"
+      },
+      {
+        "title": "Eden AI – European Alternative to OpenRouter",
+        "url": "https://www.edenai.co",
+        "points": 114,
+        "comments": 61,
+        "created_at": "2026-04-26T08:18:09.000Z"
+      },
+      {
         "title": "The AI industry is discovering that the public hates it",
         "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
-        "points": 234,
-        "comments": 311,
+        "points": 259,
+        "comments": 336,
         "created_at": "2026-04-25T21:11:11.000Z"
       },
       {
         "title": "AI Might Be Lying to Your Boss",
         "url": "https://williamoconnell.me/blog/post/ai-ide/",
-        "points": 20,
-        "comments": 2,
+        "points": 46,
+        "comments": 5,
         "created_at": "2026-04-25T20:19:53.000Z"
       },
       {
         "title": "AI agents that argue with each other to improve decisions",
         "url": "https://github.com/rockcat/HATS",
         "points": 28,
-        "comments": 16,
+        "comments": 17,
         "created_at": "2026-04-25T18:30:12.000Z"
-      },
-      {
-        "title": "California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower",
-        "url": "https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower",
-        "points": 27,
-        "comments": 1,
-        "created_at": "2026-04-25T18:26:02.000Z"
-      },
-      {
-        "title": "FSF Position on \"Ethical\" AI",
-        "url": "https://www.fsf.org/blogs/licensing/rail-are-nonfree-and-unethical",
-        "points": 11,
-        "comments": 0,
-        "created_at": "2026-04-25T17:33:18.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Apple TV remote is the perfect accessory for vibe coding",
         "url": "https://github.com/machinarii/hypervibe",
-        "points": 18,
-        "comments": 8,
+        "points": 19,
+        "comments": 9,
         "created_at": "2026-04-24T21:12:53.000Z"
       },
       {
@@ -141,6 +141,13 @@
     ],
     "progDb": [
       {
+        "title": "The Knight Programming Language",
+        "url": "https://github.com/knight-lang/knight-lang/tree/master",
+        "points": 20,
+        "comments": 6,
+        "created_at": "2026-04-26T07:22:22.000Z"
+      },
+      {
         "title": "Ask HN: Would you take a job programming VMS?",
         "url": "https://news.ycombinator.com/item?id=47873423",
         "points": 14,
@@ -167,13 +174,6 @@
         "points": 13,
         "comments": 1,
         "created_at": "2026-04-18T22:36:33.000Z"
-      },
-      {
-        "title": "Why don't we just ask AI to write assembler?",
-        "url": "https://news.ycombinator.com/item?id=47813874",
-        "points": 14,
-        "comments": 16,
-        "created_at": "2026-04-18T07:22:44.000Z"
       }
     ]
   }
