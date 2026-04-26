@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-04-25T18:52:30.764Z",
+  "updatedAt": "2026-04-26T07:28:02.030Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 19.1,
-      "humidity": 44,
-      "wind_kph": 4.6,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 26.3,
+      "humidity": 25,
+      "wind_kph": 2.8,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-04-26",
-      "temp_max_c": 29.5,
-      "temp_min_c": 13.4,
+      "date": "2026-04-27",
+      "temp_max_c": 22.7,
+      "temp_min_c": 11.7,
       "humidity_max": 92,
-      "humidity_min": 19,
-      "wind_kph": 27.2,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "humidity_min": 36,
+      "wind_kph": 22.9,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
-    "goldUSD": 4696.39,
+    "goldUSD": 4709.45,
     "oilUSD": 79,
-    "updatedAt": "2026-04-25T18:52:30.764Z",
-    "gold24KUSD": 150.99,
-    "gold21KUSD": 132.12,
-    "gold18KUSD": 113.24,
-    "gold24KJD": 107.05,
-    "gold21KJD": 93.67,
-    "gold18KJD": 80.29
+    "updatedAt": "2026-04-26T07:28:02.030Z",
+    "gold24KUSD": 151.41,
+    "gold21KUSD": 132.49,
+    "gold18KUSD": 113.56,
+    "gold24KJD": 107.35,
+    "gold21KJD": 93.93,
+    "gold18KJD": 80.51
   },
   "exchange": {
     "JOD": 0.709,
@@ -38,9 +38,9 @@
     "SAR": 3.7503
   },
   "prayer": {
-    "fajr": "04:45",
+    "fajr": "04:44",
     "maghrib": "19:13",
-    "date": "25 Apr 2025"
+    "date": "26 Apr 2026"
   },
   "events": [
     {
@@ -67,53 +67,53 @@
   "news": {
     "ai": [
       {
-        "title": "The Tsundoku Trap: Why AI Makes You Start Everything and Finish Nothing",
-        "url": "https://blog.danielvaughan.com/the-tsundoku-trap-why-ai-makes-you-start-everything-and-finish-nothing-7087184a4342",
-        "points": 12,
-        "comments": 0,
-        "created_at": "2026-04-25T12:42:53.000Z"
+        "title": "The AI industry is discovering that the public hates it",
+        "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
+        "points": 234,
+        "comments": 311,
+        "created_at": "2026-04-25T21:11:11.000Z"
       },
       {
-        "title": "Lambda Calculus Benchmark for AI",
-        "url": "https://victortaelin.github.io/lambench/",
-        "points": 97,
-        "comments": 31,
-        "created_at": "2026-04-25T11:16:23.000Z"
+        "title": "AI Might Be Lying to Your Boss",
+        "url": "https://williamoconnell.me/blog/post/ai-ide/",
+        "points": 20,
+        "comments": 2,
+        "created_at": "2026-04-25T20:19:53.000Z"
       },
       {
-        "title": "You probably wouldn't notice if an AI chatbot slipped ads into its responses",
-        "url": "https://theconversation.com/you-probably-wouldnt-notice-if-an-ai-chatbot-slipped-ads-into-its-responses-276010",
-        "points": 14,
+        "title": "AI agents that argue with each other to improve decisions",
+        "url": "https://github.com/rockcat/HATS",
+        "points": 28,
+        "comments": 16,
+        "created_at": "2026-04-25T18:30:12.000Z"
+      },
+      {
+        "title": "California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower",
+        "url": "https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower",
+        "points": 27,
         "comments": 1,
-        "created_at": "2026-04-25T10:25:02.000Z"
+        "created_at": "2026-04-25T18:26:02.000Z"
       },
       {
-        "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-        "url": "https://github.com/nex-crm/wuphf",
-        "points": 197,
-        "comments": 92,
-        "created_at": "2026-04-25T08:53:53.000Z"
-      },
-      {
-        "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-        "url": "https://alash3al.github.io/stash?_v01",
-        "points": 150,
-        "comments": 61,
-        "created_at": "2026-04-25T01:24:40.000Z"
+        "title": "FSF Position on \"Ethical\" AI",
+        "url": "https://www.fsf.org/blogs/licensing/rail-are-nonfree-and-unethical",
+        "points": 11,
+        "comments": 0,
+        "created_at": "2026-04-25T17:33:18.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Apple TV remote is the perfect accessory for vibe coding",
         "url": "https://github.com/machinarii/hypervibe",
-        "points": 16,
-        "comments": 7,
+        "points": 18,
+        "comments": 8,
         "created_at": "2026-04-24T21:12:53.000Z"
       },
       {
         "title": "Ask HN: How do solo devs protect their work in the age of vibe coding?",
         "url": "https://news.ycombinator.com/item?id=47884457",
-        "points": 27,
+        "points": 28,
         "comments": 15,
         "created_at": "2026-04-24T01:33:26.000Z"
       },
@@ -144,7 +144,7 @@
         "title": "Ask HN: Would you take a job programming VMS?",
         "url": "https://news.ycombinator.com/item?id=47873423",
         "points": 14,
-        "comments": 19,
+        "comments": 20,
         "created_at": "2026-04-23T08:28:03.000Z"
       },
       {
