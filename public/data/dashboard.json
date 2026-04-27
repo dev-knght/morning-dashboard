@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-04-26T18:54:04.919Z",
+  "updatedAt": "2026-04-27T08:24:04.296Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 15.4,
-      "humidity": 84,
-      "wind_kph": 12.6,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 20.4,
+      "humidity": 49,
+      "wind_kph": 19.2,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-04-27",
-      "temp_max_c": 22.4,
+      "date": "2026-04-28",
+      "temp_max_c": 22.5,
       "temp_min_c": 12.2,
-      "humidity_max": 91,
-      "humidity_min": 40,
-      "wind_kph": 26,
-      "weather_code": 95,
-      "weather_desc": "Thunderstorm"
+      "humidity_max": 97,
+      "humidity_min": 44,
+      "wind_kph": 29.6,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4709.45,
+    "goldUSD": 4709.35,
     "oilUSD": 79,
-    "updatedAt": "2026-04-26T18:54:04.919Z",
+    "updatedAt": "2026-04-27T08:24:04.296Z",
     "gold24KUSD": 151.41,
-    "gold21KUSD": 132.49,
+    "gold21KUSD": 132.48,
     "gold18KUSD": 113.56,
     "gold24KJD": 107.35,
     "gold21KJD": 93.93,
@@ -33,14 +33,14 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8548,
-    "GBP": 0.7415,
-    "SAR": 3.7503
+    "EUR": 0.8526,
+    "GBP": 0.7383,
+    "SAR": 3.7507
   },
   "prayer": {
-    "fajr": "04:44",
-    "maghrib": "19:13",
-    "date": "26 Apr 2026"
+    "fajr": "04:43",
+    "maghrib": "19:14",
+    "date": "27 Apr 2027"
   },
   "events": [
     {
@@ -67,53 +67,53 @@
   "news": {
     "ai": [
       {
-        "title": "An AI agent deleted our production database. The agent's confession is below",
-        "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-        "points": 54,
-        "comments": 53,
-        "created_at": "2026-04-26T16:27:29.000Z"
+        "title": "AI can cost more than human workers now",
+        "url": "https://www.axios.com/2026/04/26/ai-cost-human-workers",
+        "points": 68,
+        "comments": 41,
+        "created_at": "2026-04-27T05:28:39.000Z"
       },
       {
-        "title": "Eden AI – European Alternative to OpenRouter",
-        "url": "https://www.edenai.co",
-        "points": 114,
-        "comments": 61,
-        "created_at": "2026-04-26T08:18:09.000Z"
+        "title": "US power demand to reach record highs in 2026–2027 driven by AI and data centers",
+        "url": "https://www.reuters.com/business/energy/us-power-use-beat-record-highs-2026-2027-ai-use-surges-eia-says-2026-04-07/",
+        "points": 13,
+        "comments": 7,
+        "created_at": "2026-04-27T04:21:25.000Z"
       },
       {
-        "title": "The AI industry is discovering that the public hates it",
-        "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
-        "points": 259,
-        "comments": 336,
-        "created_at": "2026-04-25T21:11:11.000Z"
+        "title": "The reporters at this news site are AI bots. OpenAI appears to be funding it",
+        "url": "https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are",
+        "points": 30,
+        "comments": 1,
+        "created_at": "2026-04-27T00:50:46.000Z"
       },
       {
-        "title": "AI Might Be Lying to Your Boss",
-        "url": "https://williamoconnell.me/blog/post/ai-ide/",
-        "points": 46,
-        "comments": 5,
-        "created_at": "2026-04-25T20:19:53.000Z"
+        "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+        "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
+        "points": 98,
+        "comments": 81,
+        "created_at": "2026-04-27T00:34:30.000Z"
       },
       {
-        "title": "AI agents that argue with each other to improve decisions",
-        "url": "https://github.com/rockcat/HATS",
-        "points": 28,
-        "comments": 17,
-        "created_at": "2026-04-25T18:30:12.000Z"
+        "title": "8v: One CLI for you and your AI agent. Up to 66% fewer tokens",
+        "url": "https://github.com/8Network/8v",
+        "points": 11,
+        "comments": 1,
+        "created_at": "2026-04-26T21:47:23.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Apple TV remote is the perfect accessory for vibe coding",
         "url": "https://github.com/machinarii/hypervibe",
-        "points": 19,
+        "points": 20,
         "comments": 9,
         "created_at": "2026-04-24T21:12:53.000Z"
       },
       {
         "title": "Ask HN: How do solo devs protect their work in the age of vibe coding?",
         "url": "https://news.ycombinator.com/item?id=47884457",
-        "points": 28,
+        "points": 32,
         "comments": 15,
         "created_at": "2026-04-24T01:33:26.000Z"
       },
@@ -148,6 +148,13 @@
         "created_at": "2026-04-26T07:22:22.000Z"
       },
       {
+        "title": "Ask HN: Anyone still using JetBrains products today?",
+        "url": "https://news.ycombinator.com/item?id=47894944",
+        "points": 16,
+        "comments": 8,
+        "created_at": "2026-04-24T19:46:24.000Z"
+      },
+      {
         "title": "Ask HN: Would you take a job programming VMS?",
         "url": "https://news.ycombinator.com/item?id=47873423",
         "points": 14,
@@ -167,13 +174,6 @@
         "points": 351,
         "comments": 155,
         "created_at": "2026-04-19T07:38:08.000Z"
-      },
-      {
-        "title": "Show HN: Sostactic – polynomial inequalities using sums-of-squares in Lean",
-        "url": "https://github.com/mmaaz-git/sostactic",
-        "points": 13,
-        "comments": 1,
-        "created_at": "2026-04-18T22:36:33.000Z"
       }
     ]
   }
