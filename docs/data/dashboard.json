@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-04-27T08:24:04.296Z",
+  "updatedAt": "2026-04-27T19:20:55.975Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 20.4,
-      "humidity": 49,
-      "wind_kph": 19.2,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 13.8,
+      "humidity": 87,
+      "wind_kph": 7.6,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-04-28",
-      "temp_max_c": 22.5,
-      "temp_min_c": 12.2,
-      "humidity_max": 97,
-      "humidity_min": 44,
-      "wind_kph": 29.6,
+      "temp_max_c": 23.1,
+      "temp_min_c": 12.4,
+      "humidity_max": 96,
+      "humidity_min": 42,
+      "wind_kph": 27.3,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4709.35,
     "oilUSD": 79,
-    "updatedAt": "2026-04-27T08:24:04.296Z",
+    "updatedAt": "2026-04-27T19:20:55.975Z",
     "gold24KUSD": 151.41,
     "gold21KUSD": 132.48,
     "gold18KUSD": 113.56,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8526,
-    "GBP": 0.7383,
-    "SAR": 3.7507
+    "EUR": 0.8512,
+    "GBP": 0.7373,
+    "SAR": 3.7501
   },
   "prayer": {
     "fajr": "04:43",
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI can cost more than human workers now",
-        "url": "https://www.axios.com/2026/04/26/ai-cost-human-workers",
-        "points": 68,
-        "comments": 41,
-        "created_at": "2026-04-27T05:28:39.000Z"
+        "title": "Claude-powered AI coding agent deletes company database in 9 seconds",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue",
+        "points": 15,
+        "comments": 4,
+        "created_at": "2026-04-27T17:28:44.000Z"
       },
       {
-        "title": "US power demand to reach record highs in 2026–2027 driven by AI and data centers",
-        "url": "https://www.reuters.com/business/energy/us-power-use-beat-record-highs-2026-2027-ai-use-surges-eia-says-2026-04-07/",
-        "points": 13,
-        "comments": 7,
-        "created_at": "2026-04-27T04:21:25.000Z"
+        "title": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale",
+        "url": "https://deepmind.google/blog/decoupled-diloco/",
+        "points": 21,
+        "comments": 3,
+        "created_at": "2026-04-27T16:57:34.000Z"
       },
       {
-        "title": "The reporters at this news site are AI bots. OpenAI appears to be funding it",
-        "url": "https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are",
-        "points": 30,
-        "comments": 1,
-        "created_at": "2026-04-27T00:50:46.000Z"
+        "title": "Canva apologizes after its AI tool replaces 'Palestine' in designs",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
+        "points": 49,
+        "comments": 23,
+        "created_at": "2026-04-27T14:58:48.000Z"
       },
       {
-        "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-        "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
-        "points": 98,
-        "comments": 81,
-        "created_at": "2026-04-27T00:34:30.000Z"
+        "title": "Ubuntu Linux Will Begin Landing AI Features Throughout the Next Year",
+        "url": "https://www.phoronix.com/news/Ubuntu-AI-Features-2026",
+        "points": 20,
+        "comments": 19,
+        "created_at": "2026-04-27T13:06:48.000Z"
       },
       {
-        "title": "8v: One CLI for you and your AI agent. Up to 66% fewer tokens",
-        "url": "https://github.com/8Network/8v",
-        "points": 11,
-        "comments": 1,
-        "created_at": "2026-04-26T21:47:23.000Z"
+        "title": "China blocks Meta's acquisition of AI startup Manus",
+        "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+        "points": 20,
+        "comments": 4,
+        "created_at": "2026-04-27T11:43:59.000Z"
       }
     ],
     "vibeCoding": [
@@ -113,15 +113,15 @@
       {
         "title": "Ask HN: How do solo devs protect their work in the age of vibe coding?",
         "url": "https://news.ycombinator.com/item?id=47884457",
-        "points": 32,
-        "comments": 15,
+        "points": 33,
+        "comments": 16,
         "created_at": "2026-04-24T01:33:26.000Z"
       },
       {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 74,
-        "comments": 97,
+        "points": 76,
+        "comments": 98,
         "created_at": "2026-04-17T07:55:18.000Z"
       },
       {
@@ -151,7 +151,7 @@
         "title": "Ask HN: Anyone still using JetBrains products today?",
         "url": "https://news.ycombinator.com/item?id=47894944",
         "points": 16,
-        "comments": 8,
+        "comments": 9,
         "created_at": "2026-04-24T19:46:24.000Z"
       },
       {
