@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-04-27T19:20:55.975Z",
+  "updatedAt": "2026-04-28T08:24:35.688Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 13.8,
-      "humidity": 87,
-      "wind_kph": 7.6,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 19.8,
+      "humidity": 58,
+      "wind_kph": 19.3,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-04-28",
-      "temp_max_c": 23.1,
-      "temp_min_c": 12.4,
-      "humidity_max": 96,
-      "humidity_min": 42,
-      "wind_kph": 27.3,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-04-29",
+      "temp_max_c": 24.4,
+      "temp_min_c": 11.2,
+      "humidity_max": 77,
+      "humidity_min": 35,
+      "wind_kph": 23.8,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4709.35,
+    "goldUSD": 4679.03,
     "oilUSD": 79,
-    "updatedAt": "2026-04-27T19:20:55.975Z",
-    "gold24KUSD": 151.41,
-    "gold21KUSD": 132.48,
-    "gold18KUSD": 113.56,
-    "gold24KJD": 107.35,
-    "gold21KJD": 93.93,
-    "gold18KJD": 80.51
+    "updatedAt": "2026-04-28T08:24:35.688Z",
+    "gold24KUSD": 150.43,
+    "gold21KUSD": 131.63,
+    "gold18KUSD": 112.83,
+    "gold24KJD": 106.66,
+    "gold21KJD": 93.33,
+    "gold18KJD": 79.99
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8512,
-    "GBP": 0.7373,
-    "SAR": 3.7501
+    "EUR": 0.8543,
+    "GBP": 0.7398,
+    "SAR": 3.751
   },
   "prayer": {
-    "fajr": "04:43",
-    "maghrib": "19:14",
-    "date": "27 Apr 2027"
+    "fajr": "04:41",
+    "maghrib": "19:15",
+    "date": "28 Apr 2028"
   },
   "events": [
     {
@@ -67,53 +67,67 @@
   "news": {
     "ai": [
       {
-        "title": "Claude-powered AI coding agent deletes company database in 9 seconds",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue",
+        "title": "San Francisco, AI capital of the world, is an economic laggard",
+        "url": "https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard",
+        "points": 43,
+        "comments": 40,
+        "created_at": "2026-04-28T04:32:42.000Z"
+      },
+      {
+        "title": "Google staff urge chief executive to block US Military AI use",
+        "url": "https://www.ft.com/content/9270ce04-558c-44e8-816f-a40219cd5007",
+        "points": 13,
+        "comments": 0,
+        "created_at": "2026-04-28T00:08:01.000Z"
+      },
+      {
+        "title": "Generative AI Vegetarianism",
+        "url": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
+        "points": 37,
+        "comments": 48,
+        "created_at": "2026-04-28T00:07:39.000Z"
+      },
+      {
+        "title": "Ask HN: What Makes AI a Bubble?",
+        "url": "https://news.ycombinator.com/item?id=47928683",
         "points": 15,
-        "comments": 4,
-        "created_at": "2026-04-27T17:28:44.000Z"
+        "comments": 27,
+        "created_at": "2026-04-27T23:32:00.000Z"
       },
       {
-        "title": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale",
-        "url": "https://deepmind.google/blog/decoupled-diloco/",
-        "points": 21,
-        "comments": 3,
-        "created_at": "2026-04-27T16:57:34.000Z"
-      },
-      {
-        "title": "Canva apologizes after its AI tool replaces 'Palestine' in designs",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
-        "points": 49,
-        "comments": 23,
-        "created_at": "2026-04-27T14:58:48.000Z"
-      },
-      {
-        "title": "Ubuntu Linux Will Begin Landing AI Features Throughout the Next Year",
-        "url": "https://www.phoronix.com/news/Ubuntu-AI-Features-2026",
-        "points": 20,
-        "comments": 19,
-        "created_at": "2026-04-27T13:06:48.000Z"
-      },
-      {
-        "title": "China blocks Meta's acquisition of AI startup Manus",
-        "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-        "points": 20,
-        "comments": 4,
-        "created_at": "2026-04-27T11:43:59.000Z"
+        "title": "David Silver of DeepMind raises $1B to build AI that learns without human data",
+        "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+        "points": 27,
+        "comments": 7,
+        "created_at": "2026-04-27T21:47:59.000Z"
       }
     ],
     "vibeCoding": [
       {
+        "title": "Vibe Coding Will Break Your Company",
+        "url": "https://www.forbes.com/sites/jasonwingard/2026/04/23/vibe-coding-will-break-your-company/",
+        "points": 60,
+        "comments": 60,
+        "created_at": "2026-04-28T05:35:34.000Z"
+      },
+      {
+        "title": "Git-based cache saves 50% on token usage",
+        "url": "https://old.reddit.com/r/vibecoding/comments/1sx4agk/gitbased_cache_saves_50_on_token_usage/",
+        "points": 33,
+        "comments": 1,
+        "created_at": "2026-04-27T17:36:20.000Z"
+      },
+      {
         "title": "Apple TV remote is the perfect accessory for vibe coding",
         "url": "https://github.com/machinarii/hypervibe",
-        "points": 20,
+        "points": 21,
         "comments": 9,
         "created_at": "2026-04-24T21:12:53.000Z"
       },
       {
         "title": "Ask HN: How do solo devs protect their work in the age of vibe coding?",
         "url": "https://news.ycombinator.com/item?id=47884457",
-        "points": 33,
+        "points": 36,
         "comments": 16,
         "created_at": "2026-04-24T01:33:26.000Z"
       },
@@ -123,20 +137,6 @@
         "points": 76,
         "comments": 98,
         "created_at": "2026-04-17T07:55:18.000Z"
-      },
-      {
-        "title": "Ask HN: How do you maintain flow when vibe coding?",
-        "url": "https://news.ycombinator.com/item?id=47797632",
-        "points": 32,
-        "comments": 31,
-        "created_at": "2026-04-16T18:38:08.000Z"
-      },
-      {
-        "title": "An AI Vibe Coding Horror Story",
-        "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
-        "points": 213,
-        "comments": 211,
-        "created_at": "2026-04-14T08:35:45.000Z"
       }
     ],
     "progDb": [
@@ -151,7 +151,7 @@
         "title": "Ask HN: Anyone still using JetBrains products today?",
         "url": "https://news.ycombinator.com/item?id=47894944",
         "points": 16,
-        "comments": 9,
+        "comments": 10,
         "created_at": "2026-04-24T19:46:24.000Z"
       },
       {
