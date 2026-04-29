@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-04-29T08:17:19.307Z",
+  "updatedAt": "2026-04-29T19:24:44.031Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 21.8,
-      "humidity": 50,
-      "wind_kph": 15.1,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 15.1,
+      "humidity": 60,
+      "wind_kph": 5,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-04-30",
-      "temp_max_c": 26,
-      "temp_min_c": 11,
-      "humidity_max": 60,
-      "humidity_min": 24,
-      "wind_kph": 17.3,
+      "temp_max_c": 26.1,
+      "temp_min_c": 11.2,
+      "humidity_max": 70,
+      "humidity_min": 26,
+      "wind_kph": 18.2,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,19 +23,19 @@
   "metals": {
     "goldUSD": 4699.52,
     "oilUSD": 79,
-    "updatedAt": "2026-04-29T08:17:19.307Z",
+    "updatedAt": "2026-04-29T19:24:44.031Z",
     "gold24KUSD": 151.09,
     "gold21KUSD": 132.21,
     "gold18KUSD": 113.32,
-    "gold24KJD": 107.12,
-    "gold21KJD": 93.73,
-    "gold18KJD": 80.34
+    "gold24KJD": 107.14,
+    "gold21KJD": 93.75,
+    "gold18KJD": 80.36
   },
   "exchange": {
-    "JOD": 0.709,
-    "EUR": 0.8546,
+    "JOD": 0.7091,
+    "EUR": 0.8545,
     "GBP": 0.7404,
-    "SAR": 3.7512
+    "SAR": 3.7503
   },
   "prayer": {
     "fajr": "04:40",
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "OpenAI Reportedly Working on an AI Smartphone to Rival iPhone",
-        "url": "https://www.macrumors.com/2026/04/27/openai-working-on-an-ai-smartphone/",
-        "points": 14,
-        "comments": 8,
-        "created_at": "2026-04-28T20:39:06.000Z"
+        "title": "Ramp's Sheets AI Exfiltrates Financials",
+        "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+        "points": 39,
+        "comments": 10,
+        "created_at": "2026-04-29T17:44:21.000Z"
       },
       {
-        "title": "Why China's Affordable AI Is a Worry for Silicon Valley",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-27/why-china-s-deepseek-qwen-and-moonshot-are-a-worry-for-us-ai-rivals",
-        "points": 18,
-        "comments": 2,
-        "created_at": "2026-04-28T20:17:26.000Z"
+        "title": "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
+        "url": "https://deepmind.google/research/publications/231971/",
+        "points": 61,
+        "comments": 87,
+        "created_at": "2026-04-29T17:30:15.000Z"
       },
       {
-        "title": "Claude.ai unavailable and elevated errors on the API",
-        "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
-        "points": 282,
-        "comments": 244,
-        "created_at": "2026-04-28T18:01:21.000Z"
+        "title": "Why AI companies want you to be afraid of them",
+        "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
+        "points": 247,
+        "comments": 188,
+        "created_at": "2026-04-29T15:26:01.000Z"
       },
       {
-        "title": "AI's economics don't make sense",
-        "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
-        "points": 214,
-        "comments": 172,
-        "created_at": "2026-04-28T16:39:53.000Z"
+        "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
+        "url": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
+        "points": 60,
+        "comments": 51,
+        "created_at": "2026-04-29T15:11:12.000Z"
       },
       {
-        "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
-        "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
-        "points": 171,
-        "comments": 110,
-        "created_at": "2026-04-28T16:06:01.000Z"
+        "title": "Letting AI play my game – building an agentic test harness to help play-testing",
+        "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+        "points": 102,
+        "comments": 19,
+        "created_at": "2026-04-29T12:43:12.000Z"
       }
     ],
     "vibeCoding": [
@@ -127,15 +127,15 @@
       {
         "title": "Ask HN: How do solo devs protect their work in the age of vibe coding?",
         "url": "https://news.ycombinator.com/item?id=47884457",
-        "points": 48,
-        "comments": 17,
+        "points": 56,
+        "comments": 18,
         "created_at": "2026-04-24T01:33:26.000Z"
       },
       {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
         "points": 78,
-        "comments": 98,
+        "comments": 97,
         "created_at": "2026-04-17T07:55:18.000Z"
       }
     ],
@@ -143,7 +143,7 @@
       {
         "title": "Show HN: I wrote a DOOM clone in my own programming language",
         "url": "https://spectrelang.org/log/devlog#cubedoom",
-        "points": 12,
+        "points": 21,
         "comments": 5,
         "created_at": "2026-04-28T11:29:14.000Z"
       },
