@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-04-28T19:40:48.420Z",
+  "updatedAt": "2026-04-29T08:17:19.307Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 14.1,
-      "humidity": 84,
-      "wind_kph": 7.4,
+      "temp_c": 21.8,
+      "humidity": 50,
+      "wind_kph": 15.1,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-04-29",
-      "temp_max_c": 24.4,
-      "temp_min_c": 11.1,
-      "humidity_max": 84,
-      "humidity_min": 37,
-      "wind_kph": 23.7,
+      "date": "2026-04-30",
+      "temp_max_c": 26,
+      "temp_min_c": 11,
+      "humidity_max": 60,
+      "humidity_min": 24,
+      "wind_kph": 17.3,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4679.03,
+    "goldUSD": 4699.52,
     "oilUSD": 79,
-    "updatedAt": "2026-04-28T19:40:48.420Z",
-    "gold24KUSD": 150.43,
-    "gold21KUSD": 131.63,
-    "gold18KUSD": 112.83,
-    "gold24KJD": 106.66,
-    "gold21KJD": 93.33,
-    "gold18KJD": 79.99
+    "updatedAt": "2026-04-29T08:17:19.307Z",
+    "gold24KUSD": 151.09,
+    "gold21KUSD": 132.21,
+    "gold18KUSD": 113.32,
+    "gold24KJD": 107.12,
+    "gold21KJD": 93.73,
+    "gold18KJD": 80.34
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8548,
-    "GBP": 0.7407,
-    "SAR": 3.7509
+    "EUR": 0.8546,
+    "GBP": 0.7404,
+    "SAR": 3.7512
   },
   "prayer": {
-    "fajr": "04:41",
+    "fajr": "04:40",
     "maghrib": "19:15",
-    "date": "28 Apr 2028"
+    "date": "29 Apr 2029"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
+        "title": "OpenAI Reportedly Working on an AI Smartphone to Rival iPhone",
+        "url": "https://www.macrumors.com/2026/04/27/openai-working-on-an-ai-smartphone/",
+        "points": 14,
+        "comments": 8,
+        "created_at": "2026-04-28T20:39:06.000Z"
+      },
+      {
+        "title": "Why China's Affordable AI Is a Worry for Silicon Valley",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-27/why-china-s-deepseek-qwen-and-moonshot-are-a-worry-for-us-ai-rivals",
+        "points": 18,
+        "comments": 2,
+        "created_at": "2026-04-28T20:17:26.000Z"
+      },
+      {
         "title": "Claude.ai unavailable and elevated errors on the API",
         "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
-        "points": 151,
-        "comments": 124,
+        "points": 282,
+        "comments": 244,
         "created_at": "2026-04-28T18:01:21.000Z"
       },
       {
-        "title": "AI's Economics Don't Make Sense",
+        "title": "AI's economics don't make sense",
         "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
-        "points": 143,
-        "comments": 105,
+        "points": 214,
+        "comments": 172,
         "created_at": "2026-04-28T16:39:53.000Z"
       },
       {
         "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
         "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
-        "points": 146,
-        "comments": 93,
+        "points": 171,
+        "comments": 110,
         "created_at": "2026-04-28T16:06:01.000Z"
-      },
-      {
-        "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-        "points": 221,
-        "comments": 214,
-        "created_at": "2026-04-28T15:49:22.000Z"
-      },
-      {
-        "title": "AI's biggest critic has lost the plot",
-        "url": "https://www.theargumentmag.com/p/ais-biggest-critic-has-lost-the-plot",
-        "points": 26,
-        "comments": 40,
-        "created_at": "2026-04-28T13:33:33.000Z"
       }
     ],
     "vibeCoding": [
       {
-        "title": "Vibe Coding Will Break Your Company",
+        "title": "Vibe coding will break your company",
         "url": "https://www.forbes.com/sites/jasonwingard/2026/04/23/vibe-coding-will-break-your-company/",
-        "points": 76,
-        "comments": 78,
+        "points": 80,
+        "comments": 84,
         "created_at": "2026-04-28T05:35:34.000Z"
       },
       {
@@ -127,19 +127,26 @@
       {
         "title": "Ask HN: How do solo devs protect their work in the age of vibe coding?",
         "url": "https://news.ycombinator.com/item?id=47884457",
-        "points": 36,
+        "points": 48,
         "comments": 17,
         "created_at": "2026-04-24T01:33:26.000Z"
       },
       {
         "title": "Ask HN: Building a solo business is impossible?",
         "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 77,
+        "points": 78,
         "comments": 98,
         "created_at": "2026-04-17T07:55:18.000Z"
       }
     ],
     "progDb": [
+      {
+        "title": "Show HN: I wrote a DOOM clone in my own programming language",
+        "url": "https://spectrelang.org/log/devlog#cubedoom",
+        "points": 12,
+        "comments": 5,
+        "created_at": "2026-04-28T11:29:14.000Z"
+      },
       {
         "title": "The Knight Programming Language",
         "url": "https://github.com/knight-lang/knight-lang/tree/master",
@@ -167,13 +174,6 @@
         "points": 80,
         "comments": 20,
         "created_at": "2026-04-19T19:21:22.000Z"
-      },
-      {
-        "title": "The seven programming ur-languages (2022)",
-        "url": "https://madhadron.com/programming/seven_ur_languages.html",
-        "points": 351,
-        "comments": 155,
-        "created_at": "2026-04-19T07:38:08.000Z"
       }
     ]
   }
