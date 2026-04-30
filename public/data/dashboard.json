@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-04-30T08:21:12.878Z",
+  "updatedAt": "2026-04-30T19:20:16.974Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 23.5,
-      "humidity": 33,
-      "wind_kph": 5.7,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 17.9,
+      "humidity": 50,
+      "wind_kph": 6.7,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-05-01",
       "temp_max_c": 23,
-      "temp_min_c": 12.7,
-      "humidity_max": 96,
-      "humidity_min": 39,
-      "wind_kph": 30.7,
+      "temp_min_c": 12.9,
+      "humidity_max": 97,
+      "humidity_min": 41,
+      "wind_kph": 29.8,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,19 +23,19 @@
   "metals": {
     "goldUSD": 4609.55,
     "oilUSD": 79,
-    "updatedAt": "2026-04-30T08:21:12.878Z",
+    "updatedAt": "2026-04-30T19:20:16.974Z",
     "gold24KUSD": 148.2,
     "gold21KUSD": 129.68,
     "gold18KUSD": 111.15,
-    "gold24KJD": 105.09,
-    "gold21KJD": 91.95,
-    "gold18KJD": 78.82
+    "gold24KJD": 105.07,
+    "gold21KJD": 91.94,
+    "gold18KJD": 78.81
   },
   "exchange": {
-    "JOD": 0.7091,
-    "EUR": 0.8576,
-    "GBP": 0.743,
-    "SAR": 3.75
+    "JOD": 0.709,
+    "EUR": 0.856,
+    "GBP": 0.7415,
+    "SAR": 3.7501
   },
   "prayer": {
     "fajr": "04:39",
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "The Zig project's rationale for their anti-AI contribution policy",
-        "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-        "points": 221,
-        "comments": 94,
-        "created_at": "2026-04-30T02:15:47.000Z"
+        "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+        "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+        "points": 187,
+        "comments": 51,
+        "created_at": "2026-04-30T16:09:26.000Z"
       },
       {
-        "title": "Claude.ai and API unavailable [fixed]",
-        "url": "https://status.claude.com/incidents/2gf1jpyty350",
-        "points": 113,
-        "comments": 108,
-        "created_at": "2026-04-30T01:21:03.000Z"
+        "title": "The More Young People Use AI, the More They Hate It",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+        "points": 102,
+        "comments": 109,
+        "created_at": "2026-04-30T14:34:36.000Z"
       },
       {
-        "title": "Claude.ai down again?",
-        "url": "https://news.ycombinator.com/item?id=47956890",
-        "points": 29,
-        "comments": 20,
-        "created_at": "2026-04-30T01:20:39.000Z"
+        "title": "I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",
+        "url": "https://burla-cloud.github.io/examples/airbnb-burla-demo/",
+        "points": 62,
+        "comments": 33,
+        "created_at": "2026-04-30T14:26:38.000Z"
       },
       {
-        "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
-        "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
-        "points": 46,
-        "comments": 107,
-        "created_at": "2026-04-30T01:01:55.000Z"
+        "title": "Show HN: Spec27 – Spec-driven validation for AI agents",
+        "url": "https://www.spec27.ai/launch",
+        "points": 13,
+        "comments": 9,
+        "created_at": "2026-04-30T09:07:14.000Z"
       },
       {
-        "title": "Mike: open-source legal AI",
-        "url": "https://mikeoss.com/",
-        "points": 81,
-        "comments": 30,
-        "created_at": "2026-04-30T00:56:23.000Z"
+        "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
+        "url": "https://datacenter.fm/",
+        "points": 118,
+        "comments": 23,
+        "created_at": "2026-04-30T07:52:12.000Z"
       }
     ],
     "vibeCoding": [
@@ -141,17 +141,24 @@
     ],
     "progDb": [
       {
+        "title": "Ask HN: Why didn't functional programming work for you?",
+        "url": "https://news.ycombinator.com/item?id=47959820",
+        "points": 16,
+        "comments": 1,
+        "created_at": "2026-04-30T08:39:41.000Z"
+      },
+      {
         "title": "Vera: a programming language designed for machines to write",
         "url": "https://github.com/aallan/vera",
-        "points": 87,
-        "comments": 78,
+        "points": 105,
+        "comments": 95,
         "created_at": "2026-04-29T21:41:32.000Z"
       },
       {
         "title": "Show HN: I wrote a DOOM clone in my own programming language",
         "url": "https://spectrelang.org/log/devlog#cubedoom",
-        "points": 21,
-        "comments": 6,
+        "points": 31,
+        "comments": 20,
         "created_at": "2026-04-28T11:29:14.000Z"
       },
       {
@@ -167,13 +174,6 @@
         "points": 16,
         "comments": 10,
         "created_at": "2026-04-24T19:46:24.000Z"
-      },
-      {
-        "title": "Ask HN: Would you take a job programming VMS?",
-        "url": "https://news.ycombinator.com/item?id=47873423",
-        "points": 14,
-        "comments": 20,
-        "created_at": "2026-04-23T08:28:03.000Z"
       }
     ]
   }
