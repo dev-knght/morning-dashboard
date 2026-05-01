@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-04-30T19:20:16.974Z",
+  "updatedAt": "2026-05-01T08:10:35.295Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 17.9,
-      "humidity": 50,
-      "wind_kph": 6.7,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 20.7,
+      "humidity": 47,
+      "wind_kph": 21.3,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-05-01",
-      "temp_max_c": 23,
-      "temp_min_c": 12.9,
-      "humidity_max": 97,
-      "humidity_min": 41,
-      "wind_kph": 29.8,
+      "date": "2026-05-02",
+      "temp_max_c": 26.7,
+      "temp_min_c": 9.5,
+      "humidity_max": 83,
+      "humidity_min": 18,
+      "wind_kph": 13.8,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4609.55,
+    "goldUSD": 4560.71,
     "oilUSD": 79,
-    "updatedAt": "2026-04-30T19:20:16.974Z",
-    "gold24KUSD": 148.2,
-    "gold21KUSD": 129.68,
-    "gold18KUSD": 111.15,
-    "gold24KJD": 105.07,
-    "gold21KJD": 91.94,
-    "gold18KJD": 78.81
+    "updatedAt": "2026-05-01T08:10:35.295Z",
+    "gold24KUSD": 146.63,
+    "gold21KUSD": 128.3,
+    "gold18KUSD": 109.97,
+    "gold24KJD": 103.96,
+    "gold21KJD": 90.97,
+    "gold18KJD": 77.97
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.856,
-    "GBP": 0.7415,
+    "EUR": 0.8531,
+    "GBP": 0.7359,
     "SAR": 3.7501
   },
   "prayer": {
-    "fajr": "04:39",
-    "maghrib": "19:16",
-    "date": "30 Apr 2030"
+    "fajr": "04:38",
+    "maghrib": "19:17",
+    "date": "01 May 2001"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
+        "title": "U.S. Aims to Penalize Disabled Adults Who Live with Their Families",
+        "url": "https://www.propublica.org/article/trump-social-security-ssi-disability-benefits-cuts-parents-children",
+        "points": 24,
+        "comments": 6,
+        "created_at": "2026-05-01T05:02:15.000Z"
+      },
+      {
+        "title": "AI discovery reveals DNA isn’t locked away in cells after all",
+        "url": "https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all",
+        "points": 19,
+        "comments": 8,
+        "created_at": "2026-04-30T22:45:44.000Z"
+      },
+      {
+        "title": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
+        "url": "https://pu.dev/",
+        "points": 75,
+        "comments": 21,
+        "created_at": "2026-04-30T20:55:12.000Z"
+      },
+      {
+        "title": "The Human Creativity Benchmark – Evaluating Generative AI in Creative Work",
+        "url": "https://contralabs.com/research/human-creativity-benchmark",
+        "points": 18,
+        "comments": 2,
+        "created_at": "2026-04-30T18:33:03.000Z"
+      },
+      {
         "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
         "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-        "points": 187,
-        "comments": 51,
+        "points": 389,
+        "comments": 133,
         "created_at": "2026-04-30T16:09:26.000Z"
-      },
-      {
-        "title": "The More Young People Use AI, the More They Hate It",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
-        "points": 102,
-        "comments": 109,
-        "created_at": "2026-04-30T14:34:36.000Z"
-      },
-      {
-        "title": "I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",
-        "url": "https://burla-cloud.github.io/examples/airbnb-burla-demo/",
-        "points": 62,
-        "comments": 33,
-        "created_at": "2026-04-30T14:26:38.000Z"
-      },
-      {
-        "title": "Show HN: Spec27 – Spec-driven validation for AI agents",
-        "url": "https://www.spec27.ai/launch",
-        "points": 13,
-        "comments": 9,
-        "created_at": "2026-04-30T09:07:14.000Z"
-      },
-      {
-        "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
-        "url": "https://datacenter.fm/",
-        "points": 118,
-        "comments": 23,
-        "created_at": "2026-04-30T07:52:12.000Z"
       }
     ],
     "vibeCoding": [
@@ -130,13 +130,6 @@
         "points": 56,
         "comments": 18,
         "created_at": "2026-04-24T01:33:26.000Z"
-      },
-      {
-        "title": "Ask HN: Building a solo business is impossible?",
-        "url": "https://news.ycombinator.com/item?id=47803524",
-        "points": 78,
-        "comments": 97,
-        "created_at": "2026-04-17T07:55:18.000Z"
       }
     ],
     "progDb": [
@@ -150,7 +143,7 @@
       {
         "title": "Vera: a programming language designed for machines to write",
         "url": "https://github.com/aallan/vera",
-        "points": 105,
+        "points": 108,
         "comments": 95,
         "created_at": "2026-04-29T21:41:32.000Z"
       },
