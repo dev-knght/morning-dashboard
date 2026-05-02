@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-05-01T19:10:50.806Z",
+  "updatedAt": "2026-05-02T07:43:11.710Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 13.8,
-      "humidity": 84,
-      "wind_kph": 8.5,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 21.6,
+      "humidity": 36,
+      "wind_kph": 4.3,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-05-02",
-      "temp_max_c": 25.8,
-      "temp_min_c": 10,
-      "humidity_max": 82,
-      "humidity_min": 14,
-      "wind_kph": 18.9,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-05-03",
+      "temp_max_c": 28.2,
+      "temp_min_c": 13.9,
+      "humidity_max": 92,
+      "humidity_min": 21,
+      "wind_kph": 37,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
-    "goldUSD": 4560.71,
+    "goldUSD": 4622.77,
     "oilUSD": 79,
-    "updatedAt": "2026-05-01T19:10:50.806Z",
-    "gold24KUSD": 146.63,
-    "gold21KUSD": 128.3,
-    "gold18KUSD": 109.97,
-    "gold24KJD": 103.98,
-    "gold21KJD": 90.98,
-    "gold18KJD": 77.98
+    "updatedAt": "2026-05-02T07:43:11.710Z",
+    "gold24KUSD": 148.63,
+    "gold21KUSD": 130.05,
+    "gold18KUSD": 111.47,
+    "gold24KJD": 105.39,
+    "gold21KJD": 92.22,
+    "gold18KJD": 79.04
   },
   "exchange": {
     "JOD": 0.7091,
-    "EUR": 0.853,
-    "GBP": 0.7358,
+    "EUR": 0.8522,
+    "GBP": 0.7353,
     "SAR": 3.7504
   },
   "prayer": {
-    "fajr": "04:38",
+    "fajr": "04:37",
     "maghrib": "19:17",
-    "date": "01 May 2001"
+    "date": "02 May 2002"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI Uses Less Water Than the Public Thinks",
+        "title": "Spirit Airlines Is Winding Down All Operations",
+        "url": "https://www.spiritrestructuring.com/",
+        "points": 41,
+        "comments": 47,
+        "created_at": "2026-05-02T06:28:00.000Z"
+      },
+      {
+        "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+        "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+        "points": 12,
+        "comments": 1,
+        "created_at": "2026-05-01T22:34:42.000Z"
+      },
+      {
+        "title": "Senate Panel Backs Guard Act, AI Age Verification Bill",
+        "url": "https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill",
+        "points": 14,
+        "comments": 1,
+        "created_at": "2026-05-01T19:51:34.000Z"
+      },
+      {
+        "title": "Show HN: AI CAD Harness",
+        "url": "https://fusion.adam.new/install",
+        "points": 82,
+        "comments": 85,
+        "created_at": "2026-05-01T17:43:53.000Z"
+      },
+      {
+        "title": "AI uses less water than the public thinks",
         "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
-        "points": 92,
-        "comments": 61,
+        "points": 371,
+        "comments": 340,
         "created_at": "2026-05-01T17:18:58.000Z"
-      },
-      {
-        "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-        "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
-        "points": 29,
-        "comments": 9,
-        "created_at": "2026-05-01T16:42:41.000Z"
-      },
-      {
-        "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
-        "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
-        "points": 321,
-        "comments": 343,
-        "created_at": "2026-05-01T16:08:53.000Z"
-      },
-      {
-        "title": "Ask HN: Who is hiring? (May 2026)",
-        "url": "https://news.ycombinator.com/item?id=47975571",
-        "points": 144,
-        "comments": 157,
-        "created_at": "2026-05-01T15:00:07.000Z"
-      },
-      {
-        "title": "Ask HN: Who wants to be hired? (May 2026)",
-        "url": "https://news.ycombinator.com/item?id=47975570",
-        "points": 85,
-        "comments": 157,
-        "created_at": "2026-05-01T15:00:07.000Z"
       }
     ],
     "vibeCoding": [
@@ -134,6 +134,13 @@
     ],
     "progDb": [
       {
+        "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+        "url": "https://github.com/microsoft/lib0xc",
+        "points": 137,
+        "comments": 49,
+        "created_at": "2026-05-01T19:10:56.000Z"
+      },
+      {
         "title": "Ask HN: Why didn't functional programming work for you?",
         "url": "https://news.ycombinator.com/item?id=47959820",
         "points": 16,
@@ -143,7 +150,7 @@
       {
         "title": "Vera: a programming language designed for machines to write",
         "url": "https://github.com/aallan/vera",
-        "points": 110,
+        "points": 111,
         "comments": 95,
         "created_at": "2026-04-29T21:41:32.000Z"
       },
@@ -160,13 +167,6 @@
         "points": 20,
         "comments": 6,
         "created_at": "2026-04-26T07:22:22.000Z"
-      },
-      {
-        "title": "Ask HN: Anyone still using JetBrains products today?",
-        "url": "https://news.ycombinator.com/item?id=47894944",
-        "points": 16,
-        "comments": 10,
-        "created_at": "2026-04-24T19:46:24.000Z"
       }
     ]
   }
