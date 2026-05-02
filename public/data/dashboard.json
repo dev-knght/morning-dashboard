@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-05-02T07:43:11.710Z",
+  "updatedAt": "2026-05-02T18:58:32.923Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 21.6,
-      "humidity": 36,
-      "wind_kph": 4.3,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 18.3,
+      "humidity": 34,
+      "wind_kph": 6.1,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
       "date": "2026-05-03",
-      "temp_max_c": 28.2,
-      "temp_min_c": 13.9,
-      "humidity_max": 92,
-      "humidity_min": 21,
-      "wind_kph": 37,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "temp_max_c": 26.8,
+      "temp_min_c": 12,
+      "humidity_max": 87,
+      "humidity_min": 31,
+      "wind_kph": 49.2,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
     "goldUSD": 4622.77,
     "oilUSD": 79,
-    "updatedAt": "2026-05-02T07:43:11.710Z",
+    "updatedAt": "2026-05-02T18:58:32.923Z",
     "gold24KUSD": 148.63,
     "gold21KUSD": 130.05,
     "gold18KUSD": 111.47,
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "Spirit Airlines Is Winding Down All Operations",
-        "url": "https://www.spiritrestructuring.com/",
-        "points": 41,
-        "comments": 47,
-        "created_at": "2026-05-02T06:28:00.000Z"
+        "title": "Santa Cruz restaurant changes logo after flurry of negative reviews for AI art",
+        "url": "https://www.sfgate.com/food/article/santa-cruz-restaurant-ai-21955920.php",
+        "points": 35,
+        "comments": 49,
+        "created_at": "2026-05-02T15:30:37.000Z"
       },
       {
-        "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
-        "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+        "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+        "url": "https://arxiv.org/abs/2509.00462",
+        "points": 300,
+        "comments": 156,
+        "created_at": "2026-05-02T15:28:13.000Z"
+      },
+      {
+        "title": "David Bessis on AI destroying mathematics",
+        "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
         "points": 12,
-        "comments": 1,
-        "created_at": "2026-05-01T22:34:42.000Z"
+        "comments": 4,
+        "created_at": "2026-05-02T12:48:13.000Z"
       },
       {
-        "title": "Senate Panel Backs Guard Act, AI Age Verification Bill",
-        "url": "https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill",
+        "title": "Spirit Airlines canceled all flights and is going out of business",
+        "url": "https://www.cnn.com/2026/05/02/business/spirit-to-halt-all-flights",
+        "points": 56,
+        "comments": 27,
+        "created_at": "2026-05-02T11:56:32.000Z"
+      },
+      {
+        "title": "Spirit Airlines says it's going out of business after 34 years",
+        "url": "https://apnews.com/article/spirit-airlines-trump-bailout-bankruptcy-37a4818e1b71c0905d022f669d85948c",
         "points": 14,
         "comments": 1,
-        "created_at": "2026-05-01T19:51:34.000Z"
-      },
-      {
-        "title": "Show HN: AI CAD Harness",
-        "url": "https://fusion.adam.new/install",
-        "points": 82,
-        "comments": 85,
-        "created_at": "2026-05-01T17:43:53.000Z"
-      },
-      {
-        "title": "AI uses less water than the public thinks",
-        "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
-        "points": 371,
-        "comments": 340,
-        "created_at": "2026-05-01T17:18:58.000Z"
+        "created_at": "2026-05-02T10:33:56.000Z"
       }
     ],
     "vibeCoding": [
@@ -136,8 +136,8 @@
       {
         "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
         "url": "https://github.com/microsoft/lib0xc",
-        "points": 137,
-        "comments": 49,
+        "points": 177,
+        "comments": 83,
         "created_at": "2026-05-01T19:10:56.000Z"
       },
       {
