@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-05-03T08:00:37.128Z",
+  "updatedAt": "2026-05-03T18:58:48.917Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 26.5,
-      "humidity": 31,
-      "wind_kph": 23.4,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 13.4,
+      "humidity": 92,
+      "wind_kph": 22.2,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
       "date": "2026-05-04",
-      "temp_max_c": 16.7,
+      "temp_max_c": 16.8,
       "temp_min_c": 10.5,
       "humidity_max": 88,
       "humidity_min": 42,
-      "wind_kph": 38.6,
-      "weather_code": 61,
-      "weather_desc": "Slight rain"
+      "wind_kph": 34.8,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
     "goldUSD": 4614.35,
     "oilUSD": 79,
-    "updatedAt": "2026-05-03T08:00:37.128Z",
+    "updatedAt": "2026-05-03T18:58:48.917Z",
     "gold24KUSD": 148.35,
     "gold21KUSD": 129.81,
     "gold18KUSD": 111.27,
@@ -67,42 +67,49 @@
   "news": {
     "ai": [
       {
+        "title": "The Oscars just banned AI from winning acting and writing awards",
+        "url": "https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740",
+        "points": 50,
+        "comments": 20,
+        "created_at": "2026-05-03T17:34:15.000Z"
+      },
+      {
+        "title": "Musk's AI told me people were coming to kill me (BBC)",
+        "url": "https://www.bbc.com/news/articles/c242pzr1zp2o",
+        "points": 34,
+        "comments": 9,
+        "created_at": "2026-05-03T06:57:14.000Z"
+      },
+      {
         "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
         "url": "https://acai.sh/blog/specsmaxxing",
-        "points": 36,
-        "comments": 20,
+        "points": 244,
+        "comments": 254,
         "created_at": "2026-05-03T06:33:38.000Z"
+      },
+      {
+        "title": "Big Tech will spend nearly $700B on AI in 2026. No one knows where buildout ends",
+        "url": "https://fortune.com/2026/04/30/big-tech-hyperscalers-will-spend-700-billion-on-ai-infrastructure-this-year-with-no-clear-end-in-sight-eye-on-ai/",
+        "points": 11,
+        "comments": 2,
+        "created_at": "2026-05-03T04:29:51.000Z"
       },
       {
         "title": "AI, Intimacy, and the Data You Never Meant to Share",
         "url": "https://fshot.org/techzone/the-algorithm-knows.php",
-        "points": 16,
-        "comments": 0,
+        "points": 67,
+        "comments": 5,
         "created_at": "2026-05-03T02:42:43.000Z"
-      },
-      {
-        "title": "Spirit Airlines' Abandoned Azure Booking APIs and Exposed Phishing Domains",
-        "url": "https://braydenbte.substack.com/p/spirit-airlines-liquidation",
-        "points": 12,
-        "comments": 6,
-        "created_at": "2026-05-02T23:43:31.000Z"
-      },
-      {
-        "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
-        "url": "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/",
-        "points": 64,
-        "comments": 91,
-        "created_at": "2026-05-02T22:44:23.000Z"
-      },
-      {
-        "title": "Voice-AI-for-Beginners – A curated learning path for developers",
-        "url": "https://github.com/mahimairaja/voiceai",
-        "points": 70,
-        "comments": 4,
-        "created_at": "2026-05-02T22:03:15.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Uncle Bob: It's Over",
+        "url": "https://old.reddit.com/r/vibecoding/comments/1srfqm0/uncle_bob_its_over/",
+        "points": 51,
+        "comments": 70,
+        "created_at": "2026-05-03T16:29:07.000Z"
+      },
       {
         "title": "Vibe coding will break your company",
         "url": "https://www.forbes.com/sites/jasonwingard/2026/04/23/vibe-coding-will-break-your-company/",
@@ -136,15 +143,15 @@
       {
         "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
         "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-        "points": 242,
-        "comments": 108,
+        "points": 346,
+        "comments": 205,
         "created_at": "2026-05-03T04:05:28.000Z"
       },
       {
         "title": "Modern C++ Programming: Busato",
         "url": "https://github.com/federico-busato/Modern-CPP-Programming",
-        "points": 79,
-        "comments": 16,
+        "points": 90,
+        "comments": 24,
         "created_at": "2026-05-02T16:40:29.000Z"
       },
       {
@@ -157,8 +164,8 @@
       {
         "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
         "url": "https://github.com/microsoft/lib0xc",
-        "points": 188,
-        "comments": 91,
+        "points": 190,
+        "comments": 94,
         "created_at": "2026-05-01T19:10:56.000Z"
       },
       {
