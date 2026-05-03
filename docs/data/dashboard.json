@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-05-02T18:58:32.923Z",
+  "updatedAt": "2026-05-03T08:00:37.128Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 18.3,
-      "humidity": 34,
-      "wind_kph": 6.1,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 26.5,
+      "humidity": 31,
+      "wind_kph": 23.4,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-05-03",
-      "temp_max_c": 26.8,
-      "temp_min_c": 12,
-      "humidity_max": 87,
-      "humidity_min": 31,
-      "wind_kph": 49.2,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-05-04",
+      "temp_max_c": 16.7,
+      "temp_min_c": 10.5,
+      "humidity_max": 88,
+      "humidity_min": 42,
+      "wind_kph": 38.6,
+      "weather_code": 61,
+      "weather_desc": "Slight rain"
     }
   },
   "metals": {
-    "goldUSD": 4622.77,
+    "goldUSD": 4614.35,
     "oilUSD": 79,
-    "updatedAt": "2026-05-02T18:58:32.923Z",
-    "gold24KUSD": 148.63,
-    "gold21KUSD": 130.05,
-    "gold18KUSD": 111.47,
-    "gold24KJD": 105.39,
-    "gold21KJD": 92.22,
-    "gold18KJD": 79.04
+    "updatedAt": "2026-05-03T08:00:37.128Z",
+    "gold24KUSD": 148.35,
+    "gold21KUSD": 129.81,
+    "gold18KUSD": 111.27,
+    "gold24KJD": 105.2,
+    "gold21KJD": 92.05,
+    "gold18KJD": 78.9
   },
   "exchange": {
     "JOD": 0.7091,
@@ -38,9 +38,9 @@
     "SAR": 3.7504
   },
   "prayer": {
-    "fajr": "04:37",
-    "maghrib": "19:17",
-    "date": "02 May 2002"
+    "fajr": "04:36",
+    "maghrib": "19:18",
+    "date": "03 May 2003"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "Santa Cruz restaurant changes logo after flurry of negative reviews for AI art",
-        "url": "https://www.sfgate.com/food/article/santa-cruz-restaurant-ai-21955920.php",
-        "points": 35,
-        "comments": 49,
-        "created_at": "2026-05-02T15:30:37.000Z"
+        "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+        "url": "https://acai.sh/blog/specsmaxxing",
+        "points": 36,
+        "comments": 20,
+        "created_at": "2026-05-03T06:33:38.000Z"
       },
       {
-        "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-        "url": "https://arxiv.org/abs/2509.00462",
-        "points": 300,
-        "comments": 156,
-        "created_at": "2026-05-02T15:28:13.000Z"
+        "title": "AI, Intimacy, and the Data You Never Meant to Share",
+        "url": "https://fshot.org/techzone/the-algorithm-knows.php",
+        "points": 16,
+        "comments": 0,
+        "created_at": "2026-05-03T02:42:43.000Z"
       },
       {
-        "title": "David Bessis on AI destroying mathematics",
-        "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+        "title": "Spirit Airlines' Abandoned Azure Booking APIs and Exposed Phishing Domains",
+        "url": "https://braydenbte.substack.com/p/spirit-airlines-liquidation",
         "points": 12,
+        "comments": 6,
+        "created_at": "2026-05-02T23:43:31.000Z"
+      },
+      {
+        "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
+        "url": "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/",
+        "points": 64,
+        "comments": 91,
+        "created_at": "2026-05-02T22:44:23.000Z"
+      },
+      {
+        "title": "Voice-AI-for-Beginners – A curated learning path for developers",
+        "url": "https://github.com/mahimairaja/voiceai",
+        "points": 70,
         "comments": 4,
-        "created_at": "2026-05-02T12:48:13.000Z"
-      },
-      {
-        "title": "Spirit Airlines canceled all flights and is going out of business",
-        "url": "https://www.cnn.com/2026/05/02/business/spirit-to-halt-all-flights",
-        "points": 56,
-        "comments": 27,
-        "created_at": "2026-05-02T11:56:32.000Z"
-      },
-      {
-        "title": "Spirit Airlines says it's going out of business after 34 years",
-        "url": "https://apnews.com/article/spirit-airlines-trump-bailout-bankruptcy-37a4818e1b71c0905d022f669d85948c",
-        "points": 14,
-        "comments": 1,
-        "created_at": "2026-05-02T10:33:56.000Z"
+        "created_at": "2026-05-02T22:03:15.000Z"
       }
     ],
     "vibeCoding": [
@@ -134,10 +134,31 @@
     ],
     "progDb": [
       {
+        "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+        "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+        "points": 242,
+        "comments": 108,
+        "created_at": "2026-05-03T04:05:28.000Z"
+      },
+      {
+        "title": "Modern C++ Programming: Busato",
+        "url": "https://github.com/federico-busato/Modern-CPP-Programming",
+        "points": 79,
+        "comments": 16,
+        "created_at": "2026-05-02T16:40:29.000Z"
+      },
+      {
+        "title": "µKanren: A Minimal Functional Core for Relational Programming (2013) [pdf]",
+        "url": "http://webyrd.net/scheme-2013/papers/HemannMuKanren2013.pdf",
+        "points": 25,
+        "comments": 0,
+        "created_at": "2026-05-02T11:36:37.000Z"
+      },
+      {
         "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
         "url": "https://github.com/microsoft/lib0xc",
-        "points": 177,
-        "comments": 83,
+        "points": 188,
+        "comments": 91,
         "created_at": "2026-05-01T19:10:56.000Z"
       },
       {
@@ -146,27 +167,6 @@
         "points": 16,
         "comments": 1,
         "created_at": "2026-04-30T08:39:41.000Z"
-      },
-      {
-        "title": "Vera: a programming language designed for machines to write",
-        "url": "https://github.com/aallan/vera",
-        "points": 111,
-        "comments": 95,
-        "created_at": "2026-04-29T21:41:32.000Z"
-      },
-      {
-        "title": "Show HN: I wrote a DOOM clone in my own programming language",
-        "url": "https://spectrelang.org/log/devlog#cubedoom",
-        "points": 32,
-        "comments": 22,
-        "created_at": "2026-04-28T11:29:14.000Z"
-      },
-      {
-        "title": "The Knight Programming Language",
-        "url": "https://github.com/knight-lang/knight-lang/tree/master",
-        "points": 20,
-        "comments": 6,
-        "created_at": "2026-04-26T07:22:22.000Z"
       }
     ]
   }
