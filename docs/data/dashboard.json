@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-05-03T18:58:48.917Z",
+  "updatedAt": "2026-05-04T08:28:32.092Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 13.4,
-      "humidity": 92,
-      "wind_kph": 22.2,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 17,
+      "humidity": 43,
+      "wind_kph": 35.3,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-05-04",
-      "temp_max_c": 16.8,
-      "temp_min_c": 10.5,
-      "humidity_max": 88,
-      "humidity_min": 42,
-      "wind_kph": 34.8,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "date": "2026-05-05",
+      "temp_max_c": 18.6,
+      "temp_min_c": 9.4,
+      "humidity_max": 86,
+      "humidity_min": 32,
+      "wind_kph": 32.1,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4614.35,
+    "goldUSD": 4614.47,
     "oilUSD": 79,
-    "updatedAt": "2026-05-03T18:58:48.917Z",
-    "gold24KUSD": 148.35,
+    "updatedAt": "2026-05-04T08:28:32.092Z",
+    "gold24KUSD": 148.36,
     "gold21KUSD": 129.81,
     "gold18KUSD": 111.27,
     "gold24KJD": 105.2,
@@ -33,14 +33,14 @@
   },
   "exchange": {
     "JOD": 0.7091,
-    "EUR": 0.8522,
-    "GBP": 0.7353,
-    "SAR": 3.7504
+    "EUR": 0.8524,
+    "GBP": 0.7357,
+    "SAR": 3.7507
   },
   "prayer": {
-    "fajr": "04:36",
-    "maghrib": "19:18",
-    "date": "03 May 2003"
+    "fajr": "04:34",
+    "maghrib": "19:19",
+    "date": "04 May 2004"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
+        "title": "Let's Buy Spirit Air",
+        "url": "https://letsbuyspiritair.com/",
+        "points": 317,
+        "comments": 304,
+        "created_at": "2026-05-03T23:36:11.000Z"
+      },
+      {
+        "title": "ASU Using AI Tool to Create Courses from Professors' Work Without Their",
+        "url": "https://azfreenews.com/2026/05/asu-using-ai-tool-to-create-courses-from-professors-work-without-their-knowledge/",
+        "points": 20,
+        "comments": 2,
+        "created_at": "2026-05-03T19:33:00.000Z"
+      },
+      {
+        "title": "How Kepler built verifiable AI for financial services with Claude",
+        "url": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
+        "points": 41,
+        "comments": 22,
+        "created_at": "2026-05-03T18:14:56.000Z"
+      },
+      {
         "title": "The Oscars just banned AI from winning acting and writing awards",
         "url": "https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740",
-        "points": 50,
-        "comments": 20,
+        "points": 72,
+        "comments": 49,
         "created_at": "2026-05-03T17:34:15.000Z"
       },
       {
-        "title": "Musk's AI told me people were coming to kill me (BBC)",
-        "url": "https://www.bbc.com/news/articles/c242pzr1zp2o",
-        "points": 34,
-        "comments": 9,
-        "created_at": "2026-05-03T06:57:14.000Z"
-      },
-      {
-        "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-        "url": "https://acai.sh/blog/specsmaxxing",
-        "points": 244,
-        "comments": 254,
-        "created_at": "2026-05-03T06:33:38.000Z"
-      },
-      {
-        "title": "Big Tech will spend nearly $700B on AI in 2026. No one knows where buildout ends",
-        "url": "https://fortune.com/2026/04/30/big-tech-hyperscalers-will-spend-700-billion-on-ai-infrastructure-this-year-with-no-clear-end-in-sight-eye-on-ai/",
-        "points": 11,
-        "comments": 2,
-        "created_at": "2026-05-03T04:29:51.000Z"
-      },
-      {
-        "title": "AI, Intimacy, and the Data You Never Meant to Share",
-        "url": "https://fshot.org/techzone/the-algorithm-knows.php",
-        "points": 67,
-        "comments": 5,
-        "created_at": "2026-05-03T02:42:43.000Z"
+        "title": "AI deleted my most tests, and said \"All Tests Pass\"",
+        "url": "https://typia.io/blog/ai-deleted-my-tests-and-said-all-tests-pass/",
+        "points": 16,
+        "comments": 6,
+        "created_at": "2026-05-03T15:15:02.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Uncle Bob: It's Over",
         "url": "https://old.reddit.com/r/vibecoding/comments/1srfqm0/uncle_bob_its_over/",
-        "points": 51,
-        "comments": 70,
+        "points": 58,
+        "comments": 86,
         "created_at": "2026-05-03T16:29:07.000Z"
       },
       {
@@ -143,15 +143,15 @@
       {
         "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
         "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-        "points": 346,
-        "comments": 205,
+        "points": 361,
+        "comments": 216,
         "created_at": "2026-05-03T04:05:28.000Z"
       },
       {
         "title": "Modern C++ Programming: Busato",
         "url": "https://github.com/federico-busato/Modern-CPP-Programming",
-        "points": 90,
-        "comments": 24,
+        "points": 94,
+        "comments": 27,
         "created_at": "2026-05-02T16:40:29.000Z"
       },
       {
@@ -162,18 +162,18 @@
         "created_at": "2026-05-02T11:36:37.000Z"
       },
       {
+        "title": "Texico: Learn the principles of programming without even touching a computer",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
+        "points": 14,
+        "comments": 1,
+        "created_at": "2026-05-02T04:34:40.000Z"
+      },
+      {
         "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
         "url": "https://github.com/microsoft/lib0xc",
         "points": 190,
-        "comments": 94,
+        "comments": 95,
         "created_at": "2026-05-01T19:10:56.000Z"
-      },
-      {
-        "title": "Ask HN: Why didn't functional programming work for you?",
-        "url": "https://news.ycombinator.com/item?id=47959820",
-        "points": 16,
-        "comments": 1,
-        "created_at": "2026-04-30T08:39:41.000Z"
       }
     ]
   }
