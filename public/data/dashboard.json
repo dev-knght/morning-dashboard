@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-05-05T08:08:33.034Z",
+  "updatedAt": "2026-05-05T19:18:14.165Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.2,
-      "humidity": 45,
-      "wind_kph": 27.1,
+      "temp_c": 10.7,
+      "humidity": 90,
+      "wind_kph": 13.8,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-05-06",
-      "temp_max_c": 19.4,
-      "temp_min_c": 7.8,
+      "temp_max_c": 17.9,
+      "temp_min_c": 8.3,
       "humidity_max": 89,
-      "humidity_min": 41,
-      "wind_kph": 18.7,
+      "humidity_min": 49,
+      "wind_kph": 17.5,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4611.53,
     "oilUSD": 79,
-    "updatedAt": "2026-05-05T08:08:33.034Z",
+    "updatedAt": "2026-05-05T19:18:14.165Z",
     "gold24KUSD": 148.26,
     "gold21KUSD": 129.73,
     "gold18KUSD": 111.2,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8559,
-    "GBP": 0.7397,
-    "SAR": 3.7504
+    "EUR": 0.8557,
+    "GBP": 0.7389,
+    "SAR": 3.7503
   },
   "prayer": {
     "fajr": "04:33",
@@ -67,53 +67,53 @@
   "news": {
     "ai": [
       {
-        "title": "Fiddler sues Google after AI Overview wrongly claimed he was a sex offender",
-        "url": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
-        "points": 13,
-        "comments": 2,
-        "created_at": "2026-05-05T03:28:01.000Z"
+        "title": "Three Inverse Laws of AI",
+        "url": "https://susam.net/inverse-laws-of-robotics.html",
+        "points": 241,
+        "comments": 161,
+        "created_at": "2026-05-05T15:27:18.000Z"
       },
       {
-        "title": "What do we lose when AI does our work?",
-        "url": "https://rickyyean.com/2026/05/04/what-do-we-lose-when-ai-does-our-work/",
-        "points": 18,
-        "comments": 10,
-        "created_at": "2026-05-04T21:57:56.000Z"
+        "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
+        "url": "https://news.ycombinator.com/item?id=48023496",
+        "points": 56,
+        "comments": 6,
+        "created_at": "2026-05-05T15:03:18.000Z"
       },
       {
-        "title": "AI startup JuliaHub raises $65M to rival Simulink",
-        "url": "https://www.axios.com/2026/04/30/bob-muglia-ai-hardware-engineering",
-        "points": 28,
-        "comments": 3,
-        "created_at": "2026-05-04T20:27:55.000Z"
+        "title": "Airborne Microplastics May Be Warming the Planet",
+        "url": "https://e360.yale.edu/digest/airborne-microplastics-climate-change",
+        "points": 12,
+        "comments": 0,
+        "created_at": "2026-05-05T14:53:52.000Z"
       },
       {
-        "title": "How OpenAI delivers low-latency voice AI at scale",
-        "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-        "points": 390,
-        "comments": 123,
-        "created_at": "2026-05-04T19:42:47.000Z"
+        "title": "AI didn't delete your database, you did",
+        "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+        "points": 430,
+        "comments": 227,
+        "created_at": "2026-05-05T14:07:50.000Z"
       },
       {
-        "title": "Usage-based pricing killing your vibe, here's how to roll your own local AI",
-        "url": "https://www.theregister.com/2026/05/02/local_ai_coding_agents/",
-        "points": 42,
-        "comments": 43,
-        "created_at": "2026-05-04T18:19:04.000Z"
+        "title": "Google, Microsoft and xAI agree to share early AI models with U.S.",
+        "url": "https://www.wsj.com/tech/ai/google-microsoft-and-xai-agree-to-share-early-ai-models-with-u-s-f95a88d1",
+        "points": 39,
+        "comments": 60,
+        "created_at": "2026-05-05T13:51:01.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Usage-based pricing killing your vibe, here's how to roll your own local AI",
         "url": "https://www.theregister.com/2026/05/02/local_ai_coding_agents/",
-        "points": 42,
+        "points": 44,
         "comments": 43,
         "created_at": "2026-05-04T18:19:04.000Z"
       },
       {
         "title": "Uncle Bob: It's Over",
         "url": "https://old.reddit.com/r/vibecoding/comments/1srfqm0/uncle_bob_its_over/",
-        "points": 61,
+        "points": 62,
         "comments": 89,
         "created_at": "2026-05-03T16:29:07.000Z"
       },
@@ -164,8 +164,8 @@
       {
         "title": "Texico: Learn the principles of programming without even touching a computer",
         "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
-        "points": 197,
-        "comments": 16,
+        "points": 213,
+        "comments": 18,
         "created_at": "2026-05-02T04:34:40.000Z"
       },
       {
