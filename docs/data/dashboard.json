@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-05-06T08:26:09.129Z",
+  "updatedAt": "2026-05-06T19:45:10.632Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 15.6,
-      "humidity": 57,
-      "wind_kph": 16.2,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 11.8,
+      "humidity": 64,
+      "wind_kph": 5.7,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-05-07",
-      "temp_max_c": 23,
-      "temp_min_c": 7.7,
-      "humidity_max": 82,
-      "humidity_min": 24,
-      "wind_kph": 15.2,
+      "temp_max_c": 23.3,
+      "temp_min_c": 8.1,
+      "humidity_max": 81,
+      "humidity_min": 31,
+      "wind_kph": 14.8,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     }
@@ -23,19 +23,19 @@
   "metals": {
     "goldUSD": 4527.57,
     "oilUSD": 79,
-    "updatedAt": "2026-05-06T08:26:09.129Z",
+    "updatedAt": "2026-05-06T19:45:10.632Z",
     "gold24KUSD": 145.56,
     "gold21KUSD": 127.37,
     "gold18KUSD": 109.17,
-    "gold24KJD": 103.21,
-    "gold21KJD": 90.3,
-    "gold18KJD": 77.4
+    "gold24KJD": 103.19,
+    "gold21KJD": 90.29,
+    "gold18KJD": 77.39
   },
   "exchange": {
-    "JOD": 0.709,
-    "EUR": 0.8523,
-    "GBP": 0.7361,
-    "SAR": 3.7523
+    "JOD": 0.7089,
+    "EUR": 0.8507,
+    "GBP": 0.7347,
+    "SAR": 3.7499
   },
   "prayer": {
     "fajr": "04:32",
@@ -67,42 +67,49 @@
   "news": {
     "ai": [
       {
-        "title": "Apple agrees to pay iPhone owners $250M for not delivering AI Siri",
-        "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
-        "points": 16,
-        "comments": 1,
-        "created_at": "2026-05-06T04:28:17.000Z"
+        "title": "Canadian fiddler sues Google after AI Overview claimed he was a sex offender",
+        "url": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
+        "points": 26,
+        "comments": 8,
+        "created_at": "2026-05-06T16:12:50.000Z"
       },
       {
-        "title": "FFmpeg developer calls out OxideAV for AI license laundering of his code",
-        "url": "https://github.com/OxideAV/oxideav-magicyuv/issues/3",
-        "points": 39,
+        "title": "Israel's AI targeting system: How data from a phone become a death sentence",
+        "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
+        "points": 21,
         "comments": 4,
-        "created_at": "2026-05-06T01:50:42.000Z"
+        "created_at": "2026-05-06T16:07:30.000Z"
       },
       {
-        "title": "Telus Uses AI to Alter Call-Agent Accents",
-        "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-        "points": 138,
-        "comments": 89,
-        "created_at": "2026-05-06T01:38:44.000Z"
+        "title": "Google Chrome silently installs 4 GB Gemini Nano AI model without consent",
+        "url": "https://alternativeto.net/news/2026/5/google-chrome-silently-installs-4-gb-gemini-nano-ai-model-to-user-device-without-consent/",
+        "points": 15,
+        "comments": 2,
+        "created_at": "2026-05-06T14:27:25.000Z"
       },
       {
-        "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
-        "url": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/",
-        "points": 98,
-        "comments": 26,
-        "created_at": "2026-05-05T22:43:47.000Z"
-      },
-      {
-        "title": "Google DeepMind Workers Vote to Unionize over Military AI Deals",
-        "url": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+        "title": "Proprietary Software, Hardware and Protocols Face AI-Driven Security Risk",
+        "url": "https://www.infosecurity-magazine.com/blogs/why-software-faces-ai-driven/",
         "points": 11,
         "comments": 0,
-        "created_at": "2026-05-05T22:16:30.000Z"
+        "created_at": "2026-05-06T13:12:47.000Z"
+      },
+      {
+        "title": "Show HN: Adam – An embeddable cross-platform AI agent library",
+        "url": "https://github.com/sqliteai/adam",
+        "points": 24,
+        "comments": 8,
+        "created_at": "2026-05-06T12:56:29.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+        "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+        "points": 192,
+        "comments": 252,
+        "created_at": "2026-05-06T15:06:37.000Z"
+      },
       {
         "title": "Usage-based pricing killing your vibe, here's how to roll your own local AI",
         "url": "https://www.theregister.com/2026/05/02/local_ai_coding_agents/",
@@ -114,7 +121,7 @@
         "title": "Uncle Bob: It's Over",
         "url": "https://old.reddit.com/r/vibecoding/comments/1srfqm0/uncle_bob_its_over/",
         "points": 62,
-        "comments": 89,
+        "comments": 90,
         "created_at": "2026-05-03T16:29:07.000Z"
       },
       {
@@ -130,21 +137,21 @@
         "points": 34,
         "comments": 1,
         "created_at": "2026-04-27T17:36:20.000Z"
-      },
-      {
-        "title": "Apple TV remote is the perfect accessory for vibe coding",
-        "url": "https://github.com/machinarii/hypervibe",
-        "points": 21,
-        "comments": 9,
-        "created_at": "2026-04-24T21:12:53.000Z"
       }
     ],
     "progDb": [
       {
+        "title": "Ask HN: The death of software development as a job?",
+        "url": "https://news.ycombinator.com/item?id=48030736",
+        "points": 13,
+        "comments": 21,
+        "created_at": "2026-05-06T00:42:32.000Z"
+      },
+      {
         "title": "While the King Lives: An Old C Programming Prank in GNU Hello from 1993",
         "url": "https://lowendbox.com/blog/while-the-king-lives-an-old-c-programming-prank-in-gnu-hello-from-1993/",
-        "points": 28,
-        "comments": 1,
+        "points": 41,
+        "comments": 2,
         "created_at": "2026-05-05T19:32:02.000Z"
       },
       {
@@ -167,13 +174,6 @@
         "points": 25,
         "comments": 0,
         "created_at": "2026-05-02T11:36:37.000Z"
-      },
-      {
-        "title": "Texico: Learn the principles of programming without even touching a computer",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
-        "points": 218,
-        "comments": 18,
-        "created_at": "2026-05-02T04:34:40.000Z"
       }
     ]
   }
