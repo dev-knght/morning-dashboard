@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-05-07T08:32:49.265Z",
+  "updatedAt": "2026-05-07T19:42:36.090Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 19.5,
-      "humidity": 41,
-      "wind_kph": 4.1,
+      "temp_c": 14.4,
+      "humidity": 64,
+      "wind_kph": 3.9,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-05-08",
-      "temp_max_c": 26.2,
-      "temp_min_c": 11.7,
-      "humidity_max": 76,
-      "humidity_min": 24,
-      "wind_kph": 16.2,
+      "temp_max_c": 27.5,
+      "temp_min_c": 12.3,
+      "humidity_max": 72,
+      "humidity_min": 25,
+      "wind_kph": 17,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,19 +23,19 @@
   "metals": {
     "goldUSD": 4590.07,
     "oilUSD": 79,
-    "updatedAt": "2026-05-07T08:32:49.265Z",
+    "updatedAt": "2026-05-07T19:42:36.090Z",
     "gold24KUSD": 147.57,
     "gold21KUSD": 129.13,
     "gold18KUSD": 110.68,
-    "gold24KJD": 104.62,
-    "gold21KJD": 91.54,
-    "gold18KJD": 78.46
+    "gold24KJD": 104.63,
+    "gold21KJD": 91.55,
+    "gold18KJD": 78.47
   },
   "exchange": {
-    "JOD": 0.7089,
-    "EUR": 0.851,
-    "GBP": 0.7356,
-    "SAR": 3.7512
+    "JOD": 0.709,
+    "EUR": 0.85,
+    "GBP": 0.7346,
+    "SAR": 3.7502
   },
   "prayer": {
     "fajr": "04:32",
@@ -67,53 +67,53 @@
   "news": {
     "ai": [
       {
+        "title": "AI Slop Is Killing Online Communities",
+        "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+        "points": 85,
+        "comments": 46,
+        "created_at": "2026-05-07T18:46:25.000Z"
+      },
+      {
+        "title": "Show HN: Stage CLI – an easier way of reading your AI generated changes locally",
+        "url": "https://github.com/ReviewStage/stage-cli",
+        "points": 19,
+        "comments": 12,
+        "created_at": "2026-05-07T15:38:36.000Z"
+      },
+      {
+        "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+        "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+        "points": 165,
+        "comments": 183,
+        "created_at": "2026-05-07T15:23:23.000Z"
+      },
+      {
+        "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+        "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+        "points": 12,
+        "comments": 3,
+        "created_at": "2026-05-07T03:56:34.000Z"
+      },
+      {
         "title": "If AI cuts jobs, it would also threaten Social Security and Medicare",
         "url": "https://minnesotareformer.com/2026/04/17/if-ai-cuts-jobs-it-would-also-threaten-social-security-and-medicare/",
         "points": 11,
         "comments": 7,
         "created_at": "2026-05-07T02:09:45.000Z"
-      },
-      {
-        "title": "Richard Dawkins concludes AI is conscious, even if it doesn't know it",
-        "url": "https://www.theguardian.com/technology/2026/may/05/richard-dawkins-ai-consciousness-anthropic-claude-openai-chatgpt",
-        "points": 24,
-        "comments": 29,
-        "created_at": "2026-05-06T22:47:45.000Z"
-      },
-      {
-        "title": "Judge Halts Colorado AI Law After xAI First Amendment Challenge",
-        "url": "https://reclaimthenet.org/judge-halts-colorado-ai-law-after-first-amendment-challenge",
-        "points": 12,
-        "comments": 0,
-        "created_at": "2026-05-06T22:06:20.000Z"
-      },
-      {
-        "title": "Hackers Hate AI Slop More Than You Do",
-        "url": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
-        "points": 11,
-        "comments": 2,
-        "created_at": "2026-05-06T19:45:30.000Z"
-      },
-      {
-        "title": "Time to add option in Hacker News \"AI excluded Show HN\"",
-        "url": "https://news.ycombinator.com/item?id=48039702",
-        "points": 18,
-        "comments": 5,
-        "created_at": "2026-05-06T18:22:03.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Vibe coding and agentic engineering are getting closer than I'd like",
         "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-        "points": 574,
-        "comments": 619,
+        "points": 736,
+        "comments": 830,
         "created_at": "2026-05-06T15:06:37.000Z"
       },
       {
         "title": "Usage-based pricing killing your vibe, here's how to roll your own local AI",
         "url": "https://www.theregister.com/2026/05/02/local_ai_coding_agents/",
-        "points": 45,
+        "points": 46,
         "comments": 44,
         "created_at": "2026-05-04T18:19:04.000Z"
       },
@@ -143,37 +143,37 @@
       {
         "title": "Programming Still Sucks",
         "url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
-        "points": 343,
-        "comments": 152,
+        "points": 469,
+        "comments": 265,
         "created_at": "2026-05-06T19:06:41.000Z"
       },
       {
         "title": "Ask HN: The death of software development as a job?",
         "url": "https://news.ycombinator.com/item?id=48030736",
-        "points": 15,
-        "comments": 26,
+        "points": 16,
+        "comments": 29,
         "created_at": "2026-05-06T00:42:32.000Z"
       },
       {
         "title": "While the King Lives: An Old C Programming Prank in GNU Hello from 1993",
         "url": "https://lowendbox.com/blog/while-the-king-lives-an-old-c-programming-prank-in-gnu-hello-from-1993/",
-        "points": 44,
+        "points": 45,
         "comments": 2,
         "created_at": "2026-05-05T19:32:02.000Z"
       },
       {
-        "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-        "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-        "points": 377,
-        "comments": 218,
-        "created_at": "2026-05-03T04:05:28.000Z"
+        "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
+        "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
+        "points": 161,
+        "comments": 69,
+        "created_at": "2026-05-04T20:28:24.000Z"
       },
       {
-        "title": "Modern C++ Programming: Busato",
-        "url": "https://github.com/federico-busato/Modern-CPP-Programming",
-        "points": 100,
-        "comments": 27,
-        "created_at": "2026-05-02T16:40:29.000Z"
+        "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+        "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+        "points": 378,
+        "comments": 218,
+        "created_at": "2026-05-03T04:05:28.000Z"
       }
     ]
   }
