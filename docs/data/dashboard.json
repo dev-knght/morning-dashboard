@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-05-06T19:45:10.632Z",
+  "updatedAt": "2026-05-07T08:32:49.265Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 11.8,
-      "humidity": 64,
-      "wind_kph": 5.7,
+      "temp_c": 19.5,
+      "humidity": 41,
+      "wind_kph": 4.1,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-05-07",
-      "temp_max_c": 23.3,
-      "temp_min_c": 8.1,
-      "humidity_max": 81,
-      "humidity_min": 31,
-      "wind_kph": 14.8,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "date": "2026-05-08",
+      "temp_max_c": 26.2,
+      "temp_min_c": 11.7,
+      "humidity_max": 76,
+      "humidity_min": 24,
+      "wind_kph": 16.2,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4527.57,
+    "goldUSD": 4590.07,
     "oilUSD": 79,
-    "updatedAt": "2026-05-06T19:45:10.632Z",
-    "gold24KUSD": 145.56,
-    "gold21KUSD": 127.37,
-    "gold18KUSD": 109.17,
-    "gold24KJD": 103.19,
-    "gold21KJD": 90.29,
-    "gold18KJD": 77.39
+    "updatedAt": "2026-05-07T08:32:49.265Z",
+    "gold24KUSD": 147.57,
+    "gold21KUSD": 129.13,
+    "gold18KUSD": 110.68,
+    "gold24KJD": 104.62,
+    "gold21KJD": 91.54,
+    "gold18KJD": 78.46
   },
   "exchange": {
     "JOD": 0.7089,
-    "EUR": 0.8507,
-    "GBP": 0.7347,
-    "SAR": 3.7499
+    "EUR": 0.851,
+    "GBP": 0.7356,
+    "SAR": 3.7512
   },
   "prayer": {
     "fajr": "04:32",
-    "maghrib": "19:20",
-    "date": "06 May 2006"
+    "maghrib": "19:21",
+    "date": "07 May 2007"
   },
   "events": [
     {
@@ -67,53 +67,53 @@
   "news": {
     "ai": [
       {
-        "title": "Canadian fiddler sues Google after AI Overview claimed he was a sex offender",
-        "url": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
-        "points": 26,
-        "comments": 8,
-        "created_at": "2026-05-06T16:12:50.000Z"
-      },
-      {
-        "title": "Israel's AI targeting system: How data from a phone become a death sentence",
-        "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
-        "points": 21,
-        "comments": 4,
-        "created_at": "2026-05-06T16:07:30.000Z"
-      },
-      {
-        "title": "Google Chrome silently installs 4 GB Gemini Nano AI model without consent",
-        "url": "https://alternativeto.net/news/2026/5/google-chrome-silently-installs-4-gb-gemini-nano-ai-model-to-user-device-without-consent/",
-        "points": 15,
-        "comments": 2,
-        "created_at": "2026-05-06T14:27:25.000Z"
-      },
-      {
-        "title": "Proprietary Software, Hardware and Protocols Face AI-Driven Security Risk",
-        "url": "https://www.infosecurity-magazine.com/blogs/why-software-faces-ai-driven/",
+        "title": "If AI cuts jobs, it would also threaten Social Security and Medicare",
+        "url": "https://minnesotareformer.com/2026/04/17/if-ai-cuts-jobs-it-would-also-threaten-social-security-and-medicare/",
         "points": 11,
-        "comments": 0,
-        "created_at": "2026-05-06T13:12:47.000Z"
+        "comments": 7,
+        "created_at": "2026-05-07T02:09:45.000Z"
       },
       {
-        "title": "Show HN: Adam – An embeddable cross-platform AI agent library",
-        "url": "https://github.com/sqliteai/adam",
+        "title": "Richard Dawkins concludes AI is conscious, even if it doesn't know it",
+        "url": "https://www.theguardian.com/technology/2026/may/05/richard-dawkins-ai-consciousness-anthropic-claude-openai-chatgpt",
         "points": 24,
-        "comments": 8,
-        "created_at": "2026-05-06T12:56:29.000Z"
+        "comments": 29,
+        "created_at": "2026-05-06T22:47:45.000Z"
+      },
+      {
+        "title": "Judge Halts Colorado AI Law After xAI First Amendment Challenge",
+        "url": "https://reclaimthenet.org/judge-halts-colorado-ai-law-after-first-amendment-challenge",
+        "points": 12,
+        "comments": 0,
+        "created_at": "2026-05-06T22:06:20.000Z"
+      },
+      {
+        "title": "Hackers Hate AI Slop More Than You Do",
+        "url": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
+        "points": 11,
+        "comments": 2,
+        "created_at": "2026-05-06T19:45:30.000Z"
+      },
+      {
+        "title": "Time to add option in Hacker News \"AI excluded Show HN\"",
+        "url": "https://news.ycombinator.com/item?id=48039702",
+        "points": 18,
+        "comments": 5,
+        "created_at": "2026-05-06T18:22:03.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Vibe coding and agentic engineering are getting closer than I'd like",
         "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-        "points": 192,
-        "comments": 252,
+        "points": 574,
+        "comments": 619,
         "created_at": "2026-05-06T15:06:37.000Z"
       },
       {
         "title": "Usage-based pricing killing your vibe, here's how to roll your own local AI",
         "url": "https://www.theregister.com/2026/05/02/local_ai_coding_agents/",
-        "points": 44,
+        "points": 45,
         "comments": 44,
         "created_at": "2026-05-04T18:19:04.000Z"
       },
@@ -141,39 +141,39 @@
     ],
     "progDb": [
       {
+        "title": "Programming Still Sucks",
+        "url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
+        "points": 343,
+        "comments": 152,
+        "created_at": "2026-05-06T19:06:41.000Z"
+      },
+      {
         "title": "Ask HN: The death of software development as a job?",
         "url": "https://news.ycombinator.com/item?id=48030736",
-        "points": 13,
-        "comments": 21,
+        "points": 15,
+        "comments": 26,
         "created_at": "2026-05-06T00:42:32.000Z"
       },
       {
         "title": "While the King Lives: An Old C Programming Prank in GNU Hello from 1993",
         "url": "https://lowendbox.com/blog/while-the-king-lives-an-old-c-programming-prank-in-gnu-hello-from-1993/",
-        "points": 41,
+        "points": 44,
         "comments": 2,
         "created_at": "2026-05-05T19:32:02.000Z"
       },
       {
         "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
         "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-        "points": 376,
+        "points": 377,
         "comments": 218,
         "created_at": "2026-05-03T04:05:28.000Z"
       },
       {
         "title": "Modern C++ Programming: Busato",
         "url": "https://github.com/federico-busato/Modern-CPP-Programming",
-        "points": 98,
+        "points": 100,
         "comments": 27,
         "created_at": "2026-05-02T16:40:29.000Z"
-      },
-      {
-        "title": "µKanren: A Minimal Functional Core for Relational Programming (2013) [pdf]",
-        "url": "http://webyrd.net/scheme-2013/papers/HemannMuKanren2013.pdf",
-        "points": 25,
-        "comments": 0,
-        "created_at": "2026-05-02T11:36:37.000Z"
       }
     ]
   }
