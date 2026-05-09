@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-05-08T19:17:08.261Z",
+  "updatedAt": "2026-05-09T07:56:00.027Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 19,
-      "humidity": 56,
-      "wind_kph": 4,
+      "temp_c": 25.7,
+      "humidity": 30,
+      "wind_kph": 6.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-05-09",
-      "temp_max_c": 28.8,
-      "temp_min_c": 16,
-      "humidity_max": 62,
-      "humidity_min": 29,
-      "wind_kph": 20,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-05-10",
+      "temp_max_c": 29.6,
+      "temp_min_c": 14.7,
+      "humidity_max": 64,
+      "humidity_min": 23,
+      "wind_kph": 22.6,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     }
   },
   "metals": {
-    "goldUSD": 4698.59,
+    "goldUSD": 4704.14,
     "oilUSD": 79,
-    "updatedAt": "2026-05-08T19:17:08.261Z",
-    "gold24KUSD": 151.06,
-    "gold21KUSD": 132.18,
-    "gold18KUSD": 113.3,
-    "gold24KJD": 107.1,
-    "gold21KJD": 93.72,
-    "gold18KJD": 80.33
+    "updatedAt": "2026-05-09T07:56:00.027Z",
+    "gold24KUSD": 151.24,
+    "gold21KUSD": 132.34,
+    "gold18KUSD": 113.43,
+    "gold24KJD": 107.23,
+    "gold21KJD": 93.83,
+    "gold18KJD": 80.42
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8508,
-    "GBP": 0.7354,
+    "EUR": 0.8504,
+    "GBP": 0.7351,
     "SAR": 3.7502
   },
   "prayer": {
-    "fajr": "04:30",
+    "fajr": "04:29",
     "maghrib": "19:22",
-    "date": "08 May 2008"
+    "date": "09 May 2009"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "AI Is Breaking Two Vulnerability Cultures",
+        "title": "I Will Never Use AI to Code",
+        "url": "https://antman-does-software.com/i-will-never-use-ai-to-code-or-write",
+        "points": 42,
+        "comments": 43,
+        "created_at": "2026-05-09T06:14:20.000Z"
+      },
+      {
+        "title": "People Hate AI Art",
+        "url": "https://mccue.dev/pages/5-8-26-ai-art",
+        "points": 110,
+        "comments": 127,
+        "created_at": "2026-05-09T00:39:58.000Z"
+      },
+      {
+        "title": "AI is breaking two vulnerability cultures",
         "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-        "points": 43,
-        "comments": 9,
+        "points": 315,
+        "comments": 130,
         "created_at": "2026-05-08T17:55:08.000Z"
       },
       {
-        "title": "Show HN: Git for AI Agents",
-        "url": "https://github.com/regent-vcs/re_gent",
-        "points": 66,
-        "comments": 38,
-        "created_at": "2026-05-08T14:15:36.000Z"
+        "title": "We Spent 10 Days Touring Chinese AI Labs. Here's What We Saw",
+        "url": "https://blog.readsail.com/p/we-spent-10-days-touring-chinese",
+        "points": 11,
+        "comments": 2,
+        "created_at": "2026-05-08T17:14:38.000Z"
       },
       {
-        "title": "Writers Are Going to Extremes to Prove They Didn't Use AI",
-        "url": "https://www.wsj.com/tech/ai/writers-are-going-to-extremes-to-prove-they-didnt-use-ai-46e7c3f7",
-        "points": 12,
-        "comments": 3,
-        "created_at": "2026-05-07T22:51:04.000Z"
-      },
-      {
-        "title": "Ask HN: What will happen as AI costs increase?",
-        "url": "https://news.ycombinator.com/item?id=48055353",
-        "points": 13,
-        "comments": 17,
-        "created_at": "2026-05-07T21:31:01.000Z"
-      },
-      {
-        "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-        "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
-        "points": 133,
-        "comments": 34,
-        "created_at": "2026-05-07T19:38:36.000Z"
+        "title": "Show HN: GETadb.com – every GET request creates a DB",
+        "url": "https://www.getadb.com/",
+        "points": 34,
+        "comments": 40,
+        "created_at": "2026-05-08T16:17:37.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Vibe coding and agentic engineering are getting closer than I'd like",
         "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-        "points": 777,
-        "comments": 869,
+        "points": 778,
+        "comments": 873,
         "created_at": "2026-05-06T15:06:37.000Z"
       },
       {
@@ -150,14 +150,14 @@
       {
         "title": "Programming Still Sucks",
         "url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
-        "points": 678,
-        "comments": 319,
+        "points": 698,
+        "comments": 323,
         "created_at": "2026-05-06T19:06:41.000Z"
       },
       {
         "title": "Ask HN: The death of software development as a job?",
         "url": "https://news.ycombinator.com/item?id=48030736",
-        "points": 17,
+        "points": 18,
         "comments": 32,
         "created_at": "2026-05-06T00:42:32.000Z"
       },
@@ -171,7 +171,7 @@
       {
         "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
         "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
-        "points": 196,
+        "points": 197,
         "comments": 88,
         "created_at": "2026-05-04T20:28:24.000Z"
       }
