@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-05-09T19:00:51.145Z",
+  "updatedAt": "2026-05-10T08:07:05.658Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 19.9,
-      "humidity": 52,
-      "wind_kph": 2.7,
+      "temp_c": 25.4,
+      "humidity": 39,
+      "wind_kph": 15.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-05-10",
-      "temp_max_c": 29.6,
-      "temp_min_c": 14.9,
-      "humidity_max": 63,
-      "humidity_min": 21,
-      "wind_kph": 23.4,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "date": "2026-05-11",
+      "temp_max_c": 28.4,
+      "temp_min_c": 15.2,
+      "humidity_max": 52,
+      "humidity_min": 22,
+      "wind_kph": 27.5,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4704.14,
+    "goldUSD": 4715.28,
     "oilUSD": 79,
-    "updatedAt": "2026-05-09T19:00:51.145Z",
-    "gold24KUSD": 151.24,
-    "gold21KUSD": 132.34,
-    "gold18KUSD": 113.43,
-    "gold24KJD": 107.23,
-    "gold21KJD": 93.83,
-    "gold18KJD": 80.42
+    "updatedAt": "2026-05-10T08:07:05.658Z",
+    "gold24KUSD": 151.6,
+    "gold21KUSD": 132.65,
+    "gold18KUSD": 113.7,
+    "gold24KJD": 107.48,
+    "gold21KJD": 94.05,
+    "gold18KJD": 80.61
   },
   "exchange": {
     "JOD": 0.709,
@@ -38,9 +38,9 @@
     "SAR": 3.7502
   },
   "prayer": {
-    "fajr": "04:29",
-    "maghrib": "19:22",
-    "date": "09 May 2009"
+    "fajr": "04:28",
+    "maghrib": "19:23",
+    "date": "10 May 2010"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
+        "title": "Meta's embrace of AI is making its employees miserable",
+        "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+        "points": 384,
+        "comments": 413,
+        "created_at": "2026-05-09T18:33:36.000Z"
+      },
+      {
+        "title": "Go Players Disempower Themselves to AI",
+        "url": "https://www.lesswrong.com/posts/nR3DkyivzF4ve97oM/how-go-players-disempower-themselves-to-ai",
+        "points": 15,
+        "comments": 3,
+        "created_at": "2026-05-09T17:36:55.000Z"
+      },
+      {
         "title": "Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance",
         "url": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html",
-        "points": 47,
-        "comments": 16,
+        "points": 52,
+        "comments": 18,
         "created_at": "2026-05-09T11:14:13.000Z"
       },
       {
         "title": "All my clients wanted a carousel, now it's an AI chatbot",
         "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
-        "points": 130,
-        "comments": 59,
+        "points": 181,
+        "comments": 76,
         "created_at": "2026-05-09T07:23:40.000Z"
       },
       {
         "title": "I Will Never Use AI to Code",
         "url": "https://antman-does-software.com/i-will-never-use-ai-to-code-or-write",
-        "points": 58,
-        "comments": 72,
+        "points": 64,
+        "comments": 79,
         "created_at": "2026-05-09T06:14:20.000Z"
-      },
-      {
-        "title": "AI's Circular Psychosis",
-        "url": "https://www.wheresyoured.at/premium-ais-circular-psychosis/",
-        "points": 12,
-        "comments": 9,
-        "created_at": "2026-05-09T01:22:54.000Z"
-      },
-      {
-        "title": "People Hate AI Art",
-        "url": "https://mccue.dev/pages/5-8-26-ai-art",
-        "points": 130,
-        "comments": 162,
-        "created_at": "2026-05-09T00:39:58.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Vibe coding and agentic engineering are getting closer than I'd like",
         "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-        "points": 778,
-        "comments": 875,
+        "points": 780,
+        "comments": 879,
         "created_at": "2026-05-06T15:06:37.000Z"
       },
       {
@@ -141,11 +141,25 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+        "url": "https://github.com/nooga/let-go",
+        "points": 153,
+        "comments": 40,
+        "created_at": "2026-05-09T17:52:13.000Z"
+      },
+      {
         "title": "Read Programming as Theory Building",
         "url": "https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/",
-        "points": 69,
-        "comments": 13,
+        "points": 81,
+        "comments": 19,
         "created_at": "2026-05-09T13:31:53.000Z"
+      },
+      {
+        "title": "Making your own programming language is easier than you think (but also harder)",
+        "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
+        "points": 92,
+        "comments": 41,
+        "created_at": "2026-05-07T13:01:21.000Z"
       },
       {
         "title": "VLC, FFmpeg, Video Codecs, Assembly Programming (Lex Fridman Podcast)",
@@ -155,25 +169,11 @@
         "created_at": "2026-05-06T22:11:54.000Z"
       },
       {
-        "title": "Show HN: I wrote a flight simulator in my own programming language",
-        "url": "https://github.com/navid-m/flightsim",
-        "points": 44,
-        "comments": 9,
-        "created_at": "2026-05-06T21:58:05.000Z"
-      },
-      {
         "title": "Programming Still Sucks",
         "url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
-        "points": 704,
-        "comments": 327,
+        "points": 710,
+        "comments": 329,
         "created_at": "2026-05-06T19:06:41.000Z"
-      },
-      {
-        "title": "Ask HN: The death of software development as a job?",
-        "url": "https://news.ycombinator.com/item?id=48030736",
-        "points": 18,
-        "comments": 32,
-        "created_at": "2026-05-06T00:42:32.000Z"
       }
     ]
   }
