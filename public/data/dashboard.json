@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-05-11T09:38:19.705Z",
+  "updatedAt": "2026-05-11T19:45:32.299Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 27.6,
-      "humidity": 26,
-      "wind_kph": 19.4,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 18.6,
+      "humidity": 35,
+      "wind_kph": 8.6,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-05-12",
-      "temp_max_c": 31.4,
+      "temp_max_c": 31.8,
       "temp_min_c": 15.9,
-      "humidity_max": 38,
-      "humidity_min": 17,
-      "wind_kph": 20.9,
+      "humidity_max": 39,
+      "humidity_min": 15,
+      "wind_kph": 21.7,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4715.03,
     "oilUSD": 79,
-    "updatedAt": "2026-05-11T09:38:19.705Z",
+    "updatedAt": "2026-05-11T19:45:32.299Z",
     "gold24KUSD": 151.59,
     "gold21KUSD": 132.64,
     "gold18KUSD": 113.69,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.851,
-    "GBP": 0.7361,
-    "SAR": 3.7512
+    "EUR": 0.8501,
+    "GBP": 0.7353,
+    "SAR": 3.7503
   },
   "prayer": {
     "fajr": "04:27",
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
-        "url": "https://github.com/adamjgmiller/adamsreview",
+        "title": "Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
+        "url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
+        "points": 126,
+        "comments": 132,
+        "created_at": "2026-05-11T15:53:23.000Z"
+      },
+      {
+        "title": "Show HN: Free tool to see how much AI bots are costing your site",
+        "url": "https://botcost.dev",
+        "points": 16,
+        "comments": 15,
+        "created_at": "2026-05-11T15:09:13.000Z"
+      },
+      {
+        "title": "AI-powered hacking has exploded into industrial-scale threat, Google says",
+        "url": "https://www.theguardian.com/technology/2026/may/11/ai-powered-hacking-industrial-scale-threat-three-months-google",
+        "points": 17,
+        "comments": 5,
+        "created_at": "2026-05-11T14:56:41.000Z"
+      },
+      {
+        "title": "What's Wrong with AI?",
+        "url": "https://kurtis.weblog.lol/2026/05/whats-wrong-with-ai",
         "points": 32,
-        "comments": 10,
-        "created_at": "2026-05-11T02:06:29.000Z"
+        "comments": 26,
+        "created_at": "2026-05-11T14:18:28.000Z"
       },
       {
-        "title": "Make America AI ready: Strengths, weaknesses, and recommendations",
-        "url": "https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/",
-        "points": 20,
-        "comments": 11,
-        "created_at": "2026-05-11T00:10:34.000Z"
-      },
-      {
-        "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-        "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-        "points": 158,
-        "comments": 40,
-        "created_at": "2026-05-10T23:39:55.000Z"
-      },
-      {
-        "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-        "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
-        "points": 163,
-        "comments": 116,
-        "created_at": "2026-05-10T23:36:48.000Z"
-      },
-      {
-        "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
-        "points": 249,
-        "comments": 143,
-        "created_at": "2026-05-10T21:16:58.000Z"
+        "title": "Forget the AI job apocalypse. AIs real threat is worker control and surveillance",
+        "url": "https://www.theguardian.com/technology/2026/may/11/ai-worker-control-surveillance",
+        "points": 26,
+        "comments": 4,
+        "created_at": "2026-05-11T12:06:02.000Z"
       }
     ],
     "vibeCoding": [
@@ -113,8 +113,8 @@
       {
         "title": "Vibe coding and agentic engineering are getting closer than I'd like",
         "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-        "points": 781,
-        "comments": 882,
+        "points": 782,
+        "comments": 884,
         "created_at": "2026-05-06T15:06:37.000Z"
       },
       {
@@ -143,8 +143,8 @@
       {
         "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
         "url": "https://matt.might.net/articles/implementing-a-programming-language/",
-        "points": 49,
-        "comments": 11,
+        "points": 93,
+        "comments": 33,
         "created_at": "2026-05-11T04:34:40.000Z"
       },
       {
@@ -157,21 +157,21 @@
       {
         "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
         "url": "https://github.com/nooga/let-go",
-        "points": 255,
+        "points": 265,
         "comments": 82,
         "created_at": "2026-05-09T17:52:13.000Z"
       },
       {
         "title": "Read Programming as Theory Building",
         "url": "https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/",
-        "points": 83,
+        "points": 84,
         "comments": 19,
         "created_at": "2026-05-09T13:31:53.000Z"
       },
       {
         "title": "Ice Cream Blending (1965) [pdf]",
         "url": "https://bitsavers.org/pdf/ibm/generalInfo/E20-0156-0_Linear_Programming_-_Ice_Cream_Blending.pdf",
-        "points": 11,
+        "points": 25,
         "comments": 1,
         "created_at": "2026-05-08T18:21:55.000Z"
       }
