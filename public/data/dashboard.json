@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-05-10T19:02:38.778Z",
+  "updatedAt": "2026-05-11T09:38:19.705Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 19.8,
-      "humidity": 41,
-      "wind_kph": 9.1,
+      "temp_c": 27.6,
+      "humidity": 26,
+      "wind_kph": 19.4,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-05-11",
-      "temp_max_c": 28.5,
-      "temp_min_c": 15.4,
-      "humidity_max": 52,
-      "humidity_min": 22,
-      "wind_kph": 27.8,
+      "date": "2026-05-12",
+      "temp_max_c": 31.4,
+      "temp_min_c": 15.9,
+      "humidity_max": 38,
+      "humidity_min": 17,
+      "wind_kph": 20.9,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4715.28,
+    "goldUSD": 4715.03,
     "oilUSD": 79,
-    "updatedAt": "2026-05-10T19:02:38.778Z",
-    "gold24KUSD": 151.6,
-    "gold21KUSD": 132.65,
-    "gold18KUSD": 113.7,
+    "updatedAt": "2026-05-11T09:38:19.705Z",
+    "gold24KUSD": 151.59,
+    "gold21KUSD": 132.64,
+    "gold18KUSD": 113.69,
     "gold24KJD": 107.48,
-    "gold21KJD": 94.05,
+    "gold21KJD": 94.04,
     "gold18KJD": 80.61
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8504,
-    "GBP": 0.7351,
-    "SAR": 3.7502
+    "EUR": 0.851,
+    "GBP": 0.7361,
+    "SAR": 3.7512
   },
   "prayer": {
-    "fajr": "04:28",
+    "fajr": "04:27",
     "maghrib": "19:23",
-    "date": "10 May 2010"
+    "date": "11 May 2011"
   },
   "events": [
     {
@@ -67,47 +67,54 @@
   "news": {
     "ai": [
       {
-        "title": "Wall Street lawyers aided insider trading ring, say US prosecutors",
-        "url": "https://www.ft.com/content/d2fbe2c3-103a-4d09-b510-db58c5f8697d",
-        "points": 14,
-        "comments": 1,
-        "created_at": "2026-05-10T16:42:08.000Z"
+        "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+        "url": "https://github.com/adamjgmiller/adamsreview",
+        "points": 32,
+        "comments": 10,
+        "created_at": "2026-05-11T02:06:29.000Z"
       },
       {
-        "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-        "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
-        "points": 58,
-        "comments": 26,
-        "created_at": "2026-05-10T15:22:46.000Z"
+        "title": "Make America AI ready: Strengths, weaknesses, and recommendations",
+        "url": "https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/",
+        "points": 20,
+        "comments": 11,
+        "created_at": "2026-05-11T00:10:34.000Z"
       },
       {
-        "title": "AI Is Forcing CEOs to Make a Stark Choice: Lay Off Workers or Make Them Do More",
-        "url": "https://www.wsj.com/tech/ai/ai-is-forcing-ceos-to-make-a-stark-choice-lay-off-workers-or-make-them-do-more-6b1ed771",
-        "points": 12,
-        "comments": 4,
-        "created_at": "2026-05-10T13:10:01.000Z"
+        "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+        "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+        "points": 158,
+        "comments": 40,
+        "created_at": "2026-05-10T23:39:55.000Z"
       },
       {
-        "title": "The left-wing case for AI",
-        "url": "https://www.seangoedecke.com/the-left-wing-case-for-ai/",
-        "points": 12,
-        "comments": 9,
-        "created_at": "2026-05-10T12:01:03.000Z"
+        "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+        "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+        "points": 163,
+        "comments": 116,
+        "created_at": "2026-05-10T23:36:48.000Z"
       },
       {
-        "title": "Israel's AI targeting system: data from a phone become a death sentence",
-        "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
-        "points": 39,
-        "comments": 4,
-        "created_at": "2026-05-10T10:51:47.000Z"
+        "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+        "points": 249,
+        "comments": 143,
+        "created_at": "2026-05-10T21:16:58.000Z"
       }
     ],
     "vibeCoding": [
       {
+        "title": "Show HN: Blamo A vibecoded app for vibecoding vibe games",
+        "url": "https://www.blamo.ai/",
+        "points": 11,
+        "comments": 10,
+        "created_at": "2026-05-07T23:06:24.000Z"
+      },
+      {
         "title": "Vibe coding and agentic engineering are getting closer than I'd like",
         "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
         "points": 781,
-        "comments": 881,
+        "comments": 882,
         "created_at": "2026-05-06T15:06:37.000Z"
       },
       {
@@ -130,16 +137,16 @@
         "points": 80,
         "comments": 84,
         "created_at": "2026-04-28T05:35:34.000Z"
-      },
-      {
-        "title": "Git-based cache saves 50% on token usage",
-        "url": "https://old.reddit.com/r/vibecoding/comments/1sx4agk/gitbased_cache_saves_50_on_token_usage/",
-        "points": 34,
-        "comments": 1,
-        "created_at": "2026-04-27T17:36:20.000Z"
       }
     ],
     "progDb": [
+      {
+        "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+        "url": "https://matt.might.net/articles/implementing-a-programming-language/",
+        "points": 49,
+        "comments": 11,
+        "created_at": "2026-05-11T04:34:40.000Z"
+      },
       {
         "title": "Notes on using GNU Emacs' Tramp system in an unusual shell environment",
         "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes",
@@ -150,30 +157,23 @@
       {
         "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
         "url": "https://github.com/nooga/let-go",
-        "points": 240,
-        "comments": 68,
+        "points": 255,
+        "comments": 82,
         "created_at": "2026-05-09T17:52:13.000Z"
       },
       {
         "title": "Read Programming as Theory Building",
         "url": "https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/",
-        "points": 82,
+        "points": 83,
         "comments": 19,
         "created_at": "2026-05-09T13:31:53.000Z"
       },
       {
-        "title": "Making your own programming language is easier than you think (but also harder)",
-        "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
-        "points": 122,
-        "comments": 72,
-        "created_at": "2026-05-07T13:01:21.000Z"
-      },
-      {
-        "title": "VLC, FFmpeg, Video Codecs, Assembly Programming (Lex Fridman Podcast)",
-        "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-        "points": 12,
-        "comments": 0,
-        "created_at": "2026-05-06T22:11:54.000Z"
+        "title": "Ice Cream Blending (1965) [pdf]",
+        "url": "https://bitsavers.org/pdf/ibm/generalInfo/E20-0156-0_Linear_Programming_-_Ice_Cream_Blending.pdf",
+        "points": 11,
+        "comments": 1,
+        "created_at": "2026-05-08T18:21:55.000Z"
       }
     ]
   }
