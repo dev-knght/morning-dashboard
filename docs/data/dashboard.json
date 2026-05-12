@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-05-11T19:45:32.299Z",
+  "updatedAt": "2026-05-12T08:38:37.317Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 18.6,
-      "humidity": 35,
-      "wind_kph": 8.6,
+      "temp_c": 28,
+      "humidity": 25,
+      "wind_kph": 12.9,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-05-12",
-      "temp_max_c": 31.8,
-      "temp_min_c": 15.9,
-      "humidity_max": 39,
-      "humidity_min": 15,
-      "wind_kph": 21.7,
+      "date": "2026-05-13",
+      "temp_max_c": 27.1,
+      "temp_min_c": 14.7,
+      "humidity_max": 97,
+      "humidity_min": 29,
+      "wind_kph": 26,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4715.03,
+    "goldUSD": 4681.74,
     "oilUSD": 79,
-    "updatedAt": "2026-05-11T19:45:32.299Z",
-    "gold24KUSD": 151.59,
-    "gold21KUSD": 132.64,
-    "gold18KUSD": 113.69,
-    "gold24KJD": 107.48,
-    "gold21KJD": 94.04,
-    "gold18KJD": 80.61
+    "updatedAt": "2026-05-12T08:38:37.317Z",
+    "gold24KUSD": 150.52,
+    "gold21KUSD": 131.71,
+    "gold18KUSD": 112.89,
+    "gold24KJD": 106.72,
+    "gold21KJD": 93.38,
+    "gold18KJD": 80.04
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8501,
-    "GBP": 0.7353,
-    "SAR": 3.7503
+    "EUR": 0.8502,
+    "GBP": 0.7367,
+    "SAR": 3.7515
   },
   "prayer": {
-    "fajr": "04:27",
-    "maghrib": "19:23",
-    "date": "11 May 2011"
+    "fajr": "04:26",
+    "maghrib": "19:25",
+    "date": "12 May 2012"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
-        "url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
-        "points": 126,
-        "comments": 132,
-        "created_at": "2026-05-11T15:53:23.000Z"
+        "title": "GM just laid off IT workers to hire those with stronger AI skills",
+        "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+        "points": 55,
+        "comments": 74,
+        "created_at": "2026-05-11T23:33:04.000Z"
       },
       {
-        "title": "Show HN: Free tool to see how much AI bots are costing your site",
-        "url": "https://botcost.dev",
-        "points": 16,
-        "comments": 15,
-        "created_at": "2026-05-11T15:09:13.000Z"
+        "title": "I let AI build a tool to help me figure out what was waking me up at night",
+        "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+        "points": 168,
+        "comments": 175,
+        "created_at": "2026-05-11T21:04:10.000Z"
       },
       {
-        "title": "AI-powered hacking has exploded into industrial-scale threat, Google says",
-        "url": "https://www.theguardian.com/technology/2026/may/11/ai-powered-hacking-industrial-scale-threat-three-months-google",
-        "points": 17,
-        "comments": 5,
-        "created_at": "2026-05-11T14:56:41.000Z"
+        "title": "If AI writes your code, why use Python?",
+        "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+        "points": 450,
+        "comments": 491,
+        "created_at": "2026-05-11T20:45:55.000Z"
       },
       {
-        "title": "What's Wrong with AI?",
-        "url": "https://kurtis.weblog.lol/2026/05/whats-wrong-with-ai",
-        "points": 32,
-        "comments": 26,
-        "created_at": "2026-05-11T14:18:28.000Z"
+        "title": "Show HN: E2a – Open-source email gateway for AI agents",
+        "url": "https://github.com/Mnexa-AI/e2a",
+        "points": 38,
+        "comments": 3,
+        "created_at": "2026-05-11T20:26:17.000Z"
       },
       {
-        "title": "Forget the AI job apocalypse. AIs real threat is worker control and surveillance",
-        "url": "https://www.theguardian.com/technology/2026/may/11/ai-worker-control-surveillance",
-        "points": 26,
-        "comments": 4,
-        "created_at": "2026-05-11T12:06:02.000Z"
+        "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
+        "url": "https://github.com/ab-613/opengravity",
+        "points": 81,
+        "comments": 24,
+        "created_at": "2026-05-11T20:23:25.000Z"
       }
     ],
     "vibeCoding": [
@@ -113,7 +113,7 @@
       {
         "title": "Vibe coding and agentic engineering are getting closer than I'd like",
         "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-        "points": 782,
+        "points": 784,
         "comments": 884,
         "created_at": "2026-05-06T15:06:37.000Z"
       },
@@ -130,21 +130,14 @@
         "points": 62,
         "comments": 90,
         "created_at": "2026-05-03T16:29:07.000Z"
-      },
-      {
-        "title": "Vibe coding will break your company",
-        "url": "https://www.forbes.com/sites/jasonwingard/2026/04/23/vibe-coding-will-break-your-company/",
-        "points": 80,
-        "comments": 84,
-        "created_at": "2026-04-28T05:35:34.000Z"
       }
     ],
     "progDb": [
       {
         "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
         "url": "https://matt.might.net/articles/implementing-a-programming-language/",
-        "points": 93,
-        "comments": 33,
+        "points": 104,
+        "comments": 36,
         "created_at": "2026-05-11T04:34:40.000Z"
       },
       {
@@ -157,7 +150,7 @@
       {
         "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
         "url": "https://github.com/nooga/let-go",
-        "points": 265,
+        "points": 269,
         "comments": 82,
         "created_at": "2026-05-09T17:52:13.000Z"
       },
@@ -171,7 +164,7 @@
       {
         "title": "Ice Cream Blending (1965) [pdf]",
         "url": "https://bitsavers.org/pdf/ibm/generalInfo/E20-0156-0_Linear_Programming_-_Ice_Cream_Blending.pdf",
-        "points": 25,
+        "points": 27,
         "comments": 1,
         "created_at": "2026-05-08T18:21:55.000Z"
       }
