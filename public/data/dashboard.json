@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-05-12T19:51:05.143Z",
+  "updatedAt": "2026-05-13T08:43:16.934Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 21.9,
-      "humidity": 29,
-      "wind_kph": 4.8,
+      "temp_c": 24.2,
+      "humidity": 44,
+      "wind_kph": 23.5,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-05-13",
-      "temp_max_c": 27.9,
-      "temp_min_c": 15.2,
-      "humidity_max": 97,
-      "humidity_min": 24,
-      "wind_kph": 24.2,
+      "date": "2026-05-14",
+      "temp_max_c": 30.5,
+      "temp_min_c": 14.7,
+      "humidity_max": 52,
+      "humidity_min": 12,
+      "wind_kph": 22.1,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4681.74,
+    "goldUSD": 4767.16,
     "oilUSD": 79,
-    "updatedAt": "2026-05-12T19:51:05.143Z",
-    "gold24KUSD": 150.52,
-    "gold21KUSD": 131.71,
-    "gold18KUSD": 112.89,
-    "gold24KJD": 106.72,
-    "gold21KJD": 93.38,
-    "gold18KJD": 80.04
+    "updatedAt": "2026-05-13T08:43:16.934Z",
+    "gold24KUSD": 153.27,
+    "gold21KUSD": 134.11,
+    "gold18KUSD": 114.95,
+    "gold24KJD": 108.67,
+    "gold21KJD": 95.08,
+    "gold18KJD": 81.5
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8512,
-    "GBP": 0.7385,
-    "SAR": 3.7503
+    "EUR": 0.8522,
+    "GBP": 0.7381,
+    "SAR": 3.7522
   },
   "prayer": {
-    "fajr": "04:26",
+    "fajr": "04:25",
     "maghrib": "19:25",
-    "date": "12 May 2012"
+    "date": "13 May 2013"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
+        "title": "AI shouldn't have a meter. Unlimited tokens. Forever",
+        "url": "https://www.openmonoagent.ai/",
+        "points": 16,
+        "comments": 16,
+        "created_at": "2026-05-13T00:58:51.000Z"
+      },
+      {
+        "title": "Kash Patel Touts AI Overhaul of FBI Crime-Fighting Operations",
+        "url": "https://decrypt.co/367431/kash-patel-ai-overhaul-fbi-crime-fighting-operations",
+        "points": 16,
+        "comments": 4,
+        "created_at": "2026-05-12T19:49:34.000Z"
+      },
+      {
+        "title": "AI isn't paying off in the way companies think according to Gartner study",
+        "url": "https://fortune.com/2026/05/11/ai-automation-layoffs-gartner-study-roi/",
+        "points": 34,
+        "comments": 11,
+        "created_at": "2026-05-12T19:00:49.000Z"
+      },
+      {
         "title": "Reimagining the mouse pointer for the AI era",
         "url": "https://deepmind.google/blog/ai-pointer/",
-        "points": 52,
-        "comments": 41,
+        "points": 192,
+        "comments": 164,
         "created_at": "2026-05-12T17:40:13.000Z"
       },
       {
         "title": "Show HN: Agentic interface for mainframes and COBOL",
         "url": "https://www.hypercubic.ai/hopper",
-        "points": 27,
-        "comments": 8,
+        "points": 70,
+        "comments": 41,
         "created_at": "2026-05-12T17:10:22.000Z"
-      },
-      {
-        "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
-        "url": "https://news.ycombinator.com/item?id=48110593",
-        "points": 22,
-        "comments": 8,
-        "created_at": "2026-05-12T16:32:54.000Z"
-      },
-      {
-        "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-        "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
-        "points": 185,
-        "comments": 165,
-        "created_at": "2026-05-12T16:29:21.000Z"
-      },
-      {
-        "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-        "url": "https://voker.ai",
-        "points": 29,
-        "comments": 13,
-        "created_at": "2026-05-12T15:45:20.000Z"
       }
     ],
     "vibeCoding": [
@@ -136,7 +136,7 @@
       {
         "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
         "url": "https://matt.might.net/articles/implementing-a-programming-language/",
-        "points": 106,
+        "points": 107,
         "comments": 38,
         "created_at": "2026-05-11T04:34:40.000Z"
       },
@@ -150,7 +150,7 @@
       {
         "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
         "url": "https://github.com/nooga/let-go",
-        "points": 270,
+        "points": 273,
         "comments": 83,
         "created_at": "2026-05-09T17:52:13.000Z"
       },
