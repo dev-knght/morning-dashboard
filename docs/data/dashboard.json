@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-05-14T08:36:42.671Z",
+  "updatedAt": "2026-05-14T19:44:31.095Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 27.9,
-      "humidity": 21,
-      "wind_kph": 18.1,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 20.1,
+      "humidity": 28,
+      "wind_kph": 4.1,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-05-15",
-      "temp_max_c": 23.7,
+      "temp_max_c": 23.8,
       "temp_min_c": 14.7,
-      "humidity_max": 89,
-      "humidity_min": 34,
-      "wind_kph": 31.8,
+      "humidity_max": 91,
+      "humidity_min": 33,
+      "wind_kph": 29.9,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4722.34,
     "oilUSD": 79,
-    "updatedAt": "2026-05-14T08:36:42.671Z",
+    "updatedAt": "2026-05-14T19:44:31.095Z",
     "gold24KUSD": 151.83,
     "gold21KUSD": 132.85,
     "gold18KUSD": 113.87,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8539,
-    "GBP": 0.7398,
-    "SAR": 3.7521
+    "EUR": 0.8542,
+    "GBP": 0.74,
+    "SAR": 3.7504
   },
   "prayer": {
     "fajr": "04:24",
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI coders are carrying half-open laptops through airports, offices, ice rinks",
-        "url": "https://www.businessinsider.com/coders-keep-laptops-open-in-public-ai-agent-2026-5",
-        "points": 15,
-        "comments": 18,
-        "created_at": "2026-05-14T05:19:09.000Z"
+        "title": "The AI Zombification of Universities",
+        "url": "https://www.thenewcritic.com/p/the-great-zombification",
+        "points": 22,
+        "comments": 4,
+        "created_at": "2026-05-14T18:37:08.000Z"
       },
       {
-        "title": "Arena AI Model ELO History",
-        "url": "https://mayerwin.github.io/AI-Arena-History/",
-        "points": 55,
-        "comments": 32,
-        "created_at": "2026-05-14T03:19:05.000Z"
+        "title": "AI is making me dumb",
+        "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+        "points": 197,
+        "comments": 132,
+        "created_at": "2026-05-14T18:19:28.000Z"
       },
       {
-        "title": "The other half of AI safety",
-        "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
-        "points": 78,
-        "comments": 96,
-        "created_at": "2026-05-14T00:27:20.000Z"
-      },
-      {
-        "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
-        "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-        "points": 73,
-        "comments": 51,
-        "created_at": "2026-05-13T21:24:14.000Z"
-      },
-      {
-        "title": "Apple Is Quietly Building the Most Profitable AI Toll Booth",
-        "url": "https://seekingalpha.com/article/4902208-apple-quietly-building-most-profitable-ai-toll-booth",
-        "points": 18,
+        "title": "You Don't Align an AI, You Align with It",
+        "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
+        "points": 21,
         "comments": 5,
-        "created_at": "2026-05-13T20:44:12.000Z"
+        "created_at": "2026-05-14T18:19:13.000Z"
+      },
+      {
+        "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+        "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+        "points": 323,
+        "comments": 86,
+        "created_at": "2026-05-14T15:47:31.000Z"
+      },
+      {
+        "title": "Bitcoin trader recovers wallet with help of Claude",
+        "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
+        "points": 295,
+        "comments": 150,
+        "created_at": "2026-05-14T14:49:48.000Z"
       }
     ],
     "vibeCoding": [
@@ -136,9 +136,16 @@
       {
         "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
         "url": "https://matt.might.net/articles/implementing-a-programming-language/",
-        "points": 108,
+        "points": 109,
         "comments": 38,
         "created_at": "2026-05-11T04:34:40.000Z"
+      },
+      {
+        "title": "Technical Dimensions of Live Feedback in Programming Systems",
+        "url": "https://joshuahhh.com/dims-of-feedback/",
+        "points": 47,
+        "comments": 6,
+        "created_at": "2026-05-10T14:56:05.000Z"
       },
       {
         "title": "Notes on using GNU Emacs' Tramp system in an unusual shell environment",
@@ -150,8 +157,8 @@
       {
         "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
         "url": "https://github.com/nooga/let-go",
-        "points": 278,
-        "comments": 83,
+        "points": 280,
+        "comments": 84,
         "created_at": "2026-05-09T17:52:13.000Z"
       },
       {
@@ -160,13 +167,6 @@
         "points": 84,
         "comments": 19,
         "created_at": "2026-05-09T13:31:53.000Z"
-      },
-      {
-        "title": "Ice Cream Blending (1965) [pdf]",
-        "url": "https://bitsavers.org/pdf/ibm/generalInfo/E20-0156-0_Linear_Programming_-_Ice_Cream_Blending.pdf",
-        "points": 28,
-        "comments": 1,
-        "created_at": "2026-05-08T18:21:55.000Z"
       }
     ]
   }
