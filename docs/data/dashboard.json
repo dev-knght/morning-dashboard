@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-05-13T19:53:57.090Z",
+  "updatedAt": "2026-05-14T08:36:42.671Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 18,
-      "humidity": 58,
-      "wind_kph": 6.6,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 27.9,
+      "humidity": 21,
+      "wind_kph": 18.1,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-05-14",
-      "temp_max_c": 30.2,
-      "temp_min_c": 15.4,
-      "humidity_max": 56,
-      "humidity_min": 14,
-      "wind_kph": 28.1,
+      "date": "2026-05-15",
+      "temp_max_c": 23.7,
+      "temp_min_c": 14.7,
+      "humidity_max": 89,
+      "humidity_min": 34,
+      "wind_kph": 31.8,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4767.16,
+    "goldUSD": 4722.34,
     "oilUSD": 79,
-    "updatedAt": "2026-05-13T19:53:57.090Z",
-    "gold24KUSD": 153.27,
-    "gold21KUSD": 134.11,
-    "gold18KUSD": 114.95,
-    "gold24KJD": 108.67,
-    "gold21KJD": 95.08,
-    "gold18KJD": 81.5
+    "updatedAt": "2026-05-14T08:36:42.671Z",
+    "gold24KUSD": 151.83,
+    "gold21KUSD": 132.85,
+    "gold18KUSD": 113.87,
+    "gold24KJD": 107.65,
+    "gold21KJD": 94.19,
+    "gold18KJD": 80.73
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8535,
-    "GBP": 0.7393,
-    "SAR": 3.7506
+    "EUR": 0.8539,
+    "GBP": 0.7398,
+    "SAR": 3.7521
   },
   "prayer": {
-    "fajr": "04:25",
-    "maghrib": "19:25",
-    "date": "13 May 2013"
+    "fajr": "04:24",
+    "maghrib": "19:26",
+    "date": "14 May 2014"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "Billionaire solipsism, dictator solipsism, AI, and the fascist paradigm",
-        "url": "https://pluralistic.net/2026/05/13/vibe-governance/",
-        "points": 11,
-        "comments": 2,
-        "created_at": "2026-05-13T16:58:47.000Z"
+        "title": "AI coders are carrying half-open laptops through airports, offices, ice rinks",
+        "url": "https://www.businessinsider.com/coders-keep-laptops-open-in-public-ai-agent-2026-5",
+        "points": 15,
+        "comments": 18,
+        "created_at": "2026-05-14T05:19:09.000Z"
       },
       {
-        "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
-        "url": "https://www.tryardent.com/",
-        "points": 37,
-        "comments": 19,
-        "created_at": "2026-05-13T16:54:03.000Z"
+        "title": "Arena AI Model ELO History",
+        "url": "https://mayerwin.github.io/AI-Arena-History/",
+        "points": 55,
+        "comments": 32,
+        "created_at": "2026-05-14T03:19:05.000Z"
       },
       {
-        "title": "The AI Backlash Could Get Ugly",
-        "url": "https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/",
-        "points": 58,
-        "comments": 130,
-        "created_at": "2026-05-13T14:44:41.000Z"
+        "title": "The other half of AI safety",
+        "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+        "points": 78,
+        "comments": 96,
+        "created_at": "2026-05-14T00:27:20.000Z"
       },
       {
-        "title": "Ask HN: What are you working on (non-AI)?",
-        "url": "https://news.ycombinator.com/item?id=48122103",
-        "points": 20,
-        "comments": 25,
-        "created_at": "2026-05-13T14:07:52.000Z"
+        "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
+        "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+        "points": 73,
+        "comments": 51,
+        "created_at": "2026-05-13T21:24:14.000Z"
       },
       {
-        "title": "The US is winning the AI race where it matters most: commercialization",
-        "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-        "points": 95,
-        "comments": 255,
-        "created_at": "2026-05-13T13:53:53.000Z"
+        "title": "Apple Is Quietly Building the Most Profitable AI Toll Booth",
+        "url": "https://seekingalpha.com/article/4902208-apple-quietly-building-most-profitable-ai-toll-booth",
+        "points": 18,
+        "comments": 5,
+        "created_at": "2026-05-13T20:44:12.000Z"
       }
     ],
     "vibeCoding": [
@@ -113,7 +113,7 @@
       {
         "title": "Vibe coding and agentic engineering are getting closer than I'd like",
         "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-        "points": 785,
+        "points": 787,
         "comments": 884,
         "created_at": "2026-05-06T15:06:37.000Z"
       },
@@ -136,7 +136,7 @@
       {
         "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
         "url": "https://matt.might.net/articles/implementing-a-programming-language/",
-        "points": 107,
+        "points": 108,
         "comments": 38,
         "created_at": "2026-05-11T04:34:40.000Z"
       },
@@ -150,7 +150,7 @@
       {
         "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
         "url": "https://github.com/nooga/let-go",
-        "points": 276,
+        "points": 278,
         "comments": 83,
         "created_at": "2026-05-09T17:52:13.000Z"
       },
