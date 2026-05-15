@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-05-15T08:48:11.846Z",
+  "updatedAt": "2026-05-15T19:27:59.345Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 23.7,
-      "humidity": 43,
-      "wind_kph": 29.7,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 14.9,
+      "humidity": 87,
+      "wind_kph": 19.8,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-05-16",
-      "temp_max_c": 23.1,
-      "temp_min_c": 13.5,
-      "humidity_max": 94,
-      "humidity_min": 40,
-      "wind_kph": 28.8,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_max_c": 22.4,
+      "temp_min_c": 13.7,
+      "humidity_max": 93,
+      "humidity_min": 43,
+      "wind_kph": 29.2,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
     "goldUSD": 4696.48,
     "oilUSD": 79,
-    "updatedAt": "2026-05-15T08:48:11.846Z",
+    "updatedAt": "2026-05-15T19:27:59.345Z",
     "gold24KUSD": 151,
     "gold21KUSD": 132.12,
     "gold18KUSD": 113.25,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8596,
-    "GBP": 0.7494,
-    "SAR": 3.7532
+    "EUR": 0.8598,
+    "GBP": 0.7491,
+    "SAR": 3.7505
   },
   "prayer": {
     "fajr": "04:24",
@@ -67,42 +67,49 @@
   "news": {
     "ai": [
       {
-        "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-        "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-        "points": 107,
-        "comments": 22,
-        "created_at": "2026-05-15T03:56:14.000Z"
+        "title": "Travelers on Air Force One ordered to throw away gifts, phones after China trip",
+        "url": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
+        "points": 20,
+        "comments": 21,
+        "created_at": "2026-05-15T18:11:03.000Z"
       },
       {
-        "title": "Access to frontier AI will soon be limited by economic and security constraints",
-        "url": "https://writing.antonleicht.me/p/cut-off",
-        "points": 143,
-        "comments": 110,
-        "created_at": "2026-05-15T01:08:04.000Z"
+        "title": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
+        "url": "https://github.com/sleuth-io/sx",
+        "points": 17,
+        "comments": 5,
+        "created_at": "2026-05-15T17:03:22.000Z"
       },
       {
-        "title": "I built a live map for tracking military aircraft activity worldwide",
-        "url": "https://skyrane.com/",
-        "points": 11,
-        "comments": 3,
-        "created_at": "2026-05-15T00:03:21.000Z"
+        "title": "AI is wiping out entry-level jobs",
+        "url": "https://fortune.com/2026/05/15/ai-entry-level-jobs-higher-education-experience-gap/",
+        "points": 38,
+        "comments": 74,
+        "created_at": "2026-05-15T13:38:13.000Z"
       },
       {
-        "title": "Have a Coherent AI Policy",
-        "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
-        "points": 66,
-        "comments": 60,
-        "created_at": "2026-05-14T23:24:45.000Z"
+        "title": "We are retiring our bug bounty program",
+        "url": "https://turso.tech/blog/the-wonders-of-ai",
+        "points": 331,
+        "comments": 242,
+        "created_at": "2026-05-15T13:33:15.000Z"
       },
       {
-        "title": "AI Poop Analysis App Offered to Sell Me Database of Its Users' Poops",
-        "url": "https://www.404media.co/ai-poop-analysis-app-offered-to-sell-me-access-to-its-users-poops/",
-        "points": 12,
-        "comments": 0,
-        "created_at": "2026-05-14T22:51:02.000Z"
+        "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+        "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+        "points": 249,
+        "comments": 243,
+        "created_at": "2026-05-15T13:28:55.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Show HN: Vibe Coding a $20k /Year Enterprise Logistics Platform",
+        "url": "https://trmnl.com/blog/vibe-coding-shiphero",
+        "points": 23,
+        "comments": 5,
+        "created_at": "2026-05-15T13:51:39.000Z"
+      },
       {
         "title": "Show HN: Blamo A vibecoded app for vibecoding vibe games",
         "url": "https://www.blamo.ai/",
@@ -157,8 +164,8 @@
       {
         "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
         "url": "https://github.com/nooga/let-go",
-        "points": 281,
-        "comments": 86,
+        "points": 284,
+        "comments": 85,
         "created_at": "2026-05-09T17:52:13.000Z"
       },
       {
