@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-05-15T19:27:59.345Z",
+  "updatedAt": "2026-05-16T08:03:11.851Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 14.9,
-      "humidity": 87,
-      "wind_kph": 19.8,
+      "temp_c": 19.5,
+      "humidity": 53,
+      "wind_kph": 25.8,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-05-16",
-      "temp_max_c": 22.4,
-      "temp_min_c": 13.7,
-      "humidity_max": 93,
-      "humidity_min": 43,
-      "wind_kph": 29.2,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "date": "2026-05-17",
+      "temp_max_c": 30,
+      "temp_min_c": 12.2,
+      "humidity_max": 87,
+      "humidity_min": 21,
+      "wind_kph": 26.7,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 4696.48,
+    "goldUSD": 4648.07,
     "oilUSD": 79,
-    "updatedAt": "2026-05-15T19:27:59.345Z",
-    "gold24KUSD": 151,
-    "gold21KUSD": 132.12,
-    "gold18KUSD": 113.25,
-    "gold24KJD": 107.06,
-    "gold21KJD": 93.67,
-    "gold18KJD": 80.29
+    "updatedAt": "2026-05-16T08:03:11.851Z",
+    "gold24KUSD": 149.44,
+    "gold21KUSD": 130.76,
+    "gold18KUSD": 112.08,
+    "gold24KJD": 105.95,
+    "gold21KJD": 92.71,
+    "gold18KJD": 79.46
   },
   "exchange": {
     "JOD": 0.709,
     "EUR": 0.8598,
-    "GBP": 0.7491,
+    "GBP": 0.7493,
     "SAR": 3.7505
   },
   "prayer": {
-    "fajr": "04:24",
-    "maghrib": "19:26",
-    "date": "15 May 2015"
+    "fajr": "04:22",
+    "maghrib": "19:27",
+    "date": "16 May 2016"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "Travelers on Air Force One ordered to throw away gifts, phones after China trip",
-        "url": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
-        "points": 20,
-        "comments": 21,
-        "created_at": "2026-05-15T18:11:03.000Z"
+        "title": "Frontier AI has broken the open CTF format",
+        "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+        "points": 47,
+        "comments": 22,
+        "created_at": "2026-05-16T07:01:55.000Z"
       },
       {
-        "title": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
-        "url": "https://github.com/sleuth-io/sx",
-        "points": 17,
+        "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
+        "url": "https://ljtn.github.io/epiq/",
+        "points": 50,
+        "comments": 14,
+        "created_at": "2026-05-16T00:18:03.000Z"
+      },
+      {
+        "title": "Prepare for an AI Jobs Apocalypse",
+        "url": "https://www.economist.com/leaders/2026/05/14/prepare-for-an-ai-jobs-apocalypse",
+        "points": 16,
+        "comments": 8,
+        "created_at": "2026-05-15T21:25:29.000Z"
+      },
+      {
+        "title": "I believe there are entire companies right now under AI psychosis",
+        "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+        "points": 1255,
+        "comments": 598,
+        "created_at": "2026-05-15T20:26:47.000Z"
+      },
+      {
+        "title": "Your AI Use Is Breaking My Brain",
+        "url": "https://www.404media.co/your-ai-use-is-breaking-my-brain/",
+        "points": 28,
         "comments": 5,
-        "created_at": "2026-05-15T17:03:22.000Z"
-      },
-      {
-        "title": "AI is wiping out entry-level jobs",
-        "url": "https://fortune.com/2026/05/15/ai-entry-level-jobs-higher-education-experience-gap/",
-        "points": 38,
-        "comments": 74,
-        "created_at": "2026-05-15T13:38:13.000Z"
-      },
-      {
-        "title": "We are retiring our bug bounty program",
-        "url": "https://turso.tech/blog/the-wonders-of-ai",
-        "points": 331,
-        "comments": 242,
-        "created_at": "2026-05-15T13:33:15.000Z"
-      },
-      {
-        "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-        "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
-        "points": 249,
-        "comments": 243,
-        "created_at": "2026-05-15T13:28:55.000Z"
+        "created_at": "2026-05-15T19:38:29.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Show HN: Vibe Coding a $20k /Year Enterprise Logistics Platform",
         "url": "https://trmnl.com/blog/vibe-coding-shiphero",
-        "points": 23,
-        "comments": 5,
+        "points": 29,
+        "comments": 6,
         "created_at": "2026-05-15T13:51:39.000Z"
       },
       {
@@ -141,6 +141,13 @@
     ],
     "progDb": [
       {
+        "title": "Spectre Programming Language",
+        "url": "https://spectre-docs.pages.dev",
+        "points": 31,
+        "comments": 6,
+        "created_at": "2026-05-15T23:14:51.000Z"
+      },
+      {
         "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
         "url": "https://matt.might.net/articles/implementing-a-programming-language/",
         "points": 110,
@@ -150,7 +157,7 @@
       {
         "title": "Technical Dimensions of Live Feedback in Programming Systems",
         "url": "https://joshuahhh.com/dims-of-feedback/",
-        "points": 49,
+        "points": 50,
         "comments": 6,
         "created_at": "2026-05-10T14:56:05.000Z"
       },
@@ -164,16 +171,9 @@
       {
         "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
         "url": "https://github.com/nooga/let-go",
-        "points": 284,
+        "points": 286,
         "comments": 85,
         "created_at": "2026-05-09T17:52:13.000Z"
-      },
-      {
-        "title": "Read Programming as Theory Building",
-        "url": "https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/",
-        "points": 84,
-        "comments": 19,
-        "created_at": "2026-05-09T13:31:53.000Z"
       }
     ]
   }
