@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-05-16T08:03:11.851Z",
+  "updatedAt": "2026-05-16T19:03:23.164Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 19.5,
-      "humidity": 53,
-      "wind_kph": 25.8,
+      "temp_c": 15.2,
+      "humidity": 89,
+      "wind_kph": 11.9,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-05-17",
-      "temp_max_c": 30,
-      "temp_min_c": 12.2,
-      "humidity_max": 87,
-      "humidity_min": 21,
-      "wind_kph": 26.7,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_max_c": 29.7,
+      "temp_min_c": 12.6,
+      "humidity_max": 94,
+      "humidity_min": 22,
+      "wind_kph": 21.8,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
     "goldUSD": 4648.07,
     "oilUSD": 79,
-    "updatedAt": "2026-05-16T08:03:11.851Z",
+    "updatedAt": "2026-05-16T19:03:23.164Z",
     "gold24KUSD": 149.44,
     "gold21KUSD": 130.76,
     "gold18KUSD": 112.08,
@@ -67,46 +67,46 @@
   "news": {
     "ai": [
       {
-        "title": "Frontier AI has broken the open CTF format",
-        "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-        "points": 47,
-        "comments": 22,
-        "created_at": "2026-05-16T07:01:55.000Z"
-      },
-      {
-        "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
-        "url": "https://ljtn.github.io/epiq/",
-        "points": 50,
-        "comments": 14,
-        "created_at": "2026-05-16T00:18:03.000Z"
+        "title": "US Is Starting to See Heavy Job Losses in Roles Exposed to AI",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+        "points": 33,
+        "comments": 13,
+        "created_at": "2026-05-16T17:59:45.000Z"
       },
       {
         "title": "Prepare for an AI Jobs Apocalypse",
         "url": "https://www.economist.com/leaders/2026/05/14/prepare-for-an-ai-jobs-apocalypse",
-        "points": 16,
-        "comments": 8,
-        "created_at": "2026-05-15T21:25:29.000Z"
+        "points": 22,
+        "comments": 6,
+        "created_at": "2026-05-16T11:45:08.000Z"
       },
       {
-        "title": "I believe there are entire companies right now under AI psychosis",
-        "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-        "points": 1255,
-        "comments": 598,
-        "created_at": "2026-05-15T20:26:47.000Z"
+        "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
+        "url": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/",
+        "points": 51,
+        "comments": 59,
+        "created_at": "2026-05-16T08:30:51.000Z"
       },
       {
-        "title": "Your AI Use Is Breaking My Brain",
-        "url": "https://www.404media.co/your-ai-use-is-breaking-my-brain/",
-        "points": 28,
-        "comments": 5,
-        "created_at": "2026-05-15T19:38:29.000Z"
+        "title": "Meet the Sad Wives of AI",
+        "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
+        "points": 12,
+        "comments": 4,
+        "created_at": "2026-05-16T08:04:49.000Z"
+      },
+      {
+        "title": "Frontier AI has broken the open CTF format",
+        "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+        "points": 277,
+        "comments": 248,
+        "created_at": "2026-05-16T07:01:55.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Show HN: Vibe Coding a $20k /Year Enterprise Logistics Platform",
         "url": "https://trmnl.com/blog/vibe-coding-shiphero",
-        "points": 29,
+        "points": 30,
         "comments": 6,
         "created_at": "2026-05-15T13:51:39.000Z"
       },
@@ -143,9 +143,16 @@
       {
         "title": "Spectre Programming Language",
         "url": "https://spectre-docs.pages.dev",
-        "points": 31,
-        "comments": 6,
+        "points": 32,
+        "comments": 10,
         "created_at": "2026-05-15T23:14:51.000Z"
+      },
+      {
+        "title": "Charity – Categorical programming language (1998)",
+        "url": "https://github.com/mietek/charity-lang/blob/master/doc/README.md",
+        "points": 25,
+        "comments": 4,
+        "created_at": "2026-05-12T18:17:37.000Z"
       },
       {
         "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
@@ -167,13 +174,6 @@
         "points": 29,
         "comments": 0,
         "created_at": "2026-05-10T05:36:00.000Z"
-      },
-      {
-        "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-        "url": "https://github.com/nooga/let-go",
-        "points": 286,
-        "comments": 85,
-        "created_at": "2026-05-09T17:52:13.000Z"
       }
     ]
   }
