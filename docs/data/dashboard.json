@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-05-17T08:20:29.285Z",
+  "updatedAt": "2026-05-17T19:08:33.357Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 25.1,
-      "humidity": 35,
-      "wind_kph": 9.1,
+      "temp_c": 25,
+      "humidity": 28,
+      "wind_kph": 8.5,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-05-18",
-      "temp_max_c": 29.2,
-      "temp_min_c": 20,
-      "humidity_max": 58,
-      "humidity_min": 22,
-      "wind_kph": 35,
+      "temp_max_c": 28.9,
+      "temp_min_c": 19.8,
+      "humidity_max": 49,
+      "humidity_min": 24,
+      "wind_kph": 31.2,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4540.15,
     "oilUSD": 79,
-    "updatedAt": "2026-05-17T08:20:29.285Z",
+    "updatedAt": "2026-05-17T19:08:33.357Z",
     "gold24KUSD": 145.97,
     "gold21KUSD": 127.72,
     "gold18KUSD": 109.48,
@@ -67,54 +67,54 @@
   "news": {
     "ai": [
       {
-        "title": "US is starting to see heavy job losses in roles exposed to AI",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
-        "points": 154,
-        "comments": 238,
-        "created_at": "2026-05-16T17:59:45.000Z"
+        "title": "The AI water issue is fake",
+        "url": "https://blog.andymasley.com/p/the-ai-water-issue-is-fake",
+        "points": 66,
+        "comments": 39,
+        "created_at": "2026-05-17T18:35:18.000Z"
       },
       {
-        "title": "Prepare for an AI Jobs Apocalypse",
-        "url": "https://www.economist.com/leaders/2026/05/14/prepare-for-an-ai-jobs-apocalypse",
-        "points": 28,
-        "comments": 12,
-        "created_at": "2026-05-16T11:45:08.000Z"
+        "title": "Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'",
+        "url": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5",
+        "points": 80,
+        "comments": 116,
+        "created_at": "2026-05-17T16:04:28.000Z"
       },
       {
-        "title": "Show HN: A Dark Cave – Minimalistic Graphics in the Age of AI Slop",
-        "url": "https://a-dark-cave.com/",
-        "points": 12,
-        "comments": 6,
-        "created_at": "2026-05-16T08:57:47.000Z"
+        "title": "AI license plate cameras tore this town apart and led to a state of emergency",
+        "url": "https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/",
+        "points": 19,
+        "comments": 7,
+        "created_at": "2026-05-17T15:31:08.000Z"
       },
       {
-        "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
-        "url": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/",
-        "points": 54,
-        "comments": 65,
-        "created_at": "2026-05-16T08:30:51.000Z"
+        "title": "AI is a technology not a product",
+        "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+        "points": 202,
+        "comments": 73,
+        "created_at": "2026-05-17T13:11:20.000Z"
       },
       {
-        "title": "Meet the Sad Wives of AI",
-        "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
-        "points": 12,
-        "comments": 4,
-        "created_at": "2026-05-16T08:04:49.000Z"
+        "title": "I don't think AI will make your processes go faster",
+        "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+        "points": 370,
+        "comments": 278,
+        "created_at": "2026-05-17T12:13:45.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: When did computers stop being fun?",
         "url": "https://news.ycombinator.com/item?id=48164173",
-        "points": 55,
-        "comments": 71,
+        "points": 61,
+        "comments": 81,
         "created_at": "2026-05-16T22:02:51.000Z"
       },
       {
         "title": "Show HN: Vibe Coding a $20k /Year Enterprise Logistics Platform",
         "url": "https://trmnl.com/blog/vibe-coding-shiphero",
         "points": 31,
-        "comments": 6,
+        "comments": 7,
         "created_at": "2026-05-15T13:51:39.000Z"
       },
       {
@@ -141,16 +141,30 @@
     ],
     "progDb": [
       {
+        "title": "XS: A programming language. Anywhere, anytime, by anyone",
+        "url": "https://xslang.org",
+        "points": 30,
+        "comments": 15,
+        "created_at": "2026-05-17T14:48:23.000Z"
+      },
+      {
         "title": "Spectre Programming Language",
         "url": "https://spectre-docs.pages.dev",
-        "points": 32,
+        "points": 33,
         "comments": 11,
         "created_at": "2026-05-15T23:14:51.000Z"
       },
       {
+        "title": "XS Programming Language",
+        "url": "https://news.ycombinator.com/item?id=48143205",
+        "points": 21,
+        "comments": 16,
+        "created_at": "2026-05-15T00:58:29.000Z"
+      },
+      {
         "title": "Charity – Categorical programming language (1998)",
         "url": "https://github.com/mietek/charity-lang/blob/master/doc/README.md",
-        "points": 30,
+        "points": 31,
         "comments": 6,
         "created_at": "2026-05-12T18:17:37.000Z"
       },
@@ -160,20 +174,6 @@
         "points": 110,
         "comments": 38,
         "created_at": "2026-05-11T04:34:40.000Z"
-      },
-      {
-        "title": "Technical Dimensions of Live Feedback in Programming Systems",
-        "url": "https://joshuahhh.com/dims-of-feedback/",
-        "points": 50,
-        "comments": 6,
-        "created_at": "2026-05-10T14:56:05.000Z"
-      },
-      {
-        "title": "Notes on using GNU Emacs' Tramp system in an unusual shell environment",
-        "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes",
-        "points": 29,
-        "comments": 0,
-        "created_at": "2026-05-10T05:36:00.000Z"
       }
     ]
   }
