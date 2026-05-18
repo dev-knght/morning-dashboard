@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-05-17T19:08:33.357Z",
+  "updatedAt": "2026-05-18T10:01:59.521Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 25,
-      "humidity": 28,
-      "wind_kph": 8.5,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
-    },
-    "tomorrow": {
-      "date": "2026-05-18",
-      "temp_max_c": 28.9,
-      "temp_min_c": 19.8,
-      "humidity_max": 49,
-      "humidity_min": 24,
-      "wind_kph": 31.2,
+      "temp_c": 28.9,
+      "humidity": 26,
+      "wind_kph": 25.9,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
+    },
+    "tomorrow": {
+      "date": "2026-05-19",
+      "temp_max_c": 25.2,
+      "temp_min_c": 15.3,
+      "humidity_max": 81,
+      "humidity_min": 31,
+      "wind_kph": 31.8,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4540.15,
+    "goldUSD": 4540.42,
     "oilUSD": 79,
-    "updatedAt": "2026-05-17T19:08:33.357Z",
-    "gold24KUSD": 145.97,
-    "gold21KUSD": 127.72,
+    "updatedAt": "2026-05-18T10:01:59.521Z",
+    "gold24KUSD": 145.98,
+    "gold21KUSD": 127.73,
     "gold18KUSD": 109.48,
-    "gold24KJD": 103.49,
+    "gold24KJD": 103.5,
     "gold21KJD": 90.56,
     "gold18KJD": 77.62
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8598,
-    "GBP": 0.7493,
-    "SAR": 3.7505
+    "EUR": 0.8605,
+    "GBP": 0.7506,
+    "SAR": 3.7525
   },
   "prayer": {
     "fajr": "04:21",
-    "maghrib": "19:28",
-    "date": "17 May 2017"
+    "maghrib": "19:29",
+    "date": "18 May 2018"
   },
   "events": [
     {
@@ -67,47 +67,47 @@
   "news": {
     "ai": [
       {
-        "title": "The AI water issue is fake",
-        "url": "https://blog.andymasley.com/p/the-ai-water-issue-is-fake",
-        "points": 66,
-        "comments": 39,
-        "created_at": "2026-05-17T18:35:18.000Z"
+        "title": "Most Americans don't trust AI – or the people in charge of it (2025)",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai",
+        "points": 97,
+        "comments": 76,
+        "created_at": "2026-05-18T01:39:30.000Z"
       },
       {
-        "title": "Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'",
-        "url": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5",
-        "points": 80,
-        "comments": 116,
-        "created_at": "2026-05-17T16:04:28.000Z"
+        "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
+        "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+        "points": 100,
+        "comments": 49,
+        "created_at": "2026-05-17T21:56:40.000Z"
       },
       {
-        "title": "AI license plate cameras tore this town apart and led to a state of emergency",
-        "url": "https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/",
-        "points": 19,
-        "comments": 7,
-        "created_at": "2026-05-17T15:31:08.000Z"
+        "title": "AI Wearables Are Coming but They'll Need to Pass the Coffee Shop Test to Survive",
+        "url": "https://www.inc.com/connor-jewiss/ai-wearables-are-coming-but-theyll-need-to-pass-this-crucial-coffee-shop-test-to-survive/91345526",
+        "points": 20,
+        "comments": 14,
+        "created_at": "2026-05-17T21:49:44.000Z"
       },
       {
-        "title": "AI is a technology not a product",
-        "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-        "points": 202,
-        "comments": 73,
-        "created_at": "2026-05-17T13:11:20.000Z"
+        "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+        "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+        "points": 194,
+        "comments": 194,
+        "created_at": "2026-05-17T21:45:30.000Z"
       },
       {
-        "title": "I don't think AI will make your processes go faster",
-        "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-        "points": 370,
-        "comments": 278,
-        "created_at": "2026-05-17T12:13:45.000Z"
+        "title": "Japan Team Successfully Test Engine for Mach 5 Aircraft, Eyeing 2HR Trip to US",
+        "url": "https://mainichi.jp/english/articles/20260511/p2a/00m/0sc/015000c",
+        "points": 29,
+        "comments": 18,
+        "created_at": "2026-05-17T21:28:19.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: When did computers stop being fun?",
         "url": "https://news.ycombinator.com/item?id=48164173",
-        "points": 61,
-        "comments": 81,
+        "points": 66,
+        "comments": 87,
         "created_at": "2026-05-16T22:02:51.000Z"
       },
       {
@@ -143,15 +143,15 @@
       {
         "title": "XS: A programming language. Anywhere, anytime, by anyone",
         "url": "https://xslang.org",
-        "points": 30,
-        "comments": 15,
+        "points": 60,
+        "comments": 40,
         "created_at": "2026-05-17T14:48:23.000Z"
       },
       {
         "title": "Spectre Programming Language",
         "url": "https://spectre-docs.pages.dev",
         "points": 33,
-        "comments": 11,
+        "comments": 12,
         "created_at": "2026-05-15T23:14:51.000Z"
       },
       {
@@ -164,7 +164,7 @@
       {
         "title": "Charity – Categorical programming language (1998)",
         "url": "https://github.com/mietek/charity-lang/blob/master/doc/README.md",
-        "points": 31,
+        "points": 32,
         "comments": 6,
         "created_at": "2026-05-12T18:17:37.000Z"
       },
