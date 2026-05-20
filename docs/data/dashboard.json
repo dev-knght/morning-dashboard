@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-05-19T19:51:13.795Z",
+  "updatedAt": "2026-05-20T09:32:21.672Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.7,
-      "humidity": 75,
-      "wind_kph": 12.4,
+      "temp_c": 22.5,
+      "humidity": 43,
+      "wind_kph": 28.9,
       "weather_code": 3,
       "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-05-20",
-      "temp_max_c": 23.4,
-      "temp_min_c": 14.1,
-      "humidity_max": 89,
-      "humidity_min": 38,
-      "wind_kph": 38.5,
+      "date": "2026-05-21",
+      "temp_max_c": 21.4,
+      "temp_min_c": 13.5,
+      "humidity_max": 93,
+      "humidity_min": 48,
+      "wind_kph": 31.3,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4526.97,
+    "goldUSD": 4580.56,
     "oilUSD": 79,
-    "updatedAt": "2026-05-19T19:51:13.795Z",
-    "gold24KUSD": 145.55,
-    "gold21KUSD": 127.35,
-    "gold18KUSD": 109.16,
-    "gold24KJD": 103.19,
-    "gold21KJD": 90.29,
-    "gold18KJD": 77.39
+    "updatedAt": "2026-05-20T09:32:21.672Z",
+    "gold24KUSD": 147.27,
+    "gold21KUSD": 128.86,
+    "gold18KUSD": 110.45,
+    "gold24KJD": 104.41,
+    "gold21KJD": 91.36,
+    "gold18KJD": 78.31
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.86,
-    "GBP": 0.746,
-    "SAR": 3.7504
+    "EUR": 0.8624,
+    "GBP": 0.7467,
+    "SAR": 3.7526
   },
   "prayer": {
-    "fajr": "04:20",
-    "maghrib": "19:29",
-    "date": "19 May 2019"
+    "fajr": "04:19",
+    "maghrib": "19:30",
+    "date": "20 May 2020"
   },
   "events": [
     {
@@ -67,46 +67,46 @@
   "news": {
     "ai": [
       {
-        "title": "Google changes its search box",
-        "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-        "points": 67,
-        "comments": 195,
-        "created_at": "2026-05-19T18:34:27.000Z"
+        "title": "Alternatives to HN for \"tech outside of AI\" discussion?",
+        "url": "https://news.ycombinator.com/item?id=48202486",
+        "points": 20,
+        "comments": 12,
+        "created_at": "2026-05-20T02:43:07.000Z"
       },
       {
-        "title": "Graduates are booing pep talks on AI at college commencements",
-        "url": "https://www.boston25news.com/news/business/graduates-are-booing/A42H2XSTVQ2ZHHVBCKC3X7P32Y/",
-        "points": 11,
+        "title": "AI Didn't Break College. It Exposed What College Was",
+        "url": "https://greyenlightenment.com/2026/05/17/ai-didnt-break-college-it-exposed-what-college-already-was/",
+        "points": 20,
         "comments": 4,
-        "created_at": "2026-05-19T18:18:02.000Z"
+        "created_at": "2026-05-19T23:24:48.000Z"
       },
       {
-        "title": "Gemini 3.5 Flash",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-        "points": 166,
-        "comments": 156,
-        "created_at": "2026-05-19T17:43:45.000Z"
+        "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+        "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+        "points": 276,
+        "comments": 159,
+        "created_at": "2026-05-19T22:30:31.000Z"
       },
       {
-        "title": "Graduates are booing pep talks on AI at college commencements",
-        "url": "https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac",
-        "points": 98,
-        "comments": 139,
-        "created_at": "2026-05-19T17:42:11.000Z"
+        "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+        "url": "https://openai.com/index/advancing-content-provenance/",
+        "points": 277,
+        "comments": 147,
+        "created_at": "2026-05-19T19:34:30.000Z"
       },
       {
-        "title": "'You can hear me now or pay me later' Music exec tells graduates booing AI",
-        "url": "https://www.independent.co.uk/tv/news/ai-students-scott-borchetta-middle-tennessee-state-university-video-b2979573.html",
-        "points": 32,
-        "comments": 18,
-        "created_at": "2026-05-19T16:14:31.000Z"
+        "title": "Mistral AI acquires Emmi AI",
+        "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+        "points": 259,
+        "comments": 74,
+        "created_at": "2026-05-19T19:14:12.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: When did computers stop being fun?",
         "url": "https://news.ycombinator.com/item?id=48164173",
-        "points": 70,
+        "points": 73,
         "comments": 102,
         "created_at": "2026-05-16T22:02:51.000Z"
       },
@@ -134,39 +134,39 @@
     ],
     "progDb": [
       {
+        "title": "The TTY Demystified (2008)",
+        "url": "https://www.linusakesson.net/programming/tty/index.php",
+        "points": 71,
+        "comments": 9,
+        "created_at": "2026-05-19T18:40:19.000Z"
+      },
+      {
+        "title": "Programming as Theory Building (1985) [pdf]",
+        "url": "https://gwern.net/doc/cs/algorithm/1985-naur.pdf",
+        "points": 31,
+        "comments": 1,
+        "created_at": "2026-05-19T16:35:32.000Z"
+      },
+      {
+        "title": "The Programming Language for Agents",
+        "url": "https://zerolang.ai",
+        "points": 16,
+        "comments": 5,
+        "created_at": "2026-05-19T14:09:50.000Z"
+      },
+      {
         "title": "Humble Tech Book Bundle: The Ultimate Functional Programming",
         "url": "https://www.humblebundle.com/books/ultimate-functional-programming-pragmatic-programmers-books",
-        "points": 15,
-        "comments": 5,
+        "points": 16,
+        "comments": 10,
         "created_at": "2026-05-19T05:48:15.000Z"
       },
       {
         "title": "NASA still maintains some of the Voyager spacecraft code from the 70s era",
         "url": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/",
-        "points": 98,
-        "comments": 101,
+        "points": 101,
+        "comments": 103,
         "created_at": "2026-05-18T10:43:56.000Z"
-      },
-      {
-        "title": "XS: A programming language. Anywhere, anytime, by anyone",
-        "url": "https://xslang.org",
-        "points": 60,
-        "comments": 42,
-        "created_at": "2026-05-17T14:48:23.000Z"
-      },
-      {
-        "title": "Spectre Programming Language",
-        "url": "https://spectre-docs.pages.dev",
-        "points": 33,
-        "comments": 12,
-        "created_at": "2026-05-15T23:14:51.000Z"
-      },
-      {
-        "title": "XS Programming Language",
-        "url": "https://news.ycombinator.com/item?id=48143205",
-        "points": 21,
-        "comments": 16,
-        "created_at": "2026-05-15T00:58:29.000Z"
       }
     ]
   }
