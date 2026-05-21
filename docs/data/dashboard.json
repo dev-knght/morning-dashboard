@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-05-21T09:39:24.563Z",
+  "updatedAt": "2026-05-21T19:52:39.316Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 20.9,
-      "humidity": 45,
-      "wind_kph": 30.7,
+      "temp_c": 15.3,
+      "humidity": 92,
+      "wind_kph": 10.1,
       "weather_code": 3,
       "weather_desc": "Overcast"
     },
     "tomorrow": {
       "date": "2026-05-22",
-      "temp_max_c": 25.3,
-      "temp_min_c": 14.2,
-      "humidity_max": 93,
-      "humidity_min": 36,
-      "wind_kph": 23,
+      "temp_max_c": 24.7,
+      "temp_min_c": 13.9,
+      "humidity_max": 94,
+      "humidity_min": 39,
+      "wind_kph": 23.2,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4488.04,
     "oilUSD": 79,
-    "updatedAt": "2026-05-21T09:39:24.563Z",
+    "updatedAt": "2026-05-21T19:52:39.316Z",
     "gold24KUSD": 144.29,
     "gold21KUSD": 126.26,
     "gold18KUSD": 108.22,
@@ -32,7 +32,10 @@
     "gold18KJD": 76.73
   },
   "exchange": {
-    "JOD": 0.709
+    "JOD": 0.709,
+    "EUR": 0.861,
+    "GBP": 0.7446,
+    "SAR": 3.7505
   },
   "prayer": {
     "fajr": "04:18",
@@ -64,46 +67,53 @@
   "news": {
     "ai": [
       {
-        "title": "Smart Earbuds with built-in camera and AI",
-        "url": "https://heyordo.com",
-        "points": 12,
-        "comments": 7,
-        "created_at": "2026-05-21T01:57:58.000Z"
+        "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
+        "url": "https://news.ycombinator.com/item?id=48225596",
+        "points": 20,
+        "comments": 9,
+        "created_at": "2026-05-21T16:42:34.000Z"
       },
       {
-        "title": "Intuit to lay off over 3k employees to refocus on AI",
-        "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-        "points": 190,
-        "comments": 140,
-        "created_at": "2026-05-21T00:36:01.000Z"
+        "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+        "url": "https://www.runtm.com/",
+        "points": 38,
+        "comments": 15,
+        "created_at": "2026-05-21T16:07:13.000Z"
       },
       {
-        "title": "Congress Banned a Gun Registry. AI Doesn't Need One",
-        "url": "https://medium.com/statute-circuit/congress-banned-a-gun-registry-ai-doesnt-need-one-8c1beb9e7374",
-        "points": 12,
-        "comments": 1,
-        "created_at": "2026-05-20T21:58:14.000Z"
+        "title": "Advice for 2026 commencement speakers: Don't bring up AI",
+        "url": "https://text.npr.org/nx-s1-5822419",
+        "points": 13,
+        "comments": 2,
+        "created_at": "2026-05-21T13:58:51.000Z"
       },
       {
-        "title": "Cloudflare CEO on how he chooses which employees to replace with AI",
-        "url": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5",
-        "points": 70,
-        "comments": 31,
-        "created_at": "2026-05-20T21:45:57.000Z"
+        "title": "AI is just unauthorised plagiarism at a bigger scale",
+        "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+        "points": 694,
+        "comments": 585,
+        "created_at": "2026-05-21T13:38:12.000Z"
       },
       {
-        "title": "America Turned Against AI According to the Poll Data: A Very Big Compilation",
-        "url": "https://www.thealgorithmicbridge.com/p/how-america-turned-against-ai-according",
-        "points": 31,
-        "comments": 5,
-        "created_at": "2026-05-20T21:23:57.000Z"
+        "title": "Shunning AI is the human choice",
+        "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
+        "points": 332,
+        "comments": 477,
+        "created_at": "2026-05-21T13:36:06.000Z"
       }
     ],
     "vibeCoding": [
       {
+        "title": "Managers Have Been Vibe Coding All Along",
+        "url": "https://yusufaytas.com/managers-have-been-vibe-coding-all-along",
+        "points": 12,
+        "comments": 0,
+        "created_at": "2026-05-21T09:19:32.000Z"
+      },
+      {
         "title": "Ask HN: When did computers stop being fun?",
         "url": "https://news.ycombinator.com/item?id=48164173",
-        "points": 75,
+        "points": 76,
         "comments": 103,
         "created_at": "2026-05-16T22:02:51.000Z"
       },
@@ -126,7 +136,7 @@
       {
         "title": "The TTY Demystified (2008)",
         "url": "https://www.linusakesson.net/programming/tty/index.php",
-        "points": 91,
+        "points": 92,
         "comments": 10,
         "created_at": "2026-05-19T18:40:19.000Z"
       },
@@ -140,7 +150,7 @@
       {
         "title": "The Programming Language for Agents",
         "url": "https://zerolang.ai",
-        "points": 18,
+        "points": 20,
         "comments": 6,
         "created_at": "2026-05-19T14:09:50.000Z"
       },
