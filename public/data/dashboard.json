@@ -1,46 +1,43 @@
 {
-  "updatedAt": "2026-05-20T20:13:29.332Z",
+  "updatedAt": "2026-05-21T09:39:24.563Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 14.5,
-      "humidity": 86,
-      "wind_kph": 21.2,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 20.9,
+      "humidity": 45,
+      "wind_kph": 30.7,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-05-21",
-      "temp_max_c": 21.8,
-      "temp_min_c": 13.5,
+      "date": "2026-05-22",
+      "temp_max_c": 25.3,
+      "temp_min_c": 14.2,
       "humidity_max": 93,
-      "humidity_min": 44,
-      "wind_kph": 32,
+      "humidity_min": 36,
+      "wind_kph": 23,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4580.56,
+    "goldUSD": 4488.04,
     "oilUSD": 79,
-    "updatedAt": "2026-05-20T20:13:29.332Z",
-    "gold24KUSD": 147.27,
-    "gold21KUSD": 128.86,
-    "gold18KUSD": 110.45,
-    "gold24KJD": 104.41,
-    "gold21KJD": 91.36,
-    "gold18KJD": 78.31
+    "updatedAt": "2026-05-21T09:39:24.563Z",
+    "gold24KUSD": 144.29,
+    "gold21KUSD": 126.26,
+    "gold18KUSD": 108.22,
+    "gold24KJD": 102.3,
+    "gold21KJD": 89.52,
+    "gold18KJD": 76.73
   },
   "exchange": {
-    "JOD": 0.709,
-    "EUR": 0.8624,
-    "GBP": 0.7467,
-    "SAR": 3.7507
+    "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:19",
-    "maghrib": "19:30",
-    "date": "20 May 2020"
+    "fajr": "04:18",
+    "maghrib": "19:31",
+    "date": "21 May 2021"
   },
   "events": [
     {
@@ -67,46 +64,46 @@
   "news": {
     "ai": [
       {
-        "title": "Formal Verification Gates for AI Coding Loops",
-        "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
-        "points": 69,
-        "comments": 11,
-        "created_at": "2026-05-20T15:25:45.000Z"
+        "title": "Smart Earbuds with built-in camera and AI",
+        "url": "https://heyordo.com",
+        "points": 12,
+        "comments": 7,
+        "created_at": "2026-05-21T01:57:58.000Z"
       },
       {
-        "title": "Nobel laureate Olga Tokarczuk used AI while writing her latest novel",
-        "url": "https://lithub.com/nobel-laureate-olga-tokarczuk-apparently-used-ai-to-write-her-latest-novel/",
-        "points": 39,
-        "comments": 68,
-        "created_at": "2026-05-20T15:10:43.000Z"
+        "title": "Intuit to lay off over 3k employees to refocus on AI",
+        "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+        "points": 190,
+        "comments": 140,
+        "created_at": "2026-05-21T00:36:01.000Z"
       },
       {
-        "title": "Russian Troops' Fear Grows as Ukraine AI \"Slaughterbot\" Drones Headhunt Them",
-        "url": "http://www.thelowdownblog.com/2026/05/russian-troops-fear-grows-as-ukraine-ai.html",
-        "points": 15,
+        "title": "Congress Banned a Gun Registry. AI Doesn't Need One",
+        "url": "https://medium.com/statute-circuit/congress-banned-a-gun-registry-ai-doesnt-need-one-8c1beb9e7374",
+        "points": 12,
+        "comments": 1,
+        "created_at": "2026-05-20T21:58:14.000Z"
+      },
+      {
+        "title": "Cloudflare CEO on how he chooses which employees to replace with AI",
+        "url": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5",
+        "points": 70,
+        "comments": 31,
+        "created_at": "2026-05-20T21:45:57.000Z"
+      },
+      {
+        "title": "America Turned Against AI According to the Poll Data: A Very Big Compilation",
+        "url": "https://www.thealgorithmicbridge.com/p/how-america-turned-against-ai-according",
+        "points": 31,
         "comments": 5,
-        "created_at": "2026-05-20T15:09:32.000Z"
-      },
-      {
-        "title": "Meta begins 8k job cuts in AI efficiency push",
-        "url": "https://www.latimes.com/business/story/2026-05-20/meta-begins-8-000-global-job-cuts-in-ai-efficiency-push",
-        "points": 19,
-        "comments": 0,
-        "created_at": "2026-05-20T15:06:42.000Z"
-      },
-      {
-        "title": "Testing distributed systems with AI agents",
-        "url": "https://github.com/shenli/distributed-system-testing",
-        "points": 62,
-        "comments": 8,
-        "created_at": "2026-05-20T14:40:42.000Z"
+        "created_at": "2026-05-20T21:23:57.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: When did computers stop being fun?",
         "url": "https://news.ycombinator.com/item?id=48164173",
-        "points": 74,
+        "points": 75,
         "comments": 103,
         "created_at": "2026-05-16T22:02:51.000Z"
       },
@@ -129,21 +126,21 @@
       {
         "title": "The TTY Demystified (2008)",
         "url": "https://www.linusakesson.net/programming/tty/index.php",
-        "points": 86,
+        "points": 91,
         "comments": 10,
         "created_at": "2026-05-19T18:40:19.000Z"
       },
       {
         "title": "Programming as Theory Building (1985) [pdf]",
         "url": "https://gwern.net/doc/cs/algorithm/1985-naur.pdf",
-        "points": 36,
+        "points": 40,
         "comments": 1,
         "created_at": "2026-05-19T16:35:32.000Z"
       },
       {
         "title": "The Programming Language for Agents",
         "url": "https://zerolang.ai",
-        "points": 17,
+        "points": 18,
         "comments": 6,
         "created_at": "2026-05-19T14:09:50.000Z"
       },
