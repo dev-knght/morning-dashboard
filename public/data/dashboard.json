@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-05-21T19:52:39.316Z",
+  "updatedAt": "2026-05-22T09:21:38.363Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 15.3,
-      "humidity": 92,
-      "wind_kph": 10.1,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 22.9,
+      "humidity": 46,
+      "wind_kph": 16.6,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-05-22",
-      "temp_max_c": 24.7,
-      "temp_min_c": 13.9,
+      "date": "2026-05-23",
+      "temp_max_c": 25.7,
+      "temp_min_c": 12.1,
       "humidity_max": 94,
-      "humidity_min": 39,
-      "wind_kph": 23.2,
+      "humidity_min": 26,
+      "wind_kph": 31.3,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4488.04,
+    "goldUSD": 4544.36,
     "oilUSD": 79,
-    "updatedAt": "2026-05-21T19:52:39.316Z",
-    "gold24KUSD": 144.29,
-    "gold21KUSD": 126.26,
-    "gold18KUSD": 108.22,
-    "gold24KJD": 102.3,
-    "gold21KJD": 89.52,
-    "gold18KJD": 76.73
+    "updatedAt": "2026-05-22T09:21:38.363Z",
+    "gold24KUSD": 146.1,
+    "gold21KUSD": 127.84,
+    "gold18KUSD": 109.58,
+    "gold24KJD": 103.59,
+    "gold21KJD": 90.64,
+    "gold18KJD": 77.69
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.861,
-    "GBP": 0.7446,
-    "SAR": 3.7505
+    "EUR": 0.8613,
+    "GBP": 0.7449,
+    "SAR": 3.7523
   },
   "prayer": {
     "fajr": "04:18",
     "maghrib": "19:31",
-    "date": "21 May 2021"
+    "date": "22 May 2022"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
-        "url": "https://news.ycombinator.com/item?id=48225596",
-        "points": 20,
-        "comments": 9,
-        "created_at": "2026-05-21T16:42:34.000Z"
+        "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+        "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+        "points": 220,
+        "comments": 174,
+        "created_at": "2026-05-22T01:30:45.000Z"
       },
       {
-        "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
-        "url": "https://www.runtm.com/",
-        "points": 38,
+        "title": "Tell HN: I'm tired of AI-generated answers",
+        "url": "https://news.ycombinator.com/item?id=48230104",
+        "points": 98,
+        "comments": 48,
+        "created_at": "2026-05-21T23:37:14.000Z"
+      },
+      {
+        "title": "AI-assisted engineers are burning out, is this fine?",
+        "url": "https://evilmartians.com/chronicles/ai-assisted-engineers-are-burning-out-is-this-fine",
+        "points": 35,
         "comments": 15,
-        "created_at": "2026-05-21T16:07:13.000Z"
+        "created_at": "2026-05-21T20:10:34.000Z"
       },
       {
-        "title": "Advice for 2026 commencement speakers: Don't bring up AI",
-        "url": "https://text.npr.org/nx-s1-5822419",
-        "points": 13,
-        "comments": 2,
-        "created_at": "2026-05-21T13:58:51.000Z"
+        "title": "Starbucks scraps AI inventory tool across North America",
+        "url": "https://www.reuters.com/business/starbucks-scraps-ai-inventory-tool-across-north-america-2026-05-21/",
+        "points": 12,
+        "comments": 3,
+        "created_at": "2026-05-21T19:03:03.000Z"
       },
       {
-        "title": "AI is just unauthorised plagiarism at a bigger scale",
-        "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
-        "points": 694,
-        "comments": 585,
-        "created_at": "2026-05-21T13:38:12.000Z"
-      },
-      {
-        "title": "Shunning AI is the human choice",
-        "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
-        "points": 332,
-        "comments": 477,
-        "created_at": "2026-05-21T13:36:06.000Z"
+        "title": "Grok falls flat in Washington, undercutting SpaceX's AI growth story",
+        "url": "https://www.reuters.com/world/grok-falls-flat-washington-undercutting-spacexs-ai-growth-story-2026-05-21/",
+        "points": 12,
+        "comments": 0,
+        "created_at": "2026-05-21T16:54:06.000Z"
       }
     ],
     "vibeCoding": [
@@ -123,21 +123,14 @@
         "points": 32,
         "comments": 7,
         "created_at": "2026-05-15T13:51:39.000Z"
-      },
-      {
-        "title": "Show HN: Blamo A vibecoded app for vibecoding vibe games",
-        "url": "https://www.blamo.ai/",
-        "points": 11,
-        "comments": 10,
-        "created_at": "2026-05-07T23:06:24.000Z"
       }
     ],
     "progDb": [
       {
         "title": "The TTY Demystified (2008)",
         "url": "https://www.linusakesson.net/programming/tty/index.php",
-        "points": 92,
-        "comments": 10,
+        "points": 95,
+        "comments": 11,
         "created_at": "2026-05-19T18:40:19.000Z"
       },
       {
@@ -162,11 +155,11 @@
         "created_at": "2026-05-19T05:48:15.000Z"
       },
       {
-        "title": "NASA still maintains some of the Voyager spacecraft code from the 70s era",
-        "url": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/",
-        "points": 101,
-        "comments": 103,
-        "created_at": "2026-05-18T10:43:56.000Z"
+        "title": "Clojure Freed Me from the Ceremony",
+        "url": "https://carlosblanco.github.io/clojure/functional-programming/2020/10/15/functional-programming-clojure-backend-simplicity.html",
+        "points": 21,
+        "comments": 1,
+        "created_at": "2026-05-18T15:54:11.000Z"
       }
     ]
   }
