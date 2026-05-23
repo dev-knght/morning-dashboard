@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-05-22T19:43:19.683Z",
+  "updatedAt": "2026-05-23T08:18:45.750Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.3,
-      "humidity": 84,
-      "wind_kph": 9.7,
+      "temp_c": 23.8,
+      "humidity": 35,
+      "wind_kph": 17.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-05-23",
-      "temp_max_c": 26.2,
-      "temp_min_c": 12.7,
-      "humidity_max": 88,
-      "humidity_min": 26,
-      "wind_kph": 30,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-05-24",
+      "temp_max_c": 24.2,
+      "temp_min_c": 13.2,
+      "humidity_max": 81,
+      "humidity_min": 36,
+      "wind_kph": 27.7,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4544.36,
+    "goldUSD": 4532.51,
     "oilUSD": 79,
-    "updatedAt": "2026-05-22T19:43:19.683Z",
-    "gold24KUSD": 146.1,
-    "gold21KUSD": 127.84,
-    "gold18KUSD": 109.58,
-    "gold24KJD": 103.59,
-    "gold21KJD": 90.64,
-    "gold18KJD": 77.69
+    "updatedAt": "2026-05-23T08:18:45.750Z",
+    "gold24KUSD": 145.72,
+    "gold21KUSD": 127.51,
+    "gold18KUSD": 109.29,
+    "gold24KJD": 103.32,
+    "gold21KJD": 90.4,
+    "gold18KJD": 77.49
   },
   "exchange": {
     "JOD": 0.709,
     "EUR": 0.8618,
-    "GBP": 0.745,
+    "GBP": 0.7448,
     "SAR": 3.7504
   },
   "prayer": {
-    "fajr": "04:18",
-    "maghrib": "19:31",
-    "date": "22 May 2022"
+    "fajr": "04:17",
+    "maghrib": "19:32",
+    "date": "23 May 2023"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "1940 Air Terminal Museum Begins Liquidation",
-        "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
-        "points": 35,
-        "comments": 11,
-        "created_at": "2026-05-22T17:05:32.000Z"
+        "title": "Microsoft reports AI is more expensive than paying human employees",
+        "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+        "points": 201,
+        "comments": 59,
+        "created_at": "2026-05-23T03:44:16.000Z"
       },
       {
-        "title": "Built AI forensic accounting software with my dad",
-        "url": "https://case-trail.com/blog/ai-forensic-accounting-automation",
-        "points": 46,
-        "comments": 29,
-        "created_at": "2026-05-22T16:19:29.000Z"
+        "title": "Is AI Profitable Yet?",
+        "url": "https://isaiprofitable.com/",
+        "points": 214,
+        "comments": 159,
+        "created_at": "2026-05-23T02:10:38.000Z"
       },
       {
-        "title": "DeepSeek makes the V4 Pro price discount permanent",
-        "url": "https://api-docs.deepseek.com/quick_start/pricing",
-        "points": 147,
-        "comments": 70,
-        "created_at": "2026-05-22T15:59:26.000Z"
+        "title": "Don't just paste the AI at me",
+        "url": "https://dontquotetheai.com/",
+        "points": 159,
+        "comments": 101,
+        "created_at": "2026-05-22T22:57:58.000Z"
       },
       {
-        "title": "AI has a multiplying effect on existing technical skills",
-        "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
-        "points": 220,
-        "comments": 222,
-        "created_at": "2026-05-22T13:22:42.000Z"
+        "title": "NTSB pulls docket after AI recreates dead pilots' voices",
+        "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+        "points": 30,
+        "comments": 27,
+        "created_at": "2026-05-22T20:52:37.000Z"
       },
       {
-        "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
-        "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
-        "points": 191,
-        "comments": 181,
-        "created_at": "2026-05-22T11:45:24.000Z"
+        "title": "AI keeps inventing fake cases. Lawyers keep citing them",
+        "url": "https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/",
+        "points": 57,
+        "comments": 5,
+        "created_at": "2026-05-22T20:26:29.000Z"
       }
     ],
     "vibeCoding": [
@@ -114,7 +114,7 @@
         "title": "Ask HN: When did computers stop being fun?",
         "url": "https://news.ycombinator.com/item?id=48164173",
         "points": 77,
-        "comments": 103,
+        "comments": 104,
         "created_at": "2026-05-16T22:02:51.000Z"
       },
       {
@@ -157,7 +157,7 @@
       {
         "title": "Clojure Freed Me from the Ceremony",
         "url": "https://carlosblanco.github.io/clojure/functional-programming/2020/10/15/functional-programming-clojure-backend-simplicity.html",
-        "points": 21,
+        "points": 23,
         "comments": 1,
         "created_at": "2026-05-18T15:54:11.000Z"
       }
