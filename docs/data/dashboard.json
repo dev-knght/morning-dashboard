@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-05-23T08:18:45.750Z",
+  "updatedAt": "2026-05-23T19:08:24.615Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 23.8,
-      "humidity": 35,
-      "wind_kph": 17.6,
+      "temp_c": 16.4,
+      "humidity": 62,
+      "wind_kph": 5.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-05-24",
-      "temp_max_c": 24.2,
-      "temp_min_c": 13.2,
-      "humidity_max": 81,
+      "temp_max_c": 24.5,
+      "temp_min_c": 13.1,
+      "humidity_max": 76,
       "humidity_min": 36,
-      "wind_kph": 27.7,
+      "wind_kph": 26.9,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4532.51,
     "oilUSD": 79,
-    "updatedAt": "2026-05-23T08:18:45.750Z",
+    "updatedAt": "2026-05-23T19:08:24.615Z",
     "gold24KUSD": 145.72,
     "gold21KUSD": 127.51,
     "gold18KUSD": 109.29,
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
+        "title": "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
+        "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+        "points": 125,
+        "comments": 36,
+        "created_at": "2026-05-23T16:02:43.000Z"
+      },
+      {
+        "title": "Show HN: Waiting for AI Grand Prix racing SIM? Me too So I made one",
+        "url": "https://github.com/elodin-sys/ai-grand-prix",
+        "points": 15,
+        "comments": 0,
+        "created_at": "2026-05-23T04:22:08.000Z"
+      },
+      {
         "title": "Microsoft reports AI is more expensive than paying human employees",
         "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
-        "points": 201,
-        "comments": 59,
+        "points": 216,
+        "comments": 61,
         "created_at": "2026-05-23T03:44:16.000Z"
       },
       {
         "title": "Is AI Profitable Yet?",
         "url": "https://isaiprofitable.com/",
-        "points": 214,
-        "comments": 159,
+        "points": 242,
+        "comments": 185,
         "created_at": "2026-05-23T02:10:38.000Z"
       },
       {
-        "title": "Don't just paste the AI at me",
-        "url": "https://dontquotetheai.com/",
-        "points": 159,
-        "comments": 101,
-        "created_at": "2026-05-22T22:57:58.000Z"
-      },
-      {
-        "title": "NTSB pulls docket after AI recreates dead pilots' voices",
-        "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
-        "points": 30,
-        "comments": 27,
-        "created_at": "2026-05-22T20:52:37.000Z"
-      },
-      {
-        "title": "AI keeps inventing fake cases. Lawyers keep citing them",
-        "url": "https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/",
-        "points": 57,
-        "comments": 5,
-        "created_at": "2026-05-22T20:26:29.000Z"
+        "title": "Sci-Hub has created a new AI chatbot. Is it any good?",
+        "url": "https://cen.acs.org/policy/publishing/Sci-Hub-created-new-AI/104/web/2026/04",
+        "points": 13,
+        "comments": 2,
+        "created_at": "2026-05-23T02:04:13.000Z"
       }
     ],
     "vibeCoding": [
@@ -113,7 +113,7 @@
       {
         "title": "Ask HN: When did computers stop being fun?",
         "url": "https://news.ycombinator.com/item?id=48164173",
-        "points": 77,
+        "points": 78,
         "comments": 104,
         "created_at": "2026-05-16T22:02:51.000Z"
       },
@@ -129,7 +129,7 @@
       {
         "title": "The TTY Demystified (2008)",
         "url": "https://www.linusakesson.net/programming/tty/index.php",
-        "points": 95,
+        "points": 96,
         "comments": 11,
         "created_at": "2026-05-19T18:40:19.000Z"
       },
