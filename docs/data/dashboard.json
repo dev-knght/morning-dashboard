@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-05-23T19:08:24.615Z",
+  "updatedAt": "2026-05-24T08:28:24.275Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.4,
-      "humidity": 62,
-      "wind_kph": 5.6,
+      "temp_c": 21.8,
+      "humidity": 42,
+      "wind_kph": 20.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-05-24",
-      "temp_max_c": 24.5,
-      "temp_min_c": 13.1,
-      "humidity_max": 76,
-      "humidity_min": 36,
-      "wind_kph": 26.9,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "date": "2026-05-25",
+      "temp_max_c": 25.7,
+      "temp_min_c": 12.1,
+      "humidity_max": 82,
+      "humidity_min": 37,
+      "wind_kph": 26.6,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 4532.51,
+    "goldUSD": 4509.58,
     "oilUSD": 79,
-    "updatedAt": "2026-05-23T19:08:24.615Z",
-    "gold24KUSD": 145.72,
-    "gold21KUSD": 127.51,
-    "gold18KUSD": 109.29,
-    "gold24KJD": 103.32,
-    "gold21KJD": 90.4,
-    "gold18KJD": 77.49
+    "updatedAt": "2026-05-24T08:28:24.275Z",
+    "gold24KUSD": 144.99,
+    "gold21KUSD": 126.86,
+    "gold18KUSD": 108.74,
+    "gold24KJD": 102.8,
+    "gold21KJD": 89.95,
+    "gold18KJD": 77.1
   },
   "exchange": {
     "JOD": 0.709,
@@ -38,9 +38,9 @@
     "SAR": 3.7504
   },
   "prayer": {
-    "fajr": "04:17",
-    "maghrib": "19:32",
-    "date": "23 May 2023"
+    "fajr": "04:16",
+    "maghrib": "19:33",
+    "date": "24 May 2024"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
+        "title": "Anthropic blames dystopian sci-fi for training AI models to act \"evil\"",
+        "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
+        "points": 24,
+        "comments": 15,
+        "created_at": "2026-05-23T21:45:46.000Z"
+      },
+      {
+        "title": "Jimmy Carr on Why Everyone Is Wrong About AI [video]",
+        "url": "https://www.youtube.com/watch?v=jaYOskvlq18",
+        "points": 27,
+        "comments": 5,
+        "created_at": "2026-05-23T20:38:02.000Z"
+      },
+      {
+        "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+        "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+        "points": 78,
+        "comments": 48,
+        "created_at": "2026-05-23T20:09:13.000Z"
+      },
+      {
+        "title": "Italy moves to Airbus A330 tankers",
         "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
-        "points": 125,
-        "comments": 36,
+        "points": 255,
+        "comments": 101,
         "created_at": "2026-05-23T16:02:43.000Z"
       },
       {
-        "title": "Show HN: Waiting for AI Grand Prix racing SIM? Me too So I made one",
-        "url": "https://github.com/elodin-sys/ai-grand-prix",
-        "points": 15,
+        "title": "Former US execs plead guilty to aiding tech support scammers",
+        "url": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
+        "points": 12,
         "comments": 0,
-        "created_at": "2026-05-23T04:22:08.000Z"
-      },
-      {
-        "title": "Microsoft reports AI is more expensive than paying human employees",
-        "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
-        "points": 216,
-        "comments": 61,
-        "created_at": "2026-05-23T03:44:16.000Z"
-      },
-      {
-        "title": "Is AI Profitable Yet?",
-        "url": "https://isaiprofitable.com/",
-        "points": 242,
-        "comments": 185,
-        "created_at": "2026-05-23T02:10:38.000Z"
-      },
-      {
-        "title": "Sci-Hub has created a new AI chatbot. Is it any good?",
-        "url": "https://cen.acs.org/policy/publishing/Sci-Hub-created-new-AI/104/web/2026/04",
-        "points": 13,
-        "comments": 2,
-        "created_at": "2026-05-23T02:04:13.000Z"
+        "created_at": "2026-05-23T06:32:57.000Z"
       }
     ],
     "vibeCoding": [
