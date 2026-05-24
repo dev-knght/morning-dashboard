@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-05-24T08:28:24.275Z",
+  "updatedAt": "2026-05-24T19:15:41.069Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 21.8,
-      "humidity": 42,
-      "wind_kph": 20.6,
+      "temp_c": 16.1,
+      "humidity": 64,
+      "wind_kph": 7.1,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-05-25",
-      "temp_max_c": 25.7,
-      "temp_min_c": 12.1,
-      "humidity_max": 82,
-      "humidity_min": 37,
-      "wind_kph": 26.6,
+      "temp_max_c": 25.8,
+      "temp_min_c": 12.4,
+      "humidity_max": 76,
+      "humidity_min": 35,
+      "wind_kph": 26.7,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4509.58,
     "oilUSD": 79,
-    "updatedAt": "2026-05-24T08:28:24.275Z",
+    "updatedAt": "2026-05-24T19:15:41.069Z",
     "gold24KUSD": 144.99,
     "gold21KUSD": 126.86,
     "gold18KUSD": 108.74,
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
+        "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+        "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+        "points": 139,
+        "comments": 144,
+        "created_at": "2026-05-24T16:31:29.000Z"
+      },
+      {
+        "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+        "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+        "points": 118,
+        "comments": 91,
+        "created_at": "2026-05-24T15:21:28.000Z"
+      },
+      {
+        "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+        "points": 129,
+        "comments": 126,
+        "created_at": "2026-05-24T14:09:33.000Z"
+      },
+      {
+        "title": "AI didn't kill your junior pipeline. You did",
+        "url": "https://andrewmurphy.io/blog/ai-didnt-kill-your-junior-pipeline-you-did",
+        "points": 12,
+        "comments": 2,
+        "created_at": "2026-05-24T01:00:49.000Z"
+      },
+      {
         "title": "Anthropic blames dystopian sci-fi for training AI models to act \"evil\"",
         "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
-        "points": 24,
-        "comments": 15,
+        "points": 30,
+        "comments": 17,
         "created_at": "2026-05-23T21:45:46.000Z"
-      },
-      {
-        "title": "Jimmy Carr on Why Everyone Is Wrong About AI [video]",
-        "url": "https://www.youtube.com/watch?v=jaYOskvlq18",
-        "points": 27,
-        "comments": 5,
-        "created_at": "2026-05-23T20:38:02.000Z"
-      },
-      {
-        "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-        "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
-        "points": 78,
-        "comments": 48,
-        "created_at": "2026-05-23T20:09:13.000Z"
-      },
-      {
-        "title": "Italy moves to Airbus A330 tankers",
-        "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
-        "points": 255,
-        "comments": 101,
-        "created_at": "2026-05-23T16:02:43.000Z"
-      },
-      {
-        "title": "Former US execs plead guilty to aiding tech support scammers",
-        "url": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
-        "points": 12,
-        "comments": 0,
-        "created_at": "2026-05-23T06:32:57.000Z"
       }
     ],
     "vibeCoding": [
