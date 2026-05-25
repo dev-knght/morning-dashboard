@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-05-25T10:04:20.432Z",
+  "updatedAt": "2026-05-25T19:38:23.473Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 25.6,
-      "humidity": 30,
-      "wind_kph": 18.4,
+      "temp_c": 16.3,
+      "humidity": 73,
+      "wind_kph": 6.5,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-05-26",
-      "temp_max_c": 26.1,
+      "temp_max_c": 26.7,
       "temp_min_c": 12.7,
-      "humidity_max": 92,
+      "humidity_max": 95,
       "humidity_min": 35,
-      "wind_kph": 26.1,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "wind_kph": 24.3,
+      "weather_code": 45,
+      "weather_desc": "Fog"
     }
   },
   "metals": {
     "goldUSD": 4509.6,
     "oilUSD": 79,
-    "updatedAt": "2026-05-25T10:04:20.432Z",
+    "updatedAt": "2026-05-25T19:38:23.473Z",
     "gold24KUSD": 144.99,
     "gold21KUSD": 126.86,
     "gold18KUSD": 108.74,
@@ -33,9 +33,9 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8592,
-    "GBP": 0.7417,
-    "SAR": 3.7524
+    "EUR": 0.859,
+    "GBP": 0.7413,
+    "SAR": 3.7504
   },
   "prayer": {
     "fajr": "04:15",
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "If you let AI do your writing, I will come to your house and kill you",
-        "url": "https://samkriss.substack.com/p/if-you-let-ai-do-your-writing-i-will",
-        "points": 22,
-        "comments": 5,
-        "created_at": "2026-05-25T07:19:14.000Z"
+        "title": "I'm the CEO of Goldman Sachs. The AI Job Apocalypse Is Overblown",
+        "url": "https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html",
+        "points": 17,
+        "comments": 7,
+        "created_at": "2026-05-25T16:14:32.000Z"
       },
       {
-        "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-        "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-        "points": 387,
-        "comments": 398,
-        "created_at": "2026-05-24T16:31:29.000Z"
+        "title": "Linus Torvalds Is Unhappy About the AI Influence in Linux Kernel Development",
+        "url": "https://ostechnix.com/linus-torvalds-ai-influence-linux-kernel-development/",
+        "points": 14,
+        "comments": 4,
+        "created_at": "2026-05-25T14:58:32.000Z"
       },
       {
-        "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-        "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
-        "points": 163,
-        "comments": 150,
-        "created_at": "2026-05-24T15:21:28.000Z"
+        "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+        "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+        "points": 211,
+        "comments": 52,
+        "created_at": "2026-05-25T13:56:39.000Z"
       },
       {
-        "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
-        "points": 207,
+        "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+        "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+        "points": 327,
+        "comments": 177,
+        "created_at": "2026-05-25T13:17:58.000Z"
+      },
+      {
+        "title": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
+        "url": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/",
+        "points": 159,
         "comments": 2,
-        "created_at": "2026-05-24T14:09:33.000Z"
-      },
-      {
-        "title": "AI didn't kill your junior pipeline. You did",
-        "url": "https://andrewmurphy.io/blog/ai-didnt-kill-your-junior-pipeline-you-did",
-        "points": 12,
-        "comments": 2,
-        "created_at": "2026-05-24T01:00:49.000Z"
+        "created_at": "2026-05-25T13:12:40.000Z"
       }
     ],
     "vibeCoding": [
@@ -114,7 +114,7 @@
         "title": "Ask HN: When did computers stop being fun?",
         "url": "https://news.ycombinator.com/item?id=48164173",
         "points": 78,
-        "comments": 104,
+        "comments": 105,
         "created_at": "2026-05-16T22:02:51.000Z"
       },
       {
@@ -127,9 +127,16 @@
     ],
     "progDb": [
       {
+        "title": "CPPL: A Circuit Prompt Programming Language",
+        "url": "https://arxiv.org/abs/2605.17892",
+        "points": 13,
+        "comments": 0,
+        "created_at": "2026-05-21T11:50:56.000Z"
+      },
+      {
         "title": "The TTY Demystified (2008)",
         "url": "https://www.linusakesson.net/programming/tty/index.php",
-        "points": 96,
+        "points": 97,
         "comments": 11,
         "created_at": "2026-05-19T18:40:19.000Z"
       },
@@ -153,13 +160,6 @@
         "points": 17,
         "comments": 11,
         "created_at": "2026-05-19T05:48:15.000Z"
-      },
-      {
-        "title": "Clojure Freed Me from the Ceremony",
-        "url": "https://carlosblanco.github.io/clojure/functional-programming/2020/10/15/functional-programming-clojure-backend-simplicity.html",
-        "points": 23,
-        "comments": 1,
-        "created_at": "2026-05-18T15:54:11.000Z"
       }
     ]
   }
