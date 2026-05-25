@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-05-24T19:15:41.069Z",
+  "updatedAt": "2026-05-25T10:04:20.432Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.1,
-      "humidity": 64,
-      "wind_kph": 7.1,
+      "temp_c": 25.6,
+      "humidity": 30,
+      "wind_kph": 18.4,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-05-25",
-      "temp_max_c": 25.8,
-      "temp_min_c": 12.4,
-      "humidity_max": 76,
+      "date": "2026-05-26",
+      "temp_max_c": 26.1,
+      "temp_min_c": 12.7,
+      "humidity_max": 92,
       "humidity_min": 35,
-      "wind_kph": 26.7,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "wind_kph": 26.1,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4509.58,
+    "goldUSD": 4509.6,
     "oilUSD": 79,
-    "updatedAt": "2026-05-24T19:15:41.069Z",
+    "updatedAt": "2026-05-25T10:04:20.432Z",
     "gold24KUSD": 144.99,
     "gold21KUSD": 126.86,
     "gold18KUSD": 108.74,
@@ -33,14 +33,14 @@
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.8618,
-    "GBP": 0.7448,
-    "SAR": 3.7504
+    "EUR": 0.8592,
+    "GBP": 0.7417,
+    "SAR": 3.7524
   },
   "prayer": {
-    "fajr": "04:16",
+    "fajr": "04:15",
     "maghrib": "19:33",
-    "date": "24 May 2024"
+    "date": "25 May 2025"
   },
   "events": [
     {
@@ -67,24 +67,31 @@
   "news": {
     "ai": [
       {
+        "title": "If you let AI do your writing, I will come to your house and kill you",
+        "url": "https://samkriss.substack.com/p/if-you-let-ai-do-your-writing-i-will",
+        "points": 22,
+        "comments": 5,
+        "created_at": "2026-05-25T07:19:14.000Z"
+      },
+      {
         "title": "Memory has grown to nearly two-thirds of AI chip component costs",
         "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-        "points": 139,
-        "comments": 144,
+        "points": 387,
+        "comments": 398,
         "created_at": "2026-05-24T16:31:29.000Z"
       },
       {
         "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
         "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
-        "points": 118,
-        "comments": 91,
+        "points": 163,
+        "comments": 150,
         "created_at": "2026-05-24T15:21:28.000Z"
       },
       {
         "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
         "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
-        "points": 129,
-        "comments": 126,
+        "points": 207,
+        "comments": 2,
         "created_at": "2026-05-24T14:09:33.000Z"
       },
       {
@@ -93,13 +100,6 @@
         "points": 12,
         "comments": 2,
         "created_at": "2026-05-24T01:00:49.000Z"
-      },
-      {
-        "title": "Anthropic blames dystopian sci-fi for training AI models to act \"evil\"",
-        "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
-        "points": 30,
-        "comments": 17,
-        "created_at": "2026-05-23T21:45:46.000Z"
       }
     ],
     "vibeCoding": [
@@ -150,7 +150,7 @@
       {
         "title": "Humble Tech Book Bundle: The Ultimate Functional Programming",
         "url": "https://www.humblebundle.com/books/ultimate-functional-programming-pragmatic-programmers-books",
-        "points": 16,
+        "points": 17,
         "comments": 11,
         "created_at": "2026-05-19T05:48:15.000Z"
       },
