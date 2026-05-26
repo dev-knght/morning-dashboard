@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-05-25T19:38:23.473Z",
+  "updatedAt": "2026-05-26T09:55:04.435Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.3,
-      "humidity": 73,
-      "wind_kph": 6.5,
+      "temp_c": 26.2,
+      "humidity": 32,
+      "wind_kph": 17.4,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-05-26",
-      "temp_max_c": 26.7,
-      "temp_min_c": 12.7,
+      "date": "2026-05-27",
+      "temp_max_c": 27.8,
+      "temp_min_c": 13.2,
       "humidity_max": 95,
-      "humidity_min": 35,
-      "wind_kph": 24.3,
+      "humidity_min": 38,
+      "wind_kph": 29.6,
       "weather_code": 45,
       "weather_desc": "Fog"
     }
   },
   "metals": {
-    "goldUSD": 4509.6,
+    "goldUSD": 4572.66,
     "oilUSD": 79,
-    "updatedAt": "2026-05-25T19:38:23.473Z",
-    "gold24KUSD": 144.99,
-    "gold21KUSD": 126.86,
-    "gold18KUSD": 108.74,
-    "gold24KJD": 102.8,
-    "gold21KJD": 89.95,
-    "gold18KJD": 77.1
+    "updatedAt": "2026-05-26T09:55:04.435Z",
+    "gold24KUSD": 147.01,
+    "gold21KUSD": 128.64,
+    "gold18KUSD": 110.26,
+    "gold24KJD": 104.23,
+    "gold21KJD": 91.2,
+    "gold18KJD": 78.17
   },
   "exchange": {
     "JOD": 0.709,
-    "EUR": 0.859,
-    "GBP": 0.7413,
-    "SAR": 3.7504
+    "EUR": 0.86,
+    "GBP": 0.7421,
+    "SAR": 3.7529
   },
   "prayer": {
     "fajr": "04:15",
-    "maghrib": "19:33",
-    "date": "25 May 2025"
+    "maghrib": "19:34",
+    "date": "26 May 2026"
   },
   "events": [
     {
@@ -67,39 +67,39 @@
   "news": {
     "ai": [
       {
-        "title": "I'm the CEO of Goldman Sachs. The AI Job Apocalypse Is Overblown",
-        "url": "https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html",
-        "points": 17,
+        "title": "Notes on Pope Leo XIV's Encyclical on AI",
+        "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/",
+        "points": 52,
         "comments": 7,
-        "created_at": "2026-05-25T16:14:32.000Z"
+        "created_at": "2026-05-26T04:45:29.000Z"
       },
       {
-        "title": "Linus Torvalds Is Unhappy About the AI Influence in Linux Kernel Development",
-        "url": "https://ostechnix.com/linus-torvalds-ai-influence-linux-kernel-development/",
-        "points": 14,
-        "comments": 4,
-        "created_at": "2026-05-25T14:58:32.000Z"
+        "title": "The Vatican-Anthropic relationship that's reshaping the AI ethics debate",
+        "url": "https://religionnews.com/2026/05/22/why-anthropic-is-helping-unveil-the-popes-new-encyclical-on-ai/",
+        "points": 16,
+        "comments": 8,
+        "created_at": "2026-05-25T23:39:39.000Z"
       },
       {
-        "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-        "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-        "points": 211,
-        "comments": 52,
-        "created_at": "2026-05-25T13:56:39.000Z"
+        "title": "Using AI to write better code more slowly",
+        "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+        "points": 644,
+        "comments": 245,
+        "created_at": "2026-05-25T23:16:59.000Z"
       },
       {
-        "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
-        "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
-        "points": 327,
-        "comments": 177,
-        "created_at": "2026-05-25T13:17:58.000Z"
+        "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
+        "url": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+        "points": 13,
+        "comments": 9,
+        "created_at": "2026-05-25T23:10:57.000Z"
       },
       {
-        "title": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
-        "url": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/",
-        "points": 159,
-        "comments": 2,
-        "created_at": "2026-05-25T13:12:40.000Z"
+        "title": "Every Frontier AI Is INTJ",
+        "url": "https://zonted.com/posts/every-ai-is-intj/",
+        "points": 20,
+        "comments": 11,
+        "created_at": "2026-05-25T22:43:16.000Z"
       }
     ],
     "vibeCoding": [
@@ -127,10 +127,17 @@
     ],
     "progDb": [
       {
+        "title": "Nobody cracks open a programming book anymore",
+        "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+        "points": 197,
+        "comments": 231,
+        "created_at": "2026-05-25T23:21:57.000Z"
+      },
+      {
         "title": "CPPL: A Circuit Prompt Programming Language",
         "url": "https://arxiv.org/abs/2605.17892",
-        "points": 13,
-        "comments": 0,
+        "points": 40,
+        "comments": 7,
         "created_at": "2026-05-21T11:50:56.000Z"
       },
       {
@@ -153,13 +160,6 @@
         "points": 20,
         "comments": 7,
         "created_at": "2026-05-19T14:09:50.000Z"
-      },
-      {
-        "title": "Humble Tech Book Bundle: The Ultimate Functional Programming",
-        "url": "https://www.humblebundle.com/books/ultimate-functional-programming-pragmatic-programmers-books",
-        "points": 17,
-        "comments": 11,
-        "created_at": "2026-05-19T05:48:15.000Z"
       }
     ]
   }
