@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-05-26T09:55:04.435Z",
+  "updatedAt": "2026-05-26T20:08:01.874Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 26.2,
-      "humidity": 32,
-      "wind_kph": 17.4,
+      "temp_c": 16.3,
+      "humidity": 69,
+      "wind_kph": 3.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-05-27",
-      "temp_max_c": 27.8,
+      "temp_max_c": 27.7,
       "temp_min_c": 13.2,
-      "humidity_max": 95,
-      "humidity_min": 38,
+      "humidity_max": 97,
+      "humidity_min": 41,
       "wind_kph": 29.6,
       "weather_code": 45,
       "weather_desc": "Fog"
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4572.66,
     "oilUSD": 79,
-    "updatedAt": "2026-05-26T09:55:04.435Z",
+    "updatedAt": "2026-05-26T20:08:01.874Z",
     "gold24KUSD": 147.01,
     "gold21KUSD": 128.64,
     "gold18KUSD": 110.26,
@@ -32,10 +32,7 @@
     "gold18KJD": 78.17
   },
   "exchange": {
-    "JOD": 0.709,
-    "EUR": 0.86,
-    "GBP": 0.7421,
-    "SAR": 3.7529
+    "JOD": 0.709
   },
   "prayer": {
     "fajr": "04:15",
@@ -67,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Notes on Pope Leo XIV's Encyclical on AI",
-        "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/",
-        "points": 52,
-        "comments": 7,
-        "created_at": "2026-05-26T04:45:29.000Z"
+        "title": "AI Startup Says It Will Pay People $2k a Month to Masturbate",
+        "url": "https://decrypt.co/368866/ai-startup-pay-people-2000-month-masturbate",
+        "points": 28,
+        "comments": 25,
+        "created_at": "2026-05-26T15:09:48.000Z"
       },
       {
-        "title": "The Vatican-Anthropic relationship that's reshaping the AI ethics debate",
-        "url": "https://religionnews.com/2026/05/22/why-anthropic-is-helping-unveil-the-popes-new-encyclical-on-ai/",
-        "points": 16,
-        "comments": 8,
-        "created_at": "2026-05-25T23:39:39.000Z"
+        "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+        "url": "https://www.minicor.com/",
+        "points": 55,
+        "comments": 41,
+        "created_at": "2026-05-26T14:57:27.000Z"
       },
       {
-        "title": "Using AI to write better code more slowly",
-        "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-        "points": 644,
-        "comments": 245,
-        "created_at": "2026-05-25T23:16:59.000Z"
+        "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+        "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+        "points": 175,
+        "comments": 192,
+        "created_at": "2026-05-26T12:08:33.000Z"
       },
       {
-        "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
-        "url": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
-        "points": 13,
-        "comments": 9,
-        "created_at": "2026-05-25T23:10:57.000Z"
+        "title": "Sam Altman: I was wrong, AI unlikely to lead to jobs apocalypse",
+        "url": "https://www.reuters.com/world/asia-pacific/openais-altman-says-ai-unlikely-lead-jobs-apocalypse-2026-05-26/",
+        "points": 18,
+        "comments": 15,
+        "created_at": "2026-05-26T11:17:06.000Z"
       },
       {
-        "title": "Every Frontier AI Is INTJ",
-        "url": "https://zonted.com/posts/every-ai-is-intj/",
-        "points": 20,
-        "comments": 11,
-        "created_at": "2026-05-25T22:43:16.000Z"
+        "title": "A reality check on the AI jobs hysteria",
+        "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+        "points": 39,
+        "comments": 35,
+        "created_at": "2026-05-26T11:04:54.000Z"
       }
     ],
     "vibeCoding": [
@@ -129,14 +126,14 @@
       {
         "title": "Nobody cracks open a programming book anymore",
         "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-        "points": 197,
-        "comments": 231,
+        "points": 275,
+        "comments": 314,
         "created_at": "2026-05-25T23:21:57.000Z"
       },
       {
         "title": "CPPL: A Circuit Prompt Programming Language",
         "url": "https://arxiv.org/abs/2605.17892",
-        "points": 40,
+        "points": 43,
         "comments": 7,
         "created_at": "2026-05-21T11:50:56.000Z"
       },
