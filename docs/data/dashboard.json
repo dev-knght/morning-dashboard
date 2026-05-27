@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-05-26T20:08:01.874Z",
+  "updatedAt": "2026-05-27T09:43:59.010Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.3,
-      "humidity": 69,
-      "wind_kph": 3.6,
+      "temp_c": 26.6,
+      "humidity": 43,
+      "wind_kph": 19.2,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-05-27",
-      "temp_max_c": 27.7,
-      "temp_min_c": 13.2,
+      "date": "2026-05-28",
+      "temp_max_c": 25.2,
+      "temp_min_c": 15.2,
       "humidity_max": 97,
-      "humidity_min": 41,
-      "wind_kph": 29.6,
-      "weather_code": 45,
-      "weather_desc": "Fog"
+      "humidity_min": 44,
+      "wind_kph": 31.6,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4572.66,
+    "goldUSD": 4551.59,
     "oilUSD": 79,
-    "updatedAt": "2026-05-26T20:08:01.874Z",
-    "gold24KUSD": 147.01,
-    "gold21KUSD": 128.64,
-    "gold18KUSD": 110.26,
-    "gold24KJD": 104.23,
-    "gold21KJD": 91.2,
-    "gold18KJD": 78.17
+    "updatedAt": "2026-05-27T09:43:59.010Z",
+    "gold24KUSD": 146.34,
+    "gold21KUSD": 128.04,
+    "gold18KUSD": 109.75,
+    "gold24KJD": 103.75,
+    "gold21KJD": 90.78,
+    "gold18KJD": 77.81
   },
   "exchange": {
     "JOD": 0.709
@@ -37,7 +37,7 @@
   "prayer": {
     "fajr": "04:15",
     "maghrib": "19:34",
-    "date": "26 May 2026"
+    "date": "27 May 2027"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI Startup Says It Will Pay People $2k a Month to Masturbate",
-        "url": "https://decrypt.co/368866/ai-startup-pay-people-2000-month-masturbate",
+        "title": "Did the Pope use AI to write about the dangers of AI?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+        "points": 16,
+        "comments": 11,
+        "created_at": "2026-05-27T04:30:30.000Z"
+      },
+      {
+        "title": "AI tools are only as good as your judgment",
+        "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+        "points": 79,
+        "comments": 22,
+        "created_at": "2026-05-27T00:00:35.000Z"
+      },
+      {
+        "title": "Uber blows through its AI budget in 1 quarter",
+        "url": "https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/",
         "points": 28,
-        "comments": 25,
-        "created_at": "2026-05-26T15:09:48.000Z"
+        "comments": 32,
+        "created_at": "2026-05-26T22:44:31.000Z"
       },
       {
-        "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
-        "url": "https://www.minicor.com/",
-        "points": 55,
-        "comments": 41,
-        "created_at": "2026-05-26T14:57:27.000Z"
+        "title": "Show HN: I built a tool to auto-accept AI slop and bigtech devs loves it",
+        "url": "https://github.com/Alcray/SlopeAutoAcceptor",
+        "points": 11,
+        "comments": 0,
+        "created_at": "2026-05-26T20:45:37.000Z"
       },
       {
-        "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-        "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-        "points": 175,
-        "comments": 192,
-        "created_at": "2026-05-26T12:08:33.000Z"
-      },
-      {
-        "title": "Sam Altman: I was wrong, AI unlikely to lead to jobs apocalypse",
-        "url": "https://www.reuters.com/world/asia-pacific/openais-altman-says-ai-unlikely-lead-jobs-apocalypse-2026-05-26/",
-        "points": 18,
-        "comments": 15,
-        "created_at": "2026-05-26T11:17:06.000Z"
-      },
-      {
-        "title": "A reality check on the AI jobs hysteria",
-        "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-        "points": 39,
-        "comments": 35,
-        "created_at": "2026-05-26T11:04:54.000Z"
+        "title": "Bay Area mom out thousands after scammers use AI to mimic daughter's voice",
+        "url": "https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/",
+        "points": 49,
+        "comments": 22,
+        "created_at": "2026-05-26T20:23:40.000Z"
       }
     ],
     "vibeCoding": [
@@ -126,14 +126,14 @@
       {
         "title": "Nobody cracks open a programming book anymore",
         "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-        "points": 275,
-        "comments": 314,
+        "points": 291,
+        "comments": 330,
         "created_at": "2026-05-25T23:21:57.000Z"
       },
       {
         "title": "CPPL: A Circuit Prompt Programming Language",
         "url": "https://arxiv.org/abs/2605.17892",
-        "points": 43,
+        "points": 44,
         "comments": 7,
         "created_at": "2026-05-21T11:50:56.000Z"
       },
