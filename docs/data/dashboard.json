@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-05-27T09:43:59.010Z",
+  "updatedAt": "2026-05-27T20:15:41.785Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 26.6,
-      "humidity": 43,
-      "wind_kph": 19.2,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 16.9,
+      "humidity": 94,
+      "wind_kph": 13.4,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
       "date": "2026-05-28",
-      "temp_max_c": 25.2,
-      "temp_min_c": 15.2,
-      "humidity_max": 97,
+      "temp_max_c": 25.1,
+      "temp_min_c": 15.8,
+      "humidity_max": 96,
       "humidity_min": 44,
-      "wind_kph": 31.6,
+      "wind_kph": 30.1,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4551.59,
     "oilUSD": 79,
-    "updatedAt": "2026-05-27T09:43:59.010Z",
+    "updatedAt": "2026-05-27T20:15:41.785Z",
     "gold24KUSD": 146.34,
     "gold21KUSD": 128.04,
     "gold18KUSD": 109.75,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Did the Pope use AI to write about the dangers of AI?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-        "points": 16,
-        "comments": 11,
-        "created_at": "2026-05-27T04:30:30.000Z"
+        "title": "YouTube to automatically label AI-generated videos",
+        "url": "https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/",
+        "points": 38,
+        "comments": 13,
+        "created_at": "2026-05-27T20:00:51.000Z"
       },
       {
-        "title": "AI tools are only as good as your judgment",
-        "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
-        "points": 79,
-        "comments": 22,
-        "created_at": "2026-05-27T00:00:35.000Z"
-      },
-      {
-        "title": "Uber blows through its AI budget in 1 quarter",
-        "url": "https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/",
-        "points": 28,
-        "comments": 32,
-        "created_at": "2026-05-26T22:44:31.000Z"
-      },
-      {
-        "title": "Show HN: I built a tool to auto-accept AI slop and bigtech devs loves it",
-        "url": "https://github.com/Alcray/SlopeAutoAcceptor",
+        "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
+        "url": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
         "points": 11,
-        "comments": 0,
-        "created_at": "2026-05-26T20:45:37.000Z"
+        "comments": 3,
+        "created_at": "2026-05-27T19:16:48.000Z"
       },
       {
-        "title": "Bay Area mom out thousands after scammers use AI to mimic daughter's voice",
-        "url": "https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/",
-        "points": 49,
-        "comments": 22,
-        "created_at": "2026-05-26T20:23:40.000Z"
+        "title": "The AI tech job slaughter gets real",
+        "url": "https://www.computerworld.com/article/4175956/the-ai-tech-job-slaughter-gets-real.html",
+        "points": 12,
+        "comments": 1,
+        "created_at": "2026-05-27T17:49:19.000Z"
+      },
+      {
+        "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+        "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+        "points": 418,
+        "comments": 213,
+        "created_at": "2026-05-27T16:28:41.000Z"
+      },
+      {
+        "title": "OpenAI and Anthropic dig in against each other on AI jobs apocalypse",
+        "url": "https://www.axios.com/2026/05/27/ai-hype-doom-openai-anthropic",
+        "points": 13,
+        "comments": 4,
+        "created_at": "2026-05-27T16:26:16.000Z"
       }
     ],
     "vibeCoding": [
@@ -126,14 +126,14 @@
       {
         "title": "Nobody cracks open a programming book anymore",
         "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-        "points": 291,
-        "comments": 330,
+        "points": 299,
+        "comments": 338,
         "created_at": "2026-05-25T23:21:57.000Z"
       },
       {
         "title": "CPPL: A Circuit Prompt Programming Language",
         "url": "https://arxiv.org/abs/2605.17892",
-        "points": 44,
+        "points": 45,
         "comments": 7,
         "created_at": "2026-05-21T11:50:56.000Z"
       },
