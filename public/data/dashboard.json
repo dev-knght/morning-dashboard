@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-05-27T20:15:41.785Z",
+  "updatedAt": "2026-05-28T10:00:20.838Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.9,
-      "humidity": 94,
-      "wind_kph": 13.4,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 25.2,
+      "humidity": 43,
+      "wind_kph": 26.4,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-05-28",
-      "temp_max_c": 25.1,
-      "temp_min_c": 15.8,
-      "humidity_max": 96,
-      "humidity_min": 44,
-      "wind_kph": 30.1,
+      "date": "2026-05-29",
+      "temp_max_c": 25.5,
+      "temp_min_c": 15.3,
+      "humidity_max": 93,
+      "humidity_min": 34,
+      "wind_kph": 31.7,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4551.59,
+    "goldUSD": 4521.76,
     "oilUSD": 79,
-    "updatedAt": "2026-05-27T20:15:41.785Z",
-    "gold24KUSD": 146.34,
-    "gold21KUSD": 128.04,
-    "gold18KUSD": 109.75,
-    "gold24KJD": 103.75,
-    "gold21KJD": 90.78,
-    "gold18KJD": 77.81
+    "updatedAt": "2026-05-28T10:00:20.838Z",
+    "gold24KUSD": 145.38,
+    "gold21KUSD": 127.21,
+    "gold18KUSD": 109.03,
+    "gold24KJD": 103.07,
+    "gold21KJD": 90.19,
+    "gold18KJD": 77.3
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:15",
-    "maghrib": "19:34",
-    "date": "27 May 2027"
+    "fajr": "04:14",
+    "maghrib": "19:35",
+    "date": "28 May 2028"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "YouTube to automatically label AI-generated videos",
-        "url": "https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/",
-        "points": 38,
-        "comments": 13,
-        "created_at": "2026-05-27T20:00:51.000Z"
+        "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+        "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+        "points": 69,
+        "comments": 24,
+        "created_at": "2026-05-28T06:40:31.000Z"
       },
       {
-        "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
-        "url": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
-        "points": 11,
-        "comments": 3,
-        "created_at": "2026-05-27T19:16:48.000Z"
+        "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
+        "url": "https://www.youtube.com/watch?v=iqddnwKF8HQ",
+        "points": 56,
+        "comments": 5,
+        "created_at": "2026-05-28T01:40:24.000Z"
       },
       {
-        "title": "The AI tech job slaughter gets real",
-        "url": "https://www.computerworld.com/article/4175956/the-ai-tech-job-slaughter-gets-real.html",
+        "title": "Illinois Lawmakers Just Passed America's Strongest AI Safety Bill",
+        "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
         "points": 12,
-        "comments": 1,
-        "created_at": "2026-05-27T17:49:19.000Z"
+        "comments": 7,
+        "created_at": "2026-05-28T01:05:16.000Z"
       },
       {
-        "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-        "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-        "points": 418,
-        "comments": 213,
-        "created_at": "2026-05-27T16:28:41.000Z"
-      },
-      {
-        "title": "OpenAI and Anthropic dig in against each other on AI jobs apocalypse",
-        "url": "https://www.axios.com/2026/05/27/ai-hype-doom-openai-anthropic",
-        "points": 13,
+        "title": "Show HN: Open-Source AI Racing Harness",
+        "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+        "points": 36,
         "comments": 4,
-        "created_at": "2026-05-27T16:26:16.000Z"
+        "created_at": "2026-05-27T20:37:42.000Z"
+      },
+      {
+        "title": "YouTube to automatically label AI-generated videos",
+        "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+        "points": 873,
+        "comments": 539,
+        "created_at": "2026-05-27T20:00:51.000Z"
       }
     ],
     "vibeCoding": [
@@ -126,14 +126,14 @@
       {
         "title": "Nobody cracks open a programming book anymore",
         "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-        "points": 299,
-        "comments": 338,
+        "points": 304,
+        "comments": 345,
         "created_at": "2026-05-25T23:21:57.000Z"
       },
       {
         "title": "CPPL: A Circuit Prompt Programming Language",
         "url": "https://arxiv.org/abs/2605.17892",
-        "points": 45,
+        "points": 46,
         "comments": 7,
         "created_at": "2026-05-21T11:50:56.000Z"
       },
