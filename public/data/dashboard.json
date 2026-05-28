@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-05-28T10:00:20.838Z",
+  "updatedAt": "2026-05-28T20:21:33.710Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 25.2,
-      "humidity": 43,
-      "wind_kph": 26.4,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 16.4,
+      "humidity": 91,
+      "wind_kph": 13.4,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
       "date": "2026-05-29",
-      "temp_max_c": 25.5,
-      "temp_min_c": 15.3,
+      "temp_max_c": 25.2,
+      "temp_min_c": 15.5,
       "humidity_max": 93,
-      "humidity_min": 34,
-      "wind_kph": 31.7,
+      "humidity_min": 37,
+      "wind_kph": 29.8,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4521.76,
     "oilUSD": 79,
-    "updatedAt": "2026-05-28T10:00:20.838Z",
+    "updatedAt": "2026-05-28T20:21:33.710Z",
     "gold24KUSD": 145.38,
     "gold21KUSD": 127.21,
     "gold18KUSD": 109.03,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-        "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-        "points": 69,
-        "comments": 24,
-        "created_at": "2026-05-28T06:40:31.000Z"
+        "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+        "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+        "points": 18,
+        "comments": 10,
+        "created_at": "2026-05-28T19:43:14.000Z"
       },
       {
-        "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
-        "url": "https://www.youtube.com/watch?v=iqddnwKF8HQ",
-        "points": 56,
-        "comments": 5,
-        "created_at": "2026-05-28T01:40:24.000Z"
+        "title": "Elon Musk boosted false USAID conspiracy theories to shut down global aid",
+        "url": "https://www.nbcnews.com/politics/doge/elon-musk-boosted-false-usaid-conspiracy-theories-global-aid-rcna190646",
+        "points": 11,
+        "comments": 0,
+        "created_at": "2026-05-28T19:12:58.000Z"
       },
       {
-        "title": "Illinois Lawmakers Just Passed America's Strongest AI Safety Bill",
-        "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
-        "points": 12,
-        "comments": 7,
-        "created_at": "2026-05-28T01:05:16.000Z"
+        "title": "Spotify CEO defends AI music, wants you to stop calling it 'slop'",
+        "url": "https://www.neowin.net/news/spotify-ceo-defends-ai-music-wants-you-to-stop-calling-it-slop/",
+        "points": 11,
+        "comments": 13,
+        "created_at": "2026-05-28T14:59:32.000Z"
       },
       {
-        "title": "Show HN: Open-Source AI Racing Harness",
-        "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-        "points": 36,
-        "comments": 4,
-        "created_at": "2026-05-27T20:37:42.000Z"
+        "title": "How long until AI automates all cognitive labor?",
+        "url": "https://futuresearch.ai/blog/agi-timeline-tracker/",
+        "points": 43,
+        "comments": 77,
+        "created_at": "2026-05-28T14:21:35.000Z"
       },
       {
-        "title": "YouTube to automatically label AI-generated videos",
-        "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-        "points": 873,
-        "comments": 539,
-        "created_at": "2026-05-27T20:00:51.000Z"
+        "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+        "url": "https://llmgame.scalex.dev",
+        "points": 168,
+        "comments": 84,
+        "created_at": "2026-05-28T13:02:00.000Z"
       }
     ],
     "vibeCoding": [
@@ -124,11 +124,25 @@
     ],
     "progDb": [
       {
+        "title": "Bitburner, programming-based incremental game",
+        "url": "https://bitburner-official.github.io/",
+        "points": 33,
+        "comments": 4,
+        "created_at": "2026-05-28T17:43:36.000Z"
+      },
+      {
         "title": "Nobody cracks open a programming book anymore",
         "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-        "points": 304,
+        "points": 306,
         "comments": 345,
         "created_at": "2026-05-25T23:21:57.000Z"
+      },
+      {
+        "title": "Rapira (Рапира) – Soviet programming language interpreter",
+        "url": "https://github.com/begoon/rapira",
+        "points": 83,
+        "comments": 56,
+        "created_at": "2026-05-25T08:37:36.000Z"
       },
       {
         "title": "CPPL: A Circuit Prompt Programming Language",
@@ -143,20 +157,6 @@
         "points": 97,
         "comments": 11,
         "created_at": "2026-05-19T18:40:19.000Z"
-      },
-      {
-        "title": "Programming as Theory Building (1985) [pdf]",
-        "url": "https://gwern.net/doc/cs/algorithm/1985-naur.pdf",
-        "points": 40,
-        "comments": 1,
-        "created_at": "2026-05-19T16:35:32.000Z"
-      },
-      {
-        "title": "The Programming Language for Agents",
-        "url": "https://zerolang.ai",
-        "points": 20,
-        "comments": 7,
-        "created_at": "2026-05-19T14:09:50.000Z"
       }
     ]
   }
