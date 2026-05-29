@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-05-28T20:21:33.710Z",
+  "updatedAt": "2026-05-29T09:52:58.162Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.4,
-      "humidity": 91,
-      "wind_kph": 13.4,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 24.8,
+      "humidity": 39,
+      "wind_kph": 26.8,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-05-29",
-      "temp_max_c": 25.2,
-      "temp_min_c": 15.5,
-      "humidity_max": 93,
-      "humidity_min": 37,
-      "wind_kph": 29.8,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-05-30",
+      "temp_max_c": 27.1,
+      "temp_min_c": 15.7,
+      "humidity_max": 95,
+      "humidity_min": 38,
+      "wind_kph": 27.1,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4521.76,
+    "goldUSD": 4447.62,
     "oilUSD": 79,
-    "updatedAt": "2026-05-28T20:21:33.710Z",
-    "gold24KUSD": 145.38,
-    "gold21KUSD": 127.21,
-    "gold18KUSD": 109.03,
-    "gold24KJD": 103.07,
-    "gold21KJD": 90.19,
-    "gold18KJD": 77.3
+    "updatedAt": "2026-05-29T09:52:58.162Z",
+    "gold24KUSD": 142.99,
+    "gold21KUSD": 125.12,
+    "gold18KUSD": 107.25,
+    "gold24KJD": 101.38,
+    "gold21KJD": 88.71,
+    "gold18KJD": 76.04
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:14",
-    "maghrib": "19:35",
-    "date": "28 May 2028"
+    "fajr": "04:13",
+    "maghrib": "19:36",
+    "date": "29 May 2029"
   },
   "events": [
     {
@@ -64,42 +64,49 @@
   "news": {
     "ai": [
       {
-        "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
-        "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
-        "points": 18,
-        "comments": 10,
-        "created_at": "2026-05-28T19:43:14.000Z"
+        "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
+        "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+        "points": 40,
+        "comments": 41,
+        "created_at": "2026-05-29T07:05:31.000Z"
       },
       {
-        "title": "Elon Musk boosted false USAID conspiracy theories to shut down global aid",
-        "url": "https://www.nbcnews.com/politics/doge/elon-musk-boosted-false-usaid-conspiracy-theories-global-aid-rcna190646",
+        "title": "Microsoft data suggests using AI is more expensive than hiring people",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html",
+        "points": 58,
+        "comments": 8,
+        "created_at": "2026-05-29T00:49:05.000Z"
+      },
+      {
+        "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+        "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+        "points": 209,
+        "comments": 100,
+        "created_at": "2026-05-28T23:42:47.000Z"
+      },
+      {
+        "title": "Ohio suspends data center tax break, tech firms face pressure to pay AI costs",
+        "url": "https://apnews.com/article/artificial-intelligence-data-centers-taxes-tech-ohio-4d56561a14f9b0d00553001e8c2757a3",
         "points": 11,
-        "comments": 0,
-        "created_at": "2026-05-28T19:12:58.000Z"
+        "comments": 2,
+        "created_at": "2026-05-28T23:35:24.000Z"
       },
       {
-        "title": "Spotify CEO defends AI music, wants you to stop calling it 'slop'",
-        "url": "https://www.neowin.net/news/spotify-ceo-defends-ai-music-wants-you-to-stop-calling-it-slop/",
-        "points": 11,
-        "comments": 13,
-        "created_at": "2026-05-28T14:59:32.000Z"
-      },
-      {
-        "title": "How long until AI automates all cognitive labor?",
-        "url": "https://futuresearch.ai/blog/agi-timeline-tracker/",
-        "points": 43,
-        "comments": 77,
-        "created_at": "2026-05-28T14:21:35.000Z"
-      },
-      {
-        "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-        "url": "https://llmgame.scalex.dev",
-        "points": 168,
-        "comments": 84,
-        "created_at": "2026-05-28T13:02:00.000Z"
+        "title": "Amazon scraps AI leaderboard to stop workers chasing usage scores",
+        "url": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6",
+        "points": 61,
+        "comments": 16,
+        "created_at": "2026-05-28T21:14:22.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
+        "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+        "points": 40,
+        "comments": 41,
+        "created_at": "2026-05-29T07:05:31.000Z"
+      },
       {
         "title": "Managers Have Been Vibe Coding All Along",
         "url": "https://yusufaytas.com/managers-have-been-vibe-coding-all-along",
@@ -126,22 +133,22 @@
       {
         "title": "Bitburner, programming-based incremental game",
         "url": "https://bitburner-official.github.io/",
-        "points": 33,
-        "comments": 4,
+        "points": 101,
+        "comments": 23,
         "created_at": "2026-05-28T17:43:36.000Z"
       },
       {
         "title": "Nobody cracks open a programming book anymore",
         "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-        "points": 306,
-        "comments": 345,
+        "points": 307,
+        "comments": 346,
         "created_at": "2026-05-25T23:21:57.000Z"
       },
       {
         "title": "Rapira (Рапира) – Soviet programming language interpreter",
         "url": "https://github.com/begoon/rapira",
-        "points": 83,
-        "comments": 56,
+        "points": 86,
+        "comments": 64,
         "created_at": "2026-05-25T08:37:36.000Z"
       },
       {
