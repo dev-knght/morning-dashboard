@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-05-29T09:52:58.162Z",
+  "updatedAt": "2026-05-29T20:24:06.414Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 24.8,
-      "humidity": 39,
-      "wind_kph": 26.8,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 16.3,
+      "humidity": 91,
+      "wind_kph": 10.7,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-05-30",
-      "temp_max_c": 27.1,
-      "temp_min_c": 15.7,
+      "temp_max_c": 27.3,
+      "temp_min_c": 15.8,
       "humidity_max": 95,
-      "humidity_min": 38,
-      "wind_kph": 27.1,
+      "humidity_min": 35,
+      "wind_kph": 27.5,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4447.62,
     "oilUSD": 79,
-    "updatedAt": "2026-05-29T09:52:58.162Z",
+    "updatedAt": "2026-05-29T20:24:06.414Z",
     "gold24KUSD": 142.99,
     "gold21KUSD": 125.12,
     "gold18KUSD": 107.25,
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
-        "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-        "points": 40,
-        "comments": 41,
-        "created_at": "2026-05-29T07:05:31.000Z"
+        "title": "AI will be used to estimate age of asylum seekers from next year",
+        "url": "https://www.bbc.co.uk/news/articles/ce3pe36qe7ro",
+        "points": 29,
+        "comments": 22,
+        "created_at": "2026-05-29T18:23:03.000Z"
       },
       {
-        "title": "Microsoft data suggests using AI is more expensive than hiring people",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html",
+        "title": "Robinhood now lets your AI agents trade stocks",
+        "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
         "points": 58,
-        "comments": 8,
-        "created_at": "2026-05-29T00:49:05.000Z"
+        "comments": 103,
+        "created_at": "2026-05-29T17:46:27.000Z"
       },
       {
-        "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-        "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-        "points": 209,
-        "comments": 100,
-        "created_at": "2026-05-28T23:42:47.000Z"
+        "title": "New Study Reveals the Manipulative 'Dark Patterns' of AI Chatbots",
+        "url": "https://www.404media.co/new-study-reveals-the-manipulative-dark-patterns-of-ai-chatbots/",
+        "points": 13,
+        "comments": 1,
+        "created_at": "2026-05-29T17:11:26.000Z"
       },
       {
-        "title": "Ohio suspends data center tax break, tech firms face pressure to pay AI costs",
-        "url": "https://apnews.com/article/artificial-intelligence-data-centers-taxes-tech-ohio-4d56561a14f9b0d00553001e8c2757a3",
-        "points": 11,
-        "comments": 2,
-        "created_at": "2026-05-28T23:35:24.000Z"
+        "title": "Notes from the Mistral AI Now Summit in Paris",
+        "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+        "points": 238,
+        "comments": 59,
+        "created_at": "2026-05-29T16:22:01.000Z"
       },
       {
-        "title": "Amazon scraps AI leaderboard to stop workers chasing usage scores",
-        "url": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6",
-        "points": 61,
-        "comments": 16,
-        "created_at": "2026-05-28T21:14:22.000Z"
+        "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+        "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+        "points": 71,
+        "comments": 14,
+        "created_at": "2026-05-29T16:19:54.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
         "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-        "points": 40,
-        "comments": 41,
+        "points": 54,
+        "comments": 67,
         "created_at": "2026-05-29T07:05:31.000Z"
       },
       {
@@ -120,35 +120,28 @@
         "points": 78,
         "comments": 105,
         "created_at": "2026-05-16T22:02:51.000Z"
-      },
-      {
-        "title": "Show HN: Vibe Coding a $20k /Year Enterprise Logistics Platform",
-        "url": "https://trmnl.com/blog/vibe-coding-shiphero",
-        "points": 33,
-        "comments": 7,
-        "created_at": "2026-05-15T13:51:39.000Z"
       }
     ],
     "progDb": [
       {
         "title": "Bitburner, programming-based incremental game",
         "url": "https://bitburner-official.github.io/",
-        "points": 101,
-        "comments": 23,
+        "points": 110,
+        "comments": 24,
         "created_at": "2026-05-28T17:43:36.000Z"
       },
       {
         "title": "Nobody cracks open a programming book anymore",
         "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-        "points": 307,
-        "comments": 346,
+        "points": 309,
+        "comments": 349,
         "created_at": "2026-05-25T23:21:57.000Z"
       },
       {
         "title": "Rapira (Рапира) – Soviet programming language interpreter",
         "url": "https://github.com/begoon/rapira",
         "points": 86,
-        "comments": 64,
+        "comments": 66,
         "created_at": "2026-05-25T08:37:36.000Z"
       },
       {
