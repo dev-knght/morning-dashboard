@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-05-29T20:24:06.414Z",
+  "updatedAt": "2026-05-30T08:26:54.053Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.3,
-      "humidity": 91,
-      "wind_kph": 10.7,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 23.3,
+      "humidity": 50,
+      "wind_kph": 15.9,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-05-30",
-      "temp_max_c": 27.3,
-      "temp_min_c": 15.8,
-      "humidity_max": 95,
-      "humidity_min": 35,
-      "wind_kph": 27.5,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "date": "2026-05-31",
+      "temp_max_c": 28.6,
+      "temp_min_c": 14.5,
+      "humidity_max": 96,
+      "humidity_min": 29,
+      "wind_kph": 27.1,
+      "weather_code": 45,
+      "weather_desc": "Fog"
     }
   },
   "metals": {
-    "goldUSD": 4447.62,
+    "goldUSD": 4497.32,
     "oilUSD": 79,
-    "updatedAt": "2026-05-29T20:24:06.414Z",
-    "gold24KUSD": 142.99,
-    "gold21KUSD": 125.12,
-    "gold18KUSD": 107.25,
-    "gold24KJD": 101.38,
-    "gold21KJD": 88.71,
-    "gold18KJD": 76.04
+    "updatedAt": "2026-05-30T08:26:54.053Z",
+    "gold24KUSD": 144.59,
+    "gold21KUSD": 126.52,
+    "gold18KUSD": 108.44,
+    "gold24KJD": 102.52,
+    "gold21KJD": 89.7,
+    "gold18KJD": 76.89
   },
   "exchange": {
     "JOD": 0.709
@@ -37,7 +37,7 @@
   "prayer": {
     "fajr": "04:13",
     "maghrib": "19:36",
-    "date": "29 May 2029"
+    "date": "30 May 2030"
   },
   "events": [
     {
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
+        "title": "40% of Enterprises Will Demote or Decommission Autonomous AI Agents",
+        "url": "https://www.gartner.com/en/newsroom/press-releases/2026-05-26-gartner-says-applying-uniform-governance-across-ai-agents-will-lead-to-enterprise-ai-agent-failure",
+        "points": 19,
+        "comments": 2,
+        "created_at": "2026-05-29T20:37:54.000Z"
+      },
+      {
+        "title": "Otari: Own Your AI Stack",
+        "url": "https://blog.mozilla.ai/otari-own-your-ai-stack/",
+        "points": 11,
+        "comments": 1,
+        "created_at": "2026-05-29T20:03:15.000Z"
+      },
+      {
+        "title": "Ronny Chieng's 'Fuck AI' Speech Met with Cheers from Harvard Graduates",
+        "url": "https://www.complex.com/pop-culture/a/tracewilliamcowen/ronny-chieng-ai-speech-harvard",
+        "points": 11,
+        "comments": 1,
+        "created_at": "2026-05-29T19:29:08.000Z"
+      },
+      {
         "title": "AI will be used to estimate age of asylum seekers from next year",
         "url": "https://www.bbc.co.uk/news/articles/ce3pe36qe7ro",
-        "points": 29,
-        "comments": 22,
+        "points": 36,
+        "comments": 40,
         "created_at": "2026-05-29T18:23:03.000Z"
       },
       {
-        "title": "Robinhood now lets your AI agents trade stocks",
-        "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-        "points": 58,
-        "comments": 103,
-        "created_at": "2026-05-29T17:46:27.000Z"
-      },
-      {
-        "title": "New Study Reveals the Manipulative 'Dark Patterns' of AI Chatbots",
-        "url": "https://www.404media.co/new-study-reveals-the-manipulative-dark-patterns-of-ai-chatbots/",
-        "points": 13,
-        "comments": 1,
-        "created_at": "2026-05-29T17:11:26.000Z"
-      },
-      {
-        "title": "Notes from the Mistral AI Now Summit in Paris",
-        "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-        "points": 238,
-        "comments": 59,
-        "created_at": "2026-05-29T16:22:01.000Z"
-      },
-      {
-        "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-        "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
-        "points": 71,
-        "comments": 14,
-        "created_at": "2026-05-29T16:19:54.000Z"
+        "title": "Tesla's AI trainers don't trust its self-driving tech – or its safety stats",
+        "url": "https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/",
+        "points": 11,
+        "comments": 7,
+        "created_at": "2026-05-29T17:50:53.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
         "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-        "points": 54,
-        "comments": 67,
+        "points": 57,
+        "comments": 1,
         "created_at": "2026-05-29T07:05:31.000Z"
       },
       {
@@ -126,7 +126,7 @@
       {
         "title": "Bitburner, programming-based incremental game",
         "url": "https://bitburner-official.github.io/",
-        "points": 110,
+        "points": 111,
         "comments": 24,
         "created_at": "2026-05-28T17:43:36.000Z"
       },
@@ -134,7 +134,7 @@
         "title": "Nobody cracks open a programming book anymore",
         "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
         "points": 309,
-        "comments": 349,
+        "comments": 350,
         "created_at": "2026-05-25T23:21:57.000Z"
       },
       {
