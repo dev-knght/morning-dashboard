@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-05-31T08:43:40.854Z",
+  "updatedAt": "2026-05-31T19:16:27.394Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 26.4,
-      "humidity": 32,
-      "wind_kph": 16.9,
+      "temp_c": 20,
+      "humidity": 58,
+      "wind_kph": 7.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-06-01",
-      "temp_max_c": 27,
-      "temp_min_c": 13.9,
-      "humidity_max": 79,
-      "humidity_min": 29,
-      "wind_kph": 26.4,
+      "temp_max_c": 27.7,
+      "temp_min_c": 14.9,
+      "humidity_max": 82,
+      "humidity_min": 28,
+      "wind_kph": 26.6,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4539.78,
     "oilUSD": 79,
-    "updatedAt": "2026-05-31T08:43:40.854Z",
+    "updatedAt": "2026-05-31T19:16:27.394Z",
     "gold24KUSD": 145.96,
     "gold21KUSD": 127.71,
     "gold18KUSD": 109.47,
@@ -64,53 +64,53 @@
   "news": {
     "ai": [
       {
-        "title": "AI grifters are creating fake Black people to sell Shein junk",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
-        "points": 39,
-        "comments": 5,
-        "created_at": "2026-05-31T00:23:33.000Z"
+        "title": "The Speed of Prototyping in the Age of AI",
+        "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+        "points": 45,
+        "comments": 31,
+        "created_at": "2026-05-31T16:37:34.000Z"
       },
       {
-        "title": "Starbucks Abandons Borked AI Inventory Tool That Couldn't Count",
-        "url": "https://gizmodo.com/starbucks-abandons-borked-ai-inventory-tool-that-couldnt-count-report-2000762252",
-        "points": 27,
-        "comments": 7,
-        "created_at": "2026-05-30T22:27:52.000Z"
+        "title": "Odysseus – self-hosted AI workspace",
+        "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+        "points": 53,
+        "comments": 43,
+        "created_at": "2026-05-31T15:50:34.000Z"
       },
       {
-        "title": "Mystery company accidentally blew $500M on Claude AI in a single month",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees",
-        "points": 21,
-        "comments": 4,
-        "created_at": "2026-05-30T20:36:21.000Z"
+        "title": "The solution might be cancelling my AI subscription",
+        "url": "https://thoughts.hmmz.org/2026-05-31.html",
+        "points": 308,
+        "comments": 210,
+        "created_at": "2026-05-31T14:23:30.000Z"
       },
       {
-        "title": "1M Ancient Greek fragments soon to be translated with the help of AI",
-        "url": "https://www.oeaw.ac.at/en/news/austrian-academy-of-sciences-is-developing-the-ancient-greek-ai-apollo-with-mistral-ai-and-reply",
-        "points": 18,
-        "comments": 3,
-        "created_at": "2026-05-30T20:14:14.000Z"
+        "title": "The people who actually want AI to replace humanity",
+        "url": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism",
+        "points": 68,
+        "comments": 70,
+        "created_at": "2026-05-31T14:20:12.000Z"
       },
       {
-        "title": "Meta is reportedly developing an AI pendant",
-        "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-        "points": 35,
-        "comments": 40,
-        "created_at": "2026-05-30T19:05:29.000Z"
+        "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+        "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+        "points": 132,
+        "comments": 171,
+        "created_at": "2026-05-31T12:41:19.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Vibe Coding Is Not Engineering",
         "url": "https://phroneses.com/articles/build/notes/vibe-coding-is-not-engineering.html",
-        "points": 42,
-        "comments": 69,
+        "points": 43,
+        "comments": 72,
         "created_at": "2026-05-30T12:53:07.000Z"
       },
       {
         "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
         "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-        "points": 58,
+        "points": 62,
         "comments": 1,
         "created_at": "2026-05-29T07:05:31.000Z"
       },
