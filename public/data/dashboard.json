@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-05-30T19:14:15.001Z",
+  "updatedAt": "2026-05-31T08:43:40.854Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 18.1,
-      "humidity": 85,
-      "wind_kph": 10.3,
+      "temp_c": 26.4,
+      "humidity": 32,
+      "wind_kph": 16.9,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-05-31",
-      "temp_max_c": 28.1,
-      "temp_min_c": 14.7,
-      "humidity_max": 87,
-      "humidity_min": 27,
-      "wind_kph": 25.1,
+      "date": "2026-06-01",
+      "temp_max_c": 27,
+      "temp_min_c": 13.9,
+      "humidity_max": 79,
+      "humidity_min": 29,
+      "wind_kph": 26.4,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4497.32,
+    "goldUSD": 4539.78,
     "oilUSD": 79,
-    "updatedAt": "2026-05-30T19:14:15.001Z",
-    "gold24KUSD": 144.59,
-    "gold21KUSD": 126.52,
-    "gold18KUSD": 108.44,
-    "gold24KJD": 102.52,
-    "gold21KJD": 89.7,
-    "gold18KJD": 76.89
+    "updatedAt": "2026-05-31T08:43:40.854Z",
+    "gold24KUSD": 145.96,
+    "gold21KUSD": 127.71,
+    "gold18KUSD": 109.47,
+    "gold24KJD": 103.48,
+    "gold21KJD": 90.55,
+    "gold18KJD": 77.61
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:13",
-    "maghrib": "19:36",
-    "date": "30 May 2030"
+    "fajr": "04:12",
+    "maghrib": "19:37",
+    "date": "31 May 2031"
   },
   "events": [
     {
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "US plans to halt immigration, customs processing at 'sanctuary city' airports",
-        "url": "https://www.reuters.com/legal/government/us-drawing-up-plans-halt-immigration-customs-processing-sanctuary-city-airports-2026-05-27/",
-        "points": 11,
-        "comments": 0,
-        "created_at": "2026-05-30T18:35:59.000Z"
+        "title": "AI grifters are creating fake Black people to sell Shein junk",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+        "points": 39,
+        "comments": 5,
+        "created_at": "2026-05-31T00:23:33.000Z"
       },
       {
-        "title": "To have a moral stance on AI is to be an outcast, and it sucks",
-        "url": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks",
-        "points": 105,
-        "comments": 225,
-        "created_at": "2026-05-30T16:04:00.000Z"
+        "title": "Starbucks Abandons Borked AI Inventory Tool That Couldn't Count",
+        "url": "https://gizmodo.com/starbucks-abandons-borked-ai-inventory-tool-that-couldnt-count-report-2000762252",
+        "points": 27,
+        "comments": 7,
+        "created_at": "2026-05-30T22:27:52.000Z"
       },
       {
-        "title": "AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers",
-        "url": "https://jackmaguire.org/blog/ai-job-grief/",
-        "points": 65,
-        "comments": 82,
-        "created_at": "2026-05-30T14:41:26.000Z"
+        "title": "Mystery company accidentally blew $500M on Claude AI in a single month",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees",
+        "points": 21,
+        "comments": 4,
+        "created_at": "2026-05-30T20:36:21.000Z"
       },
       {
-        "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-        "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
-        "points": 376,
-        "comments": 416,
-        "created_at": "2026-05-30T13:56:34.000Z"
+        "title": "1M Ancient Greek fragments soon to be translated with the help of AI",
+        "url": "https://www.oeaw.ac.at/en/news/austrian-academy-of-sciences-is-developing-the-ancient-greek-ai-apollo-with-mistral-ai-and-reply",
+        "points": 18,
+        "comments": 3,
+        "created_at": "2026-05-30T20:14:14.000Z"
       },
       {
-        "title": "Airlines Can't Charge You for What You Wear",
-        "url": "https://voyagecoat.com/",
-        "points": 17,
-        "comments": 21,
-        "created_at": "2026-05-30T13:35:43.000Z"
+        "title": "Meta is reportedly developing an AI pendant",
+        "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+        "points": 35,
+        "comments": 40,
+        "created_at": "2026-05-30T19:05:29.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Vibe Coding Is Not Engineering",
         "url": "https://phroneses.com/articles/build/notes/vibe-coding-is-not-engineering.html",
-        "points": 39,
-        "comments": 66,
+        "points": 42,
+        "comments": 69,
         "created_at": "2026-05-30T12:53:07.000Z"
       },
       {
@@ -120,27 +120,20 @@
         "points": 13,
         "comments": 0,
         "created_at": "2026-05-21T09:19:32.000Z"
-      },
-      {
-        "title": "Ask HN: When did computers stop being fun?",
-        "url": "https://news.ycombinator.com/item?id=48164173",
-        "points": 78,
-        "comments": 105,
-        "created_at": "2026-05-16T22:02:51.000Z"
       }
     ],
     "progDb": [
       {
         "title": "Bitburner, programming-based incremental game",
         "url": "https://bitburner-official.github.io/",
-        "points": 111,
+        "points": 113,
         "comments": 24,
         "created_at": "2026-05-28T17:43:36.000Z"
       },
       {
         "title": "Nobody cracks open a programming book anymore",
         "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-        "points": 309,
+        "points": 310,
         "comments": 351,
         "created_at": "2026-05-25T23:21:57.000Z"
       },
