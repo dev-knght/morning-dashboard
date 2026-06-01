@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-05-31T19:16:27.394Z",
+  "updatedAt": "2026-06-01T11:32:00.389Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 20,
-      "humidity": 58,
-      "wind_kph": 7.6,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 28.7,
+      "humidity": 32,
+      "wind_kph": 24.7,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-06-01",
-      "temp_max_c": 27.7,
-      "temp_min_c": 14.9,
-      "humidity_max": 82,
-      "humidity_min": 28,
-      "wind_kph": 26.6,
+      "date": "2026-06-02",
+      "temp_max_c": 28.8,
+      "temp_min_c": 15.3,
+      "humidity_max": 95,
+      "humidity_min": 24,
+      "wind_kph": 27.3,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4539.78,
+    "goldUSD": 4539.25,
     "oilUSD": 79,
-    "updatedAt": "2026-05-31T19:16:27.394Z",
-    "gold24KUSD": 145.96,
-    "gold21KUSD": 127.71,
-    "gold18KUSD": 109.47,
-    "gold24KJD": 103.48,
-    "gold21KJD": 90.55,
-    "gold18KJD": 77.61
+    "updatedAt": "2026-06-01T11:32:00.389Z",
+    "gold24KUSD": 145.94,
+    "gold21KUSD": 127.7,
+    "gold18KUSD": 109.46,
+    "gold24KJD": 103.47,
+    "gold21KJD": 90.54,
+    "gold18KJD": 77.6
   },
   "exchange": {
     "JOD": 0.709
@@ -37,7 +37,7 @@
   "prayer": {
     "fajr": "04:12",
     "maghrib": "19:37",
-    "date": "31 May 2031"
+    "date": "01 Jun 2001"
   },
   "events": [
     {
@@ -64,53 +64,53 @@
   "news": {
     "ai": [
       {
-        "title": "The Speed of Prototyping in the Age of AI",
-        "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-        "points": 45,
-        "comments": 31,
-        "created_at": "2026-05-31T16:37:34.000Z"
+        "title": "Dune's Butlerian Jihad and the Future of AI",
+        "url": "https://technology.inquirer.net/147084/dunes-butlerian-jihad-and-the-future-of-ai",
+        "points": 26,
+        "comments": 48,
+        "created_at": "2026-06-01T07:31:15.000Z"
       },
       {
-        "title": "Odysseus – self-hosted AI workspace",
-        "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-        "points": 53,
-        "comments": 43,
-        "created_at": "2026-05-31T15:50:34.000Z"
+        "title": "Unlawful by design: Exposing the human rights costs of generative AI",
+        "url": "https://www.amnesty.org/en/documents/pol40/0996/2026/en/",
+        "points": 34,
+        "comments": 5,
+        "created_at": "2026-06-01T01:41:59.000Z"
       },
       {
-        "title": "The solution might be cancelling my AI subscription",
-        "url": "https://thoughts.hmmz.org/2026-05-31.html",
-        "points": 308,
-        "comments": 210,
-        "created_at": "2026-05-31T14:23:30.000Z"
+        "title": "Harvard Graduation Speaker: \"The Mission of Your Generation Is to Destroy AI\"",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/harvard-graduation-speaker-unloads-ai-130000122.htmlrm_19908-1475736-20260531-0--A&bt_ee=clIMdexlsr2eDDbrvs0CPtt59FnpbNQN%2Fkgr8UkycP6MWDAD56hD1mvZcqPZMGgG&bt_ts=1780255911284",
+        "points": 11,
+        "comments": 6,
+        "created_at": "2026-05-31T23:23:26.000Z"
       },
       {
-        "title": "The people who actually want AI to replace humanity",
-        "url": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism",
-        "points": 68,
-        "comments": 70,
-        "created_at": "2026-05-31T14:20:12.000Z"
+        "title": "Tell HN: Meta's AI support feature allows Instagram accounts to be stolen",
+        "url": "https://news.ycombinator.com/item?id=48350239",
+        "points": 23,
+        "comments": 9,
+        "created_at": "2026-05-31T22:11:40.000Z"
       },
       {
-        "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-        "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-        "points": 132,
-        "comments": 171,
-        "created_at": "2026-05-31T12:41:19.000Z"
+        "title": "Netflix Wiz creates app to slash AI bills, then open sources it",
+        "url": "https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702",
+        "points": 12,
+        "comments": 2,
+        "created_at": "2026-05-31T19:09:05.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Vibe Coding Is Not Engineering",
         "url": "https://phroneses.com/articles/build/notes/vibe-coding-is-not-engineering.html",
-        "points": 43,
-        "comments": 72,
+        "points": 44,
+        "comments": 71,
         "created_at": "2026-05-30T12:53:07.000Z"
       },
       {
         "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
         "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-        "points": 62,
+        "points": 63,
         "comments": 1,
         "created_at": "2026-05-29T07:05:31.000Z"
       },
@@ -131,6 +131,13 @@
         "created_at": "2026-05-28T17:43:36.000Z"
       },
       {
+        "title": "The four programming questions from my 1994 Microsoft internship interview (2023)",
+        "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
+        "points": 150,
+        "comments": 61,
+        "created_at": "2026-05-28T08:28:23.000Z"
+      },
+      {
         "title": "Nobody cracks open a programming book anymore",
         "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
         "points": 310,
@@ -140,7 +147,7 @@
       {
         "title": "Rapira (Рапира) – Soviet programming language interpreter",
         "url": "https://github.com/begoon/rapira",
-        "points": 86,
+        "points": 87,
         "comments": 66,
         "created_at": "2026-05-25T08:37:36.000Z"
       },
@@ -150,13 +157,6 @@
         "points": 46,
         "comments": 7,
         "created_at": "2026-05-21T11:50:56.000Z"
-      },
-      {
-        "title": "The TTY Demystified (2008)",
-        "url": "https://www.linusakesson.net/programming/tty/index.php",
-        "points": 97,
-        "comments": 11,
-        "created_at": "2026-05-19T18:40:19.000Z"
       }
     ]
   }
