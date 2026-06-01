@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-06-01T11:32:00.389Z",
+  "updatedAt": "2026-06-01T21:31:46.575Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 28.7,
-      "humidity": 32,
-      "wind_kph": 24.7,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 17.3,
+      "humidity": 78,
+      "wind_kph": 9.4,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-06-02",
-      "temp_max_c": 28.8,
-      "temp_min_c": 15.3,
-      "humidity_max": 95,
-      "humidity_min": 24,
-      "wind_kph": 27.3,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-06-03",
+      "temp_max_c": 30.2,
+      "temp_min_c": 15.5,
+      "humidity_max": 76,
+      "humidity_min": 13,
+      "wind_kph": 30.8,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     }
   },
   "metals": {
     "goldUSD": 4539.25,
     "oilUSD": 79,
-    "updatedAt": "2026-06-01T11:32:00.389Z",
+    "updatedAt": "2026-06-01T21:31:46.575Z",
     "gold24KUSD": 145.94,
     "gold21KUSD": 127.7,
     "gold18KUSD": 109.46,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Dune's Butlerian Jihad and the Future of AI",
-        "url": "https://technology.inquirer.net/147084/dunes-butlerian-jihad-and-the-future-of-ai",
-        "points": 26,
-        "comments": 48,
-        "created_at": "2026-06-01T07:31:15.000Z"
+        "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+        "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+        "points": 45,
+        "comments": 24,
+        "created_at": "2026-06-01T20:55:15.000Z"
       },
       {
-        "title": "Unlawful by design: Exposing the human rights costs of generative AI",
-        "url": "https://www.amnesty.org/en/documents/pol40/0996/2026/en/",
-        "points": 34,
-        "comments": 5,
-        "created_at": "2026-06-01T01:41:59.000Z"
+        "title": "Hackers Used Meta's AI Support Bot to Seize Instagram Accounts",
+        "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+        "points": 49,
+        "comments": 18,
+        "created_at": "2026-06-01T19:18:52.000Z"
       },
       {
-        "title": "Harvard Graduation Speaker: \"The Mission of Your Generation Is to Destroy AI\"",
-        "url": "https://www.yahoo.com/entertainment/tv/articles/harvard-graduation-speaker-unloads-ai-130000122.htmlrm_19908-1475736-20260531-0--A&bt_ee=clIMdexlsr2eDDbrvs0CPtt59FnpbNQN%2Fkgr8UkycP6MWDAD56hD1mvZcqPZMGgG&bt_ts=1780255911284",
-        "points": 11,
-        "comments": 6,
-        "created_at": "2026-05-31T23:23:26.000Z"
-      },
-      {
-        "title": "Tell HN: Meta's AI support feature allows Instagram accounts to be stolen",
-        "url": "https://news.ycombinator.com/item?id=48350239",
+        "title": "Amazon Shuts Down Internal AI Leaderboard After Employees Cheated",
+        "url": "https://www.404media.co/amazon-shuts-down-internal-ai-leaderboard-after-employees-cheated/",
         "points": 23,
         "comments": 9,
-        "created_at": "2026-05-31T22:11:40.000Z"
+        "created_at": "2026-06-01T17:31:57.000Z"
       },
       {
-        "title": "Netflix Wiz creates app to slash AI bills, then open sources it",
-        "url": "https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702",
-        "points": 12,
-        "comments": 2,
-        "created_at": "2026-05-31T19:09:05.000Z"
+        "title": "Hackers Asked Meta AI to Give Them Access to Instagram Accounts. It Worked",
+        "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
+        "points": 17,
+        "comments": 3,
+        "created_at": "2026-06-01T17:31:15.000Z"
+      },
+      {
+        "title": "AI Agent Guidelines for CS336 at Stanford",
+        "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+        "points": 225,
+        "comments": 94,
+        "created_at": "2026-06-01T16:41:49.000Z"
       }
     ],
     "vibeCoding": [
@@ -110,7 +110,7 @@
       {
         "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
         "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-        "points": 63,
+        "points": 64,
         "comments": 1,
         "created_at": "2026-05-29T07:05:31.000Z"
       },
@@ -126,15 +126,15 @@
       {
         "title": "Bitburner, programming-based incremental game",
         "url": "https://bitburner-official.github.io/",
-        "points": 113,
+        "points": 114,
         "comments": 24,
         "created_at": "2026-05-28T17:43:36.000Z"
       },
       {
         "title": "The four programming questions from my 1994 Microsoft internship interview (2023)",
         "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
-        "points": 150,
-        "comments": 61,
+        "points": 187,
+        "comments": 93,
         "created_at": "2026-05-28T08:28:23.000Z"
       },
       {
