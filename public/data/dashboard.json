@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-01T21:31:46.575Z",
+  "updatedAt": "2026-06-02T10:22:05.487Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 17.3,
-      "humidity": 78,
-      "wind_kph": 9.4,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 28.2,
+      "humidity": 35,
+      "wind_kph": 22.1,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-06-03",
       "temp_max_c": 30.2,
-      "temp_min_c": 15.5,
-      "humidity_max": 76,
-      "humidity_min": 13,
-      "wind_kph": 30.8,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_min_c": 15.8,
+      "humidity_max": 67,
+      "humidity_min": 16,
+      "wind_kph": 28.1,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4539.25,
+    "goldUSD": 4540.53,
     "oilUSD": 79,
-    "updatedAt": "2026-06-01T21:31:46.575Z",
-    "gold24KUSD": 145.94,
-    "gold21KUSD": 127.7,
-    "gold18KUSD": 109.46,
-    "gold24KJD": 103.47,
-    "gold21KJD": 90.54,
-    "gold18KJD": 77.6
+    "updatedAt": "2026-06-02T10:22:05.487Z",
+    "gold24KUSD": 145.98,
+    "gold21KUSD": 127.73,
+    "gold18KUSD": 109.49,
+    "gold24KJD": 103.5,
+    "gold21KJD": 90.56,
+    "gold18KJD": 77.63
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "04:12",
-    "maghrib": "19:37",
-    "date": "01 Jun 2001"
+    "maghrib": "19:38",
+    "date": "02 Jun 2002"
   },
   "events": [
     {
@@ -64,46 +64,46 @@
   "news": {
     "ai": [
       {
+        "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system",
+        "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+        "points": 12,
+        "comments": 2,
+        "created_at": "2026-06-02T01:17:14.000Z"
+      },
+      {
+        "title": "Open source project contains hidden instruction for \"AI\" agents: delete my code",
+        "url": "https://www.osnews.com/story/145130/open-source-project-contains-hidden-instruction-for-ai-agents-delete-my-code/",
+        "points": 16,
+        "comments": 2,
+        "created_at": "2026-06-01T22:26:35.000Z"
+      },
+      {
         "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
         "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
-        "points": 45,
-        "comments": 24,
+        "points": 195,
+        "comments": 180,
         "created_at": "2026-06-01T20:55:15.000Z"
+      },
+      {
+        "title": "Remote work, not AI, has sidelined recent college graduates, research finds",
+        "url": "https://text.npr.org/nx-s1-5843076",
+        "points": 22,
+        "comments": 6,
+        "created_at": "2026-06-01T20:27:42.000Z"
       },
       {
         "title": "Hackers Used Meta's AI Support Bot to Seize Instagram Accounts",
         "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-        "points": 49,
-        "comments": 18,
+        "points": 52,
+        "comments": 19,
         "created_at": "2026-06-01T19:18:52.000Z"
-      },
-      {
-        "title": "Amazon Shuts Down Internal AI Leaderboard After Employees Cheated",
-        "url": "https://www.404media.co/amazon-shuts-down-internal-ai-leaderboard-after-employees-cheated/",
-        "points": 23,
-        "comments": 9,
-        "created_at": "2026-06-01T17:31:57.000Z"
-      },
-      {
-        "title": "Hackers Asked Meta AI to Give Them Access to Instagram Accounts. It Worked",
-        "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
-        "points": 17,
-        "comments": 3,
-        "created_at": "2026-06-01T17:31:15.000Z"
-      },
-      {
-        "title": "AI Agent Guidelines for CS336 at Stanford",
-        "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-        "points": 225,
-        "comments": 94,
-        "created_at": "2026-06-01T16:41:49.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Vibe Coding Is Not Engineering",
         "url": "https://phroneses.com/articles/build/notes/vibe-coding-is-not-engineering.html",
-        "points": 44,
+        "points": 45,
         "comments": 71,
         "created_at": "2026-05-30T12:53:07.000Z"
       },
@@ -133,8 +133,8 @@
       {
         "title": "The four programming questions from my 1994 Microsoft internship interview (2023)",
         "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
-        "points": 187,
-        "comments": 93,
+        "points": 193,
+        "comments": 94,
         "created_at": "2026-05-28T08:28:23.000Z"
       },
       {
