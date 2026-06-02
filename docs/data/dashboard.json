@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-06-02T10:22:05.487Z",
+  "updatedAt": "2026-06-02T20:47:40.736Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 28.2,
-      "humidity": 35,
-      "wind_kph": 22.1,
+      "temp_c": 17.9,
+      "humidity": 60,
+      "wind_kph": 4,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-06-03",
-      "temp_max_c": 30.2,
-      "temp_min_c": 15.8,
-      "humidity_max": 67,
-      "humidity_min": 16,
-      "wind_kph": 28.1,
+      "temp_max_c": 29.8,
+      "temp_min_c": 16.1,
+      "humidity_max": 60,
+      "humidity_min": 14,
+      "wind_kph": 27.9,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4540.53,
     "oilUSD": 79,
-    "updatedAt": "2026-06-02T10:22:05.487Z",
+    "updatedAt": "2026-06-02T20:47:40.736Z",
     "gold24KUSD": 145.98,
     "gold21KUSD": 127.73,
     "gold18KUSD": 109.49,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system",
-        "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
-        "points": 12,
-        "comments": 2,
-        "created_at": "2026-06-02T01:17:14.000Z"
+        "title": "Uber caps employee AI spending after blowing through budget in four months",
+        "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+        "points": 13,
+        "comments": 1,
+        "created_at": "2026-06-02T20:09:13.000Z"
       },
       {
-        "title": "Open source project contains hidden instruction for \"AI\" agents: delete my code",
-        "url": "https://www.osnews.com/story/145130/open-source-project-contains-hidden-instruction-for-ai-agents-delete-my-code/",
-        "points": 16,
-        "comments": 2,
-        "created_at": "2026-06-01T22:26:35.000Z"
+        "title": "Launch HN: Rudus (YC P26) – AI for concrete contractors",
+        "url": "https://news.ycombinator.com/item?id=48374528",
+        "points": 26,
+        "comments": 1,
+        "created_at": "2026-06-02T18:51:09.000Z"
       },
       {
-        "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-        "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
-        "points": 195,
-        "comments": 180,
-        "created_at": "2026-06-01T20:55:15.000Z"
+        "title": "Microsoft Wants to 'Make People Addicted' to Its New AI Assistant",
+        "url": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/",
+        "points": 25,
+        "comments": 3,
+        "created_at": "2026-06-02T18:49:28.000Z"
       },
       {
-        "title": "Remote work, not AI, has sidelined recent college graduates, research finds",
-        "url": "https://text.npr.org/nx-s1-5843076",
-        "points": 22,
-        "comments": 6,
-        "created_at": "2026-06-01T20:27:42.000Z"
+        "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
+        "url": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html",
+        "points": 44,
+        "comments": 40,
+        "created_at": "2026-06-02T18:19:27.000Z"
       },
       {
-        "title": "Hackers Used Meta's AI Support Bot to Seize Instagram Accounts",
-        "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-        "points": 52,
-        "comments": 19,
-        "created_at": "2026-06-01T19:18:52.000Z"
+        "title": "Trump signs downsized AI order after weeks of reversals",
+        "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+        "points": 108,
+        "comments": 77,
+        "created_at": "2026-06-02T16:40:16.000Z"
       }
     ],
     "vibeCoding": [
@@ -110,7 +110,7 @@
       {
         "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
         "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-        "points": 64,
+        "points": 65,
         "comments": 1,
         "created_at": "2026-05-29T07:05:31.000Z"
       },
