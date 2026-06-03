@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-02T20:47:40.736Z",
+  "updatedAt": "2026-06-03T10:57:35.093Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 17.9,
-      "humidity": 60,
-      "wind_kph": 4,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
-    },
-    "tomorrow": {
-      "date": "2026-06-03",
-      "temp_max_c": 29.8,
-      "temp_min_c": 16.1,
-      "humidity_max": 60,
-      "humidity_min": 14,
-      "wind_kph": 27.9,
+      "temp_c": 30.1,
+      "humidity": 22,
+      "wind_kph": 23.7,
       "weather_code": 3,
       "weather_desc": "Overcast"
+    },
+    "tomorrow": {
+      "date": "2026-06-04",
+      "temp_max_c": 30.7,
+      "temp_min_c": 17.6,
+      "humidity_max": 42,
+      "humidity_min": 12,
+      "wind_kph": 26.6,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 4540.53,
+    "goldUSD": 4480.33,
     "oilUSD": 79,
-    "updatedAt": "2026-06-02T20:47:40.736Z",
-    "gold24KUSD": 145.98,
-    "gold21KUSD": 127.73,
-    "gold18KUSD": 109.49,
-    "gold24KJD": 103.5,
-    "gold21KJD": 90.56,
-    "gold18KJD": 77.63
+    "updatedAt": "2026-06-03T10:57:35.093Z",
+    "gold24KUSD": 144.05,
+    "gold21KUSD": 126.04,
+    "gold18KUSD": 108.03,
+    "gold24KJD": 102.13,
+    "gold21KJD": 89.36,
+    "gold18KJD": 76.6
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:12",
+    "fajr": "04:11",
     "maghrib": "19:38",
-    "date": "02 Jun 2002"
+    "date": "03 Jun 2003"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Uber caps employee AI spending after blowing through budget in four months",
-        "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-        "points": 13,
+        "title": "AI Engineers aren't safe from being replaced by AI",
+        "url": "https://dmanco.dev/2025/08/17/fear-not-even-ai-engineers-will-be-replaced-by-ai.html",
+        "points": 35,
+        "comments": 58,
+        "created_at": "2026-06-03T07:27:20.000Z"
+      },
+      {
+        "title": "U of T researchers demonstrate AI worm could target any online device",
+        "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+        "points": 48,
+        "comments": 12,
+        "created_at": "2026-06-03T03:47:21.000Z"
+      },
+      {
+        "title": "Google Is Quietly Buying Code from Play Store Developers to Train AI",
+        "url": "https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/",
+        "points": 12,
         "comments": 1,
-        "created_at": "2026-06-02T20:09:13.000Z"
+        "created_at": "2026-06-03T00:19:11.000Z"
       },
       {
-        "title": "Launch HN: Rudus (YC P26) – AI for concrete contractors",
-        "url": "https://news.ycombinator.com/item?id=48374528",
-        "points": 26,
-        "comments": 1,
-        "created_at": "2026-06-02T18:51:09.000Z"
+        "title": "More than 6 out of 10 people turn to AI for psychological support",
+        "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+        "points": 76,
+        "comments": 75,
+        "created_at": "2026-06-02T23:55:04.000Z"
       },
       {
-        "title": "Microsoft Wants to 'Make People Addicted' to Its New AI Assistant",
-        "url": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/",
-        "points": 25,
-        "comments": 3,
-        "created_at": "2026-06-02T18:49:28.000Z"
-      },
-      {
-        "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
-        "url": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html",
-        "points": 44,
-        "comments": 40,
-        "created_at": "2026-06-02T18:19:27.000Z"
-      },
-      {
-        "title": "Trump signs downsized AI order after weeks of reversals",
-        "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
-        "points": 108,
-        "comments": 77,
-        "created_at": "2026-06-02T16:40:16.000Z"
+        "title": "AI outperforms law professors in Stanford Law study",
+        "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+        "points": 263,
+        "comments": 206,
+        "created_at": "2026-06-02T23:43:12.000Z"
       }
     ],
     "vibeCoding": [
@@ -124,6 +124,13 @@
     ],
     "progDb": [
       {
+        "title": "US banks rely on a 65-year-old programming language",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/us-banks-rely-on-a-65-year-old-programming-language-companies-are-paying-a-premium-for-developers-who-know-it/articleshow/131461077.cms?from=mdr",
+        "points": 13,
+        "comments": 8,
+        "created_at": "2026-06-02T21:14:14.000Z"
+      },
+      {
         "title": "Bitburner, programming-based incremental game",
         "url": "https://bitburner-official.github.io/",
         "points": 114,
@@ -134,13 +141,13 @@
         "title": "The four programming questions from my 1994 Microsoft internship interview (2023)",
         "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
         "points": 193,
-        "comments": 94,
+        "comments": 97,
         "created_at": "2026-05-28T08:28:23.000Z"
       },
       {
         "title": "Nobody cracks open a programming book anymore",
         "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-        "points": 310,
+        "points": 311,
         "comments": 351,
         "created_at": "2026-05-25T23:21:57.000Z"
       },
@@ -150,13 +157,6 @@
         "points": 87,
         "comments": 66,
         "created_at": "2026-05-25T08:37:36.000Z"
-      },
-      {
-        "title": "CPPL: A Circuit Prompt Programming Language",
-        "url": "https://arxiv.org/abs/2605.17892",
-        "points": 46,
-        "comments": 7,
-        "created_at": "2026-05-21T11:50:56.000Z"
       }
     ]
   }
