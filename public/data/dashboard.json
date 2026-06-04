@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-03T20:54:41.653Z",
+  "updatedAt": "2026-06-04T09:54:41.137Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 19.9,
-      "humidity": 18,
-      "wind_kph": 4,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 30,
+      "humidity": 16,
+      "wind_kph": 20.9,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-06-04",
-      "temp_max_c": 31.5,
-      "temp_min_c": 18.6,
-      "humidity_max": 38,
-      "humidity_min": 11,
-      "wind_kph": 24,
+      "date": "2026-06-05",
+      "temp_max_c": 30.3,
+      "temp_min_c": 17.7,
+      "humidity_max": 41,
+      "humidity_min": 15,
+      "wind_kph": 27.4,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4480.33,
+    "goldUSD": 4475.63,
     "oilUSD": 79,
-    "updatedAt": "2026-06-03T20:54:41.653Z",
-    "gold24KUSD": 144.05,
-    "gold21KUSD": 126.04,
-    "gold18KUSD": 108.03,
-    "gold24KJD": 102.13,
-    "gold21KJD": 89.36,
-    "gold18KJD": 76.6
+    "updatedAt": "2026-06-04T09:54:41.137Z",
+    "gold24KUSD": 143.89,
+    "gold21KUSD": 125.91,
+    "gold18KUSD": 107.92,
+    "gold24KJD": 102.02,
+    "gold21KJD": 89.27,
+    "gold18KJD": 76.52
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "04:11",
-    "maghrib": "19:38",
-    "date": "03 Jun 2003"
+    "maghrib": "19:39",
+    "date": "04 Jun 2004"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "If AI data centers are so great, why are they being built in secret?",
-        "url": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why",
-        "points": 70,
-        "comments": 97,
-        "created_at": "2026-06-03T16:57:11.000Z"
+        "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+        "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+        "points": 291,
+        "comments": 222,
+        "created_at": "2026-06-04T00:18:02.000Z"
       },
       {
-        "title": "Project Sunrise Nears Reality as Qantas' Airbus A350-1000ULR Makes Maiden Flight",
-        "url": "https://simpleflying.com/project-sunrise-qantas-a350-1000ulr-maiden-flight/",
-        "points": 20,
-        "comments": 1,
-        "created_at": "2026-06-03T12:45:22.000Z"
+        "title": "EU wants households to cut peak time energy use as industry and AI demand soars",
+        "url": "https://www.politico.eu/article/eu-households-electricity-energy-artificial-intelligence-ai/",
+        "points": 13,
+        "comments": 0,
+        "created_at": "2026-06-03T21:38:14.000Z"
       },
       {
-        "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
-        "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
-        "points": 344,
-        "comments": 308,
-        "created_at": "2026-06-03T12:43:43.000Z"
+        "title": "Gemini Spark is the most impressive and terrifying AI experience I've had yet",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+        "points": 12,
+        "comments": 5,
+        "created_at": "2026-06-03T21:20:43.000Z"
       },
       {
-        "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-        "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-        "points": 215,
-        "comments": 270,
-        "created_at": "2026-06-03T12:25:14.000Z"
+        "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+        "url": "https://github.com/zaydmulani09/mnemo",
+        "points": 43,
+        "comments": 17,
+        "created_at": "2026-06-03T20:32:10.000Z"
       },
       {
-        "title": "Goldman Sachs CEO says markets in 'greed' mode as AI companies seek billions",
-        "url": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
-        "points": 20,
-        "comments": 2,
-        "created_at": "2026-06-03T12:08:41.000Z"
+        "title": "A blueprint for democratic governance of frontier AI",
+        "url": "https://openai.com/index/frontier-safety-blueprint/",
+        "points": 15,
+        "comments": 3,
+        "created_at": "2026-06-03T17:50:05.000Z"
       }
     ],
     "vibeCoding": [
@@ -113,16 +113,23 @@
         "points": 65,
         "comments": 1,
         "created_at": "2026-05-29T07:05:31.000Z"
-      },
-      {
-        "title": "Managers Have Been Vibe Coding All Along",
-        "url": "https://yusufaytas.com/managers-have-been-vibe-coding-all-along",
-        "points": 13,
-        "comments": 0,
-        "created_at": "2026-05-21T09:19:32.000Z"
       }
     ],
     "progDb": [
+      {
+        "title": "The Ü Programming Language",
+        "url": "https://github.com/Panzerschrek/U-00DC-Sprache/",
+        "points": 52,
+        "comments": 51,
+        "created_at": "2026-06-04T00:00:04.000Z"
+      },
+      {
+        "title": "Jam – Programming Language (C-like, safe, no lifetime syntax)",
+        "url": "https://rapha.land/jam-programming-language/",
+        "points": 11,
+        "comments": 1,
+        "created_at": "2026-06-03T13:49:37.000Z"
+      },
       {
         "title": "US banks rely on a 65-year-old programming language",
         "url": "https://economictimes.indiatimes.com/news/new-updates/us-banks-rely-on-a-65-year-old-programming-language-companies-are-paying-a-premium-for-developers-who-know-it/articleshow/131461077.cms?from=mdr",
@@ -143,20 +150,6 @@
         "points": 194,
         "comments": 97,
         "created_at": "2026-05-28T08:28:23.000Z"
-      },
-      {
-        "title": "Nobody cracks open a programming book anymore",
-        "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-        "points": 311,
-        "comments": 351,
-        "created_at": "2026-05-25T23:21:57.000Z"
-      },
-      {
-        "title": "Rapira (Рапира) – Soviet programming language interpreter",
-        "url": "https://github.com/begoon/rapira",
-        "points": 87,
-        "comments": 66,
-        "created_at": "2026-05-25T08:37:36.000Z"
       }
     ]
   }
