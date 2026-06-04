@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-04T09:54:41.137Z",
+  "updatedAt": "2026-06-04T20:04:57.558Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 30,
-      "humidity": 16,
-      "wind_kph": 20.9,
+      "temp_c": 20.4,
+      "humidity": 41,
+      "wind_kph": 4.8,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
@@ -13,17 +13,17 @@
       "date": "2026-06-05",
       "temp_max_c": 30.3,
       "temp_min_c": 17.7,
-      "humidity_max": 41,
-      "humidity_min": 15,
-      "wind_kph": 27.4,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "humidity_max": 44,
+      "humidity_min": 14,
+      "wind_kph": 28.5,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     }
   },
   "metals": {
     "goldUSD": 4475.63,
     "oilUSD": 79,
-    "updatedAt": "2026-06-04T09:54:41.137Z",
+    "updatedAt": "2026-06-04T20:04:57.558Z",
     "gold24KUSD": 143.89,
     "gold21KUSD": 125.91,
     "gold18KUSD": 107.92,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-        "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-        "points": 291,
-        "comments": 222,
-        "created_at": "2026-06-04T00:18:02.000Z"
+        "title": "Airlines Uses AI to Fake Empathy Rather Than Fix Problems: Passenger Sent Prompt",
+        "url": "https://viewfromthewing.com/airlines-are-using-ai-to-manufacture-empathy-instead-of-solving-problems-one-passenger-was-sent-the-prompt-by-mistake/",
+        "points": 16,
+        "comments": 4,
+        "created_at": "2026-06-04T17:39:59.000Z"
       },
       {
-        "title": "EU wants households to cut peak time energy use as industry and AI demand soars",
-        "url": "https://www.politico.eu/article/eu-households-electricity-energy-artificial-intelligence-ai/",
+        "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+        "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+        "points": 96,
+        "comments": 107,
+        "created_at": "2026-06-04T16:20:17.000Z"
+      },
+      {
+        "title": "Google employees internally share memes about how its AI sucks",
+        "url": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/",
+        "points": 134,
+        "comments": 93,
+        "created_at": "2026-06-04T15:42:33.000Z"
+      },
+      {
+        "title": "US tech sector cut 38,242 jobs in May, AI the most cited reason for layoffs",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tech-sector-cut-us-jobs-by-38242-in-may",
         "points": 13,
-        "comments": 0,
-        "created_at": "2026-06-03T21:38:14.000Z"
+        "comments": 1,
+        "created_at": "2026-06-04T15:41:45.000Z"
       },
       {
-        "title": "Gemini Spark is the most impressive and terrifying AI experience I've had yet",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
-        "points": 12,
+        "title": "AI, Ashby Engineering, and the future",
+        "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
+        "points": 13,
         "comments": 5,
-        "created_at": "2026-06-03T21:20:43.000Z"
-      },
-      {
-        "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-        "url": "https://github.com/zaydmulani09/mnemo",
-        "points": 43,
-        "comments": 17,
-        "created_at": "2026-06-03T20:32:10.000Z"
-      },
-      {
-        "title": "A blueprint for democratic governance of frontier AI",
-        "url": "https://openai.com/index/frontier-safety-blueprint/",
-        "points": 15,
-        "comments": 3,
-        "created_at": "2026-06-03T17:50:05.000Z"
+        "created_at": "2026-06-04T14:48:44.000Z"
       }
     ],
     "vibeCoding": [
@@ -119,23 +119,30 @@
       {
         "title": "The Ü Programming Language",
         "url": "https://github.com/Panzerschrek/U-00DC-Sprache/",
-        "points": 52,
-        "comments": 51,
+        "points": 56,
+        "comments": 60,
         "created_at": "2026-06-04T00:00:04.000Z"
       },
       {
         "title": "Jam – Programming Language (C-like, safe, no lifetime syntax)",
         "url": "https://rapha.land/jam-programming-language/",
-        "points": 11,
+        "points": 12,
         "comments": 1,
         "created_at": "2026-06-03T13:49:37.000Z"
       },
       {
         "title": "US banks rely on a 65-year-old programming language",
         "url": "https://economictimes.indiatimes.com/news/new-updates/us-banks-rely-on-a-65-year-old-programming-language-companies-are-paying-a-premium-for-developers-who-know-it/articleshow/131461077.cms?from=mdr",
-        "points": 14,
+        "points": 15,
         "comments": 8,
         "created_at": "2026-06-02T21:14:14.000Z"
+      },
+      {
+        "title": "Show HN: Prela – Purely Algebraic Relation Combinators",
+        "url": "https://github.com/remysucre/prela",
+        "points": 55,
+        "comments": 13,
+        "created_at": "2026-06-01T13:26:01.000Z"
       },
       {
         "title": "Bitburner, programming-based incremental game",
@@ -143,13 +150,6 @@
         "points": 114,
         "comments": 24,
         "created_at": "2026-05-28T17:43:36.000Z"
-      },
-      {
-        "title": "The four programming questions from my 1994 Microsoft internship interview (2023)",
-        "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
-        "points": 194,
-        "comments": 97,
-        "created_at": "2026-05-28T08:28:23.000Z"
       }
     ]
   }
