@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-06-05T09:48:32.481Z",
+  "updatedAt": "2026-06-05T19:53:27.528Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 28.7,
-      "humidity": 21,
-      "wind_kph": 21.3,
+      "temp_c": 18.7,
+      "humidity": 64,
+      "wind_kph": 10.5,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-06-06",
-      "temp_max_c": 30.3,
+      "temp_max_c": 30.4,
       "temp_min_c": 16.5,
-      "humidity_max": 51,
+      "humidity_max": 63,
       "humidity_min": 15,
-      "wind_kph": 22.5,
+      "wind_kph": 21.4,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4455.36,
     "oilUSD": 79,
-    "updatedAt": "2026-06-05T09:48:32.481Z",
+    "updatedAt": "2026-06-05T19:53:27.528Z",
     "gold24KUSD": 143.24,
     "gold21KUSD": 125.34,
     "gold18KUSD": 107.43,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "ZEC drops 30% after Anthropic AI finds Zcash counterfeit vulnerability",
-        "url": "https://www.tradingview.com/news/cointelegraph:52f56f35b094b:0-zec-drops-30-after-anthropic-ai-finds-zcash-counterfeit-vulnerability/",
-        "points": 12,
-        "comments": 0,
-        "created_at": "2026-06-05T06:52:41.000Z"
+        "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
+        "url": "https://sakana.ai/rsi-lab/",
+        "points": 22,
+        "comments": 13,
+        "created_at": "2026-06-05T17:27:39.000Z"
       },
       {
-        "title": "Satya Nadella 'Not Sure' Who Said Microsoft Wanted to Make Addictive AI",
-        "url": "https://www.404media.co/satya-nadella-not-sure-who-said-microsoft-wanted-to-make-addictive-ai-is-looking-for-guy-who-did-this/",
-        "points": 20,
-        "comments": 3,
-        "created_at": "2026-06-05T06:05:38.000Z"
+        "title": "Leak Reveals Microsoft Wants Its AI to Be 'Addictive'",
+        "url": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
+        "points": 64,
+        "comments": 5,
+        "created_at": "2026-06-05T15:32:58.000Z"
       },
       {
-        "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
-        "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
-        "points": 68,
-        "comments": 61,
-        "created_at": "2026-06-05T04:38:41.000Z"
+        "title": "Ask HN: What is your (AI) dev tech stack / workflow?",
+        "url": "https://news.ycombinator.com/item?id=48413629",
+        "points": 95,
+        "comments": 84,
+        "created_at": "2026-06-05T15:13:54.000Z"
       },
       {
-        "title": "CEO to staff: You're not getting a raise. We're spending on AI instead",
-        "url": "https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6",
-        "points": 33,
-        "comments": 12,
-        "created_at": "2026-06-05T02:54:33.000Z"
+        "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+        "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+        "points": 281,
+        "comments": 184,
+        "created_at": "2026-06-05T15:00:31.000Z"
       },
       {
-        "title": "Open Code Review – An AI-powered code review CLI tool",
-        "url": "https://github.com/alibaba/open-code-review",
-        "points": 179,
-        "comments": 49,
-        "created_at": "2026-06-05T00:04:29.000Z"
+        "title": "ISS astronauts prepare for possible evacuation due to air leak",
+        "url": "https://www.reuters.com/world/nasa-live-international-space-station-astronauts-prepare-possible-evacuation-due-2026-06-05/",
+        "points": 23,
+        "comments": 1,
+        "created_at": "2026-06-05T14:46:36.000Z"
       }
     ],
     "vibeCoding": [
@@ -117,24 +117,31 @@
     ],
     "progDb": [
       {
+        "title": "Ask HN: What is your (AI) dev tech stack / workflow?",
+        "url": "https://news.ycombinator.com/item?id=48413629",
+        "points": 95,
+        "comments": 84,
+        "created_at": "2026-06-05T15:13:54.000Z"
+      },
+      {
         "title": "Documentary, \"C++: The Most Consequential Programming Language\"",
         "url": "https://www.youtube.com/watch?v=lI7tMxzSJ7w",
-        "points": 31,
+        "points": 32,
         "comments": 2,
         "created_at": "2026-06-04T20:16:12.000Z"
       },
       {
         "title": "Ask HN: High school student – is learning programming still worthwhile?",
         "url": "https://news.ycombinator.com/item?id=48403614",
-        "points": 18,
-        "comments": 35,
+        "points": 19,
+        "comments": 42,
         "created_at": "2026-06-04T19:39:19.000Z"
       },
       {
         "title": "The Ü Programming Language",
         "url": "https://github.com/Panzerschrek/U-00DC-Sprache/",
-        "points": 60,
-        "comments": 64,
+        "points": 62,
+        "comments": 68,
         "created_at": "2026-06-04T00:00:04.000Z"
       },
       {
@@ -143,13 +150,6 @@
         "points": 12,
         "comments": 1,
         "created_at": "2026-06-03T13:49:37.000Z"
-      },
-      {
-        "title": "US banks rely on a 65-year-old programming language",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/us-banks-rely-on-a-65-year-old-programming-language-companies-are-paying-a-premium-for-developers-who-know-it/articleshow/131461077.cms?from=mdr",
-        "points": 15,
-        "comments": 8,
-        "created_at": "2026-06-02T21:14:14.000Z"
       }
     ]
   }
