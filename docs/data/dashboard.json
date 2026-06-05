@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-04T20:04:57.558Z",
+  "updatedAt": "2026-06-05T09:48:32.481Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 20.4,
-      "humidity": 41,
-      "wind_kph": 4.8,
+      "temp_c": 28.7,
+      "humidity": 21,
+      "wind_kph": 21.3,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-06-05",
+      "date": "2026-06-06",
       "temp_max_c": 30.3,
-      "temp_min_c": 17.7,
-      "humidity_max": 44,
-      "humidity_min": 14,
-      "wind_kph": 28.5,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_min_c": 16.5,
+      "humidity_max": 51,
+      "humidity_min": 15,
+      "wind_kph": 22.5,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4475.63,
+    "goldUSD": 4455.36,
     "oilUSD": 79,
-    "updatedAt": "2026-06-04T20:04:57.558Z",
-    "gold24KUSD": 143.89,
-    "gold21KUSD": 125.91,
-    "gold18KUSD": 107.92,
-    "gold24KJD": 102.02,
-    "gold21KJD": 89.27,
-    "gold18KJD": 76.52
+    "updatedAt": "2026-06-05T09:48:32.481Z",
+    "gold24KUSD": 143.24,
+    "gold21KUSD": 125.34,
+    "gold18KUSD": 107.43,
+    "gold24KJD": 101.56,
+    "gold21KJD": 88.86,
+    "gold18KJD": 76.17
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:11",
-    "maghrib": "19:39",
-    "date": "04 Jun 2004"
+    "fajr": "04:10",
+    "maghrib": "19:40",
+    "date": "05 Jun 2005"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Airlines Uses AI to Fake Empathy Rather Than Fix Problems: Passenger Sent Prompt",
-        "url": "https://viewfromthewing.com/airlines-are-using-ai-to-manufacture-empathy-instead-of-solving-problems-one-passenger-was-sent-the-prompt-by-mistake/",
-        "points": 16,
-        "comments": 4,
-        "created_at": "2026-06-04T17:39:59.000Z"
+        "title": "ZEC drops 30% after Anthropic AI finds Zcash counterfeit vulnerability",
+        "url": "https://www.tradingview.com/news/cointelegraph:52f56f35b094b:0-zec-drops-30-after-anthropic-ai-finds-zcash-counterfeit-vulnerability/",
+        "points": 12,
+        "comments": 0,
+        "created_at": "2026-06-05T06:52:41.000Z"
       },
       {
-        "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-        "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-        "points": 96,
-        "comments": 107,
-        "created_at": "2026-06-04T16:20:17.000Z"
+        "title": "Satya Nadella 'Not Sure' Who Said Microsoft Wanted to Make Addictive AI",
+        "url": "https://www.404media.co/satya-nadella-not-sure-who-said-microsoft-wanted-to-make-addictive-ai-is-looking-for-guy-who-did-this/",
+        "points": 20,
+        "comments": 3,
+        "created_at": "2026-06-05T06:05:38.000Z"
       },
       {
-        "title": "Google employees internally share memes about how its AI sucks",
-        "url": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/",
-        "points": 134,
-        "comments": 93,
-        "created_at": "2026-06-04T15:42:33.000Z"
+        "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
+        "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
+        "points": 68,
+        "comments": 61,
+        "created_at": "2026-06-05T04:38:41.000Z"
       },
       {
-        "title": "US tech sector cut 38,242 jobs in May, AI the most cited reason for layoffs",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tech-sector-cut-us-jobs-by-38242-in-may",
-        "points": 13,
-        "comments": 1,
-        "created_at": "2026-06-04T15:41:45.000Z"
+        "title": "CEO to staff: You're not getting a raise. We're spending on AI instead",
+        "url": "https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6",
+        "points": 33,
+        "comments": 12,
+        "created_at": "2026-06-05T02:54:33.000Z"
       },
       {
-        "title": "AI, Ashby Engineering, and the future",
-        "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
-        "points": 13,
-        "comments": 5,
-        "created_at": "2026-06-04T14:48:44.000Z"
+        "title": "Open Code Review – An AI-powered code review CLI tool",
+        "url": "https://github.com/alibaba/open-code-review",
+        "points": 179,
+        "comments": 49,
+        "created_at": "2026-06-05T00:04:29.000Z"
       }
     ],
     "vibeCoding": [
@@ -110,17 +110,31 @@
       {
         "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
         "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-        "points": 65,
+        "points": 66,
         "comments": 1,
         "created_at": "2026-05-29T07:05:31.000Z"
       }
     ],
     "progDb": [
       {
+        "title": "Documentary, \"C++: The Most Consequential Programming Language\"",
+        "url": "https://www.youtube.com/watch?v=lI7tMxzSJ7w",
+        "points": 31,
+        "comments": 2,
+        "created_at": "2026-06-04T20:16:12.000Z"
+      },
+      {
+        "title": "Ask HN: High school student – is learning programming still worthwhile?",
+        "url": "https://news.ycombinator.com/item?id=48403614",
+        "points": 18,
+        "comments": 35,
+        "created_at": "2026-06-04T19:39:19.000Z"
+      },
+      {
         "title": "The Ü Programming Language",
         "url": "https://github.com/Panzerschrek/U-00DC-Sprache/",
-        "points": 56,
-        "comments": 60,
+        "points": 60,
+        "comments": 64,
         "created_at": "2026-06-04T00:00:04.000Z"
       },
       {
@@ -136,20 +150,6 @@
         "points": 15,
         "comments": 8,
         "created_at": "2026-06-02T21:14:14.000Z"
-      },
-      {
-        "title": "Show HN: Prela – Purely Algebraic Relation Combinators",
-        "url": "https://github.com/remysucre/prela",
-        "points": 55,
-        "comments": 13,
-        "created_at": "2026-06-01T13:26:01.000Z"
-      },
-      {
-        "title": "Bitburner, programming-based incremental game",
-        "url": "https://bitburner-official.github.io/",
-        "points": 114,
-        "comments": 24,
-        "created_at": "2026-05-28T17:43:36.000Z"
       }
     ]
   }
