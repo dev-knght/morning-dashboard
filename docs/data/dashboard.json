@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-06-06T08:32:21.354Z",
+  "updatedAt": "2026-06-06T19:21:44.247Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 27.8,
-      "humidity": 18,
-      "wind_kph": 20.6,
+      "temp_c": 21.8,
+      "humidity": 28,
+      "wind_kph": 4.5,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-06-07",
-      "temp_max_c": 28.7,
-      "temp_min_c": 17.4,
-      "humidity_max": 84,
-      "humidity_min": 28,
-      "wind_kph": 28,
+      "temp_max_c": 28.8,
+      "temp_min_c": 17.3,
+      "humidity_max": 85,
+      "humidity_min": 30,
+      "wind_kph": 25.6,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4455.8,
     "oilUSD": 79,
-    "updatedAt": "2026-06-06T08:32:21.354Z",
+    "updatedAt": "2026-06-06T19:21:44.247Z",
     "gold24KUSD": 143.26,
     "gold21KUSD": 125.35,
     "gold18KUSD": 107.44,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Ask HN: Why is the HN crowd so anti-AI?",
-        "url": "https://news.ycombinator.com/item?id=48420827",
-        "points": 129,
-        "comments": 241,
-        "created_at": "2026-06-06T02:31:51.000Z"
+        "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+        "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+        "points": 16,
+        "comments": 6,
+        "created_at": "2026-06-06T18:35:27.000Z"
       },
       {
-        "title": "She won a religious exemption from using AI at work",
-        "url": "https://www.businessinsider.com/worker-got-religious-exemption-using-ai-at-work-2026-6",
-        "points": 20,
-        "comments": 15,
-        "created_at": "2026-06-06T00:21:48.000Z"
+        "title": "Police in England and Wales told to halt AI use in court statements",
+        "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+        "points": 100,
+        "comments": 33,
+        "created_at": "2026-06-06T15:35:49.000Z"
       },
       {
-        "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
-        "url": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
-        "points": 67,
-        "comments": 3,
-        "created_at": "2026-06-05T22:12:58.000Z"
+        "title": "AI didn't break the web. The dotcons did – AI just turned up the volume",
+        "url": "https://hamishcampbell.com/ai-didnt-break-the-web-the-dotcons-did-ai-just-turned-up-the-volume/",
+        "points": 18,
+        "comments": 8,
+        "created_at": "2026-06-06T15:30:13.000Z"
       },
       {
-        "title": "Boeing 787 Dreamliner Loses Door at Remote Pacific Airport, Puzzling Engineers",
-        "url": "https://aeroxplorer.com/articles/boeing-787-dreamliner-loses-door-at-remote-pacific-airport-puzzling-engineers",
-        "points": 26,
-        "comments": 22,
-        "created_at": "2026-06-05T22:02:27.000Z"
+        "title": "US House lawmakers release draft bill to prohibit state AI rules",
+        "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+        "points": 93,
+        "comments": 59,
+        "created_at": "2026-06-06T13:40:22.000Z"
       },
       {
-        "title": "Donald Trump says US may take equity stakes in AI companies",
-        "url": "https://www.ft.com/content/b1ab6106-77e6-4218-9eb4-e44bd56ca400",
-        "points": 19,
-        "comments": 9,
-        "created_at": "2026-06-05T20:43:42.000Z"
+        "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
+        "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
+        "points": 53,
+        "comments": 20,
+        "created_at": "2026-06-06T12:15:59.000Z"
       }
     ],
     "vibeCoding": [
@@ -110,7 +110,7 @@
       {
         "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
         "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-        "points": 66,
+        "points": 67,
         "comments": 1,
         "created_at": "2026-05-29T07:05:31.000Z"
       }
@@ -119,8 +119,8 @@
       {
         "title": "Ask HN: What is your (AI) dev tech stack / workflow?",
         "url": "https://news.ycombinator.com/item?id=48413629",
-        "points": 132,
-        "comments": 118,
+        "points": 144,
+        "comments": 126,
         "created_at": "2026-06-05T15:13:54.000Z"
       },
       {
@@ -141,7 +141,7 @@
         "title": "The Ü Programming Language",
         "url": "https://github.com/Panzerschrek/U-00DC-Sprache/",
         "points": 63,
-        "comments": 68,
+        "comments": 69,
         "created_at": "2026-06-04T00:00:04.000Z"
       },
       {
