@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-06-05T19:53:27.528Z",
+  "updatedAt": "2026-06-06T08:32:21.354Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 18.7,
-      "humidity": 64,
-      "wind_kph": 10.5,
+      "temp_c": 27.8,
+      "humidity": 18,
+      "wind_kph": 20.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-06-06",
-      "temp_max_c": 30.4,
-      "temp_min_c": 16.5,
-      "humidity_max": 63,
-      "humidity_min": 15,
-      "wind_kph": 21.4,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "date": "2026-06-07",
+      "temp_max_c": 28.7,
+      "temp_min_c": 17.4,
+      "humidity_max": 84,
+      "humidity_min": 28,
+      "wind_kph": 28,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 4455.36,
+    "goldUSD": 4455.8,
     "oilUSD": 79,
-    "updatedAt": "2026-06-05T19:53:27.528Z",
-    "gold24KUSD": 143.24,
-    "gold21KUSD": 125.34,
-    "gold18KUSD": 107.43,
-    "gold24KJD": 101.56,
-    "gold21KJD": 88.86,
-    "gold18KJD": 76.17
+    "updatedAt": "2026-06-06T08:32:21.354Z",
+    "gold24KUSD": 143.26,
+    "gold21KUSD": 125.35,
+    "gold18KUSD": 107.44,
+    "gold24KJD": 101.57,
+    "gold21KJD": 88.87,
+    "gold18KJD": 76.18
   },
   "exchange": {
     "JOD": 0.709
@@ -37,7 +37,7 @@
   "prayer": {
     "fajr": "04:10",
     "maghrib": "19:40",
-    "date": "05 Jun 2005"
+    "date": "06 Jun 2006"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
-        "url": "https://sakana.ai/rsi-lab/",
-        "points": 22,
-        "comments": 13,
-        "created_at": "2026-06-05T17:27:39.000Z"
+        "title": "Ask HN: Why is the HN crowd so anti-AI?",
+        "url": "https://news.ycombinator.com/item?id=48420827",
+        "points": 129,
+        "comments": 241,
+        "created_at": "2026-06-06T02:31:51.000Z"
       },
       {
-        "title": "Leak Reveals Microsoft Wants Its AI to Be 'Addictive'",
-        "url": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
-        "points": 64,
-        "comments": 5,
-        "created_at": "2026-06-05T15:32:58.000Z"
+        "title": "She won a religious exemption from using AI at work",
+        "url": "https://www.businessinsider.com/worker-got-religious-exemption-using-ai-at-work-2026-6",
+        "points": 20,
+        "comments": 15,
+        "created_at": "2026-06-06T00:21:48.000Z"
       },
       {
-        "title": "Ask HN: What is your (AI) dev tech stack / workflow?",
-        "url": "https://news.ycombinator.com/item?id=48413629",
-        "points": 95,
-        "comments": 84,
-        "created_at": "2026-06-05T15:13:54.000Z"
+        "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
+        "url": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
+        "points": 67,
+        "comments": 3,
+        "created_at": "2026-06-05T22:12:58.000Z"
       },
       {
-        "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-        "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-        "points": 281,
-        "comments": 184,
-        "created_at": "2026-06-05T15:00:31.000Z"
+        "title": "Boeing 787 Dreamliner Loses Door at Remote Pacific Airport, Puzzling Engineers",
+        "url": "https://aeroxplorer.com/articles/boeing-787-dreamliner-loses-door-at-remote-pacific-airport-puzzling-engineers",
+        "points": 26,
+        "comments": 22,
+        "created_at": "2026-06-05T22:02:27.000Z"
       },
       {
-        "title": "ISS astronauts prepare for possible evacuation due to air leak",
-        "url": "https://www.reuters.com/world/nasa-live-international-space-station-astronauts-prepare-possible-evacuation-due-2026-06-05/",
-        "points": 23,
-        "comments": 1,
-        "created_at": "2026-06-05T14:46:36.000Z"
+        "title": "Donald Trump says US may take equity stakes in AI companies",
+        "url": "https://www.ft.com/content/b1ab6106-77e6-4218-9eb4-e44bd56ca400",
+        "points": 19,
+        "comments": 9,
+        "created_at": "2026-06-05T20:43:42.000Z"
       }
     ],
     "vibeCoding": [
@@ -119,8 +119,8 @@
       {
         "title": "Ask HN: What is your (AI) dev tech stack / workflow?",
         "url": "https://news.ycombinator.com/item?id=48413629",
-        "points": 95,
-        "comments": 84,
+        "points": 132,
+        "comments": 118,
         "created_at": "2026-06-05T15:13:54.000Z"
       },
       {
@@ -140,7 +140,7 @@
       {
         "title": "The Ü Programming Language",
         "url": "https://github.com/Panzerschrek/U-00DC-Sprache/",
-        "points": 62,
+        "points": 63,
         "comments": 68,
         "created_at": "2026-06-04T00:00:04.000Z"
       },
