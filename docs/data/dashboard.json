@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-06-06T19:21:44.247Z",
+  "updatedAt": "2026-06-07T08:54:44.006Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 21.8,
-      "humidity": 28,
-      "wind_kph": 4.5,
+      "temp_c": 26.2,
+      "humidity": 40,
+      "wind_kph": 22.3,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-06-07",
-      "temp_max_c": 28.8,
-      "temp_min_c": 17.3,
-      "humidity_max": 85,
-      "humidity_min": 30,
-      "wind_kph": 25.6,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "date": "2026-06-08",
+      "temp_max_c": 29,
+      "temp_min_c": 15.8,
+      "humidity_max": 86,
+      "humidity_min": 43,
+      "wind_kph": 27.6,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4455.8,
+    "goldUSD": 4328.74,
     "oilUSD": 79,
-    "updatedAt": "2026-06-06T19:21:44.247Z",
-    "gold24KUSD": 143.26,
-    "gold21KUSD": 125.35,
-    "gold18KUSD": 107.44,
-    "gold24KJD": 101.57,
-    "gold21KJD": 88.87,
-    "gold18KJD": 76.18
+    "updatedAt": "2026-06-07T08:54:44.006Z",
+    "gold24KUSD": 139.17,
+    "gold21KUSD": 121.78,
+    "gold18KUSD": 104.38,
+    "gold24KJD": 98.67,
+    "gold21KJD": 86.34,
+    "gold18KJD": 74
   },
   "exchange": {
     "JOD": 0.709
@@ -37,7 +37,7 @@
   "prayer": {
     "fajr": "04:10",
     "maghrib": "19:40",
-    "date": "06 Jun 2006"
+    "date": "07 Jun 2007"
   },
   "events": [
     {
@@ -64,17 +64,31 @@
   "news": {
     "ai": [
       {
+        "title": "AI is the greatest money-wasting scheme humanity has ever invented",
+        "url": "https://www.telegraph.co.uk/news/2026/06/04/ai-is-the-greatest-money-wasting-scheme-humanity-has-ever-i/",
+        "points": 15,
+        "comments": 4,
+        "created_at": "2026-06-07T00:08:50.000Z"
+      },
+      {
         "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
         "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-        "points": 16,
-        "comments": 6,
+        "points": 573,
+        "comments": 206,
         "created_at": "2026-06-06T18:35:27.000Z"
+      },
+      {
+        "title": "Law Professors Prefer AI over Peer Answers",
+        "url": "https://law.stanford.edu/publications/law-professors-prefer-ai-over-peer-answers/",
+        "points": 15,
+        "comments": 5,
+        "created_at": "2026-06-06T18:29:06.000Z"
       },
       {
         "title": "Police in England and Wales told to halt AI use in court statements",
         "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
-        "points": 100,
-        "comments": 33,
+        "points": 151,
+        "comments": 46,
         "created_at": "2026-06-06T15:35:49.000Z"
       },
       {
@@ -83,20 +97,6 @@
         "points": 18,
         "comments": 8,
         "created_at": "2026-06-06T15:30:13.000Z"
-      },
-      {
-        "title": "US House lawmakers release draft bill to prohibit state AI rules",
-        "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
-        "points": 93,
-        "comments": 59,
-        "created_at": "2026-06-06T13:40:22.000Z"
-      },
-      {
-        "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
-        "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
-        "points": 53,
-        "comments": 20,
-        "created_at": "2026-06-06T12:15:59.000Z"
       }
     ],
     "vibeCoding": [
@@ -117,10 +117,24 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: Ironwall, a safety-first native programming language and compiler",
+        "url": "https://news.ycombinator.com/item?id=48430077",
+        "points": 14,
+        "comments": 12,
+        "created_at": "2026-06-06T23:21:20.000Z"
+      },
+      {
+        "title": "FOSS book: learn Lisp with fewer parentheses in a day",
+        "url": "https://www.draketo.de/software/programming-basics-wisp",
+        "points": 33,
+        "comments": 0,
+        "created_at": "2026-06-06T09:09:16.000Z"
+      },
+      {
         "title": "Ask HN: What is your (AI) dev tech stack / workflow?",
         "url": "https://news.ycombinator.com/item?id=48413629",
-        "points": 144,
-        "comments": 126,
+        "points": 151,
+        "comments": 130,
         "created_at": "2026-06-05T15:13:54.000Z"
       },
       {
@@ -136,20 +150,6 @@
         "points": 19,
         "comments": 42,
         "created_at": "2026-06-04T19:39:19.000Z"
-      },
-      {
-        "title": "The Ü Programming Language",
-        "url": "https://github.com/Panzerschrek/U-00DC-Sprache/",
-        "points": 63,
-        "comments": 69,
-        "created_at": "2026-06-04T00:00:04.000Z"
-      },
-      {
-        "title": "Jam – Programming Language (C-like, safe, no lifetime syntax)",
-        "url": "https://rapha.land/jam-programming-language/",
-        "points": 12,
-        "comments": 1,
-        "created_at": "2026-06-03T13:49:37.000Z"
       }
     ]
   }
