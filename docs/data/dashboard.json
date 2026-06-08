@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-06-08T10:52:50.842Z",
+  "updatedAt": "2026-06-08T20:13:34.934Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 29.1,
-      "humidity": 42,
-      "wind_kph": 23,
+      "temp_c": 20.7,
+      "humidity": 76,
+      "wind_kph": 11.4,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-06-09",
-      "temp_max_c": 30,
-      "temp_min_c": 17.4,
-      "humidity_max": 89,
-      "humidity_min": 35,
-      "wind_kph": 28.7,
+      "temp_max_c": 30.2,
+      "temp_min_c": 17.2,
+      "humidity_max": 90,
+      "humidity_min": 33,
+      "wind_kph": 28.2,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4329,
     "oilUSD": 79,
-    "updatedAt": "2026-06-08T10:52:50.842Z",
+    "updatedAt": "2026-06-08T20:13:34.934Z",
     "gold24KUSD": 139.18,
     "gold21KUSD": 121.78,
     "gold18KUSD": 104.39,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students",
-        "url": "https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms",
-        "points": 44,
-        "comments": 13,
-        "created_at": "2026-06-08T03:24:44.000Z"
+        "title": "Apple reveals new AI architecture built around Google Gemini models",
+        "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+        "points": 54,
+        "comments": 16,
+        "created_at": "2026-06-08T19:14:47.000Z"
       },
       {
-        "title": "VibeOS: First ever AI-native operating system",
-        "url": "https://vibeos.sh/",
-        "points": 23,
-        "comments": 21,
-        "created_at": "2026-06-07T21:29:21.000Z"
+        "title": "Show HN: AI Pair Programmer for Emacs",
+        "url": "https://github.com/jaketothepast/codetutor",
+        "points": 20,
+        "comments": 0,
+        "created_at": "2026-06-08T18:34:21.000Z"
       },
       {
-        "title": "Show HN: Nightwatch, The open-source, read-only AI SRE",
-        "url": "https://github.com/ninoxAI/nightwatch",
-        "points": 18,
-        "comments": 6,
-        "created_at": "2026-06-07T20:24:36.000Z"
+        "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+        "url": "https://news.ycombinator.com/item?id=48449187",
+        "points": 38,
+        "comments": 45,
+        "created_at": "2026-06-08T18:22:39.000Z"
       },
       {
-        "title": "Billions spent and hypothetical returns: the AI boom explained with six charts",
-        "url": "https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts",
-        "points": 28,
-        "comments": 2,
-        "created_at": "2026-06-07T19:48:01.000Z"
+        "title": "Siri AI",
+        "url": "https://www.apple.com/apple-intelligence/",
+        "points": 140,
+        "comments": 119,
+        "created_at": "2026-06-08T18:17:53.000Z"
       },
       {
-        "title": "Iran Severely Damaged US Air Ops Center in Qatar Soon After War Began",
-        "url": "https://www.airandspaceforces.com/us-air-operations-center-qatar-severely-damaged-iran/",
-        "points": 52,
-        "comments": 7,
-        "created_at": "2026-06-07T15:42:57.000Z"
+        "title": "AI Is Slowing Down",
+        "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+        "points": 207,
+        "comments": 239,
+        "created_at": "2026-06-08T15:46:37.000Z"
       }
     ],
     "vibeCoding": [
@@ -117,6 +117,13 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: AI Pair Programmer for Emacs",
+        "url": "https://github.com/jaketothepast/codetutor",
+        "points": 20,
+        "comments": 0,
+        "created_at": "2026-06-08T18:34:21.000Z"
+      },
+      {
         "title": "The J Programming Language (2014)",
         "url": "https://www.infoq.com/presentations/j-language/",
         "points": 15,
@@ -126,15 +133,15 @@
       {
         "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
         "url": "https://github.com/devenjarvis/lathe",
-        "points": 324,
-        "comments": 57,
+        "points": 376,
+        "comments": 68,
         "created_at": "2026-06-07T11:16:46.000Z"
       },
       {
         "title": "Show HN: Ironwall, a safety-first native programming language and compiler",
         "url": "https://news.ycombinator.com/item?id=48430077",
         "points": 16,
-        "comments": 12,
+        "comments": 13,
         "created_at": "2026-06-06T23:21:20.000Z"
       },
       {
@@ -143,13 +150,6 @@
         "points": 33,
         "comments": 0,
         "created_at": "2026-06-06T09:09:16.000Z"
-      },
-      {
-        "title": "Ask HN: What is your (AI) dev tech stack / workflow?",
-        "url": "https://news.ycombinator.com/item?id=48413629",
-        "points": 159,
-        "comments": 131,
-        "created_at": "2026-06-05T15:13:54.000Z"
       }
     ]
   }
