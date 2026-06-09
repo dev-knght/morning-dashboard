@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-08T20:13:34.934Z",
+  "updatedAt": "2026-06-09T09:41:35.362Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 20.7,
-      "humidity": 76,
-      "wind_kph": 11.4,
+      "temp_c": 29,
+      "humidity": 37,
+      "wind_kph": 21.8,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "temp_max_c": 30.2,
-      "temp_min_c": 17.2,
-      "humidity_max": 90,
-      "humidity_min": 33,
-      "wind_kph": 28.2,
+      "temp_min_c": 17.6,
+      "humidity_max": 88,
+      "humidity_min": 26,
+      "wind_kph": 26.2,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 4329,
+    "goldUSD": 4344.02,
     "oilUSD": 79,
-    "updatedAt": "2026-06-08T20:13:34.934Z",
-    "gold24KUSD": 139.18,
-    "gold21KUSD": 121.78,
-    "gold18KUSD": 104.39,
-    "gold24KJD": 98.68,
-    "gold21KJD": 86.34,
-    "gold18KJD": 74.01
+    "updatedAt": "2026-06-09T09:41:35.362Z",
+    "gold24KUSD": 139.66,
+    "gold21KUSD": 122.21,
+    "gold18KUSD": 104.75,
+    "gold24KJD": 99.02,
+    "gold21KJD": 86.64,
+    "gold18KJD": 74.27
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:10",
+    "fajr": "04:09",
     "maghrib": "19:41",
-    "date": "08 Jun 2008"
+    "date": "09 Jun 2009"
   },
   "events": [
     {
@@ -64,42 +64,56 @@
   "news": {
     "ai": [
       {
+        "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+        "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+        "points": 120,
+        "comments": 42,
+        "created_at": "2026-06-09T07:33:16.000Z"
+      },
+      {
+        "title": "If HN policy disallows AI comments, why is linking to AI generated content ok?",
+        "url": "https://news.ycombinator.com/item?id=48454138",
+        "points": 12,
+        "comments": 8,
+        "created_at": "2026-06-08T23:52:41.000Z"
+      },
+      {
+        "title": "Show HN: Command Center, the AI coding env for people who care about quality",
+        "url": "https://www.cc.dev/",
+        "points": 49,
+        "comments": 21,
+        "created_at": "2026-06-08T22:10:18.000Z"
+      },
+      {
+        "title": "Apple bets cheaper AI will woo small developers",
+        "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+        "points": 64,
+        "comments": 27,
+        "created_at": "2026-06-08T21:02:00.000Z"
+      },
+      {
         "title": "Apple reveals new AI architecture built around Google Gemini models",
         "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-        "points": 54,
-        "comments": 16,
+        "points": 590,
+        "comments": 450,
         "created_at": "2026-06-08T19:14:47.000Z"
-      },
-      {
-        "title": "Show HN: AI Pair Programmer for Emacs",
-        "url": "https://github.com/jaketothepast/codetutor",
-        "points": 20,
-        "comments": 0,
-        "created_at": "2026-06-08T18:34:21.000Z"
-      },
-      {
-        "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-        "url": "https://news.ycombinator.com/item?id=48449187",
-        "points": 38,
-        "comments": 45,
-        "created_at": "2026-06-08T18:22:39.000Z"
-      },
-      {
-        "title": "Siri AI",
-        "url": "https://www.apple.com/apple-intelligence/",
-        "points": 140,
-        "comments": 119,
-        "created_at": "2026-06-08T18:17:53.000Z"
-      },
-      {
-        "title": "AI Is Slowing Down",
-        "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
-        "points": 207,
-        "comments": 239,
-        "created_at": "2026-06-08T15:46:37.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Show HN: Command Center, the AI coding env for people who care about quality",
+        "url": "https://www.cc.dev/",
+        "points": 49,
+        "comments": 21,
+        "created_at": "2026-06-08T22:10:18.000Z"
+      },
+      {
+        "title": "Show HN: Startup sci-fi novel that took me 5 years to write",
+        "url": "https://www.blockchainednovel.com/",
+        "points": 18,
+        "comments": 5,
+        "created_at": "2026-06-08T16:29:38.000Z"
+      },
       {
         "title": "Vibe Coding Is Not Engineering",
         "url": "https://phroneses.com/articles/build/notes/vibe-coding-is-not-engineering.html",
@@ -117,9 +131,16 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: Command Center, the AI coding env for people who care about quality",
+        "url": "https://www.cc.dev/",
+        "points": 49,
+        "comments": 21,
+        "created_at": "2026-06-08T22:10:18.000Z"
+      },
+      {
         "title": "Show HN: AI Pair Programmer for Emacs",
         "url": "https://github.com/jaketothepast/codetutor",
-        "points": 20,
+        "points": 32,
         "comments": 0,
         "created_at": "2026-06-08T18:34:21.000Z"
       },
@@ -133,23 +154,16 @@
       {
         "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
         "url": "https://github.com/devenjarvis/lathe",
-        "points": 376,
-        "comments": 68,
+        "points": 388,
+        "comments": 70,
         "created_at": "2026-06-07T11:16:46.000Z"
       },
       {
         "title": "Show HN: Ironwall, a safety-first native programming language and compiler",
         "url": "https://news.ycombinator.com/item?id=48430077",
         "points": 16,
-        "comments": 13,
+        "comments": 18,
         "created_at": "2026-06-06T23:21:20.000Z"
-      },
-      {
-        "title": "FOSS book: learn Lisp with fewer parentheses in a day",
-        "url": "https://www.draketo.de/software/programming-basics-wisp",
-        "points": 33,
-        "comments": 0,
-        "created_at": "2026-06-06T09:09:16.000Z"
       }
     ]
   }
