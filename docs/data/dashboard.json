@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-09T20:06:02.604Z",
+  "updatedAt": "2026-06-10T09:58:15.214Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 21.6,
-      "humidity": 41,
-      "wind_kph": 4.1,
+      "temp_c": 29.9,
+      "humidity": 22,
+      "wind_kph": 21.3,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-06-10",
-      "temp_max_c": 31,
-      "temp_min_c": 17.9,
-      "humidity_max": 80,
-      "humidity_min": 21,
-      "wind_kph": 25,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "date": "2026-06-11",
+      "temp_max_c": 29.3,
+      "temp_min_c": 16.9,
+      "humidity_max": 96,
+      "humidity_min": 38,
+      "wind_kph": 24.3,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4344.02,
+    "goldUSD": 4319.53,
     "oilUSD": 79,
-    "updatedAt": "2026-06-09T20:06:02.604Z",
-    "gold24KUSD": 139.66,
-    "gold21KUSD": 122.21,
-    "gold18KUSD": 104.75,
-    "gold24KJD": 99.02,
-    "gold21KJD": 86.64,
-    "gold18KJD": 74.27
+    "updatedAt": "2026-06-10T09:58:15.214Z",
+    "gold24KUSD": 138.88,
+    "gold21KUSD": 121.52,
+    "gold18KUSD": 104.16,
+    "gold24KJD": 98.46,
+    "gold21KJD": 86.16,
+    "gold18KJD": 73.85
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "04:09",
-    "maghrib": "19:41",
-    "date": "09 Jun 2009"
+    "maghrib": "19:42",
+    "date": "10 Jun 2010"
   },
   "events": [
     {
@@ -64,54 +64,61 @@
   "news": {
     "ai": [
       {
-        "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
-        "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-        "points": 45,
-        "comments": 5,
-        "created_at": "2026-06-09T18:45:59.000Z"
+        "title": "Rich Sutton on AI creativity and discovery",
+        "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+        "points": 115,
+        "comments": 57,
+        "created_at": "2026-06-10T02:25:24.000Z"
       },
       {
-        "title": "Where is the AI jobs crisis?",
-        "url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis",
-        "points": 89,
-        "comments": 115,
-        "created_at": "2026-06-09T17:29:17.000Z"
+        "title": "German ruling declares Google liable for false answers in AI Overviews",
+        "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+        "points": 545,
+        "comments": 313,
+        "created_at": "2026-06-10T01:44:13.000Z"
       },
       {
-        "title": "AI profitability is mathematically impossible",
-        "url": "https://old.reddit.com/r/BetterOffline/comments/1tzwnhi/ai_profitability_is_mathematically_impossible/",
-        "points": 13,
-        "comments": 15,
-        "created_at": "2026-06-09T17:27:23.000Z"
+        "title": "AI misidentification results in wrongful arrest; man seeks justice",
+        "url": "https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/",
+        "points": 87,
+        "comments": 41,
+        "created_at": "2026-06-09T22:37:49.000Z"
       },
       {
-        "title": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
-        "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
-        "points": 165,
-        "comments": 80,
-        "created_at": "2026-06-09T15:59:41.000Z"
+        "title": "Mythos/Fable intentionally hinders requests involving AI Research Development",
+        "url": "https://twitter.com/eliebakouch/status/2064399902684139852",
+        "points": 14,
+        "comments": 2,
+        "created_at": "2026-06-09T21:42:07.000Z"
       },
       {
-        "title": "Judge Learns Both Sides Used AI, Cancels Trial, Kicks Everyone Off the Case",
-        "url": "https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/",
-        "points": 51,
-        "comments": 10,
-        "created_at": "2026-06-09T15:30:19.000Z"
+        "title": "Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs",
+        "url": "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/",
+        "points": 106,
+        "comments": 39,
+        "created_at": "2026-06-09T21:01:40.000Z"
       }
     ],
     "vibeCoding": [
       {
+        "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
+        "url": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
+        "points": 114,
+        "comments": 45,
+        "created_at": "2026-06-10T03:27:47.000Z"
+      },
+      {
         "title": "Show HN: Command Center, the AI coding env for people who care about quality",
         "url": "https://www.cc.dev/",
-        "points": 58,
-        "comments": 29,
+        "points": 62,
+        "comments": 30,
         "created_at": "2026-06-08T22:10:18.000Z"
       },
       {
         "title": "Show HN: Startup sci-fi novel that took me 5 years to write",
         "url": "https://www.blockchainednovel.com/",
-        "points": 21,
-        "comments": 10,
+        "points": 22,
+        "comments": 11,
         "created_at": "2026-06-08T16:29:38.000Z"
       },
       {
@@ -133,14 +140,14 @@
       {
         "title": "Show HN: Command Center, the AI coding env for people who care about quality",
         "url": "https://www.cc.dev/",
-        "points": 58,
-        "comments": 29,
+        "points": 62,
+        "comments": 30,
         "created_at": "2026-06-08T22:10:18.000Z"
       },
       {
         "title": "Show HN: AI Pair Programmer for Emacs",
         "url": "https://github.com/jaketothepast/codetutor",
-        "points": 34,
+        "points": 35,
         "comments": 0,
         "created_at": "2026-06-08T18:34:21.000Z"
       },
@@ -154,8 +161,8 @@
       {
         "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
         "url": "https://github.com/devenjarvis/lathe",
-        "points": 391,
-        "comments": 71,
+        "points": 396,
+        "comments": 72,
         "created_at": "2026-06-07T11:16:46.000Z"
       },
       {
