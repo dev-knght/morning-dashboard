@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T20:28:40.452Z",
+  "updatedAt": "2026-06-11T10:22:36.165Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
@@ -21,15 +21,15 @@
     }
   },
   "metals": {
-    "goldUSD": 4319.53,
+    "goldUSD": 4218.76,
     "oilUSD": 79,
-    "updatedAt": "2026-06-10T20:28:40.452Z",
-    "gold24KUSD": 138.88,
-    "gold21KUSD": 121.52,
-    "gold18KUSD": 104.16,
-    "gold24KJD": 98.46,
-    "gold21KJD": 86.16,
-    "gold18KJD": 73.85
+    "updatedAt": "2026-06-11T10:22:36.165Z",
+    "gold24KUSD": 135.64,
+    "gold21KUSD": 118.68,
+    "gold18KUSD": 101.73,
+    "gold24KJD": 96.17,
+    "gold21KJD": 84.15,
+    "gold18KJD": 72.12
   },
   "exchange": {
     "JOD": 0.709
@@ -37,7 +37,7 @@
   "prayer": {
     "fajr": "04:09",
     "maghrib": "19:42",
-    "date": "10 Jun 2010"
+    "date": "11 Jun 2011"
   },
   "events": [
     {
@@ -64,54 +64,54 @@
   "news": {
     "ai": [
       {
+        "title": "Why AI hasn't replaced software engineers, and won't",
+        "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+        "points": 14,
+        "comments": 0,
+        "created_at": "2026-06-11T07:51:17.000Z"
+      },
+      {
+        "title": "The backlash against AI, in 4 charts",
+        "url": "https://www.fastcompany.com/91553925/the-backlash-against-ai-in-4-charts",
+        "points": 14,
+        "comments": 1,
+        "created_at": "2026-06-11T03:26:40.000Z"
+      },
+      {
+        "title": "AI agent runs amok in Fedora and elsewhere",
+        "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+        "points": 412,
+        "comments": 167,
+        "created_at": "2026-06-11T00:10:08.000Z"
+      },
+      {
+        "title": "PRC-linked influence operations are targeting AI debates in the US",
+        "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates/",
+        "points": 16,
+        "comments": 13,
+        "created_at": "2026-06-10T20:17:37.000Z"
+      },
+      {
         "title": "Policy on the AI Exponential",
         "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
-        "points": 83,
-        "comments": 91,
+        "points": 152,
+        "comments": 211,
         "created_at": "2026-06-10T18:36:04.000Z"
-      },
-      {
-        "title": "Show HN: Papermill Press – An AI-friendly markup language for PDF generation",
-        "url": "https://news.ycombinator.com/item?id=48477708",
-        "points": 11,
-        "comments": 21,
-        "created_at": "2026-06-10T15:21:33.000Z"
-      },
-      {
-        "title": "Apache Burr: Build reliable AI agents and applications",
-        "url": "https://burr.apache.org/",
-        "points": 128,
-        "comments": 77,
-        "created_at": "2026-06-10T15:01:06.000Z"
-      },
-      {
-        "title": "A €0.01 bank transfer could compromise a banking AI agent",
-        "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
-        "points": 132,
-        "comments": 108,
-        "created_at": "2026-06-10T13:39:11.000Z"
-      },
-      {
-        "title": "Rich Sutton on AI creativity and discovery",
-        "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-        "points": 194,
-        "comments": 107,
-        "created_at": "2026-06-10T02:25:24.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
         "url": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
-        "points": 204,
-        "comments": 115,
+        "points": 213,
+        "comments": 123,
         "created_at": "2026-06-10T03:27:47.000Z"
       },
       {
         "title": "Show HN: Command Center, the AI coding env for people who care about quality",
         "url": "https://www.cc.dev/",
-        "points": 64,
-        "comments": 30,
+        "points": 65,
+        "comments": 32,
         "created_at": "2026-06-08T22:10:18.000Z"
       },
       {
@@ -140,8 +140,8 @@
       {
         "title": "Show HN: Command Center, the AI coding env for people who care about quality",
         "url": "https://www.cc.dev/",
-        "points": 64,
-        "comments": 30,
+        "points": 65,
+        "comments": 32,
         "created_at": "2026-06-08T22:10:18.000Z"
       },
       {
@@ -161,7 +161,7 @@
       {
         "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
         "url": "https://github.com/devenjarvis/lathe",
-        "points": 398,
+        "points": 400,
         "comments": 72,
         "created_at": "2026-06-07T11:16:46.000Z"
       },
