@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-06-11T10:22:36.165Z",
+  "updatedAt": "2026-06-11T20:20:31.313Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 20.1,
-      "humidity": 72,
-      "wind_kph": 7.9,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 19,
+      "humidity": 86,
+      "wind_kph": 6.9,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-06-11",
-      "temp_max_c": 29.4,
-      "temp_min_c": 17.4,
-      "humidity_max": 94,
+      "date": "2026-06-12",
+      "temp_max_c": 28.9,
+      "temp_min_c": 17.1,
+      "humidity_max": 96,
       "humidity_min": 41,
-      "wind_kph": 24.4,
+      "wind_kph": 26.1,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4218.76,
     "oilUSD": 79,
-    "updatedAt": "2026-06-11T10:22:36.165Z",
+    "updatedAt": "2026-06-11T20:20:31.313Z",
     "gold24KUSD": 135.64,
     "gold21KUSD": 118.68,
     "gold18KUSD": 101.73,
@@ -64,61 +64,61 @@
   "news": {
     "ai": [
       {
-        "title": "Why AI hasn't replaced software engineers, and won't",
-        "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
-        "points": 14,
-        "comments": 0,
-        "created_at": "2026-06-11T07:51:17.000Z"
+        "title": "Dealership revoked offer to buy back customer's BMW, blaming wayward AI chatbot",
+        "url": "https://www.cbc.ca/news/business/ai-chatbot-bmw-dealership-9.7230226",
+        "points": 13,
+        "comments": 3,
+        "created_at": "2026-06-11T16:39:03.000Z"
       },
       {
-        "title": "The backlash against AI, in 4 charts",
-        "url": "https://www.fastcompany.com/91553925/the-backlash-against-ai-in-4-charts",
-        "points": 14,
-        "comments": 1,
-        "created_at": "2026-06-11T03:26:40.000Z"
+        "title": "Ask HN: How do you get into a flow state when using AI to code?",
+        "url": "https://news.ycombinator.com/item?id=48492118",
+        "points": 63,
+        "comments": 85,
+        "created_at": "2026-06-11T15:56:25.000Z"
       },
       {
-        "title": "AI agent runs amok in Fedora and elsewhere",
-        "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-        "points": 412,
-        "comments": 167,
-        "created_at": "2026-06-11T00:10:08.000Z"
+        "title": "The $15,000 AI Bill. Your $20 Subscription is a DELUSION [video]",
+        "url": "https://www.youtube.com/watch?v=UfApUobqN8Y",
+        "points": 23,
+        "comments": 57,
+        "created_at": "2026-06-11T15:27:02.000Z"
       },
       {
-        "title": "PRC-linked influence operations are targeting AI debates in the US",
-        "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates/",
-        "points": 16,
-        "comments": 13,
-        "created_at": "2026-06-10T20:17:37.000Z"
+        "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+        "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+        "points": 26,
+        "comments": 3,
+        "created_at": "2026-06-11T13:56:24.000Z"
       },
       {
-        "title": "Policy on the AI Exponential",
-        "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
-        "points": 152,
-        "comments": 211,
-        "created_at": "2026-06-10T18:36:04.000Z"
+        "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+        "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+        "points": 246,
+        "comments": 200,
+        "created_at": "2026-06-11T13:26:59.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
         "url": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
-        "points": 213,
-        "comments": 123,
+        "points": 215,
+        "comments": 125,
         "created_at": "2026-06-10T03:27:47.000Z"
       },
       {
         "title": "Show HN: Command Center, the AI coding env for people who care about quality",
         "url": "https://www.cc.dev/",
-        "points": 65,
+        "points": 66,
         "comments": 32,
         "created_at": "2026-06-08T22:10:18.000Z"
       },
       {
         "title": "Show HN: Startup sci-fi novel that took me 5 years to write",
         "url": "https://www.blockchainednovel.com/",
-        "points": 23,
-        "comments": 11,
+        "points": 24,
+        "comments": 13,
         "created_at": "2026-06-08T16:29:38.000Z"
       },
       {
@@ -138,17 +138,24 @@
     ],
     "progDb": [
       {
+        "title": "Programming a GBA Game on an iPhone",
+        "url": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
+        "points": 26,
+        "comments": 4,
+        "created_at": "2026-06-09T22:12:20.000Z"
+      },
+      {
         "title": "Show HN: Command Center, the AI coding env for people who care about quality",
         "url": "https://www.cc.dev/",
-        "points": 65,
+        "points": 66,
         "comments": 32,
         "created_at": "2026-06-08T22:10:18.000Z"
       },
       {
-        "title": "Show HN: AI Pair Programmer for Emacs",
+        "title": "Show HN: AI pair programmer for Emacs",
         "url": "https://github.com/jaketothepast/codetutor",
-        "points": 35,
-        "comments": 0,
+        "points": 37,
+        "comments": 2,
         "created_at": "2026-06-08T18:34:21.000Z"
       },
       {
@@ -164,13 +171,6 @@
         "points": 400,
         "comments": 72,
         "created_at": "2026-06-07T11:16:46.000Z"
-      },
-      {
-        "title": "Show HN: Ironwall, a safety-first native programming language and compiler",
-        "url": "https://news.ycombinator.com/item?id=48430077",
-        "points": 16,
-        "comments": 19,
-        "created_at": "2026-06-06T23:21:20.000Z"
       }
     ]
   }
