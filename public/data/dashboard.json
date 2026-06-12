@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-06-12T10:11:42.322Z",
+  "updatedAt": "2026-06-12T20:09:41.888Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 28.3,
-      "humidity": 40,
-      "wind_kph": 21.4,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 18.7,
+      "humidity": 91,
+      "wind_kph": 12.1,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-06-13",
-      "temp_max_c": 28.7,
-      "temp_min_c": 17.5,
-      "humidity_max": 95,
-      "humidity_min": 37,
-      "wind_kph": 29.2,
+      "temp_max_c": 28.8,
+      "temp_min_c": 17.6,
+      "humidity_max": 97,
+      "humidity_min": 35,
+      "wind_kph": 28.5,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4048.27,
     "oilUSD": 79,
-    "updatedAt": "2026-06-12T10:11:42.322Z",
+    "updatedAt": "2026-06-12T20:09:41.888Z",
     "gold24KUSD": 130.15,
     "gold21KUSD": 113.89,
     "gold18KUSD": 97.62,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "Slightly reducing the sloppiness of AI generated front end",
+        "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+        "points": 127,
+        "comments": 82,
+        "created_at": "2026-06-12T14:48:38.000Z"
+      },
+      {
+        "title": "AI will be massively deflationary",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/06/11/ai-will-be-deflationary.html",
+        "points": 20,
+        "comments": 5,
+        "created_at": "2026-06-12T11:28:59.000Z"
+      },
+      {
+        "title": "AI Economics for Dummies",
+        "url": "https://www.mcsweeneys.net/articles/ai-economics-for-dummies",
+        "points": 24,
+        "comments": 2,
+        "created_at": "2026-06-12T10:56:45.000Z"
+      },
+      {
         "title": "AI agent bankrupted their operator while trying to scan DN42",
         "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-        "points": 576,
-        "comments": 222,
+        "points": 1337,
+        "comments": 481,
         "created_at": "2026-06-12T04:42:53.000Z"
       },
       {
         "title": "The Normalization of Deviance in AI",
         "url": "https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/",
-        "points": 12,
-        "comments": 1,
+        "points": 18,
+        "comments": 2,
         "created_at": "2026-06-12T04:04:23.000Z"
-      },
-      {
-        "title": "A jacket that harvests drinking water from the air",
-        "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
-        "points": 109,
-        "comments": 69,
-        "created_at": "2026-06-11T22:59:22.000Z"
-      },
-      {
-        "title": "OpenAI's June 2026 Report on Malicious Uses of AI [pdf]",
-        "url": "https://cdn.openai.com/pdf/96b559fa-c165-4575-805d-e636909e2f78/June-2026-Threat-Report.pdf",
-        "points": 20,
-        "comments": 3,
-        "created_at": "2026-06-11T21:00:17.000Z"
-      },
-      {
-        "title": "He Hacked Teslas for Elon Musk. Now He's Launching a $100M AI Cyber Agent",
-        "url": "https://www.forbes.com/sites/thomasbrewster/2026/06/10/elon-musk-favorite-hacker-launches-100-million-ai-cyber-startup/",
-        "points": 12,
-        "comments": 1,
-        "created_at": "2026-06-11T20:42:46.000Z"
       }
     ],
     "vibeCoding": [
@@ -133,8 +133,8 @@
       {
         "title": "Programming a GBA Game on an iPhone",
         "url": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
-        "points": 49,
-        "comments": 7,
+        "points": 51,
+        "comments": 9,
         "created_at": "2026-06-09T22:12:20.000Z"
       },
       {
@@ -147,7 +147,7 @@
       {
         "title": "Show HN: AI pair programmer for Emacs",
         "url": "https://github.com/jaketothepast/codetutor",
-        "points": 40,
+        "points": 70,
         "comments": 2,
         "created_at": "2026-06-08T18:34:21.000Z"
       },
