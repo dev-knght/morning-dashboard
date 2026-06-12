@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-11T20:20:31.313Z",
+  "updatedAt": "2026-06-12T10:11:42.322Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 19,
-      "humidity": 86,
-      "wind_kph": 6.9,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 28.3,
+      "humidity": 40,
+      "wind_kph": 21.4,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-06-12",
-      "temp_max_c": 28.9,
-      "temp_min_c": 17.1,
-      "humidity_max": 96,
-      "humidity_min": 41,
-      "wind_kph": 26.1,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-06-13",
+      "temp_max_c": 28.7,
+      "temp_min_c": 17.5,
+      "humidity_max": 95,
+      "humidity_min": 37,
+      "wind_kph": 29.2,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4218.76,
+    "goldUSD": 4048.27,
     "oilUSD": 79,
-    "updatedAt": "2026-06-11T20:20:31.313Z",
-    "gold24KUSD": 135.64,
-    "gold21KUSD": 118.68,
-    "gold18KUSD": 101.73,
-    "gold24KJD": 96.17,
-    "gold21KJD": 84.15,
-    "gold18KJD": 72.12
+    "updatedAt": "2026-06-12T10:11:42.322Z",
+    "gold24KUSD": 130.15,
+    "gold21KUSD": 113.89,
+    "gold18KUSD": 97.62,
+    "gold24KJD": 92.28,
+    "gold21KJD": 80.74,
+    "gold18KJD": 69.21
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "04:09",
-    "maghrib": "19:42",
-    "date": "11 Jun 2011"
+    "maghrib": "19:43",
+    "date": "12 Jun 2012"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Dealership revoked offer to buy back customer's BMW, blaming wayward AI chatbot",
-        "url": "https://www.cbc.ca/news/business/ai-chatbot-bmw-dealership-9.7230226",
-        "points": 13,
+        "title": "AI agent bankrupted their operator while trying to scan DN42",
+        "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+        "points": 576,
+        "comments": 222,
+        "created_at": "2026-06-12T04:42:53.000Z"
+      },
+      {
+        "title": "The Normalization of Deviance in AI",
+        "url": "https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/",
+        "points": 12,
+        "comments": 1,
+        "created_at": "2026-06-12T04:04:23.000Z"
+      },
+      {
+        "title": "A jacket that harvests drinking water from the air",
+        "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+        "points": 109,
+        "comments": 69,
+        "created_at": "2026-06-11T22:59:22.000Z"
+      },
+      {
+        "title": "OpenAI's June 2026 Report on Malicious Uses of AI [pdf]",
+        "url": "https://cdn.openai.com/pdf/96b559fa-c165-4575-805d-e636909e2f78/June-2026-Threat-Report.pdf",
+        "points": 20,
         "comments": 3,
-        "created_at": "2026-06-11T16:39:03.000Z"
+        "created_at": "2026-06-11T21:00:17.000Z"
       },
       {
-        "title": "Ask HN: How do you get into a flow state when using AI to code?",
-        "url": "https://news.ycombinator.com/item?id=48492118",
-        "points": 63,
-        "comments": 85,
-        "created_at": "2026-06-11T15:56:25.000Z"
-      },
-      {
-        "title": "The $15,000 AI Bill. Your $20 Subscription is a DELUSION [video]",
-        "url": "https://www.youtube.com/watch?v=UfApUobqN8Y",
-        "points": 23,
-        "comments": 57,
-        "created_at": "2026-06-11T15:27:02.000Z"
-      },
-      {
-        "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
-        "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
-        "points": 26,
-        "comments": 3,
-        "created_at": "2026-06-11T13:56:24.000Z"
-      },
-      {
-        "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
-        "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
-        "points": 246,
-        "comments": 200,
-        "created_at": "2026-06-11T13:26:59.000Z"
+        "title": "He Hacked Teslas for Elon Musk. Now He's Launching a $100M AI Cyber Agent",
+        "url": "https://www.forbes.com/sites/thomasbrewster/2026/06/10/elon-musk-favorite-hacker-launches-100-million-ai-cyber-startup/",
+        "points": 12,
+        "comments": 1,
+        "created_at": "2026-06-11T20:42:46.000Z"
       }
     ],
     "vibeCoding": [
@@ -104,21 +104,21 @@
         "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
         "url": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
         "points": 215,
-        "comments": 125,
+        "comments": 126,
         "created_at": "2026-06-10T03:27:47.000Z"
       },
       {
         "title": "Show HN: Command Center, the AI coding env for people who care about quality",
         "url": "https://www.cc.dev/",
-        "points": 66,
+        "points": 67,
         "comments": 32,
         "created_at": "2026-06-08T22:10:18.000Z"
       },
       {
         "title": "Show HN: Startup sci-fi novel that took me 5 years to write",
         "url": "https://www.blockchainednovel.com/",
-        "points": 24,
-        "comments": 13,
+        "points": 25,
+        "comments": 14,
         "created_at": "2026-06-08T16:29:38.000Z"
       },
       {
@@ -127,34 +127,27 @@
         "points": 46,
         "comments": 71,
         "created_at": "2026-05-30T12:53:07.000Z"
-      },
-      {
-        "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
-        "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-        "points": 67,
-        "comments": 1,
-        "created_at": "2026-05-29T07:05:31.000Z"
       }
     ],
     "progDb": [
       {
         "title": "Programming a GBA Game on an iPhone",
         "url": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
-        "points": 26,
-        "comments": 4,
+        "points": 49,
+        "comments": 7,
         "created_at": "2026-06-09T22:12:20.000Z"
       },
       {
         "title": "Show HN: Command Center, the AI coding env for people who care about quality",
         "url": "https://www.cc.dev/",
-        "points": 66,
+        "points": 67,
         "comments": 32,
         "created_at": "2026-06-08T22:10:18.000Z"
       },
       {
         "title": "Show HN: AI pair programmer for Emacs",
         "url": "https://github.com/jaketothepast/codetutor",
-        "points": 37,
+        "points": 40,
         "comments": 2,
         "created_at": "2026-06-08T18:34:21.000Z"
       },
