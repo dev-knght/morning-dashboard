@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-06-12T20:09:41.888Z",
+  "updatedAt": "2026-06-13T08:57:04.621Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 18.7,
-      "humidity": 91,
-      "wind_kph": 12.1,
+      "temp_c": 25.9,
+      "humidity": 50,
+      "wind_kph": 23.8,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-06-13",
-      "temp_max_c": 28.8,
-      "temp_min_c": 17.6,
-      "humidity_max": 97,
-      "humidity_min": 35,
-      "wind_kph": 28.5,
+      "date": "2026-06-14",
+      "temp_max_c": 27.7,
+      "temp_min_c": 16,
+      "humidity_max": 95,
+      "humidity_min": 40,
+      "wind_kph": 28.6,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4048.27,
+    "goldUSD": 4217.11,
     "oilUSD": 79,
-    "updatedAt": "2026-06-12T20:09:41.888Z",
-    "gold24KUSD": 130.15,
-    "gold21KUSD": 113.89,
-    "gold18KUSD": 97.62,
-    "gold24KJD": 92.28,
-    "gold21KJD": 80.74,
-    "gold18KJD": 69.21
+    "updatedAt": "2026-06-13T08:57:04.621Z",
+    "gold24KUSD": 135.58,
+    "gold21KUSD": 118.64,
+    "gold18KUSD": 101.69,
+    "gold24KJD": 96.13,
+    "gold21KJD": 84.11,
+    "gold18KJD": 72.1
   },
   "exchange": {
     "JOD": 0.709
@@ -37,7 +37,7 @@
   "prayer": {
     "fajr": "04:09",
     "maghrib": "19:43",
-    "date": "12 Jun 2012"
+    "date": "13 Jun 2013"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Slightly reducing the sloppiness of AI generated front end",
-        "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-        "points": 127,
-        "comments": 82,
-        "created_at": "2026-06-12T14:48:38.000Z"
+        "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+        "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+        "points": 73,
+        "comments": 59,
+        "created_at": "2026-06-13T05:44:46.000Z"
       },
       {
-        "title": "AI will be massively deflationary",
-        "url": "https://geohot.github.io//blog/jekyll/update/2026/06/11/ai-will-be-deflationary.html",
-        "points": 20,
-        "comments": 5,
-        "created_at": "2026-06-12T11:28:59.000Z"
+        "title": "Open source AI must win",
+        "url": "https://opensourceaimustwin.com/?share=v2",
+        "points": 856,
+        "comments": 261,
+        "created_at": "2026-06-13T02:14:24.000Z"
       },
       {
-        "title": "AI Economics for Dummies",
-        "url": "https://www.mcsweeneys.net/articles/ai-economics-for-dummies",
-        "points": 24,
-        "comments": 2,
-        "created_at": "2026-06-12T10:56:45.000Z"
+        "title": "Trump admin blocks foreign access to Anthropic's most powerful AI models",
+        "url": "https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security",
+        "points": 25,
+        "comments": 7,
+        "created_at": "2026-06-12T23:52:27.000Z"
       },
       {
-        "title": "AI agent bankrupted their operator while trying to scan DN42",
-        "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-        "points": 1337,
-        "comments": 481,
-        "created_at": "2026-06-12T04:42:53.000Z"
+        "title": "Ask HN: Show your AI coded games [June 2026]",
+        "url": "https://news.ycombinator.com/item?id=48509243",
+        "points": 11,
+        "comments": 13,
+        "created_at": "2026-06-12T20:45:48.000Z"
       },
       {
-        "title": "The Normalization of Deviance in AI",
-        "url": "https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/",
+        "title": "Why the AI Renaissance Keeps Not Arriving",
+        "url": "https://jamesfbaker.substack.com/p/why-the-ai-renaissance-keeps-not",
         "points": 18,
-        "comments": 2,
-        "created_at": "2026-06-12T04:04:23.000Z"
+        "comments": 14,
+        "created_at": "2026-06-12T20:02:48.000Z"
       }
     ],
     "vibeCoding": [
@@ -104,7 +104,7 @@
         "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
         "url": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
         "points": 215,
-        "comments": 126,
+        "comments": 127,
         "created_at": "2026-06-10T03:27:47.000Z"
       },
       {
@@ -134,7 +134,7 @@
         "title": "Programming a GBA Game on an iPhone",
         "url": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
         "points": 51,
-        "comments": 9,
+        "comments": 10,
         "created_at": "2026-06-09T22:12:20.000Z"
       },
       {
