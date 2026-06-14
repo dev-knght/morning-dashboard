@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-06-13T19:24:13.406Z",
+  "updatedAt": "2026-06-14T09:33:02.157Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 18.8,
-      "humidity": 83,
-      "wind_kph": 10,
+      "temp_c": 26.8,
+      "humidity": 43,
+      "wind_kph": 23.2,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-06-14",
-      "temp_max_c": 28.5,
-      "temp_min_c": 16.1,
-      "humidity_max": 93,
-      "humidity_min": 37,
-      "wind_kph": 26.4,
+      "date": "2026-06-15",
+      "temp_max_c": 28.8,
+      "temp_min_c": 16.9,
+      "humidity_max": 95,
+      "humidity_min": 38,
+      "wind_kph": 25,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4217.11,
+    "goldUSD": 4219.1,
     "oilUSD": 79,
-    "updatedAt": "2026-06-13T19:24:13.406Z",
-    "gold24KUSD": 135.58,
-    "gold21KUSD": 118.64,
-    "gold18KUSD": 101.69,
-    "gold24KJD": 96.13,
-    "gold21KJD": 84.11,
-    "gold18KJD": 72.1
+    "updatedAt": "2026-06-14T09:33:02.157Z",
+    "gold24KUSD": 135.65,
+    "gold21KUSD": 118.69,
+    "gold18KUSD": 101.74,
+    "gold24KJD": 96.17,
+    "gold21KJD": 84.15,
+    "gold18KJD": 72.13
   },
   "exchange": {
     "JOD": 0.709
@@ -37,7 +37,7 @@
   "prayer": {
     "fajr": "04:09",
     "maghrib": "19:43",
-    "date": "13 Jun 2013"
+    "date": "14 Jun 2014"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "Meta’s chaotic AI strategy",
+        "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+        "points": 66,
+        "comments": 69,
+        "created_at": "2026-06-14T01:23:45.000Z"
+      },
+      {
+        "title": "Derbyshire Police officer accused of using AI to 'create evidence'",
+        "url": "https://www.bbc.com/news/articles/cy8wppwdxl6o",
+        "points": 30,
+        "comments": 2,
+        "created_at": "2026-06-13T22:43:30.000Z"
+      },
+      {
+        "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+        "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+        "points": 319,
+        "comments": 153,
+        "created_at": "2026-06-13T19:54:55.000Z"
+      },
+      {
+        "title": "Ask HN: Did we witness the \"Trinity moment\" for AI?",
+        "url": "https://news.ycombinator.com/item?id=48519780",
+        "points": 18,
+        "comments": 26,
+        "created_at": "2026-06-13T18:02:39.000Z"
+      },
+      {
         "title": "PwC Report: AI Making Medical Bills Higher",
         "url": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/",
-        "points": 21,
-        "comments": 3,
+        "points": 76,
+        "comments": 15,
         "created_at": "2026-06-13T17:39:14.000Z"
-      },
-      {
-        "title": "AI Coding at Home Without Going Broke",
-        "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-        "points": 112,
-        "comments": 101,
-        "created_at": "2026-06-13T16:45:03.000Z"
-      },
-      {
-        "title": "The Pulling of Mythos Offline: Why AI KYC Will Fail to Stop Cybercriminals",
-        "url": "https://www.encurtador.dev/redirecionamento/71b29bo",
-        "points": 14,
-        "comments": 3,
-        "created_at": "2026-06-13T15:21:37.000Z"
-      },
-      {
-        "title": "Thoughts on AI and Jobs",
-        "url": "https://blog.keyvan.net/p/thoughts-on-ai-and-jobs",
-        "points": 16,
-        "comments": 46,
-        "created_at": "2026-06-13T12:21:18.000Z"
-      },
-      {
-        "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-        "url": "https://github.com/tensorzero/tensorzero",
-        "points": 201,
-        "comments": 138,
-        "created_at": "2026-06-13T12:10:47.000Z"
       }
     ],
     "vibeCoding": [
@@ -126,7 +126,7 @@
       {
         "title": "Programming a GBA Game on an iPhone",
         "url": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
-        "points": 52,
+        "points": 53,
         "comments": 10,
         "created_at": "2026-06-09T22:12:20.000Z"
       },
