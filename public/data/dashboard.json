@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-14T19:25:34.970Z",
+  "updatedAt": "2026-06-15T12:11:38.131Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 19.4,
-      "humidity": 86,
-      "wind_kph": 13.8,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 28.6,
+      "humidity": 39,
+      "wind_kph": 21.8,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-06-15",
-      "temp_max_c": 28.9,
-      "temp_min_c": 17.7,
+      "date": "2026-06-16",
+      "temp_max_c": 31.6,
+      "temp_min_c": 15.7,
       "humidity_max": 96,
-      "humidity_min": 37,
-      "wind_kph": 23.3,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "humidity_min": 31,
+      "wind_kph": 21.9,
+      "weather_code": 45,
+      "weather_desc": "Fog"
     }
   },
   "metals": {
-    "goldUSD": 4219.1,
+    "goldUSD": 4216.5,
     "oilUSD": 79,
-    "updatedAt": "2026-06-14T19:25:34.970Z",
-    "gold24KUSD": 135.65,
-    "gold21KUSD": 118.69,
-    "gold18KUSD": 101.74,
-    "gold24KJD": 96.17,
-    "gold21KJD": 84.15,
-    "gold18KJD": 72.13
+    "updatedAt": "2026-06-15T12:11:38.131Z",
+    "gold24KUSD": 135.56,
+    "gold21KUSD": 118.62,
+    "gold18KUSD": 101.67,
+    "gold24KJD": 96.11,
+    "gold21KJD": 84.1,
+    "gold18KJD": 72.09
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "04:09",
-    "maghrib": "19:43",
-    "date": "14 Jun 2014"
+    "maghrib": "19:44",
+    "date": "15 Jun 2015"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI is code and can't be prompted into being smarter",
-        "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/",
+        "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+        "url": "https://github.com/themartiano/luz",
+        "points": 21,
+        "comments": 5,
+        "created_at": "2026-06-15T09:34:10.000Z"
+      },
+      {
+        "title": "AI Has Amnesia. Here's Every System Built to Fix It",
+        "url": "https://medium.com/@alanayalag/your-ai-has-amnesia-heres-every-system-built-to-fix-it-ad7dee117a75",
         "points": 13,
-        "comments": 11,
-        "created_at": "2026-06-14T16:27:17.000Z"
+        "comments": 3,
+        "created_at": "2026-06-15T02:16:24.000Z"
       },
       {
-        "title": "No, everyone is not using AI for everything",
-        "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-        "points": 315,
-        "comments": 322,
-        "created_at": "2026-06-14T14:44:29.000Z"
+        "title": "The Jqwik Anti-AI Affair",
+        "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
+        "points": 49,
+        "comments": 68,
+        "created_at": "2026-06-14T22:43:49.000Z"
       },
       {
-        "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-        "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-        "points": 94,
-        "comments": 14,
-        "created_at": "2026-06-14T14:01:35.000Z"
+        "title": "Making 'food out of thin air' (2024)",
+        "url": "https://www.noemamag.com/making-food-out-of-thin-air/",
+        "points": 12,
+        "comments": 1,
+        "created_at": "2026-06-14T21:45:50.000Z"
       },
       {
-        "title": "Ask HN: What problem did AI create at your company that didn't exist before?",
-        "url": "https://news.ycombinator.com/item?id=48525718",
-        "points": 11,
-        "comments": 9,
-        "created_at": "2026-06-14T09:50:34.000Z"
-      },
-      {
-        "title": "Meta’s chaotic AI strategy",
-        "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
-        "points": 70,
-        "comments": 79,
-        "created_at": "2026-06-14T01:23:45.000Z"
+        "title": "AI is code – and can't be prompted into being smarter",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+        "points": 141,
+        "comments": 128,
+        "created_at": "2026-06-14T20:17:54.000Z"
       }
     ],
     "vibeCoding": [
@@ -126,21 +126,21 @@
       {
         "title": "Conversations with a six-year-old on functional programming (2018)",
         "url": "https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/",
-        "points": 49,
-        "comments": 6,
+        "points": 60,
+        "comments": 8,
         "created_at": "2026-06-14T14:11:33.000Z"
       },
       {
-        "title": "Formal Methods and the Future of Programming",
+        "title": "Formal methods and the future of programming",
         "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
-        "points": 103,
-        "comments": 29,
+        "points": 286,
+        "comments": 95,
         "created_at": "2026-06-14T12:35:27.000Z"
       },
       {
         "title": "Programming a GBA Game on an iPhone",
         "url": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
-        "points": 53,
+        "points": 54,
         "comments": 10,
         "created_at": "2026-06-09T22:12:20.000Z"
       },
