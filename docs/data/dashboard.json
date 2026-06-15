@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-06-15T12:11:38.131Z",
+  "updatedAt": "2026-06-15T20:54:09.553Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 28.6,
-      "humidity": 39,
-      "wind_kph": 21.8,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 18,
+      "humidity": 88,
+      "wind_kph": 4.7,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-06-16",
-      "temp_max_c": 31.6,
-      "temp_min_c": 15.7,
+      "temp_max_c": 31.3,
+      "temp_min_c": 15.8,
       "humidity_max": 96,
       "humidity_min": 31,
-      "wind_kph": 21.9,
+      "wind_kph": 22.3,
       "weather_code": 45,
       "weather_desc": "Fog"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4216.5,
     "oilUSD": 79,
-    "updatedAt": "2026-06-15T12:11:38.131Z",
+    "updatedAt": "2026-06-15T20:54:09.553Z",
     "gold24KUSD": 135.56,
     "gold21KUSD": 118.62,
     "gold18KUSD": 101.67,
@@ -64,42 +64,49 @@
   "news": {
     "ai": [
       {
-        "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-        "url": "https://github.com/themartiano/luz",
-        "points": 21,
-        "comments": 5,
-        "created_at": "2026-06-15T09:34:10.000Z"
+        "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
+        "url": "https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/",
+        "points": 37,
+        "comments": 21,
+        "created_at": "2026-06-15T20:02:02.000Z"
       },
       {
-        "title": "AI Has Amnesia. Here's Every System Built to Fix It",
-        "url": "https://medium.com/@alanayalag/your-ai-has-amnesia-heres-every-system-built-to-fix-it-ad7dee117a75",
-        "points": 13,
-        "comments": 3,
-        "created_at": "2026-06-15T02:16:24.000Z"
-      },
-      {
-        "title": "The Jqwik Anti-AI Affair",
-        "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
-        "points": 49,
-        "comments": 68,
-        "created_at": "2026-06-14T22:43:49.000Z"
-      },
-      {
-        "title": "Making 'food out of thin air' (2024)",
-        "url": "https://www.noemamag.com/making-food-out-of-thin-air/",
-        "points": 12,
+        "title": "Today's Frontier AI companies will never exceed the AI capability frontier again",
+        "url": "https://andrewtrask.substack.com/p/breaking-todays-frontier-ai-companies",
+        "points": 19,
         "comments": 1,
-        "created_at": "2026-06-14T21:45:50.000Z"
+        "created_at": "2026-06-15T18:56:35.000Z"
       },
       {
-        "title": "AI is code – and can't be prompted into being smarter",
-        "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-        "points": 141,
-        "comments": 128,
-        "created_at": "2026-06-14T20:17:54.000Z"
+        "title": "EU Air travellers to enjoy free cabin luggage and keep delay compensation",
+        "url": "https://www.euronews.com/my-europe/2026/06/15/air-travellers-to-enjoy-free-cabin-luggage-and-keep-delay-compensation-after-decade-long-t",
+        "points": 19,
+        "comments": 9,
+        "created_at": "2026-06-15T17:25:35.000Z"
+      },
+      {
+        "title": "Anthropic Sued over Limits on Its $200-a-Month AI Plans",
+        "url": "https://www.wsj.com/tech/ai/anthropic-sued-over-limits-on-its-200-a-month-ai-plans-e2a109e4",
+        "points": 14,
+        "comments": 2,
+        "created_at": "2026-06-15T15:21:39.000Z"
+      },
+      {
+        "title": "My Homelab AI Dev Platform",
+        "url": "https://rsgm.dev/post/ai-dev-platform/",
+        "points": 168,
+        "comments": 34,
+        "created_at": "2026-06-15T15:09:40.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+        "url": "https://fata.dev",
+        "points": 50,
+        "comments": 28,
+        "created_at": "2026-06-11T11:57:03.000Z"
+      },
       {
         "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
         "url": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
@@ -117,7 +124,7 @@
       {
         "title": "Show HN: Startup sci-fi novel that took me 5 years to write",
         "url": "https://www.blockchainednovel.com/",
-        "points": 25,
+        "points": 26,
         "comments": 14,
         "created_at": "2026-06-08T16:29:38.000Z"
       }
@@ -126,16 +133,23 @@
       {
         "title": "Conversations with a six-year-old on functional programming (2018)",
         "url": "https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/",
-        "points": 60,
+        "points": 62,
         "comments": 8,
         "created_at": "2026-06-14T14:11:33.000Z"
       },
       {
         "title": "Formal methods and the future of programming",
         "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
-        "points": 286,
-        "comments": 95,
+        "points": 332,
+        "comments": 109,
         "created_at": "2026-06-14T12:35:27.000Z"
+      },
+      {
+        "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+        "url": "https://fata.dev",
+        "points": 50,
+        "comments": 28,
+        "created_at": "2026-06-11T11:57:03.000Z"
       },
       {
         "title": "Programming a GBA Game on an iPhone",
@@ -150,13 +164,6 @@
         "points": 68,
         "comments": 32,
         "created_at": "2026-06-08T22:10:18.000Z"
-      },
-      {
-        "title": "Show HN: AI pair programmer for Emacs",
-        "url": "https://github.com/jaketothepast/codetutor",
-        "points": 70,
-        "comments": 2,
-        "created_at": "2026-06-08T18:34:21.000Z"
       }
     ]
   }
