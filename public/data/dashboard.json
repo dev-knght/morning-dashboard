@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-06-16T20:49:20.369Z",
+  "updatedAt": "2026-06-17T10:54:02.289Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 19.4,
-      "humidity": 73,
-      "wind_kph": 3.9,
+      "temp_c": 32,
+      "humidity": 30,
+      "wind_kph": 22.5,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-06-17",
-      "temp_max_c": 31.5,
-      "temp_min_c": 16.6,
+      "date": "2026-06-18",
+      "temp_max_c": 29.4,
+      "temp_min_c": 18.4,
       "humidity_max": 87,
-      "humidity_min": 37,
-      "wind_kph": 27.5,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "humidity_min": 36,
+      "wind_kph": 27.6,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 4299.89,
+    "goldUSD": 4315.13,
     "oilUSD": 79,
-    "updatedAt": "2026-06-16T20:49:20.369Z",
-    "gold24KUSD": 138.24,
-    "gold21KUSD": 120.96,
-    "gold18KUSD": 103.68,
-    "gold24KJD": 98.02,
-    "gold21KJD": 85.76,
-    "gold18KJD": 73.51
+    "updatedAt": "2026-06-17T10:54:02.289Z",
+    "gold24KUSD": 138.73,
+    "gold21KUSD": 121.39,
+    "gold18KUSD": 104.05,
+    "gold24KJD": 98.36,
+    "gold21KJD": 86.07,
+    "gold18KJD": 73.77
   },
   "exchange": {
     "JOD": 0.709
@@ -37,7 +37,7 @@
   "prayer": {
     "fajr": "04:09",
     "maghrib": "19:44",
-    "date": "16 Jun 2016"
+    "date": "17 Jun 2017"
   },
   "events": [
     {
@@ -62,116 +62,8 @@
     }
   ],
   "news": {
-    "ai": [
-      {
-        "title": "AI is potentially a Dunning-Kruger effect amplifier",
-        "url": "https://twitter.com/i/status/2066825204207091926",
-        "points": 23,
-        "comments": 2,
-        "created_at": "2026-06-16T19:47:13.000Z"
-      },
-      {
-        "title": "The octopus architecture for AI agents",
-        "url": "https://blog.goodman.dev/blog/octopus-agent-architecture/",
-        "points": 15,
-        "comments": 2,
-        "created_at": "2026-06-16T17:24:45.000Z"
-      },
-      {
-        "title": "Has AI already killed self-help nonfiction books?",
-        "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-        "points": 43,
-        "comments": 54,
-        "created_at": "2026-06-16T17:11:05.000Z"
-      },
-      {
-        "title": "After AI Takes Everything",
-        "url": "https://ursb.me/en/posts/after-ai-takes-everything/",
-        "points": 81,
-        "comments": 87,
-        "created_at": "2026-06-16T15:20:05.000Z"
-      },
-      {
-        "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
-        "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
-        "points": 154,
-        "comments": 69,
-        "created_at": "2026-06-16T02:47:57.000Z"
-      }
-    ],
-    "vibeCoding": [
-      {
-        "title": "Tell HN: Claude is completely unusable for biology",
-        "url": "https://news.ycombinator.com/item?id=48538686",
-        "points": 16,
-        "comments": 5,
-        "created_at": "2026-06-15T09:17:41.000Z"
-      },
-      {
-        "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
-        "url": "https://fata.dev",
-        "points": 109,
-        "comments": 51,
-        "created_at": "2026-06-11T11:57:03.000Z"
-      },
-      {
-        "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
-        "url": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
-        "points": 215,
-        "comments": 127,
-        "created_at": "2026-06-10T03:27:47.000Z"
-      },
-      {
-        "title": "Show HN: Command Center, the AI coding env for people who care about quality",
-        "url": "https://www.cc.dev/",
-        "points": 68,
-        "comments": 32,
-        "created_at": "2026-06-08T22:10:18.000Z"
-      },
-      {
-        "title": "Show HN: Startup sci-fi novel that took me 5 years to write",
-        "url": "https://www.blockchainednovel.com/",
-        "points": 27,
-        "comments": 14,
-        "created_at": "2026-06-08T16:29:38.000Z"
-      }
-    ],
-    "progDb": [
-      {
-        "title": "Programming the ZX Spectrum's Bitmap Display",
-        "url": "https://bumbershootsoft.wordpress.com/2026/06/13/programming-the-zx-spectrums-bitmap-display/",
-        "points": 14,
-        "comments": 0,
-        "created_at": "2026-06-15T11:21:31.000Z"
-      },
-      {
-        "title": "Conversations with a six-year-old on functional programming (2018)",
-        "url": "https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/",
-        "points": 62,
-        "comments": 8,
-        "created_at": "2026-06-14T14:11:33.000Z"
-      },
-      {
-        "title": "Formal methods and the future of programming",
-        "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
-        "points": 354,
-        "comments": 119,
-        "created_at": "2026-06-14T12:35:27.000Z"
-      },
-      {
-        "title": "Formal Methods and the Future of Programming",
-        "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
-        "points": 47,
-        "comments": 1,
-        "created_at": "2026-06-11T22:07:37.000Z"
-      },
-      {
-        "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
-        "url": "https://fata.dev",
-        "points": 109,
-        "comments": 51,
-        "created_at": "2026-06-11T11:57:03.000Z"
-      }
-    ]
+    "ai": [],
+    "vibeCoding": [],
+    "progDb": []
   }
 }
