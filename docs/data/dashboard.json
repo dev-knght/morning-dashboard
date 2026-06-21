@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-06-20T19:25:07.649Z",
+  "updatedAt": "2026-06-21T09:49:11.260Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 21.9,
-      "humidity": 58,
-      "wind_kph": 5.1,
+      "temp_c": 30.1,
+      "humidity": 31,
+      "wind_kph": 22.8,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-06-21",
-      "temp_max_c": 30.8,
-      "temp_min_c": 17.5,
-      "humidity_max": 91,
-      "humidity_min": 29,
-      "wind_kph": 25.4,
+      "date": "2026-06-22",
+      "temp_max_c": 29.3,
+      "temp_min_c": 18,
+      "humidity_max": 97,
+      "humidity_min": 41,
+      "wind_kph": 28.9,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4193.23,
+    "goldUSD": 4155.68,
     "oilUSD": 79,
-    "updatedAt": "2026-06-20T19:25:07.649Z",
-    "gold24KUSD": 134.82,
-    "gold21KUSD": 117.96,
-    "gold18KUSD": 101.11,
-    "gold24KJD": 95.58,
-    "gold21KJD": 83.64,
-    "gold18KJD": 71.69
+    "updatedAt": "2026-06-21T09:49:11.260Z",
+    "gold24KUSD": 133.61,
+    "gold21KUSD": 116.91,
+    "gold18KUSD": 100.21,
+    "gold24KJD": 94.73,
+    "gold21KJD": 82.89,
+    "gold18KJD": 71.05
   },
   "exchange": {
     "JOD": 0.709
@@ -37,7 +37,7 @@
   "prayer": {
     "fajr": "04:10",
     "maghrib": "19:45",
-    "date": "20 Jun 2020"
+    "date": "21 Jun 2021"
   },
   "events": [
     {
