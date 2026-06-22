@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-21T19:39:43.116Z",
+  "updatedAt": "2026-06-22T11:52:35.690Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 20.7,
-      "humidity": 85,
-      "wind_kph": 9.7,
+      "temp_c": 29.9,
+      "humidity": 42,
+      "wind_kph": 28.4,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-06-22",
-      "temp_max_c": 29.8,
-      "temp_min_c": 18.5,
-      "humidity_max": 97,
+      "date": "2026-06-23",
+      "temp_max_c": 29.2,
+      "temp_min_c": 17.7,
+      "humidity_max": 96,
       "humidity_min": 41,
-      "wind_kph": 29.2,
+      "wind_kph": 31,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4155.68,
+    "goldUSD": 4155.6,
     "oilUSD": 79,
-    "updatedAt": "2026-06-21T19:39:43.116Z",
+    "updatedAt": "2026-06-22T11:52:35.690Z",
     "gold24KUSD": 133.61,
-    "gold21KUSD": 116.91,
-    "gold18KUSD": 100.21,
+    "gold21KUSD": 116.9,
+    "gold18KUSD": 100.2,
     "gold24KJD": 94.73,
     "gold21KJD": 82.89,
-    "gold18KJD": 71.05
+    "gold18KJD": 71.04
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "04:10",
-    "maghrib": "19:45",
-    "date": "21 Jun 2021"
+    "maghrib": "19:46",
+    "date": "22 Jun 2022"
   },
   "events": [
     {
