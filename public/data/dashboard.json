@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-07-04T08:35:12.919Z",
+  "updatedAt": "2026-07-04T19:10:44.668Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 28.2,
-      "humidity": 49,
-      "wind_kph": 23.8,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 21.7,
+      "humidity": 86,
+      "wind_kph": 14.1,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-07-05",
-      "temp_max_c": 31.7,
-      "temp_min_c": 20.9,
-      "humidity_max": 92,
-      "humidity_min": 41,
-      "wind_kph": 29.5,
+      "temp_max_c": 31.8,
+      "temp_min_c": 20.7,
+      "humidity_max": 93,
+      "humidity_min": 40,
+      "wind_kph": 29.3,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4130.37,
     "oilUSD": 79,
-    "updatedAt": "2026-07-04T08:35:12.919Z",
+    "updatedAt": "2026-07-04T19:10:44.668Z",
     "gold24KUSD": 132.79,
     "gold21KUSD": 116.2,
     "gold18KUSD": 99.6,
