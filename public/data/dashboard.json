@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-07-10T09:33:00.913Z",
+  "updatedAt": "2026-07-10T19:25:42.120Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 29.5,
-      "humidity": 29,
-      "wind_kph": 18.9,
+      "temp_c": 21,
+      "humidity": 84,
+      "wind_kph": 12,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-07-11",
-      "temp_max_c": 31.8,
-      "temp_min_c": 19,
-      "humidity_max": 95,
-      "humidity_min": 36,
-      "wind_kph": 24.7,
+      "temp_max_c": 32.1,
+      "temp_min_c": 19.2,
+      "humidity_max": 94,
+      "humidity_min": 35,
+      "wind_kph": 24.3,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4084.69,
     "oilUSD": 79,
-    "updatedAt": "2026-07-10T09:33:00.913Z",
+    "updatedAt": "2026-07-10T19:25:42.120Z",
     "gold24KUSD": 131.33,
     "gold21KUSD": 114.91,
     "gold18KUSD": 98.49,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI-generated videos to maximally drive a target brain region",
-        "url": "https://nevo-project.epfl.ch/",
-        "points": 48,
-        "comments": 46,
-        "created_at": "2026-07-10T07:39:11.000Z"
+        "title": "How the Terrorist Group Boko Haram Uses Frontier AI",
+        "url": "https://casp.ac/reports/ai-enabled-terrorism",
+        "points": 15,
+        "comments": 3,
+        "created_at": "2026-07-10T18:49:26.000Z"
       },
       {
-        "title": "China may restrict foreign access to Chinese open-source AI models",
-        "url": "https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/",
-        "points": 35,
-        "comments": 0,
-        "created_at": "2026-07-10T06:22:06.000Z"
+        "title": "Hands-On with the AMD Ryzen AI Halo",
+        "url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
+        "points": 23,
+        "comments": 26,
+        "created_at": "2026-07-10T16:06:38.000Z"
       },
       {
-        "title": "Building a real-time AI tutor for 5-year-olds",
-        "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-        "points": 88,
-        "comments": 149,
-        "created_at": "2026-07-09T20:51:06.000Z"
-      },
-      {
-        "title": "Palo Alto CEO Arora says AI pricing needs to fall 90% as token costs skyrocket",
-        "url": "https://www.cnbc.com/2026/07/09/palo-alto-ceo-arora-ai-pricing.html",
-        "points": 12,
-        "comments": 2,
-        "created_at": "2026-07-09T20:50:12.000Z"
-      },
-      {
-        "title": "Meta Patents AI Device That Tracks Your Emotions, Watches You Take Your Meds",
-        "url": "https://www.404media.co/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds/",
+        "title": "AI Cameras on Garbage Trucks to Scan Properties for Code Violations",
+        "url": "https://www.gadgetreview.com/cape-coral-eyes-ai-cameras-on-garbage-trucks-to-scan-properties-for-code-violations",
         "points": 13,
-        "comments": 2,
-        "created_at": "2026-07-09T19:17:03.000Z"
+        "comments": 3,
+        "created_at": "2026-07-10T15:09:40.000Z"
+      },
+      {
+        "title": "How do you use Vim in the era of AI?",
+        "url": "https://news.ycombinator.com/item?id=48859439",
+        "points": 30,
+        "comments": 68,
+        "created_at": "2026-07-10T13:11:30.000Z"
+      },
+      {
+        "title": "Man nearly sucked out of window mid-air on Ryanair plane",
+        "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo",
+        "points": 14,
+        "comments": 3,
+        "created_at": "2026-07-10T12:50:42.000Z"
       }
     ],
     "vibeCoding": [],
@@ -104,8 +104,8 @@
       {
         "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
         "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-        "points": 242,
-        "comments": 110,
+        "points": 363,
+        "comments": 203,
         "created_at": "2026-07-09T17:17:16.000Z"
       },
       {
