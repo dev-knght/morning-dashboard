@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-07-09T19:44:28.408Z",
+  "updatedAt": "2026-07-10T09:33:00.913Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 20.5,
-      "humidity": 85,
-      "wind_kph": 12.8,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 29.5,
+      "humidity": 29,
+      "wind_kph": 18.9,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-07-10",
-      "temp_max_c": 31.3,
-      "temp_min_c": 17.7,
-      "humidity_max": 94,
-      "humidity_min": 24,
-      "wind_kph": 24.9,
+      "date": "2026-07-11",
+      "temp_max_c": 31.8,
+      "temp_min_c": 19,
+      "humidity_max": 95,
+      "humidity_min": 36,
+      "wind_kph": 24.7,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4103.13,
+    "goldUSD": 4084.69,
     "oilUSD": 79,
-    "updatedAt": "2026-07-09T19:44:28.408Z",
-    "gold24KUSD": 131.92,
-    "gold21KUSD": 115.43,
-    "gold18KUSD": 98.94,
-    "gold24KJD": 93.53,
-    "gold21KJD": 81.84,
-    "gold18KJD": 70.15
+    "updatedAt": "2026-07-10T09:33:00.913Z",
+    "gold24KUSD": 131.33,
+    "gold21KUSD": 114.91,
+    "gold18KUSD": 98.49,
+    "gold24KJD": 93.11,
+    "gold21KJD": 81.47,
+    "gold18KJD": 69.83
   },
   "exchange": {
     "JOD": 0.709
@@ -37,7 +37,7 @@
   "prayer": {
     "fajr": "04:18",
     "maghrib": "19:45",
-    "date": "09 Jul 2009"
+    "date": "10 Jul 2010"
   },
   "events": [
     {
@@ -62,8 +62,80 @@
     }
   ],
   "news": {
-    "ai": [],
+    "ai": [
+      {
+        "title": "AI-generated videos to maximally drive a target brain region",
+        "url": "https://nevo-project.epfl.ch/",
+        "points": 48,
+        "comments": 46,
+        "created_at": "2026-07-10T07:39:11.000Z"
+      },
+      {
+        "title": "China may restrict foreign access to Chinese open-source AI models",
+        "url": "https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/",
+        "points": 35,
+        "comments": 0,
+        "created_at": "2026-07-10T06:22:06.000Z"
+      },
+      {
+        "title": "Building a real-time AI tutor for 5-year-olds",
+        "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+        "points": 88,
+        "comments": 149,
+        "created_at": "2026-07-09T20:51:06.000Z"
+      },
+      {
+        "title": "Palo Alto CEO Arora says AI pricing needs to fall 90% as token costs skyrocket",
+        "url": "https://www.cnbc.com/2026/07/09/palo-alto-ceo-arora-ai-pricing.html",
+        "points": 12,
+        "comments": 2,
+        "created_at": "2026-07-09T20:50:12.000Z"
+      },
+      {
+        "title": "Meta Patents AI Device That Tracks Your Emotions, Watches You Take Your Meds",
+        "url": "https://www.404media.co/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds/",
+        "points": 13,
+        "comments": 2,
+        "created_at": "2026-07-09T19:17:03.000Z"
+      }
+    ],
     "vibeCoding": [],
-    "progDb": []
+    "progDb": [
+      {
+        "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+        "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+        "points": 242,
+        "comments": 110,
+        "created_at": "2026-07-09T17:17:16.000Z"
+      },
+      {
+        "title": "I coded a shoot 'em up alone at 18 after learning Lua in a single week",
+        "url": "https://news.ycombinator.com/item?id=48824221",
+        "points": 12,
+        "comments": 9,
+        "created_at": "2026-07-07T21:37:01.000Z"
+      },
+      {
+        "title": "The Art of Computer Programming by Donald E. Knuth",
+        "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+        "points": 237,
+        "comments": 60,
+        "created_at": "2026-07-07T05:19:03.000Z"
+      },
+      {
+        "title": "Show HN: Nectar, a Rust-like React that compiles to WebAssembly",
+        "url": "https://buildnectar.com",
+        "points": 11,
+        "comments": 2,
+        "created_at": "2026-07-06T15:16:54.000Z"
+      },
+      {
+        "title": "Tungsten – an expressive, fast programming language",
+        "url": "https://tungsten-lang.org/",
+        "points": 11,
+        "comments": 8,
+        "created_at": "2026-07-04T23:27:25.000Z"
+      }
+    ]
   }
 }
