@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-10T19:25:42.120Z",
+  "updatedAt": "2026-07-11T07:53:56.702Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 21,
-      "humidity": 84,
-      "wind_kph": 12,
+      "temp_c": 27.8,
+      "humidity": 40,
+      "wind_kph": 15.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-07-11",
-      "temp_max_c": 32.1,
-      "temp_min_c": 19.2,
-      "humidity_max": 94,
-      "humidity_min": 35,
-      "wind_kph": 24.3,
+      "date": "2026-07-12",
+      "temp_max_c": 32.5,
+      "temp_min_c": 18.1,
+      "humidity_max": 82,
+      "humidity_min": 39,
+      "wind_kph": 25.3,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4084.69,
+    "goldUSD": 4121.92,
     "oilUSD": 79,
-    "updatedAt": "2026-07-10T19:25:42.120Z",
-    "gold24KUSD": 131.33,
-    "gold21KUSD": 114.91,
-    "gold18KUSD": 98.49,
-    "gold24KJD": 93.11,
-    "gold21KJD": 81.47,
-    "gold18KJD": 69.83
+    "updatedAt": "2026-07-11T07:53:56.702Z",
+    "gold24KUSD": 132.52,
+    "gold21KUSD": 115.96,
+    "gold18KUSD": 99.39,
+    "gold24KJD": 93.96,
+    "gold21KJD": 82.21,
+    "gold18KJD": 70.47
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:18",
+    "fajr": "04:19",
     "maghrib": "19:45",
-    "date": "10 Jul 2010"
+    "date": "11 Jul 2011"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "How the Terrorist Group Boko Haram Uses Frontier AI",
-        "url": "https://casp.ac/reports/ai-enabled-terrorism",
-        "points": 15,
-        "comments": 3,
-        "created_at": "2026-07-10T18:49:26.000Z"
+        "title": "Meta removes AI feature on Instagram after global backlash",
+        "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
+        "points": 12,
+        "comments": 2,
+        "created_at": "2026-07-11T04:19:14.000Z"
       },
       {
-        "title": "Hands-On with the AMD Ryzen AI Halo",
-        "url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
-        "points": 23,
-        "comments": 26,
-        "created_at": "2026-07-10T16:06:38.000Z"
-      },
-      {
-        "title": "AI Cameras on Garbage Trucks to Scan Properties for Code Violations",
-        "url": "https://www.gadgetreview.com/cape-coral-eyes-ai-cameras-on-garbage-trucks-to-scan-properties-for-code-violations",
+        "title": "Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach",
+        "url": "https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/",
         "points": 13,
-        "comments": 3,
-        "created_at": "2026-07-10T15:09:40.000Z"
+        "comments": 0,
+        "created_at": "2026-07-11T00:43:39.000Z"
       },
       {
-        "title": "How do you use Vim in the era of AI?",
-        "url": "https://news.ycombinator.com/item?id=48859439",
-        "points": 30,
-        "comments": 68,
-        "created_at": "2026-07-10T13:11:30.000Z"
+        "title": "Meta pulls new AI image feature after days of backlash",
+        "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+        "points": 45,
+        "comments": 14,
+        "created_at": "2026-07-11T00:40:36.000Z"
       },
       {
-        "title": "Man nearly sucked out of window mid-air on Ryanair plane",
-        "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo",
-        "points": 14,
-        "comments": 3,
-        "created_at": "2026-07-10T12:50:42.000Z"
+        "title": "China's Open AI Models Are Advancing Its Global Soft Power",
+        "url": "https://www.noemamag.com/chinas-open-ai-models-are-advancing-its-global-soft-power/",
+        "points": 25,
+        "comments": 0,
+        "created_at": "2026-07-10T21:45:16.000Z"
+      },
+      {
+        "title": "Apple accuses OpenAI of using stolen trade secrets to create its AI gadgets",
+        "url": "https://www.cnn.com/2026/07/10/tech/apple-openai-devices-lawsuit",
+        "points": 18,
+        "comments": 0,
+        "created_at": "2026-07-10T21:04:56.000Z"
       }
     ],
     "vibeCoding": [],
@@ -104,8 +104,8 @@
       {
         "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
         "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-        "points": 363,
-        "comments": 203,
+        "points": 380,
+        "comments": 226,
         "created_at": "2026-07-09T17:17:16.000Z"
       },
       {
