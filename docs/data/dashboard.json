@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-07-11T07:53:56.702Z",
+  "updatedAt": "2026-07-11T19:02:27.259Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 27.8,
-      "humidity": 40,
-      "wind_kph": 15.6,
+      "temp_c": 22,
+      "humidity": 76,
+      "wind_kph": 11.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-07-12",
-      "temp_max_c": 32.5,
-      "temp_min_c": 18.1,
-      "humidity_max": 82,
-      "humidity_min": 39,
-      "wind_kph": 25.3,
+      "temp_max_c": 32.3,
+      "temp_min_c": 19.4,
+      "humidity_max": 94,
+      "humidity_min": 38,
+      "wind_kph": 25.9,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4121.92,
     "oilUSD": 79,
-    "updatedAt": "2026-07-11T07:53:56.702Z",
+    "updatedAt": "2026-07-11T19:02:27.259Z",
     "gold24KUSD": 132.52,
     "gold21KUSD": 115.96,
     "gold18KUSD": 99.39,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Meta removes AI feature on Instagram after global backlash",
-        "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
-        "points": 12,
-        "comments": 2,
-        "created_at": "2026-07-11T04:19:14.000Z"
+        "title": "AI 2040 and the Cult of Intelligence",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+        "points": 90,
+        "comments": 44,
+        "created_at": "2026-07-11T18:04:01.000Z"
       },
       {
-        "title": "Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach",
-        "url": "https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/",
-        "points": 13,
-        "comments": 0,
-        "created_at": "2026-07-11T00:43:39.000Z"
+        "title": "Alex Karp Is Saying What Every Angry CEO Is Thinking About AI",
+        "url": "https://www.wsj.com/tech/ai/alex-karp-is-saying-what-every-angry-ceo-is-thinking-about-ai-7f5f7c0c",
+        "points": 15,
+        "comments": 9,
+        "created_at": "2026-07-11T17:37:30.000Z"
       },
       {
-        "title": "Meta pulls new AI image feature after days of backlash",
-        "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-        "points": 45,
-        "comments": 14,
-        "created_at": "2026-07-11T00:40:36.000Z"
+        "title": "Reverse centaurs are the answer to the AI paradox",
+        "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+        "points": 35,
+        "comments": 6,
+        "created_at": "2026-07-11T17:23:52.000Z"
       },
       {
-        "title": "China's Open AI Models Are Advancing Its Global Soft Power",
-        "url": "https://www.noemamag.com/chinas-open-ai-models-are-advancing-its-global-soft-power/",
-        "points": 25,
-        "comments": 0,
-        "created_at": "2026-07-10T21:45:16.000Z"
+        "title": "Ghost Font: A font that humans can read but AI cannot",
+        "url": "https://www.mixfont.com/ghost-font",
+        "points": 157,
+        "comments": 119,
+        "created_at": "2026-07-11T09:36:53.000Z"
       },
       {
-        "title": "Apple accuses OpenAI of using stolen trade secrets to create its AI gadgets",
-        "url": "https://www.cnn.com/2026/07/10/tech/apple-openai-devices-lawsuit",
-        "points": 18,
-        "comments": 0,
-        "created_at": "2026-07-10T21:04:56.000Z"
+        "title": "Microsoft latest report shows 25% emissions raised due to AI data centers",
+        "url": "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump",
+        "points": 47,
+        "comments": 16,
+        "created_at": "2026-07-11T09:10:45.000Z"
       }
     ],
     "vibeCoding": [],
@@ -104,8 +104,8 @@
       {
         "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
         "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-        "points": 380,
-        "comments": 226,
+        "points": 388,
+        "comments": 232,
         "created_at": "2026-07-09T17:17:16.000Z"
       },
       {
@@ -116,9 +116,16 @@
         "created_at": "2026-07-07T21:37:01.000Z"
       },
       {
+        "title": "Amber the programming language compiled to Bash/Ksh/Zsh",
+        "url": "https://amber-lang.com/",
+        "points": 25,
+        "comments": 17,
+        "created_at": "2026-07-07T19:22:56.000Z"
+      },
+      {
         "title": "The Art of Computer Programming by Donald E. Knuth",
         "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
-        "points": 237,
+        "points": 238,
         "comments": 60,
         "created_at": "2026-07-07T05:19:03.000Z"
       },
@@ -128,13 +135,6 @@
         "points": 11,
         "comments": 2,
         "created_at": "2026-07-06T15:16:54.000Z"
-      },
-      {
-        "title": "Tungsten – an expressive, fast programming language",
-        "url": "https://tungsten-lang.org/",
-        "points": 11,
-        "comments": 8,
-        "created_at": "2026-07-04T23:27:25.000Z"
       }
     ]
   }
