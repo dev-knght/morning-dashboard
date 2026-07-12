@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-07-12T08:15:14.783Z",
+  "updatedAt": "2026-07-12T19:04:12.989Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 28,
-      "humidity": 51,
-      "wind_kph": 17.9,
+      "temp_c": 22.8,
+      "humidity": 76,
+      "wind_kph": 14.4,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-07-13",
-      "temp_max_c": 31.8,
-      "temp_min_c": 19.8,
-      "humidity_max": 93,
-      "humidity_min": 42,
-      "wind_kph": 27,
+      "temp_max_c": 32,
+      "temp_min_c": 20.3,
+      "humidity_max": 96,
+      "humidity_min": 43,
+      "wind_kph": 26.2,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4119.78,
     "oilUSD": 79,
-    "updatedAt": "2026-07-12T08:15:14.783Z",
+    "updatedAt": "2026-07-12T19:04:12.989Z",
     "gold24KUSD": 132.45,
     "gold21KUSD": 115.9,
     "gold18KUSD": 99.34,
@@ -64,55 +64,77 @@
   "news": {
     "ai": [
       {
+        "title": "AI boosts research careers but narrow the span of ideas explored: study",
+        "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+        "points": 108,
+        "comments": 85,
+        "created_at": "2026-07-12T13:26:13.000Z"
+      },
+      {
         "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
         "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-        "points": 66,
-        "comments": 104,
+        "points": 184,
+        "comments": 436,
         "created_at": "2026-07-12T04:00:14.000Z"
       },
       {
         "title": "Mesh LLM: distributed AI computing on iroh",
         "url": "https://www.iroh.computer/blog/mesh-llm",
-        "points": 226,
-        "comments": 50,
+        "points": 325,
+        "comments": 75,
         "created_at": "2026-07-11T22:38:57.000Z"
       },
       {
         "title": "I built TradingSpy: local, privacy-first AI trading assistant(First Open Source)",
         "url": "https://github.com/mrhustlex/TradingSpy-TradingAgentService",
-        "points": 18,
-        "comments": 0,
+        "points": 30,
+        "comments": 5,
         "created_at": "2026-07-11T20:45:06.000Z"
       },
       {
         "title": "Wealthy AI workers send San Francisco house prices soaring",
         "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
-        "points": 33,
-        "comments": 38,
+        "points": 42,
+        "comments": 63,
         "created_at": "2026-07-11T20:06:38.000Z"
-      },
-      {
-        "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-        "url": "https://github.com/sqlsure/sqlsure",
-        "points": 30,
-        "comments": 6,
-        "created_at": "2026-07-11T20:03:42.000Z"
       }
     ],
-    "vibeCoding": [],
+    "vibeCoding": [
+      {
+        "title": "Who cleans up after the vibe-coding party?",
+        "url": "https://www.ft.com/content/cec8df9e-b43b-4cd1-8feb-c07e804e8d33",
+        "points": 26,
+        "comments": 1,
+        "created_at": "2026-07-12T05:44:46.000Z"
+      },
+      {
+        "title": "Who cleans up after the vibe-coding party?",
+        "url": "https://www.ft.com/content/cec8df9e-b43b-4cd1-8feb-c07e804e8d33",
+        "points": 21,
+        "comments": 14,
+        "created_at": "2026-07-11T11:18:15.000Z"
+      }
+    ],
     "progDb": [
+      {
+        "title": "Understanding the Odin Programming Language",
+        "url": "https://odinbook.com/",
+        "points": 120,
+        "comments": 60,
+        "created_at": "2026-07-12T12:08:07.000Z"
+      },
       {
         "title": "A pure scheme web programming tool",
         "url": "https://goeteia.dev",
-        "points": 88,
-        "comments": 20,
+        "points": 131,
+        "comments": 22,
         "created_at": "2026-07-12T00:57:18.000Z"
       },
       {
         "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
         "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-        "points": 393,
-        "comments": 234,
+        "points": 394,
+        "comments": 245,
         "created_at": "2026-07-09T17:17:16.000Z"
       },
       {
@@ -125,16 +147,9 @@
       {
         "title": "Amber the programming language compiled to Bash/Ksh/Zsh",
         "url": "https://amber-lang.com/",
-        "points": 71,
-        "comments": 57,
+        "points": 86,
+        "comments": 66,
         "created_at": "2026-07-07T19:22:56.000Z"
-      },
-      {
-        "title": "The Art of Computer Programming by Donald E. Knuth",
-        "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
-        "points": 238,
-        "comments": 60,
-        "created_at": "2026-07-07T05:19:03.000Z"
       }
     ]
   }
