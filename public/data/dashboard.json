@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-11T19:02:27.259Z",
+  "updatedAt": "2026-07-12T08:15:14.783Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 22,
-      "humidity": 76,
-      "wind_kph": 11.6,
+      "temp_c": 28,
+      "humidity": 51,
+      "wind_kph": 17.9,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-07-12",
-      "temp_max_c": 32.3,
-      "temp_min_c": 19.4,
-      "humidity_max": 94,
-      "humidity_min": 38,
-      "wind_kph": 25.9,
+      "date": "2026-07-13",
+      "temp_max_c": 31.8,
+      "temp_min_c": 19.8,
+      "humidity_max": 93,
+      "humidity_min": 42,
+      "wind_kph": 27,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4121.92,
+    "goldUSD": 4119.78,
     "oilUSD": 79,
-    "updatedAt": "2026-07-11T19:02:27.259Z",
-    "gold24KUSD": 132.52,
-    "gold21KUSD": 115.96,
-    "gold18KUSD": 99.39,
-    "gold24KJD": 93.96,
-    "gold21KJD": 82.21,
-    "gold18KJD": 70.47
+    "updatedAt": "2026-07-12T08:15:14.783Z",
+    "gold24KUSD": 132.45,
+    "gold21KUSD": 115.9,
+    "gold18KUSD": 99.34,
+    "gold24KJD": 93.91,
+    "gold21KJD": 82.17,
+    "gold18KJD": 70.43
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:19",
-    "maghrib": "19:45",
-    "date": "11 Jul 2011"
+    "fajr": "04:20",
+    "maghrib": "19:44",
+    "date": "12 Jul 2012"
   },
   "events": [
     {
@@ -64,48 +64,55 @@
   "news": {
     "ai": [
       {
-        "title": "AI 2040 and the Cult of Intelligence",
-        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-        "points": 90,
-        "comments": 44,
-        "created_at": "2026-07-11T18:04:01.000Z"
+        "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+        "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+        "points": 66,
+        "comments": 104,
+        "created_at": "2026-07-12T04:00:14.000Z"
       },
       {
-        "title": "Alex Karp Is Saying What Every Angry CEO Is Thinking About AI",
-        "url": "https://www.wsj.com/tech/ai/alex-karp-is-saying-what-every-angry-ceo-is-thinking-about-ai-7f5f7c0c",
-        "points": 15,
-        "comments": 9,
-        "created_at": "2026-07-11T17:37:30.000Z"
+        "title": "Mesh LLM: distributed AI computing on iroh",
+        "url": "https://www.iroh.computer/blog/mesh-llm",
+        "points": 226,
+        "comments": 50,
+        "created_at": "2026-07-11T22:38:57.000Z"
       },
       {
-        "title": "Reverse centaurs are the answer to the AI paradox",
-        "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
-        "points": 35,
+        "title": "I built TradingSpy: local, privacy-first AI trading assistant(First Open Source)",
+        "url": "https://github.com/mrhustlex/TradingSpy-TradingAgentService",
+        "points": 18,
+        "comments": 0,
+        "created_at": "2026-07-11T20:45:06.000Z"
+      },
+      {
+        "title": "Wealthy AI workers send San Francisco house prices soaring",
+        "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
+        "points": 33,
+        "comments": 38,
+        "created_at": "2026-07-11T20:06:38.000Z"
+      },
+      {
+        "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+        "url": "https://github.com/sqlsure/sqlsure",
+        "points": 30,
         "comments": 6,
-        "created_at": "2026-07-11T17:23:52.000Z"
-      },
-      {
-        "title": "Ghost Font: A font that humans can read but AI cannot",
-        "url": "https://www.mixfont.com/ghost-font",
-        "points": 157,
-        "comments": 119,
-        "created_at": "2026-07-11T09:36:53.000Z"
-      },
-      {
-        "title": "Microsoft latest report shows 25% emissions raised due to AI data centers",
-        "url": "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump",
-        "points": 47,
-        "comments": 16,
-        "created_at": "2026-07-11T09:10:45.000Z"
+        "created_at": "2026-07-11T20:03:42.000Z"
       }
     ],
     "vibeCoding": [],
     "progDb": [
       {
+        "title": "A pure scheme web programming tool",
+        "url": "https://goeteia.dev",
+        "points": 88,
+        "comments": 20,
+        "created_at": "2026-07-12T00:57:18.000Z"
+      },
+      {
         "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
         "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-        "points": 388,
-        "comments": 232,
+        "points": 393,
+        "comments": 234,
         "created_at": "2026-07-09T17:17:16.000Z"
       },
       {
@@ -118,8 +125,8 @@
       {
         "title": "Amber the programming language compiled to Bash/Ksh/Zsh",
         "url": "https://amber-lang.com/",
-        "points": 25,
-        "comments": 17,
+        "points": 71,
+        "comments": 57,
         "created_at": "2026-07-07T19:22:56.000Z"
       },
       {
@@ -128,13 +135,6 @@
         "points": 238,
         "comments": 60,
         "created_at": "2026-07-07T05:19:03.000Z"
-      },
-      {
-        "title": "Show HN: Nectar, a Rust-like React that compiles to WebAssembly",
-        "url": "https://buildnectar.com",
-        "points": 11,
-        "comments": 2,
-        "created_at": "2026-07-06T15:16:54.000Z"
       }
     ]
   }
