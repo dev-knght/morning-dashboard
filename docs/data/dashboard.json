@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-12T19:04:12.989Z",
+  "updatedAt": "2026-07-13T09:24:17.102Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 22.8,
-      "humidity": 76,
-      "wind_kph": 14.4,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 29.9,
+      "humidity": 48,
+      "wind_kph": 22.1,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-07-13",
-      "temp_max_c": 32,
-      "temp_min_c": 20.3,
-      "humidity_max": 96,
-      "humidity_min": 43,
-      "wind_kph": 26.2,
+      "date": "2026-07-14",
+      "temp_max_c": 33.1,
+      "temp_min_c": 19.3,
+      "humidity_max": 92,
+      "humidity_min": 28,
+      "wind_kph": 25.9,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4119.78,
+    "goldUSD": 4116.56,
     "oilUSD": 79,
-    "updatedAt": "2026-07-12T19:04:12.989Z",
-    "gold24KUSD": 132.45,
-    "gold21KUSD": 115.9,
-    "gold18KUSD": 99.34,
-    "gold24KJD": 93.91,
-    "gold21KJD": 82.17,
-    "gold18KJD": 70.43
+    "updatedAt": "2026-07-13T09:24:17.102Z",
+    "gold24KUSD": 132.35,
+    "gold21KUSD": 115.81,
+    "gold18KUSD": 99.26,
+    "gold24KJD": 93.84,
+    "gold21KJD": 82.11,
+    "gold18KJD": 70.38
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:20",
+    "fajr": "04:21",
     "maghrib": "19:44",
-    "date": "12 Jul 2012"
+    "date": "13 Jul 2013"
   },
   "events": [
     {
@@ -64,63 +64,63 @@
   "news": {
     "ai": [
       {
-        "title": "AI boosts research careers but narrow the span of ideas explored: study",
-        "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-        "points": 108,
-        "comments": 85,
-        "created_at": "2026-07-12T13:26:13.000Z"
+        "title": "Ask HN: Add flag for AI-generated articles",
+        "url": "https://news.ycombinator.com/item?id=48886741",
+        "points": 650,
+        "comments": 297,
+        "created_at": "2026-07-13T01:24:20.000Z"
       },
       {
-        "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-        "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-        "points": 184,
-        "comments": 436,
-        "created_at": "2026-07-12T04:00:14.000Z"
+        "title": "AI's Biggest Unlock Isn't Productivity. It's Access to Expertise",
+        "url": "https://diviv.substack.com/p/ais-biggest-unlock-isnt-productivity",
+        "points": 15,
+        "comments": 3,
+        "created_at": "2026-07-12T23:49:25.000Z"
       },
       {
-        "title": "Mesh LLM: distributed AI computing on iroh",
-        "url": "https://www.iroh.computer/blog/mesh-llm",
-        "points": 325,
-        "comments": 75,
-        "created_at": "2026-07-11T22:38:57.000Z"
+        "title": "The One-Step Trap (In AI Research)",
+        "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+        "points": 49,
+        "comments": 10,
+        "created_at": "2026-07-12T18:41:15.000Z"
       },
       {
-        "title": "I built TradingSpy: local, privacy-first AI trading assistant(First Open Source)",
-        "url": "https://github.com/mrhustlex/TradingSpy-TradingAgentService",
-        "points": 30,
-        "comments": 5,
-        "created_at": "2026-07-11T20:45:06.000Z"
+        "title": "The Most Famous AI Writing Tic Is Also the Most Mysterious",
+        "url": "https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/",
+        "points": 14,
+        "comments": 2,
+        "created_at": "2026-07-12T17:49:53.000Z"
       },
       {
-        "title": "Wealthy AI workers send San Francisco house prices soaring",
-        "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
-        "points": 42,
-        "comments": 63,
-        "created_at": "2026-07-11T20:06:38.000Z"
+        "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+        "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+        "points": 204,
+        "comments": 88,
+        "created_at": "2026-07-12T17:13:07.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Who cleans up after the vibe-coding party?",
         "url": "https://www.ft.com/content/cec8df9e-b43b-4cd1-8feb-c07e804e8d33",
-        "points": 26,
+        "points": 27,
         "comments": 1,
         "created_at": "2026-07-12T05:44:46.000Z"
       },
       {
         "title": "Who cleans up after the vibe-coding party?",
         "url": "https://www.ft.com/content/cec8df9e-b43b-4cd1-8feb-c07e804e8d33",
-        "points": 21,
-        "comments": 14,
+        "points": 23,
+        "comments": 16,
         "created_at": "2026-07-11T11:18:15.000Z"
       }
     ],
     "progDb": [
       {
-        "title": "Understanding the Odin Programming Language",
+        "title": "Understanding the Odin programming language",
         "url": "https://odinbook.com/",
-        "points": 120,
-        "comments": 60,
+        "points": 156,
+        "comments": 98,
         "created_at": "2026-07-12T12:08:07.000Z"
       },
       {
@@ -133,8 +133,8 @@
       {
         "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
         "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-        "points": 394,
-        "comments": 245,
+        "points": 396,
+        "comments": 250,
         "created_at": "2026-07-09T17:17:16.000Z"
       },
       {
@@ -147,8 +147,8 @@
       {
         "title": "Amber the programming language compiled to Bash/Ksh/Zsh",
         "url": "https://amber-lang.com/",
-        "points": 86,
-        "comments": 66,
+        "points": 87,
+        "comments": 71,
         "created_at": "2026-07-07T19:22:56.000Z"
       }
     ]
