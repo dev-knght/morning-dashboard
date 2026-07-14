@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-07-14T08:02:27.050Z",
+  "updatedAt": "2026-07-14T19:17:51.708Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 28.9,
-      "humidity": 41,
-      "wind_kph": 16.8,
+      "temp_c": 23.8,
+      "humidity": 59,
+      "wind_kph": 8,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-07-15",
-      "temp_max_c": 33.4,
-      "temp_min_c": 19.4,
-      "humidity_max": 69,
-      "humidity_min": 28,
-      "wind_kph": 26.3,
+      "temp_max_c": 33.3,
+      "temp_min_c": 20.4,
+      "humidity_max": 63,
+      "humidity_min": 35,
+      "wind_kph": 25.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4086.76,
     "oilUSD": 79,
-    "updatedAt": "2026-07-14T08:02:27.050Z",
+    "updatedAt": "2026-07-14T19:17:51.708Z",
     "gold24KUSD": 131.39,
     "gold21KUSD": 114.97,
     "gold18KUSD": 98.54,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Georgia family says they're forced to sell home to power AI data centers",
-        "url": "https://www.cbsnews.com/news/georgia-power-ai-data-centers-eminent-domain/",
-        "points": 20,
+        "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+        "url": "https://agnost.ai",
+        "points": 21,
+        "comments": 7,
+        "created_at": "2026-07-14T16:06:18.000Z"
+      },
+      {
+        "title": "Are we offloading too much of our thinking to AI?",
+        "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+        "points": 245,
+        "comments": 236,
+        "created_at": "2026-07-14T15:18:13.000Z"
+      },
+      {
+        "title": "Meta used AI to target workers with medical conditions for layoffs",
+        "url": "https://www.reuters.com/world/meta-used-ai-target-workers-with-medical-conditions-layoffs-former-employees-2026-07-14/",
+        "points": 19,
         "comments": 4,
-        "created_at": "2026-07-14T02:05:53.000Z"
+        "created_at": "2026-07-14T15:09:28.000Z"
       },
       {
-        "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
-        "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
-        "points": 34,
-        "comments": 29,
-        "created_at": "2026-07-13T23:26:52.000Z"
+        "title": "Show HN: Oodle.ai – $10 per million agent traces",
+        "url": "https://www.oodle.ai/product/agent-observability",
+        "points": 22,
+        "comments": 7,
+        "created_at": "2026-07-14T14:36:28.000Z"
       },
       {
-        "title": "The AI Whale Fall and Open Source",
-        "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
-        "points": 27,
+        "title": "Hating AI in 2026",
+        "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
+        "points": 22,
         "comments": 15,
-        "created_at": "2026-07-13T23:16:42.000Z"
-      },
-      {
-        "title": "Cdbx.ai – AI-powered browser IDE to describe, build, and publish apps",
-        "url": "https://cdbx.ai/",
-        "points": 16,
-        "comments": 3,
-        "created_at": "2026-07-13T23:07:16.000Z"
-      },
-      {
-        "title": "Samsung Health app threatens data deletion if users opt out AI training",
-        "url": "https://neow.in/cWsyMTV3",
-        "points": 309,
-        "comments": 84,
-        "created_at": "2026-07-13T20:01:43.000Z"
+        "created_at": "2026-07-14T14:13:17.000Z"
       }
     ],
     "vibeCoding": [
@@ -111,7 +111,7 @@
         "title": "Who cleans up after the vibe-coding party?",
         "url": "https://www.ft.com/content/cec8df9e-b43b-4cd1-8feb-c07e804e8d33",
         "points": 23,
-        "comments": 19,
+        "comments": 21,
         "created_at": "2026-07-11T11:18:15.000Z"
       }
     ],
@@ -119,15 +119,15 @@
       {
         "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
         "url": "https://github.com/jbwinters/jacquard-lang",
-        "points": 84,
-        "comments": 44,
+        "points": 95,
+        "comments": 56,
         "created_at": "2026-07-13T15:56:02.000Z"
       },
       {
         "title": "Understanding the Odin programming language",
         "url": "https://odinbook.com/",
         "points": 161,
-        "comments": 124,
+        "comments": 134,
         "created_at": "2026-07-12T12:08:07.000Z"
       },
       {
