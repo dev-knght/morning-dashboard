@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-07-13T19:21:58.057Z",
+  "updatedAt": "2026-07-14T08:02:27.050Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 22.8,
-      "humidity": 73,
-      "wind_kph": 13.8,
+      "temp_c": 28.9,
+      "humidity": 41,
+      "wind_kph": 16.8,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-07-14",
-      "temp_max_c": 33.5,
-      "temp_min_c": 19.9,
-      "humidity_max": 88,
-      "humidity_min": 30,
-      "wind_kph": 25.9,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "date": "2026-07-15",
+      "temp_max_c": 33.4,
+      "temp_min_c": 19.4,
+      "humidity_max": 69,
+      "humidity_min": 28,
+      "wind_kph": 26.3,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     }
   },
   "metals": {
-    "goldUSD": 4116.56,
+    "goldUSD": 4086.76,
     "oilUSD": 79,
-    "updatedAt": "2026-07-13T19:21:58.057Z",
-    "gold24KUSD": 132.35,
-    "gold21KUSD": 115.81,
-    "gold18KUSD": 99.26,
-    "gold24KJD": 93.84,
-    "gold21KJD": 82.11,
-    "gold18KJD": 70.38
+    "updatedAt": "2026-07-14T08:02:27.050Z",
+    "gold24KUSD": 131.39,
+    "gold21KUSD": 114.97,
+    "gold18KUSD": 98.54,
+    "gold24KJD": 93.16,
+    "gold21KJD": 81.51,
+    "gold18KJD": 69.87
   },
   "exchange": {
     "JOD": 0.709
@@ -37,7 +37,7 @@
   "prayer": {
     "fajr": "04:21",
     "maghrib": "19:44",
-    "date": "13 Jul 2013"
+    "date": "14 Jul 2014"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-        "url": "https://github.com/morganwilliscloud/billai-bass",
-        "points": 12,
+        "title": "Georgia family says they're forced to sell home to power AI data centers",
+        "url": "https://www.cbsnews.com/news/georgia-power-ai-data-centers-eminent-domain/",
+        "points": 20,
+        "comments": 4,
+        "created_at": "2026-07-14T02:05:53.000Z"
+      },
+      {
+        "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+        "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+        "points": 34,
+        "comments": 29,
+        "created_at": "2026-07-13T23:26:52.000Z"
+      },
+      {
+        "title": "The AI Whale Fall and Open Source",
+        "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
+        "points": 27,
+        "comments": 15,
+        "created_at": "2026-07-13T23:16:42.000Z"
+      },
+      {
+        "title": "Cdbx.ai – AI-powered browser IDE to describe, build, and publish apps",
+        "url": "https://cdbx.ai/",
+        "points": 16,
         "comments": 3,
-        "created_at": "2026-07-13T18:18:23.000Z"
+        "created_at": "2026-07-13T23:07:16.000Z"
       },
       {
-        "title": "Apple's rumored M7 Ultra targets 1.5TB and Blackwell-class AI performance",
-        "url": "https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai",
-        "points": 19,
-        "comments": 20,
-        "created_at": "2026-07-13T15:32:19.000Z"
-      },
-      {
-        "title": "Ask HN: Add flag for AI-generated articles",
-        "url": "https://news.ycombinator.com/item?id=48886741",
-        "points": 964,
-        "comments": 419,
-        "created_at": "2026-07-13T01:24:20.000Z"
-      },
-      {
-        "title": "AI's Biggest Unlock Isn't Productivity. It's Access to Expertise",
-        "url": "https://diviv.substack.com/p/ais-biggest-unlock-isnt-productivity",
-        "points": 15,
-        "comments": 3,
-        "created_at": "2026-07-12T23:49:25.000Z"
-      },
-      {
-        "title": "The One-Step Trap (In AI Research)",
-        "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-        "points": 53,
-        "comments": 10,
-        "created_at": "2026-07-12T18:41:15.000Z"
+        "title": "Samsung Health app threatens data deletion if users opt out AI training",
+        "url": "https://neow.in/cWsyMTV3",
+        "points": 309,
+        "comments": 84,
+        "created_at": "2026-07-13T20:01:43.000Z"
       }
     ],
     "vibeCoding": [
@@ -111,16 +111,23 @@
         "title": "Who cleans up after the vibe-coding party?",
         "url": "https://www.ft.com/content/cec8df9e-b43b-4cd1-8feb-c07e804e8d33",
         "points": 23,
-        "comments": 18,
+        "comments": 19,
         "created_at": "2026-07-11T11:18:15.000Z"
       }
     ],
     "progDb": [
       {
+        "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+        "url": "https://github.com/jbwinters/jacquard-lang",
+        "points": 84,
+        "comments": 44,
+        "created_at": "2026-07-13T15:56:02.000Z"
+      },
+      {
         "title": "Understanding the Odin programming language",
         "url": "https://odinbook.com/",
-        "points": 158,
-        "comments": 117,
+        "points": 161,
+        "comments": 124,
         "created_at": "2026-07-12T12:08:07.000Z"
       },
       {
@@ -133,7 +140,7 @@
       {
         "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
         "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-        "points": 399,
+        "points": 400,
         "comments": 252,
         "created_at": "2026-07-09T17:17:16.000Z"
       },
@@ -143,13 +150,6 @@
         "points": 12,
         "comments": 9,
         "created_at": "2026-07-07T21:37:01.000Z"
-      },
-      {
-        "title": "Amber the programming language compiled to Bash/Ksh/Zsh",
-        "url": "https://amber-lang.com/",
-        "points": 87,
-        "comments": 71,
-        "created_at": "2026-07-07T19:22:56.000Z"
       }
     ]
   }
