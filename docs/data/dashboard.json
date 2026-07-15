@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-07-15T08:07:35.268Z",
+  "updatedAt": "2026-07-15T19:08:56.585Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 28.6,
-      "humidity": 43,
-      "wind_kph": 17.5,
+      "temp_c": 23.9,
+      "humidity": 57,
+      "wind_kph": 10.4,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-07-16",
-      "temp_max_c": 31.9,
+      "temp_max_c": 32.1,
       "temp_min_c": 19.9,
-      "humidity_max": 96,
-      "humidity_min": 40,
-      "wind_kph": 26.5,
+      "humidity_max": 91,
+      "humidity_min": 39,
+      "wind_kph": 26.2,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 3994.08,
     "oilUSD": 79,
-    "updatedAt": "2026-07-15T08:07:35.268Z",
+    "updatedAt": "2026-07-15T19:08:56.585Z",
     "gold24KUSD": 128.41,
     "gold21KUSD": 112.36,
     "gold18KUSD": 96.31,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "The politics of air conditioning in Switzerland",
-        "url": "https://lenews.ch/2026/05/29/the-politics-of-air-conditioning-in-switzerland/",
-        "points": 21,
-        "comments": 22,
-        "created_at": "2026-07-14T22:50:24.000Z"
+        "title": "Linux creator Linus Torvalds puts foot down on anti-AI comments",
+        "url": "https://www.gamingonlinux.com/2026/07/linux-creator-linus-torvalds-puts-foot-down-on-anti-ai-comments/",
+        "points": 13,
+        "comments": 1,
+        "created_at": "2026-07-15T14:57:31.000Z"
       },
       {
-        "title": "Financing the AI boom: from cash flows to debt [pdf]",
-        "url": "https://www.bis.org/publ/bisbull120.pdf",
-        "points": 150,
-        "comments": 87,
-        "created_at": "2026-07-14T21:58:36.000Z"
+        "title": "Hack Reveals Suno AI Music Generator Scraped YouTube, Deezer, and Genius",
+        "url": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
+        "points": 20,
+        "comments": 3,
+        "created_at": "2026-07-15T14:10:15.000Z"
       },
       {
-        "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-        "url": "https://agnost.ai",
-        "points": 77,
-        "comments": 39,
-        "created_at": "2026-07-14T16:06:18.000Z"
+        "title": "AI Lays Bare the Authoritarianism of Modern Work. Time to Rethink Education",
+        "url": "https://www.techpolicy.press/ai-lays-bare-the-authoritarianism-of-modern-work-time-to-rethink-education/",
+        "points": 27,
+        "comments": 1,
+        "created_at": "2026-07-15T14:03:13.000Z"
       },
       {
-        "title": "Are we offloading too much of our thinking to AI?",
-        "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-        "points": 455,
-        "comments": 419,
-        "created_at": "2026-07-14T15:18:13.000Z"
+        "title": "Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI",
+        "url": "https://github.com/bitjaru/styleseed",
+        "points": 22,
+        "comments": 7,
+        "created_at": "2026-07-15T13:55:23.000Z"
       },
       {
-        "title": "Meta used AI to target workers with medical conditions for layoffs",
-        "url": "https://www.reuters.com/world/meta-used-ai-target-workers-with-medical-conditions-layoffs-former-employees-2026-07-14/",
-        "points": 25,
-        "comments": 6,
-        "created_at": "2026-07-14T15:09:28.000Z"
+        "title": "Show HN: Aict – Unix coreutils that output XML/JSON, built for AI agents",
+        "url": "https://github.com/synseqack/aict",
+        "points": 12,
+        "comments": 5,
+        "created_at": "2026-07-15T13:39:54.000Z"
       }
     ],
     "vibeCoding": [
@@ -119,15 +119,15 @@
       {
         "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
         "url": "https://github.com/jbwinters/jacquard-lang",
-        "points": 98,
-        "comments": 57,
+        "points": 101,
+        "comments": 58,
         "created_at": "2026-07-13T15:56:02.000Z"
       },
       {
         "title": "Understanding the Odin programming language",
         "url": "https://odinbook.com/",
-        "points": 162,
-        "comments": 137,
+        "points": 163,
+        "comments": 144,
         "created_at": "2026-07-12T12:08:07.000Z"
       },
       {
@@ -140,7 +140,7 @@
       {
         "title": "Accretive Editing",
         "url": "https://justindfuller.com/programming/accretive-editing",
-        "points": 25,
+        "points": 27,
         "comments": 12,
         "created_at": "2026-07-10T11:36:59.000Z"
       },
