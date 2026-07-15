@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-14T19:17:51.708Z",
+  "updatedAt": "2026-07-15T08:07:35.268Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 23.8,
-      "humidity": 59,
-      "wind_kph": 8,
+      "temp_c": 28.6,
+      "humidity": 43,
+      "wind_kph": 17.5,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-07-15",
-      "temp_max_c": 33.3,
-      "temp_min_c": 20.4,
-      "humidity_max": 63,
-      "humidity_min": 35,
-      "wind_kph": 25.6,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "date": "2026-07-16",
+      "temp_max_c": 31.9,
+      "temp_min_c": 19.9,
+      "humidity_max": 96,
+      "humidity_min": 40,
+      "wind_kph": 26.5,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4086.76,
+    "goldUSD": 3994.08,
     "oilUSD": 79,
-    "updatedAt": "2026-07-14T19:17:51.708Z",
-    "gold24KUSD": 131.39,
-    "gold21KUSD": 114.97,
-    "gold18KUSD": 98.54,
-    "gold24KJD": 93.16,
-    "gold21KJD": 81.51,
-    "gold18KJD": 69.87
+    "updatedAt": "2026-07-15T08:07:35.268Z",
+    "gold24KUSD": 128.41,
+    "gold21KUSD": 112.36,
+    "gold18KUSD": 96.31,
+    "gold24KJD": 91.04,
+    "gold21KJD": 79.66,
+    "gold18KJD": 68.28
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:21",
+    "fajr": "04:22",
     "maghrib": "19:44",
-    "date": "14 Jul 2014"
+    "date": "15 Jul 2015"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "The politics of air conditioning in Switzerland",
+        "url": "https://lenews.ch/2026/05/29/the-politics-of-air-conditioning-in-switzerland/",
+        "points": 21,
+        "comments": 22,
+        "created_at": "2026-07-14T22:50:24.000Z"
+      },
+      {
+        "title": "Financing the AI boom: from cash flows to debt [pdf]",
+        "url": "https://www.bis.org/publ/bisbull120.pdf",
+        "points": 150,
+        "comments": 87,
+        "created_at": "2026-07-14T21:58:36.000Z"
+      },
+      {
         "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
         "url": "https://agnost.ai",
-        "points": 21,
-        "comments": 7,
+        "points": 77,
+        "comments": 39,
         "created_at": "2026-07-14T16:06:18.000Z"
       },
       {
         "title": "Are we offloading too much of our thinking to AI?",
         "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-        "points": 245,
-        "comments": 236,
+        "points": 455,
+        "comments": 419,
         "created_at": "2026-07-14T15:18:13.000Z"
       },
       {
         "title": "Meta used AI to target workers with medical conditions for layoffs",
         "url": "https://www.reuters.com/world/meta-used-ai-target-workers-with-medical-conditions-layoffs-former-employees-2026-07-14/",
-        "points": 19,
-        "comments": 4,
+        "points": 25,
+        "comments": 6,
         "created_at": "2026-07-14T15:09:28.000Z"
-      },
-      {
-        "title": "Show HN: Oodle.ai – $10 per million agent traces",
-        "url": "https://www.oodle.ai/product/agent-observability",
-        "points": 22,
-        "comments": 7,
-        "created_at": "2026-07-14T14:36:28.000Z"
-      },
-      {
-        "title": "Hating AI in 2026",
-        "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
-        "points": 22,
-        "comments": 15,
-        "created_at": "2026-07-14T14:13:17.000Z"
       }
     ],
     "vibeCoding": [
@@ -119,15 +119,15 @@
       {
         "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
         "url": "https://github.com/jbwinters/jacquard-lang",
-        "points": 95,
-        "comments": 56,
+        "points": 98,
+        "comments": 57,
         "created_at": "2026-07-13T15:56:02.000Z"
       },
       {
         "title": "Understanding the Odin programming language",
         "url": "https://odinbook.com/",
-        "points": 161,
-        "comments": 134,
+        "points": 162,
+        "comments": 137,
         "created_at": "2026-07-12T12:08:07.000Z"
       },
       {
@@ -138,18 +138,18 @@
         "created_at": "2026-07-12T00:57:18.000Z"
       },
       {
+        "title": "Accretive Editing",
+        "url": "https://justindfuller.com/programming/accretive-editing",
+        "points": 25,
+        "comments": 12,
+        "created_at": "2026-07-10T11:36:59.000Z"
+      },
+      {
         "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
         "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
         "points": 400,
-        "comments": 252,
+        "comments": 253,
         "created_at": "2026-07-09T17:17:16.000Z"
-      },
-      {
-        "title": "I coded a shoot 'em up alone at 18 after learning Lua in a single week",
-        "url": "https://news.ycombinator.com/item?id=48824221",
-        "points": 12,
-        "comments": 9,
-        "created_at": "2026-07-07T21:37:01.000Z"
       }
     ]
   }
