@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-07-16T08:11:13.730Z",
+  "updatedAt": "2026-07-16T19:08:16.534Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 27.5,
-      "humidity": 55,
-      "wind_kph": 19.2,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 23.7,
+      "humidity": 68,
+      "wind_kph": 11.3,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-07-17",
-      "temp_max_c": 32,
-      "temp_min_c": 20.3,
-      "humidity_max": 77,
-      "humidity_min": 41,
-      "wind_kph": 27.6,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_max_c": 32.2,
+      "temp_min_c": 20.7,
+      "humidity_max": 88,
+      "humidity_min": 42,
+      "wind_kph": 27.5,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
     "goldUSD": 4052.55,
     "oilUSD": 79,
-    "updatedAt": "2026-07-16T08:11:13.730Z",
+    "updatedAt": "2026-07-16T19:08:16.534Z",
     "gold24KUSD": 130.29,
     "gold21KUSD": 114.01,
     "gold18KUSD": 97.72,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Stop saying that AI is just a tool and it only matters how it is used",
-        "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
-        "points": 75,
-        "comments": 59,
-        "created_at": "2026-07-16T04:31:01.000Z"
+        "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+        "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+        "points": 31,
+        "comments": 1,
+        "created_at": "2026-07-16T17:44:46.000Z"
       },
       {
-        "title": "WSJ: The AI Backlash Has Tech Executives Fearing for Their Lives",
-        "url": "https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972",
-        "points": 16,
-        "comments": 9,
-        "created_at": "2026-07-16T04:17:59.000Z"
-      },
-      {
-        "title": "My Throw Decides My Aim",
-        "url": "https://thegustafson.com/blog/my-throw-decides-my-aim",
-        "points": 18,
-        "comments": 6,
-        "created_at": "2026-07-16T03:51:25.000Z"
-      },
-      {
-        "title": "Open Source, Free Tier Capable Whispr Using Cloudflare AI",
-        "url": "https://github.com/PrestigePvP/Voicebox",
-        "points": 12,
-        "comments": 7,
-        "created_at": "2026-07-16T02:57:30.000Z"
-      },
-      {
-        "title": "Linus Torvalds \"Linux is not one of those anti-AI projects\"",
-        "url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
+        "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+        "url": "https://news.ycombinator.com/item?id=48937020",
         "points": 15,
-        "comments": 3,
-        "created_at": "2026-07-15T23:44:01.000Z"
+        "comments": 6,
+        "created_at": "2026-07-16T16:52:16.000Z"
+      },
+      {
+        "title": "Someone Used AI to Write an Unauthorized Biography of Me",
+        "url": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html",
+        "points": 33,
+        "comments": 47,
+        "created_at": "2026-07-16T16:51:20.000Z"
+      },
+      {
+        "title": "800 Canadian wildfires burning as air quality alerts extend to US",
+        "url": "https://www.bbc.com/news/articles/c0m7n427xd8o",
+        "points": 21,
+        "comments": 4,
+        "created_at": "2026-07-16T16:04:51.000Z"
+      },
+      {
+        "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+        "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+        "points": 47,
+        "comments": 33,
+        "created_at": "2026-07-16T15:13:00.000Z"
       }
     ],
     "vibeCoding": [
@@ -127,8 +127,15 @@
         "title": "Understanding the Odin programming language",
         "url": "https://odinbook.com/",
         "points": 163,
-        "comments": 149,
+        "comments": 150,
         "created_at": "2026-07-12T12:08:07.000Z"
+      },
+      {
+        "title": "Cottage Computer Programming (1984)",
+        "url": "https://www.atariarchives.org/deli/cottage_computer_programming.php",
+        "points": 16,
+        "comments": 3,
+        "created_at": "2026-07-12T04:29:43.000Z"
       },
       {
         "title": "A pure scheme web programming tool",
@@ -143,13 +150,6 @@
         "points": 28,
         "comments": 12,
         "created_at": "2026-07-10T11:36:59.000Z"
-      },
-      {
-        "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
-        "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-        "points": 400,
-        "comments": 253,
-        "created_at": "2026-07-09T17:17:16.000Z"
       }
     ]
   }
