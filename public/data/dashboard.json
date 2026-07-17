@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-07-17T08:08:03.460Z",
+  "updatedAt": "2026-07-17T19:06:05.262Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 28.5,
-      "humidity": 50,
-      "wind_kph": 19.3,
+      "temp_c": 23.2,
+      "humidity": 89,
+      "wind_kph": 14.9,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-07-18",
-      "temp_max_c": 34.2,
-      "temp_min_c": 20.9,
-      "humidity_max": 85,
-      "humidity_min": 27,
-      "wind_kph": 26.5,
+      "temp_max_c": 34.6,
+      "temp_min_c": 21.3,
+      "humidity_max": 86,
+      "humidity_min": 23,
+      "wind_kph": 27.3,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4055.84,
     "oilUSD": 79,
-    "updatedAt": "2026-07-17T08:08:03.460Z",
+    "updatedAt": "2026-07-17T19:06:05.262Z",
     "gold24KUSD": 130.4,
     "gold21KUSD": 114.1,
     "gold18KUSD": 97.8,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "UIUC AI Teaching Assistant",
-        "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
-        "points": 16,
-        "comments": 0,
-        "created_at": "2026-07-17T02:23:18.000Z"
+        "title": "Mozilla: The state of open source AI",
+        "url": "https://stateofopensource.ai/",
+        "points": 257,
+        "comments": 175,
+        "created_at": "2026-07-17T14:31:10.000Z"
       },
       {
-        "title": "AI Data Centers and the Concentration of Wealth",
-        "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+        "title": "Show HN: On-chain bond market where the issuers are AI agents",
+        "url": "https://selbonds.now",
         "points": 13,
+        "comments": 15,
+        "created_at": "2026-07-17T14:25:20.000Z"
+      },
+      {
+        "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+        "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+        "points": 59,
         "comments": 0,
-        "created_at": "2026-07-16T23:22:36.000Z"
+        "created_at": "2026-07-17T14:21:35.000Z"
       },
       {
-        "title": "EU will force Google to share search data and open up AI on Android",
-        "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-        "points": 14,
-        "comments": 1,
-        "created_at": "2026-07-16T22:19:13.000Z"
+        "title": "Kimi K3 may be an important inflection point for AI",
+        "url": "https://twitter.com/GavinSBaker/status/2078110934740980193",
+        "points": 15,
+        "comments": 2,
+        "created_at": "2026-07-17T13:39:23.000Z"
       },
       {
-        "title": "Timeline Scan – AI fixes the dates on your scanned photos",
-        "url": "https://timelinescan.com/",
-        "points": 30,
-        "comments": 30,
-        "created_at": "2026-07-16T20:25:47.000Z"
-      },
-      {
-        "title": "LM Studio Bionic: the AI agent for open models",
-        "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-        "points": 235,
-        "comments": 82,
-        "created_at": "2026-07-16T20:18:15.000Z"
+        "title": "VulnHunter: Capital One's agentic AI code security tool",
+        "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+        "points": 43,
+        "comments": 27,
+        "created_at": "2026-07-17T12:42:12.000Z"
       }
     ],
     "vibeCoding": [
@@ -133,7 +133,7 @@
       {
         "title": "Cottage Computer Programming (1984)",
         "url": "https://www.atariarchives.org/deli/cottage_computer_programming.php",
-        "points": 37,
+        "points": 40,
         "comments": 9,
         "created_at": "2026-07-12T04:29:43.000Z"
       },
