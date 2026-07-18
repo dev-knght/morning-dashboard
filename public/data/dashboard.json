@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-17T19:06:05.262Z",
+  "updatedAt": "2026-07-18T07:47:14.589Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 23.2,
-      "humidity": 89,
-      "wind_kph": 14.9,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 30.3,
+      "humidity": 35,
+      "wind_kph": 18.8,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-07-18",
-      "temp_max_c": 34.6,
-      "temp_min_c": 21.3,
-      "humidity_max": 86,
-      "humidity_min": 23,
-      "wind_kph": 27.3,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "date": "2026-07-19",
+      "temp_max_c": 35.4,
+      "temp_min_c": 20.7,
+      "humidity_max": 50,
+      "humidity_min": 19,
+      "wind_kph": 26.6,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     }
   },
   "metals": {
-    "goldUSD": 4055.84,
+    "goldUSD": 3984.54,
     "oilUSD": 79,
-    "updatedAt": "2026-07-17T19:06:05.262Z",
-    "gold24KUSD": 130.4,
-    "gold21KUSD": 114.1,
-    "gold18KUSD": 97.8,
-    "gold24KJD": 92.45,
-    "gold21KJD": 80.9,
-    "gold18KJD": 69.34
+    "updatedAt": "2026-07-18T07:47:14.589Z",
+    "gold24KUSD": 128.11,
+    "gold21KUSD": 112.09,
+    "gold18KUSD": 96.08,
+    "gold24KJD": 90.83,
+    "gold21KJD": 79.47,
+    "gold18KJD": 68.12
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "04:24",
-    "maghrib": "19:43",
-    "date": "17 Jul 2017"
+    "maghrib": "19:42",
+    "date": "18 Jul 2018"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Mozilla: The state of open source AI",
-        "url": "https://stateofopensource.ai/",
-        "points": 257,
-        "comments": 175,
-        "created_at": "2026-07-17T14:31:10.000Z"
+        "title": "A grumpy screed about AI in software engineering",
+        "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+        "points": 52,
+        "comments": 63,
+        "created_at": "2026-07-18T00:40:08.000Z"
       },
       {
-        "title": "Show HN: On-chain bond market where the issuers are AI agents",
-        "url": "https://selbonds.now",
-        "points": 13,
-        "comments": 15,
-        "created_at": "2026-07-17T14:25:20.000Z"
+        "title": "Nadella Blasts AI Industry's Double Standard",
+        "url": "https://finance.biggo.com/news/438f299b-ca23-468d-b37d-0ffe09a4ca55",
+        "points": 24,
+        "comments": 7,
+        "created_at": "2026-07-18T00:28:46.000Z"
       },
       {
-        "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-        "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-        "points": 59,
-        "comments": 0,
-        "created_at": "2026-07-17T14:21:35.000Z"
+        "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+        "points": 483,
+        "comments": 309,
+        "created_at": "2026-07-17T22:26:30.000Z"
       },
       {
-        "title": "Kimi K3 may be an important inflection point for AI",
-        "url": "https://twitter.com/GavinSBaker/status/2078110934740980193",
-        "points": 15,
-        "comments": 2,
-        "created_at": "2026-07-17T13:39:23.000Z"
+        "title": "Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
+        "url": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us",
+        "points": 64,
+        "comments": 61,
+        "created_at": "2026-07-17T21:24:07.000Z"
       },
       {
-        "title": "VulnHunter: Capital One's agentic AI code security tool",
-        "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
-        "points": 43,
-        "comments": 27,
-        "created_at": "2026-07-17T12:42:12.000Z"
+        "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+        "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+        "points": 171,
+        "comments": 98,
+        "created_at": "2026-07-17T21:22:53.000Z"
       }
     ],
     "vibeCoding": [
@@ -117,6 +117,20 @@
     ],
     "progDb": [
       {
+        "title": "Thanks HN for 15 years of support and helping me find my life's work",
+        "url": "https://news.ycombinator.com/item?id=48949551",
+        "points": 532,
+        "comments": 52,
+        "created_at": "2026-07-17T16:57:27.000Z"
+      },
+      {
+        "title": "Ask HN: I feel like I've lost my identity due to AI",
+        "url": "https://news.ycombinator.com/item?id=48943622",
+        "points": 12,
+        "comments": 9,
+        "created_at": "2026-07-17T05:28:54.000Z"
+      },
+      {
         "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
         "url": "https://github.com/jbwinters/jacquard-lang",
         "points": 102,
@@ -133,23 +147,9 @@
       {
         "title": "Cottage Computer Programming (1984)",
         "url": "https://www.atariarchives.org/deli/cottage_computer_programming.php",
-        "points": 40,
-        "comments": 9,
+        "points": 41,
+        "comments": 10,
         "created_at": "2026-07-12T04:29:43.000Z"
-      },
-      {
-        "title": "A pure scheme web programming tool",
-        "url": "https://goeteia.dev",
-        "points": 131,
-        "comments": 22,
-        "created_at": "2026-07-12T00:57:18.000Z"
-      },
-      {
-        "title": "Accretive Editing",
-        "url": "https://justindfuller.com/programming/accretive-editing",
-        "points": 28,
-        "comments": 12,
-        "created_at": "2026-07-10T11:36:59.000Z"
       }
     ]
   }
