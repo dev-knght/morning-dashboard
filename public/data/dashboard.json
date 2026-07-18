@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-07-18T07:47:14.589Z",
+  "updatedAt": "2026-07-18T19:02:07.583Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 30.3,
-      "humidity": 35,
-      "wind_kph": 18.8,
+      "temp_c": 25.2,
+      "humidity": 50,
+      "wind_kph": 6.5,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-07-19",
-      "temp_max_c": 35.4,
+      "temp_max_c": 35.2,
       "temp_min_c": 20.7,
-      "humidity_max": 50,
+      "humidity_max": 49,
       "humidity_min": 19,
-      "wind_kph": 26.6,
+      "wind_kph": 26.9,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 3984.54,
     "oilUSD": 79,
-    "updatedAt": "2026-07-18T07:47:14.589Z",
+    "updatedAt": "2026-07-18T19:02:07.583Z",
     "gold24KUSD": 128.11,
     "gold21KUSD": 112.09,
     "gold18KUSD": 96.08,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "What AI did to stackoverflow in a graph",
+        "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+        "points": 294,
+        "comments": 340,
+        "created_at": "2026-07-18T11:12:46.000Z"
+      },
+      {
+        "title": "Why do AI company logos look like buttholes? (2025)",
+        "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+        "points": 394,
+        "comments": 135,
+        "created_at": "2026-07-18T11:06:50.000Z"
+      },
+      {
+        "title": "AI Mania Is Eviscerating Global Decision-Making",
+        "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/",
+        "points": 36,
+        "comments": 5,
+        "created_at": "2026-07-18T08:14:05.000Z"
+      },
+      {
+        "title": "Open Source Parametric DIY Air Purifier Builder",
+        "url": "https://www.filterboxbuilder.com/",
+        "points": 13,
+        "comments": 1,
+        "created_at": "2026-07-18T00:54:00.000Z"
+      },
+      {
         "title": "A grumpy screed about AI in software engineering",
         "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
-        "points": 52,
-        "comments": 63,
+        "points": 59,
+        "comments": 76,
         "created_at": "2026-07-18T00:40:08.000Z"
-      },
-      {
-        "title": "Nadella Blasts AI Industry's Double Standard",
-        "url": "https://finance.biggo.com/news/438f299b-ca23-468d-b37d-0ffe09a4ca55",
-        "points": 24,
-        "comments": 7,
-        "created_at": "2026-07-18T00:28:46.000Z"
-      },
-      {
-        "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-        "points": 483,
-        "comments": 309,
-        "created_at": "2026-07-17T22:26:30.000Z"
-      },
-      {
-        "title": "Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
-        "url": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us",
-        "points": 64,
-        "comments": 61,
-        "created_at": "2026-07-17T21:24:07.000Z"
-      },
-      {
-        "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-        "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-        "points": 171,
-        "comments": 98,
-        "created_at": "2026-07-17T21:22:53.000Z"
       }
     ],
     "vibeCoding": [
@@ -119,14 +119,14 @@
       {
         "title": "Thanks HN for 15 years of support and helping me find my life's work",
         "url": "https://news.ycombinator.com/item?id=48949551",
-        "points": 532,
-        "comments": 52,
+        "points": 763,
+        "comments": 97,
         "created_at": "2026-07-17T16:57:27.000Z"
       },
       {
         "title": "Ask HN: I feel like I've lost my identity due to AI",
         "url": "https://news.ycombinator.com/item?id=48943622",
-        "points": 12,
+        "points": 13,
         "comments": 9,
         "created_at": "2026-07-17T05:28:54.000Z"
       },
