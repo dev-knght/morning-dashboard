@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-18T19:02:07.583Z",
+  "updatedAt": "2026-07-19T08:15:02.559Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 25.2,
-      "humidity": 50,
-      "wind_kph": 6.5,
+      "temp_c": 31.8,
+      "humidity": 26,
+      "wind_kph": 17.7,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-07-19",
-      "temp_max_c": 35.2,
-      "temp_min_c": 20.7,
-      "humidity_max": 49,
-      "humidity_min": 19,
-      "wind_kph": 26.9,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "date": "2026-07-20",
+      "temp_max_c": 34.3,
+      "temp_min_c": 22,
+      "humidity_max": 72,
+      "humidity_min": 25,
+      "wind_kph": 28.6,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 3984.54,
+    "goldUSD": 4017.99,
     "oilUSD": 79,
-    "updatedAt": "2026-07-18T19:02:07.583Z",
-    "gold24KUSD": 128.11,
-    "gold21KUSD": 112.09,
-    "gold18KUSD": 96.08,
-    "gold24KJD": 90.83,
-    "gold21KJD": 79.47,
-    "gold18KJD": 68.12
+    "updatedAt": "2026-07-19T08:15:02.559Z",
+    "gold24KUSD": 129.18,
+    "gold21KUSD": 113.03,
+    "gold18KUSD": 96.89,
+    "gold24KJD": 91.59,
+    "gold21KJD": 80.14,
+    "gold18KJD": 68.69
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:24",
+    "fajr": "04:25",
     "maghrib": "19:42",
-    "date": "18 Jul 2018"
+    "date": "19 Jul 2019"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "What AI did to stackoverflow in a graph",
-        "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-        "points": 294,
-        "comments": 340,
-        "created_at": "2026-07-18T11:12:46.000Z"
+        "title": "AI Mania Is Eviscerating Global Decision-Making",
+        "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+        "points": 183,
+        "comments": 66,
+        "created_at": "2026-07-19T01:29:19.000Z"
       },
       {
-        "title": "Why do AI company logos look like buttholes? (2025)",
-        "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-        "points": 394,
-        "comments": 135,
-        "created_at": "2026-07-18T11:06:50.000Z"
+        "title": "AI Bubble vs. Dot Com Crash. History Is Repeating",
+        "url": "https://www.youtube.com/watch?v=zWJ-g5u9Rqs",
+        "points": 18,
+        "comments": 29,
+        "created_at": "2026-07-18T23:54:01.000Z"
+      },
+      {
+        "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+        "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+        "points": 449,
+        "comments": 201,
+        "created_at": "2026-07-18T22:13:39.000Z"
       },
       {
         "title": "AI Mania Is Eviscerating Global Decision-Making",
-        "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/",
-        "points": 36,
-        "comments": 5,
-        "created_at": "2026-07-18T08:14:05.000Z"
+        "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+        "points": 32,
+        "comments": 10,
+        "created_at": "2026-07-18T22:10:54.000Z"
       },
       {
-        "title": "Open Source Parametric DIY Air Purifier Builder",
-        "url": "https://www.filterboxbuilder.com/",
-        "points": 13,
-        "comments": 1,
-        "created_at": "2026-07-18T00:54:00.000Z"
-      },
-      {
-        "title": "A grumpy screed about AI in software engineering",
-        "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
-        "points": 59,
-        "comments": 76,
-        "created_at": "2026-07-18T00:40:08.000Z"
+        "title": "Overtraining as the path to human-like AI",
+        "url": "https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/",
+        "points": 16,
+        "comments": 4,
+        "created_at": "2026-07-18T17:23:50.000Z"
       }
     ],
     "vibeCoding": [
@@ -119,8 +119,8 @@
       {
         "title": "Thanks HN for 15 years of support and helping me find my life's work",
         "url": "https://news.ycombinator.com/item?id=48949551",
-        "points": 763,
-        "comments": 97,
+        "points": 800,
+        "comments": 100,
         "created_at": "2026-07-17T16:57:27.000Z"
       },
       {
