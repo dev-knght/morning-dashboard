@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-07-19T08:15:02.559Z",
+  "updatedAt": "2026-07-19T19:04:04.206Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 31.8,
-      "humidity": 26,
-      "wind_kph": 17.7,
+      "temp_c": 25.8,
+      "humidity": 47,
+      "wind_kph": 8.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-07-20",
-      "temp_max_c": 34.3,
+      "temp_max_c": 34.1,
       "temp_min_c": 22,
-      "humidity_max": 72,
-      "humidity_min": 25,
-      "wind_kph": 28.6,
+      "humidity_max": 78,
+      "humidity_min": 28,
+      "wind_kph": 28.7,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4017.99,
     "oilUSD": 79,
-    "updatedAt": "2026-07-19T08:15:02.559Z",
+    "updatedAt": "2026-07-19T19:04:04.206Z",
     "gold24KUSD": 129.18,
     "gold21KUSD": 113.03,
     "gold18KUSD": 96.89,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+        "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+        "points": 67,
+        "comments": 15,
+        "created_at": "2026-07-19T16:02:25.000Z"
+      },
+      {
+        "title": "DRIVE – Operational Excellence for AI-accelerated engineering",
+        "url": "https://www.cortex.io/drive",
+        "points": 12,
+        "comments": 7,
+        "created_at": "2026-07-19T13:30:01.000Z"
+      },
+      {
+        "title": "Protester calls out Amazon CTO for allowing Israel to use their AI towards Gaza",
+        "url": "https://www.reddit.com/r/chaoticgood/s/4Pla2e38AV",
+        "points": 24,
+        "comments": 5,
+        "created_at": "2026-07-19T08:29:38.000Z"
+      },
+      {
+        "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+        "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+        "points": 49,
+        "comments": 77,
+        "created_at": "2026-07-19T08:00:24.000Z"
+      },
+      {
         "title": "AI Mania Is Eviscerating Global Decision-Making",
         "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-        "points": 183,
-        "comments": 66,
+        "points": 354,
+        "comments": 197,
         "created_at": "2026-07-19T01:29:19.000Z"
-      },
-      {
-        "title": "AI Bubble vs. Dot Com Crash. History Is Repeating",
-        "url": "https://www.youtube.com/watch?v=zWJ-g5u9Rqs",
-        "points": 18,
-        "comments": 29,
-        "created_at": "2026-07-18T23:54:01.000Z"
-      },
-      {
-        "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-        "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-        "points": 449,
-        "comments": 201,
-        "created_at": "2026-07-18T22:13:39.000Z"
-      },
-      {
-        "title": "AI Mania Is Eviscerating Global Decision-Making",
-        "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
-        "points": 32,
-        "comments": 10,
-        "created_at": "2026-07-18T22:10:54.000Z"
-      },
-      {
-        "title": "Overtraining as the path to human-like AI",
-        "url": "https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/",
-        "points": 16,
-        "comments": 4,
-        "created_at": "2026-07-18T17:23:50.000Z"
       }
     ],
     "vibeCoding": [
@@ -119,14 +119,14 @@
       {
         "title": "Thanks HN for 15 years of support and helping me find my life's work",
         "url": "https://news.ycombinator.com/item?id=48949551",
-        "points": 800,
-        "comments": 100,
+        "points": 811,
+        "comments": 102,
         "created_at": "2026-07-17T16:57:27.000Z"
       },
       {
         "title": "Ask HN: I feel like I've lost my identity due to AI",
         "url": "https://news.ycombinator.com/item?id=48943622",
-        "points": 13,
+        "points": 14,
         "comments": 9,
         "created_at": "2026-07-17T05:28:54.000Z"
       },
@@ -141,13 +141,13 @@
         "title": "Understanding the Odin programming language",
         "url": "https://odinbook.com/",
         "points": 163,
-        "comments": 150,
+        "comments": 153,
         "created_at": "2026-07-12T12:08:07.000Z"
       },
       {
         "title": "Cottage Computer Programming (1984)",
         "url": "https://www.atariarchives.org/deli/cottage_computer_programming.php",
-        "points": 41,
+        "points": 42,
         "comments": 10,
         "created_at": "2026-07-12T04:29:43.000Z"
       }
