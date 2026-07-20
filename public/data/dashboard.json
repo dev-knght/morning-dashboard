@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-19T19:04:04.206Z",
+  "updatedAt": "2026-07-20T08:56:04.662Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 25.8,
-      "humidity": 47,
-      "wind_kph": 8.6,
+      "temp_c": 32,
+      "humidity": 30,
+      "wind_kph": 20.2,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-07-20",
-      "temp_max_c": 34.1,
-      "temp_min_c": 22,
-      "humidity_max": 78,
-      "humidity_min": 28,
-      "wind_kph": 28.7,
+      "date": "2026-07-21",
+      "temp_max_c": 32.9,
+      "temp_min_c": 21.6,
+      "humidity_max": 82,
+      "humidity_min": 37,
+      "wind_kph": 30.7,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 4017.99,
+    "goldUSD": 4016.61,
     "oilUSD": 79,
-    "updatedAt": "2026-07-19T19:04:04.206Z",
-    "gold24KUSD": 129.18,
-    "gold21KUSD": 113.03,
-    "gold18KUSD": 96.89,
-    "gold24KJD": 91.59,
-    "gold21KJD": 80.14,
-    "gold18KJD": 68.69
+    "updatedAt": "2026-07-20T08:56:04.662Z",
+    "gold24KUSD": 129.14,
+    "gold21KUSD": 112.99,
+    "gold18KUSD": 96.85,
+    "gold24KJD": 91.56,
+    "gold21KJD": 80.11,
+    "gold18KJD": 68.67
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:25",
-    "maghrib": "19:42",
-    "date": "19 Jul 2019"
+    "fajr": "04:26",
+    "maghrib": "19:41",
+    "date": "20 Jul 2020"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-        "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-        "points": 67,
-        "comments": 15,
-        "created_at": "2026-07-19T16:02:25.000Z"
+        "title": "EU Exempts Apple Watch and AirPods from Battery Removal Requirements",
+        "url": "https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/",
+        "points": 14,
+        "comments": 22,
+        "created_at": "2026-07-20T07:10:30.000Z"
       },
       {
-        "title": "DRIVE – Operational Excellence for AI-accelerated engineering",
-        "url": "https://www.cortex.io/drive",
-        "points": 12,
-        "comments": 7,
-        "created_at": "2026-07-19T13:30:01.000Z"
+        "title": "Big tech needs to justify AI spending as investors dump stocks",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks",
+        "points": 38,
+        "comments": 13,
+        "created_at": "2026-07-20T04:41:10.000Z"
       },
       {
-        "title": "Protester calls out Amazon CTO for allowing Israel to use their AI towards Gaza",
-        "url": "https://www.reddit.com/r/chaoticgood/s/4Pla2e38AV",
-        "points": 24,
-        "comments": 5,
-        "created_at": "2026-07-19T08:29:38.000Z"
+        "title": "Tech Workers Face Evaporating Financial Security as AI Transforms Industry",
+        "url": "https://www.adn.com/nation-world/2026/07/19/the-biggest-winners-of-the-american-economy-fear-theyre-sinking-fast/",
+        "points": 20,
+        "comments": 6,
+        "created_at": "2026-07-20T02:45:14.000Z"
       },
       {
-        "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-        "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
-        "points": 49,
-        "comments": 77,
-        "created_at": "2026-07-19T08:00:24.000Z"
+        "title": "Ask HN: What are your favorite blogs not about AI?",
+        "url": "https://news.ycombinator.com/item?id=48972858",
+        "points": 75,
+        "comments": 30,
+        "created_at": "2026-07-19T23:58:12.000Z"
       },
       {
-        "title": "AI Mania Is Eviscerating Global Decision-Making",
-        "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-        "points": 354,
-        "comments": 197,
-        "created_at": "2026-07-19T01:29:19.000Z"
+        "title": "AI advice made people less accurate but more confident – sudy",
+        "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+        "points": 336,
+        "comments": 188,
+        "created_at": "2026-07-19T21:18:10.000Z"
       }
     ],
     "vibeCoding": [
@@ -119,8 +119,8 @@
       {
         "title": "Thanks HN for 15 years of support and helping me find my life's work",
         "url": "https://news.ycombinator.com/item?id=48949551",
-        "points": 811,
-        "comments": 102,
+        "points": 818,
+        "comments": 104,
         "created_at": "2026-07-17T16:57:27.000Z"
       },
       {
@@ -129,6 +129,13 @@
         "points": 14,
         "comments": 9,
         "created_at": "2026-07-17T05:28:54.000Z"
+      },
+      {
+        "title": "The Zen of Parallel Programming",
+        "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+        "points": 156,
+        "comments": 19,
+        "created_at": "2026-07-14T14:23:26.000Z"
       },
       {
         "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
@@ -143,13 +150,6 @@
         "points": 163,
         "comments": 153,
         "created_at": "2026-07-12T12:08:07.000Z"
-      },
-      {
-        "title": "Cottage Computer Programming (1984)",
-        "url": "https://www.atariarchives.org/deli/cottage_computer_programming.php",
-        "points": 42,
-        "comments": 10,
-        "created_at": "2026-07-12T04:29:43.000Z"
       }
     ]
   }
