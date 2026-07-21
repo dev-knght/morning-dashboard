@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-20T19:42:09.958Z",
+  "updatedAt": "2026-07-21T08:26:20.868Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 24.4,
-      "humidity": 66,
-      "wind_kph": 13,
+      "temp_c": 30.4,
+      "humidity": 42,
+      "wind_kph": 21.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-07-21",
-      "temp_max_c": 33,
-      "temp_min_c": 22,
-      "humidity_max": 85,
-      "humidity_min": 38,
-      "wind_kph": 30,
+      "date": "2026-07-22",
+      "temp_max_c": 34.4,
+      "temp_min_c": 21.5,
+      "humidity_max": 86,
+      "humidity_min": 36,
+      "wind_kph": 31.5,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 4016.61,
+    "goldUSD": 3995.16,
     "oilUSD": 79,
-    "updatedAt": "2026-07-20T19:42:09.958Z",
-    "gold24KUSD": 129.14,
-    "gold21KUSD": 112.99,
-    "gold18KUSD": 96.85,
-    "gold24KJD": 91.56,
-    "gold21KJD": 80.11,
-    "gold18KJD": 68.67
+    "updatedAt": "2026-07-21T08:26:20.868Z",
+    "gold24KUSD": 128.45,
+    "gold21KUSD": 112.39,
+    "gold18KUSD": 96.34,
+    "gold24KJD": 91.07,
+    "gold21KJD": 79.69,
+    "gold18KJD": 68.3
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:26",
+    "fajr": "04:27",
     "maghrib": "19:41",
-    "date": "20 Jul 2020"
+    "date": "21 Jul 2021"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
-        "url": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
-        "points": 13,
+        "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+        "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+        "points": 251,
+        "comments": 122,
+        "created_at": "2026-07-21T03:56:03.000Z"
+      },
+      {
+        "title": "Americans hate AI so much that politicians are losing their jobs over it",
+        "url": "https://fortune.com/2026/07/14/voters-ai-backlash-politicians-lose-seats/",
+        "points": 54,
+        "comments": 35,
+        "created_at": "2026-07-20T23:06:09.000Z"
+      },
+      {
+        "title": "US administration considering ban on Chinese open source AI models",
+        "url": "https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi",
+        "points": 11,
+        "comments": 2,
+        "created_at": "2026-07-20T21:54:50.000Z"
+      },
+      {
+        "title": "Cue AI",
+        "url": "https://deepmind.google/models/gemma/gemmaverse/cue-ai/",
+        "points": 25,
         "comments": 1,
-        "created_at": "2026-07-20T18:10:44.000Z"
+        "created_at": "2026-07-20T19:41:44.000Z"
       },
       {
-        "title": "The AI hype is a mass psychosis echo chamber of incompetent individuals",
-        "url": "https://aob2f.substack.com/p/the-ai-hype-is-a-mass-psychosis-echo",
-        "points": 20,
-        "comments": 6,
-        "created_at": "2026-07-20T17:22:13.000Z"
-      },
-      {
-        "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-        "points": 148,
-        "comments": 106,
-        "created_at": "2026-07-20T16:36:36.000Z"
-      },
-      {
-        "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-        "url": "https://news.ycombinator.com/item?id=48981136",
-        "points": 28,
-        "comments": 60,
-        "created_at": "2026-07-20T16:32:10.000Z"
-      },
-      {
-        "title": "Georgia residents homes seized by private company in $16B AI data center plan",
-        "url": "https://nypost.com/2026/05/21/real-estate/residents-fume-as-georgia-power-seizes-homes-under-eminent-domain/",
-        "points": 12,
-        "comments": 1,
-        "created_at": "2026-07-20T16:01:49.000Z"
+        "title": "AI solves 20 year old conjecture in graph theory",
+        "url": "https://twitter.com/marsxiang_/status/2079276968047153337",
+        "points": 15,
+        "comments": 4,
+        "created_at": "2026-07-20T19:10:57.000Z"
       }
     ],
     "vibeCoding": [
@@ -117,39 +117,39 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: The0 – self-hosted runtime for trading bots, bring your own language",
+        "url": "https://github.com/alexanderwanyoike/the0",
+        "points": 13,
+        "comments": 3,
+        "created_at": "2026-07-20T13:49:53.000Z"
+      },
+      {
+        "title": "Show HN: OTP Inspired actor supervisor based full stack templates",
+        "url": "https://shipstacks.tech",
+        "points": 11,
+        "comments": 1,
+        "created_at": "2026-07-20T13:47:29.000Z"
+      },
+      {
+        "title": "Programming the Amiga and Atari ST in C: Reading Keyboard Input",
+        "url": "https://retrogamecoders.com/st-amiga-vbcc-c-input-echo/",
+        "points": 12,
+        "comments": 0,
+        "created_at": "2026-07-20T12:39:58.000Z"
+      },
+      {
         "title": "Thanks HN for 15 years of support and helping me find my life's work",
         "url": "https://news.ycombinator.com/item?id=48949551",
-        "points": 821,
-        "comments": 104,
+        "points": 824,
+        "comments": 105,
         "created_at": "2026-07-17T16:57:27.000Z"
       },
       {
         "title": "Ask HN: I feel like I've lost my identity due to AI",
         "url": "https://news.ycombinator.com/item?id=48943622",
-        "points": 14,
+        "points": 15,
         "comments": 9,
         "created_at": "2026-07-17T05:28:54.000Z"
-      },
-      {
-        "title": "The Zen of Parallel Programming",
-        "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-        "points": 184,
-        "comments": 35,
-        "created_at": "2026-07-14T14:23:26.000Z"
-      },
-      {
-        "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
-        "url": "https://github.com/jbwinters/jacquard-lang",
-        "points": 102,
-        "comments": 58,
-        "created_at": "2026-07-13T15:56:02.000Z"
-      },
-      {
-        "title": "Understanding the Odin programming language",
-        "url": "https://odinbook.com/",
-        "points": 163,
-        "comments": 153,
-        "created_at": "2026-07-12T12:08:07.000Z"
       }
     ]
   }
