@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-07-21T08:26:20.868Z",
+  "updatedAt": "2026-07-21T19:19:57.211Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 30.4,
-      "humidity": 42,
-      "wind_kph": 21.6,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 23.5,
+      "humidity": 85,
+      "wind_kph": 17,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-07-22",
-      "temp_max_c": 34.4,
-      "temp_min_c": 21.5,
-      "humidity_max": 86,
-      "humidity_min": 36,
-      "wind_kph": 31.5,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_max_c": 34.7,
+      "temp_min_c": 21.6,
+      "humidity_max": 90,
+      "humidity_min": 37,
+      "wind_kph": 30.1,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
     "goldUSD": 3995.16,
     "oilUSD": 79,
-    "updatedAt": "2026-07-21T08:26:20.868Z",
+    "updatedAt": "2026-07-21T19:19:57.211Z",
     "gold24KUSD": 128.45,
     "gold21KUSD": 112.39,
     "gold18KUSD": 96.34,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-        "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-        "points": 251,
-        "comments": 122,
-        "created_at": "2026-07-21T03:56:03.000Z"
+        "title": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
+        "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+        "points": 42,
+        "comments": 7,
+        "created_at": "2026-07-21T18:30:21.000Z"
       },
       {
-        "title": "Americans hate AI so much that politicians are losing their jobs over it",
-        "url": "https://fortune.com/2026/07/14/voters-ai-backlash-politicians-lose-seats/",
-        "points": 54,
-        "comments": 35,
-        "created_at": "2026-07-20T23:06:09.000Z"
+        "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+        "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+        "points": 74,
+        "comments": 61,
+        "created_at": "2026-07-21T17:14:06.000Z"
       },
       {
-        "title": "US administration considering ban on Chinese open source AI models",
-        "url": "https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi",
-        "points": 11,
-        "comments": 2,
-        "created_at": "2026-07-20T21:54:50.000Z"
+        "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+        "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+        "points": 56,
+        "comments": 37,
+        "created_at": "2026-07-21T17:03:18.000Z"
       },
       {
-        "title": "Cue AI",
-        "url": "https://deepmind.google/models/gemma/gemmaverse/cue-ai/",
-        "points": 25,
+        "title": "Show HN: OSS Cross-Harness self hosted registry and analytics for AI Agents",
+        "url": "https://github.com/Observal/Observal",
+        "points": 16,
         "comments": 1,
-        "created_at": "2026-07-20T19:41:44.000Z"
+        "created_at": "2026-07-21T16:57:30.000Z"
       },
       {
-        "title": "AI solves 20 year old conjecture in graph theory",
-        "url": "https://twitter.com/marsxiang_/status/2079276968047153337",
-        "points": 15,
-        "comments": 4,
-        "created_at": "2026-07-20T19:10:57.000Z"
+        "title": "Gumroad Says That It's Now Spending as Much on Human Employees as AI Tokens",
+        "url": "https://officechai.com/ai/gumroad-says-that-its-now-spending-as-much-on-human-employees-as-ai-tokens/",
+        "points": 12,
+        "comments": 11,
+        "created_at": "2026-07-21T16:31:30.000Z"
       }
     ],
     "vibeCoding": [
@@ -117,39 +117,39 @@
     ],
     "progDb": [
       {
+        "title": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
+        "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+        "points": 42,
+        "comments": 7,
+        "created_at": "2026-07-21T18:30:21.000Z"
+      },
+      {
         "title": "Show HN: The0 – self-hosted runtime for trading bots, bring your own language",
         "url": "https://github.com/alexanderwanyoike/the0",
-        "points": 13,
-        "comments": 3,
+        "points": 18,
+        "comments": 4,
         "created_at": "2026-07-20T13:49:53.000Z"
       },
       {
         "title": "Show HN: OTP Inspired actor supervisor based full stack templates",
         "url": "https://shipstacks.tech",
-        "points": 11,
-        "comments": 1,
+        "points": 12,
+        "comments": 3,
         "created_at": "2026-07-20T13:47:29.000Z"
       },
       {
         "title": "Programming the Amiga and Atari ST in C: Reading Keyboard Input",
         "url": "https://retrogamecoders.com/st-amiga-vbcc-c-input-echo/",
-        "points": 12,
+        "points": 15,
         "comments": 0,
         "created_at": "2026-07-20T12:39:58.000Z"
       },
       {
         "title": "Thanks HN for 15 years of support and helping me find my life's work",
         "url": "https://news.ycombinator.com/item?id=48949551",
-        "points": 824,
-        "comments": 105,
+        "points": 825,
+        "comments": 107,
         "created_at": "2026-07-17T16:57:27.000Z"
-      },
-      {
-        "title": "Ask HN: I feel like I've lost my identity due to AI",
-        "url": "https://news.ycombinator.com/item?id=48943622",
-        "points": 15,
-        "comments": 9,
-        "created_at": "2026-07-17T05:28:54.000Z"
       }
     ]
   }
