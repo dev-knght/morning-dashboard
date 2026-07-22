@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-07-22T08:26:54.935Z",
+  "updatedAt": "2026-07-22T19:16:28.559Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 30.7,
-      "humidity": 48,
-      "wind_kph": 20.7,
+      "temp_c": 25.4,
+      "humidity": 73,
+      "wind_kph": 17.5,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-07-23",
-      "temp_max_c": 35.2,
-      "temp_min_c": 22.6,
-      "humidity_max": 79,
-      "humidity_min": 24,
-      "wind_kph": 31.2,
+      "temp_max_c": 35,
+      "temp_min_c": 22.5,
+      "humidity_max": 83,
+      "humidity_min": 31,
+      "wind_kph": 29.8,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4011.32,
     "oilUSD": 79,
-    "updatedAt": "2026-07-22T08:26:54.935Z",
+    "updatedAt": "2026-07-22T19:16:28.559Z",
     "gold24KUSD": 128.97,
     "gold21KUSD": 112.85,
     "gold18KUSD": 96.73,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Show HN: A new kind of FPS aim trainer",
-        "url": "https://openaim.pramit.gg/",
-        "points": 30,
-        "comments": 14,
-        "created_at": "2026-07-22T05:39:31.000Z"
+        "title": "Are AI Labs Pelicanmaxxing?",
+        "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+        "points": 72,
+        "comments": 23,
+        "created_at": "2026-07-22T17:17:54.000Z"
       },
       {
-        "title": "How an AI Anime Is Created",
-        "url": "https://www.aventos.dev/our-process?view=blog",
-        "points": 29,
-        "comments": 36,
-        "created_at": "2026-07-22T00:53:00.000Z"
+        "title": "It's not a \"rogue AI\" when a badly made security harness executes scripts",
+        "url": "https://hachyderm.io/@thomasfuchs/116964576606603226",
+        "points": 22,
+        "comments": 4,
+        "created_at": "2026-07-22T17:07:46.000Z"
       },
       {
-        "title": "White House to Redirect Billions in Research Funds Toward AI, Away from Colleges",
-        "url": "https://www.wsj.com/politics/policy/white-house-to-redirect-billions-in-research-funds-toward-ai-away-from-colleges-942dacb8",
-        "points": 28,
-        "comments": 2,
-        "created_at": "2026-07-21T22:43:07.000Z"
+        "title": "I used ChatGPT to sue a Norwegian airline from New York and get $4760",
+        "url": "https://www.behind-the-enemy-lines.com/2026/07/the-lawyer-i-never-hired-how-chatgpt.html",
+        "points": 24,
+        "comments": 8,
+        "created_at": "2026-07-22T16:16:31.000Z"
       },
       {
-        "title": "Cisco Antares: A New Family of Cheap, Open-Source, Compact Security AI Models",
-        "url": "https://securityboulevard.com/2026/07/cisco-antares-a-new-family-of-open-source-inexpensive-compact-security-ai-models/",
-        "points": 12,
-        "comments": 0,
-        "created_at": "2026-07-21T20:55:28.000Z"
+        "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
+        "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
+        "points": 18,
+        "comments": 5,
+        "created_at": "2026-07-22T16:13:07.000Z"
       },
       {
-        "title": "Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",
-        "url": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai",
-        "points": 85,
-        "comments": 14,
-        "created_at": "2026-07-21T19:11:27.000Z"
+        "title": "Airbus Full Scale Foldable Wing Extensions",
+        "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
+        "points": 53,
+        "comments": 47,
+        "created_at": "2026-07-22T14:57:24.000Z"
       }
     ],
     "vibeCoding": [
@@ -119,8 +119,8 @@
       {
         "title": "AI makes programming differently difficult",
         "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-        "points": 147,
-        "comments": 127,
+        "points": 160,
+        "comments": 140,
         "created_at": "2026-07-21T18:30:21.000Z"
       },
       {
@@ -140,14 +140,14 @@
       {
         "title": "Programming the Amiga and Atari ST in C: Reading Keyboard Input",
         "url": "https://retrogamecoders.com/st-amiga-vbcc-c-input-echo/",
-        "points": 16,
+        "points": 17,
         "comments": 0,
         "created_at": "2026-07-20T12:39:58.000Z"
       },
       {
         "title": "Thanks HN for 15 years of support and helping me find my life's work",
         "url": "https://news.ycombinator.com/item?id=48949551",
-        "points": 828,
+        "points": 832,
         "comments": 107,
         "created_at": "2026-07-17T16:57:27.000Z"
       }
