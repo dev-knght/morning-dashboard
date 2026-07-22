@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-21T19:19:57.211Z",
+  "updatedAt": "2026-07-22T08:26:54.935Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 23.5,
-      "humidity": 85,
-      "wind_kph": 17,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 30.7,
+      "humidity": 48,
+      "wind_kph": 20.7,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-07-22",
-      "temp_max_c": 34.7,
-      "temp_min_c": 21.6,
-      "humidity_max": 90,
-      "humidity_min": 37,
-      "wind_kph": 30.1,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "date": "2026-07-23",
+      "temp_max_c": 35.2,
+      "temp_min_c": 22.6,
+      "humidity_max": 79,
+      "humidity_min": 24,
+      "wind_kph": 31.2,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 3995.16,
+    "goldUSD": 4011.32,
     "oilUSD": 79,
-    "updatedAt": "2026-07-21T19:19:57.211Z",
-    "gold24KUSD": 128.45,
-    "gold21KUSD": 112.39,
-    "gold18KUSD": 96.34,
-    "gold24KJD": 91.07,
-    "gold21KJD": 79.69,
-    "gold18KJD": 68.3
+    "updatedAt": "2026-07-22T08:26:54.935Z",
+    "gold24KUSD": 128.97,
+    "gold21KUSD": 112.85,
+    "gold18KUSD": 96.73,
+    "gold24KJD": 91.44,
+    "gold21KJD": 80.01,
+    "gold18KJD": 68.58
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:27",
-    "maghrib": "19:41",
-    "date": "21 Jul 2021"
+    "fajr": "04:28",
+    "maghrib": "19:40",
+    "date": "22 Jul 2022"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
-        "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-        "points": 42,
-        "comments": 7,
-        "created_at": "2026-07-21T18:30:21.000Z"
+        "title": "Show HN: A new kind of FPS aim trainer",
+        "url": "https://openaim.pramit.gg/",
+        "points": 30,
+        "comments": 14,
+        "created_at": "2026-07-22T05:39:31.000Z"
       },
       {
-        "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-        "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-        "points": 74,
-        "comments": 61,
-        "created_at": "2026-07-21T17:14:06.000Z"
+        "title": "How an AI Anime Is Created",
+        "url": "https://www.aventos.dev/our-process?view=blog",
+        "points": 29,
+        "comments": 36,
+        "created_at": "2026-07-22T00:53:00.000Z"
       },
       {
-        "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
-        "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
-        "points": 56,
-        "comments": 37,
-        "created_at": "2026-07-21T17:03:18.000Z"
+        "title": "White House to Redirect Billions in Research Funds Toward AI, Away from Colleges",
+        "url": "https://www.wsj.com/politics/policy/white-house-to-redirect-billions-in-research-funds-toward-ai-away-from-colleges-942dacb8",
+        "points": 28,
+        "comments": 2,
+        "created_at": "2026-07-21T22:43:07.000Z"
       },
       {
-        "title": "Show HN: OSS Cross-Harness self hosted registry and analytics for AI Agents",
-        "url": "https://github.com/Observal/Observal",
-        "points": 16,
-        "comments": 1,
-        "created_at": "2026-07-21T16:57:30.000Z"
-      },
-      {
-        "title": "Gumroad Says That It's Now Spending as Much on Human Employees as AI Tokens",
-        "url": "https://officechai.com/ai/gumroad-says-that-its-now-spending-as-much-on-human-employees-as-ai-tokens/",
+        "title": "Cisco Antares: A New Family of Cheap, Open-Source, Compact Security AI Models",
+        "url": "https://securityboulevard.com/2026/07/cisco-antares-a-new-family-of-open-source-inexpensive-compact-security-ai-models/",
         "points": 12,
-        "comments": 11,
-        "created_at": "2026-07-21T16:31:30.000Z"
+        "comments": 0,
+        "created_at": "2026-07-21T20:55:28.000Z"
+      },
+      {
+        "title": "Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",
+        "url": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai",
+        "points": 85,
+        "comments": 14,
+        "created_at": "2026-07-21T19:11:27.000Z"
       }
     ],
     "vibeCoding": [
@@ -117,10 +117,10 @@
     ],
     "progDb": [
       {
-        "title": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
+        "title": "AI makes programming differently difficult",
         "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-        "points": 42,
-        "comments": 7,
+        "points": 147,
+        "comments": 127,
         "created_at": "2026-07-21T18:30:21.000Z"
       },
       {
@@ -140,14 +140,14 @@
       {
         "title": "Programming the Amiga and Atari ST in C: Reading Keyboard Input",
         "url": "https://retrogamecoders.com/st-amiga-vbcc-c-input-echo/",
-        "points": 15,
+        "points": 16,
         "comments": 0,
         "created_at": "2026-07-20T12:39:58.000Z"
       },
       {
         "title": "Thanks HN for 15 years of support and helping me find my life's work",
         "url": "https://news.ycombinator.com/item?id=48949551",
-        "points": 825,
+        "points": 828,
         "comments": 107,
         "created_at": "2026-07-17T16:57:27.000Z"
       }
