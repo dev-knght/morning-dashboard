@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-07-22T19:16:28.559Z",
+  "updatedAt": "2026-07-23T08:27:58.504Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 25.4,
-      "humidity": 73,
-      "wind_kph": 17.5,
+      "temp_c": 30.4,
+      "humidity": 49,
+      "wind_kph": 22.8,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-07-23",
-      "temp_max_c": 35,
-      "temp_min_c": 22.5,
-      "humidity_max": 83,
-      "humidity_min": 31,
-      "wind_kph": 29.8,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "date": "2026-07-24",
+      "temp_max_c": 32.2,
+      "temp_min_c": 21.2,
+      "humidity_max": 92,
+      "humidity_min": 37,
+      "wind_kph": 28.4,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4011.32,
+    "goldUSD": 4091.15,
     "oilUSD": 79,
-    "updatedAt": "2026-07-22T19:16:28.559Z",
-    "gold24KUSD": 128.97,
-    "gold21KUSD": 112.85,
-    "gold18KUSD": 96.73,
-    "gold24KJD": 91.44,
-    "gold21KJD": 80.01,
-    "gold18KJD": 68.58
+    "updatedAt": "2026-07-23T08:27:58.504Z",
+    "gold24KUSD": 131.53,
+    "gold21KUSD": 115.09,
+    "gold18KUSD": 98.65,
+    "gold24KJD": 93.26,
+    "gold21KJD": 81.6,
+    "gold18KJD": 69.94
   },
   "exchange": {
     "JOD": 0.709
@@ -37,7 +37,7 @@
   "prayer": {
     "fajr": "04:28",
     "maghrib": "19:40",
-    "date": "22 Jul 2022"
+    "date": "23 Jul 2023"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Are AI Labs Pelicanmaxxing?",
+        "title": "Why I'm building a note taking app without AI",
+        "url": "https://withdocket.com/blog/why-im-building-a-note-taking-app-without-ai",
+        "points": 16,
+        "comments": 11,
+        "created_at": "2026-07-22T23:18:10.000Z"
+      },
+      {
+        "title": "DOJ Now Citing Fake AI-Generated Cases to Keep ICE Detainees Locked Up",
+        "url": "https://www.techdirt.com/2026/07/22/doj-now-citing-fake-ai-generated-cases-to-keep-ice-detainees-locked-up/",
+        "points": 20,
+        "comments": 1,
+        "created_at": "2026-07-22T20:33:25.000Z"
+      },
+      {
+        "title": "Are AI labs pelicanmaxxing?",
         "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-        "points": 72,
-        "comments": 23,
+        "points": 503,
+        "comments": 196,
         "created_at": "2026-07-22T17:17:54.000Z"
       },
       {
         "title": "It's not a \"rogue AI\" when a badly made security harness executes scripts",
         "url": "https://hachyderm.io/@thomasfuchs/116964576606603226",
-        "points": 22,
+        "points": 32,
         "comments": 4,
         "created_at": "2026-07-22T17:07:46.000Z"
       },
       {
         "title": "I used ChatGPT to sue a Norwegian airline from New York and get $4760",
         "url": "https://www.behind-the-enemy-lines.com/2026/07/the-lawyer-i-never-hired-how-chatgpt.html",
-        "points": 24,
-        "comments": 8,
+        "points": 30,
+        "comments": 11,
         "created_at": "2026-07-22T16:16:31.000Z"
-      },
-      {
-        "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
-        "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
-        "points": 18,
-        "comments": 5,
-        "created_at": "2026-07-22T16:13:07.000Z"
-      },
-      {
-        "title": "Airbus Full Scale Foldable Wing Extensions",
-        "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
-        "points": 53,
-        "comments": 47,
-        "created_at": "2026-07-22T14:57:24.000Z"
       }
     ],
     "vibeCoding": [
@@ -119,8 +119,8 @@
       {
         "title": "AI makes programming differently difficult",
         "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-        "points": 160,
-        "comments": 140,
+        "points": 162,
+        "comments": 141,
         "created_at": "2026-07-21T18:30:21.000Z"
       },
       {
