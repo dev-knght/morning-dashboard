@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-07-24T08:25:42.806Z",
+  "updatedAt": "2026-07-24T19:23:19.490Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 29.6,
-      "humidity": 48,
-      "wind_kph": 21.3,
+      "temp_c": 22,
+      "humidity": 80,
+      "wind_kph": 19.4,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-07-25",
-      "temp_max_c": 32.6,
-      "temp_min_c": 19.9,
+      "temp_max_c": 32.2,
+      "temp_min_c": 20.5,
       "humidity_max": 83,
-      "humidity_min": 26,
-      "wind_kph": 23.4,
+      "humidity_min": 27,
+      "wind_kph": 25.2,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4126.94,
     "oilUSD": 79,
-    "updatedAt": "2026-07-24T08:25:42.806Z",
+    "updatedAt": "2026-07-24T19:23:19.490Z",
     "gold24KUSD": 132.68,
     "gold21KUSD": 116.1,
     "gold18KUSD": 99.51,
@@ -64,42 +64,49 @@
   "news": {
     "ai": [
       {
-        "title": "Australia to AI: Produce More Power Than You Burn, Stop Content 'Theft'",
-        "url": "https://www.theregister.com/ai-and-ml/2026/07/15/australia-demands-ai-companies-must-produce-more-energy-than-they-consume-stop-theft-of-content/5271535",
-        "points": 26,
-        "comments": 0,
-        "created_at": "2026-07-24T00:12:02.000Z"
+        "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
+        "points": 13,
+        "comments": 10,
+        "created_at": "2026-07-24T18:34:16.000Z"
       },
       {
-        "title": "AI bet goes awry: Oracle fires 21,000 employees",
+        "title": "You need to let the AI cook",
+        "url": "https://www.ivan.codes/blog/let-it-cook",
+        "points": 23,
+        "comments": 5,
+        "created_at": "2026-07-24T15:30:18.000Z"
+      },
+      {
+        "title": "Open Weights and American AI Leadership [pdf]",
+        "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+        "points": 110,
+        "comments": 2,
+        "created_at": "2026-07-24T13:58:12.000Z"
+      },
+      {
+        "title": "Oracle fires 21,000 employees to fund AI spending",
         "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
-        "points": 16,
-        "comments": 3,
-        "created_at": "2026-07-23T23:26:51.000Z"
+        "points": 70,
+        "comments": 13,
+        "created_at": "2026-07-24T13:33:12.000Z"
       },
       {
-        "title": "AI bet goes awry: Oracle fires 21,000 employees",
-        "url": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
-        "points": 98,
-        "comments": 22,
-        "created_at": "2026-07-23T18:07:33.000Z"
-      },
-      {
-        "title": "AMD's Instinct MI455X: Aiming for the Sun",
-        "url": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
-        "points": 16,
-        "comments": 3,
-        "created_at": "2026-07-23T17:42:43.000Z"
-      },
-      {
-        "title": "The arguments against open source AI are bad",
-        "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-        "points": 265,
-        "comments": 186,
-        "created_at": "2026-07-23T16:49:57.000Z"
+        "title": "Why hasn't AI increased unemployment?",
+        "url": "https://twitter.com/PeterMcCrory/status/2079979321607745905",
+        "points": 14,
+        "comments": 14,
+        "created_at": "2026-07-24T12:52:27.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "How Do We Stop Vibe Coding?",
+        "url": "https://alexklos.ca/blog/how-do-we-stop-vibe-coding",
+        "points": 54,
+        "comments": 69,
+        "created_at": "2026-07-24T10:12:39.000Z"
+      },
       {
         "title": "Who cleans up after the vibe-coding party?",
         "url": "https://www.ft.com/content/cec8df9e-b43b-4cd1-8feb-c07e804e8d33",
@@ -117,6 +124,27 @@
     ],
     "progDb": [
       {
+        "title": "Online Historical Encyclopaedia of Programming Languages",
+        "url": "https://hopl.info/",
+        "points": 17,
+        "comments": 1,
+        "created_at": "2026-07-24T16:47:23.000Z"
+      },
+      {
+        "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country code",
+        "url": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
+        "points": 26,
+        "comments": 12,
+        "created_at": "2026-07-24T12:34:28.000Z"
+      },
+      {
+        "title": "Why is programming so captivating, yet so agonizing?",
+        "url": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
+        "points": 48,
+        "comments": 47,
+        "created_at": "2026-07-24T12:15:11.000Z"
+      },
+      {
         "title": "AMD calls CUDA a 'non-event'",
         "url": "https://www.pcgamer.com/hardware/amd-calls-cuda-a-non-event-says-companies-are-programming-at-levels-where-the-nvidia-tech-doesnt-really-matter/",
         "points": 12,
@@ -126,30 +154,9 @@
       {
         "title": "AI makes programming differently difficult",
         "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-        "points": 164,
+        "points": 165,
         "comments": 142,
         "created_at": "2026-07-21T18:30:21.000Z"
-      },
-      {
-        "title": "Show HN: The0 – self-hosted runtime for trading bots, bring your own language",
-        "url": "https://github.com/alexanderwanyoike/the0",
-        "points": 18,
-        "comments": 5,
-        "created_at": "2026-07-20T13:49:53.000Z"
-      },
-      {
-        "title": "Show HN: OTP Inspired actor supervisor based full stack templates",
-        "url": "https://shipstacks.tech",
-        "points": 12,
-        "comments": 3,
-        "created_at": "2026-07-20T13:47:29.000Z"
-      },
-      {
-        "title": "Programming the Amiga and Atari ST in C: Reading Keyboard Input",
-        "url": "https://retrogamecoders.com/st-amiga-vbcc-c-input-echo/",
-        "points": 17,
-        "comments": 0,
-        "created_at": "2026-07-20T12:39:58.000Z"
       }
     ]
   }
