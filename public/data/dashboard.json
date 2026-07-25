@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-24T19:23:19.490Z",
+  "updatedAt": "2026-07-25T08:04:24.934Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 22,
-      "humidity": 80,
-      "wind_kph": 19.4,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 27.8,
+      "humidity": 48,
+      "wind_kph": 19.9,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-07-25",
-      "temp_max_c": 32.2,
-      "temp_min_c": 20.5,
-      "humidity_max": 83,
-      "humidity_min": 27,
-      "wind_kph": 25.2,
+      "date": "2026-07-26",
+      "temp_max_c": 30.8,
+      "temp_min_c": 20.8,
+      "humidity_max": 88,
+      "humidity_min": 34,
+      "wind_kph": 25.6,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4126.94,
+    "goldUSD": 4043.79,
     "oilUSD": 79,
-    "updatedAt": "2026-07-24T19:23:19.490Z",
-    "gold24KUSD": 132.68,
-    "gold21KUSD": 116.1,
-    "gold18KUSD": 99.51,
-    "gold24KJD": 94.07,
-    "gold21KJD": 82.31,
-    "gold18KJD": 70.55
+    "updatedAt": "2026-07-25T08:04:24.934Z",
+    "gold24KUSD": 130.01,
+    "gold21KUSD": 113.76,
+    "gold18KUSD": 97.51,
+    "gold24KJD": 92.18,
+    "gold21KJD": 80.66,
+    "gold18KJD": 69.13
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:30",
-    "maghrib": "19:39",
-    "date": "24 Jul 2024"
+    "fajr": "04:31",
+    "maghrib": "19:38",
+    "date": "25 Jul 2025"
   },
   "events": [
     {
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
+        "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+        "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+        "points": 48,
+        "comments": 15,
+        "created_at": "2026-07-25T04:20:21.000Z"
+      },
+      {
+        "title": "AIs don't do what you want. This is bad",
+        "url": "https://rewardhacking.org",
+        "points": 74,
+        "comments": 68,
+        "created_at": "2026-07-24T22:24:08.000Z"
+      },
+      {
+        "title": "AMD and Cerebras Launch AI Inference Solution",
+        "url": "https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference",
+        "points": 21,
+        "comments": 5,
+        "created_at": "2026-07-24T20:44:05.000Z"
+      },
+      {
+        "title": "Dead Internet Theory was right: AI agents are eating Web, growing nearly 8k%",
+        "url": "https://fortune.com/2026/07/23/dead-internet-theory-bots-agents-majority-web-traffic/",
+        "points": 12,
+        "comments": 0,
+        "created_at": "2026-07-24T20:37:49.000Z"
+      },
+      {
         "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says",
         "url": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
-        "points": 13,
-        "comments": 10,
+        "points": 31,
+        "comments": 27,
         "created_at": "2026-07-24T18:34:16.000Z"
-      },
-      {
-        "title": "You need to let the AI cook",
-        "url": "https://www.ivan.codes/blog/let-it-cook",
-        "points": 23,
-        "comments": 5,
-        "created_at": "2026-07-24T15:30:18.000Z"
-      },
-      {
-        "title": "Open Weights and American AI Leadership [pdf]",
-        "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-        "points": 110,
-        "comments": 2,
-        "created_at": "2026-07-24T13:58:12.000Z"
-      },
-      {
-        "title": "Oracle fires 21,000 employees to fund AI spending",
-        "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
-        "points": 70,
-        "comments": 13,
-        "created_at": "2026-07-24T13:33:12.000Z"
-      },
-      {
-        "title": "Why hasn't AI increased unemployment?",
-        "url": "https://twitter.com/PeterMcCrory/status/2079979321607745905",
-        "points": 14,
-        "comments": 14,
-        "created_at": "2026-07-24T12:52:27.000Z"
       }
     ],
     "vibeCoding": [
       {
-        "title": "How Do We Stop Vibe Coding?",
+        "title": "How do we stop vibe coding?",
         "url": "https://alexklos.ca/blog/how-do-we-stop-vibe-coding",
-        "points": 54,
-        "comments": 69,
+        "points": 58,
+        "comments": 73,
         "created_at": "2026-07-24T10:12:39.000Z"
       },
       {
@@ -126,22 +126,22 @@
       {
         "title": "Online Historical Encyclopaedia of Programming Languages",
         "url": "https://hopl.info/",
-        "points": 17,
-        "comments": 1,
+        "points": 24,
+        "comments": 2,
         "created_at": "2026-07-24T16:47:23.000Z"
       },
       {
-        "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country code",
+        "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes",
         "url": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
-        "points": 26,
-        "comments": 12,
+        "points": 48,
+        "comments": 22,
         "created_at": "2026-07-24T12:34:28.000Z"
       },
       {
         "title": "Why is programming so captivating, yet so agonizing?",
         "url": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
-        "points": 48,
-        "comments": 47,
+        "points": 54,
+        "comments": 49,
         "created_at": "2026-07-24T12:15:11.000Z"
       },
       {
