@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-25T08:04:24.934Z",
+  "updatedAt": "2026-07-25T19:05:04.209Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 27.8,
-      "humidity": 48,
-      "wind_kph": 19.9,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 24.4,
+      "humidity": 60,
+      "wind_kph": 4.8,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-07-26",
       "temp_max_c": 30.8,
-      "temp_min_c": 20.8,
-      "humidity_max": 88,
-      "humidity_min": 34,
+      "temp_min_c": 21,
+      "humidity_max": 76,
+      "humidity_min": 27,
       "wind_kph": 25.6,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4043.79,
     "oilUSD": 79,
-    "updatedAt": "2026-07-25T08:04:24.934Z",
+    "updatedAt": "2026-07-25T19:05:04.209Z",
     "gold24KUSD": 130.01,
     "gold21KUSD": 113.76,
     "gold18KUSD": 97.51,
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-        "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-        "points": 48,
-        "comments": 15,
-        "created_at": "2026-07-25T04:20:21.000Z"
+        "title": "A system prompt to get AI to stop pretending to be human",
+        "url": "https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human",
+        "points": 15,
+        "comments": 9,
+        "created_at": "2026-07-25T17:01:05.000Z"
       },
       {
-        "title": "AIs don't do what you want. This is bad",
-        "url": "https://rewardhacking.org",
-        "points": 74,
-        "comments": 68,
-        "created_at": "2026-07-24T22:24:08.000Z"
+        "title": "Apple Is the King of AI and Nobody Knows It",
+        "url": "https://limitededitionjonathan.substack.com/p/apple-is-the-king-of-ai-and-nobody",
+        "points": 18,
+        "comments": 28,
+        "created_at": "2026-07-25T16:55:45.000Z"
       },
       {
-        "title": "AMD and Cerebras Launch AI Inference Solution",
-        "url": "https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference",
-        "points": 21,
-        "comments": 5,
-        "created_at": "2026-07-24T20:44:05.000Z"
+        "title": "Politician reads AI prompt during assembly",
+        "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
+        "points": 51,
+        "comments": 30,
+        "created_at": "2026-07-25T16:31:15.000Z"
       },
       {
-        "title": "Dead Internet Theory was right: AI agents are eating Web, growing nearly 8k%",
-        "url": "https://fortune.com/2026/07/23/dead-internet-theory-bots-agents-majority-web-traffic/",
-        "points": 12,
-        "comments": 0,
-        "created_at": "2026-07-24T20:37:49.000Z"
+        "title": "Open-weight AI is having its Kubernetes moment",
+        "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+        "points": 154,
+        "comments": 103,
+        "created_at": "2026-07-25T14:49:49.000Z"
       },
       {
-        "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
-        "points": 31,
-        "comments": 27,
-        "created_at": "2026-07-24T18:34:16.000Z"
+        "title": "The AI jobs apocalypse probably isn't coming anytime soon",
+        "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+        "points": 38,
+        "comments": 70,
+        "created_at": "2026-07-25T14:41:06.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "How do we stop vibe coding?",
         "url": "https://alexklos.ca/blog/how-do-we-stop-vibe-coding",
-        "points": 58,
-        "comments": 73,
+        "points": 59,
+        "comments": 75,
         "created_at": "2026-07-24T10:12:39.000Z"
       },
       {
@@ -113,35 +113,28 @@
         "points": 27,
         "comments": 1,
         "created_at": "2026-07-12T05:44:46.000Z"
-      },
-      {
-        "title": "Who cleans up after the vibe-coding party?",
-        "url": "https://www.ft.com/content/cec8df9e-b43b-4cd1-8feb-c07e804e8d33",
-        "points": 23,
-        "comments": 21,
-        "created_at": "2026-07-11T11:18:15.000Z"
       }
     ],
     "progDb": [
       {
         "title": "Online Historical Encyclopaedia of Programming Languages",
         "url": "https://hopl.info/",
-        "points": 24,
+        "points": 25,
         "comments": 2,
         "created_at": "2026-07-24T16:47:23.000Z"
       },
       {
         "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes",
         "url": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
-        "points": 48,
-        "comments": 22,
+        "points": 52,
+        "comments": 26,
         "created_at": "2026-07-24T12:34:28.000Z"
       },
       {
         "title": "Why is programming so captivating, yet so agonizing?",
         "url": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
-        "points": 54,
-        "comments": 49,
+        "points": 57,
+        "comments": 51,
         "created_at": "2026-07-24T12:15:11.000Z"
       },
       {
