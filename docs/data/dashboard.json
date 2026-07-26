@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-07-25T19:05:04.209Z",
+  "updatedAt": "2026-07-26T08:24:21.354Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 24.4,
-      "humidity": 60,
-      "wind_kph": 4.8,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
-    },
-    "tomorrow": {
-      "date": "2026-07-26",
-      "temp_max_c": 30.8,
-      "temp_min_c": 21,
-      "humidity_max": 76,
-      "humidity_min": 27,
-      "wind_kph": 25.6,
+      "temp_c": 27.9,
+      "humidity": 50,
+      "wind_kph": 20.2,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
+    },
+    "tomorrow": {
+      "date": "2026-07-27",
+      "temp_max_c": 32.9,
+      "temp_min_c": 18.6,
+      "humidity_max": 91,
+      "humidity_min": 30,
+      "wind_kph": 25.8,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 4043.79,
+    "goldUSD": 4052.66,
     "oilUSD": 79,
-    "updatedAt": "2026-07-25T19:05:04.209Z",
-    "gold24KUSD": 130.01,
-    "gold21KUSD": 113.76,
-    "gold18KUSD": 97.51,
-    "gold24KJD": 92.18,
-    "gold21KJD": 80.66,
-    "gold18KJD": 69.13
+    "updatedAt": "2026-07-26T08:24:21.354Z",
+    "gold24KUSD": 130.3,
+    "gold21KUSD": 114.01,
+    "gold18KUSD": 97.72,
+    "gold24KJD": 92.38,
+    "gold21KJD": 80.83,
+    "gold18KJD": 69.28
   },
   "exchange": {
     "JOD": 0.709
@@ -37,7 +37,7 @@
   "prayer": {
     "fajr": "04:31",
     "maghrib": "19:38",
-    "date": "25 Jul 2025"
+    "date": "26 Jul 2026"
   },
   "events": [
     {
@@ -64,55 +64,48 @@
   "news": {
     "ai": [
       {
+        "title": "MIT to become hotbed of AI video surveillance",
+        "url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
+        "points": 14,
+        "comments": 2,
+        "created_at": "2026-07-26T04:07:54.000Z"
+      },
+      {
+        "title": "What is happening to jobs? Separating AI hype from reality",
+        "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+        "points": 79,
+        "comments": 83,
+        "created_at": "2026-07-25T22:51:10.000Z"
+      },
+      {
+        "title": "Cloudflare's new AI traffic options for customers",
+        "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+        "points": 108,
+        "comments": 75,
+        "created_at": "2026-07-25T22:50:49.000Z"
+      },
+      {
+        "title": "'AI Mania Is Eviscerating Global Decision-Making'",
+        "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+        "points": 57,
+        "comments": 19,
+        "created_at": "2026-07-25T21:18:06.000Z"
+      },
+      {
         "title": "A system prompt to get AI to stop pretending to be human",
         "url": "https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human",
-        "points": 15,
-        "comments": 9,
+        "points": 33,
+        "comments": 13,
         "created_at": "2026-07-25T17:01:05.000Z"
-      },
-      {
-        "title": "Apple Is the King of AI and Nobody Knows It",
-        "url": "https://limitededitionjonathan.substack.com/p/apple-is-the-king-of-ai-and-nobody",
-        "points": 18,
-        "comments": 28,
-        "created_at": "2026-07-25T16:55:45.000Z"
-      },
-      {
-        "title": "Politician reads AI prompt during assembly",
-        "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-        "points": 51,
-        "comments": 30,
-        "created_at": "2026-07-25T16:31:15.000Z"
-      },
-      {
-        "title": "Open-weight AI is having its Kubernetes moment",
-        "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-        "points": 154,
-        "comments": 103,
-        "created_at": "2026-07-25T14:49:49.000Z"
-      },
-      {
-        "title": "The AI jobs apocalypse probably isn't coming anytime soon",
-        "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-        "points": 38,
-        "comments": 70,
-        "created_at": "2026-07-25T14:41:06.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "How do we stop vibe coding?",
         "url": "https://alexklos.ca/blog/how-do-we-stop-vibe-coding",
-        "points": 59,
-        "comments": 75,
+        "points": 60,
+        "comments": 74,
         "created_at": "2026-07-24T10:12:39.000Z"
-      },
-      {
-        "title": "Who cleans up after the vibe-coding party?",
-        "url": "https://www.ft.com/content/cec8df9e-b43b-4cd1-8feb-c07e804e8d33",
-        "points": 27,
-        "comments": 1,
-        "created_at": "2026-07-12T05:44:46.000Z"
       }
     ],
     "progDb": [
@@ -127,20 +120,20 @@
         "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes",
         "url": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
         "points": 52,
-        "comments": 26,
+        "comments": 29,
         "created_at": "2026-07-24T12:34:28.000Z"
       },
       {
         "title": "Why is programming so captivating, yet so agonizing?",
         "url": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
-        "points": 57,
+        "points": 58,
         "comments": 51,
         "created_at": "2026-07-24T12:15:11.000Z"
       },
       {
         "title": "AMD calls CUDA a 'non-event'",
         "url": "https://www.pcgamer.com/hardware/amd-calls-cuda-a-non-event-says-companies-are-programming-at-levels-where-the-nvidia-tech-doesnt-really-matter/",
-        "points": 12,
+        "points": 13,
         "comments": 0,
         "created_at": "2026-07-23T21:51:15.000Z"
       },
@@ -148,7 +141,7 @@
         "title": "AI makes programming differently difficult",
         "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
         "points": 165,
-        "comments": 142,
+        "comments": 143,
         "created_at": "2026-07-21T18:30:21.000Z"
       }
     ]
