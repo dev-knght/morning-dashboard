@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-07-26T08:24:21.354Z",
+  "updatedAt": "2026-07-26T19:08:18.712Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 27.9,
-      "humidity": 50,
-      "wind_kph": 20.2,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 21.8,
+      "humidity": 63,
+      "wind_kph": 11.8,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-07-27",
-      "temp_max_c": 32.9,
-      "temp_min_c": 18.6,
-      "humidity_max": 91,
+      "temp_max_c": 32.8,
+      "temp_min_c": 18.7,
+      "humidity_max": 92,
       "humidity_min": 30,
-      "wind_kph": 25.8,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "wind_kph": 23.4,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
     "goldUSD": 4052.66,
     "oilUSD": 79,
-    "updatedAt": "2026-07-26T08:24:21.354Z",
+    "updatedAt": "2026-07-26T19:08:18.712Z",
     "gold24KUSD": 130.3,
     "gold21KUSD": 114.01,
     "gold18KUSD": 97.72,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "MIT to become hotbed of AI video surveillance",
-        "url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
-        "points": 14,
-        "comments": 2,
-        "created_at": "2026-07-26T04:07:54.000Z"
+        "title": "Show HN: Boffin – Staff-engineer layer for AI coding agents",
+        "url": "https://github.com/MicSm/boffin",
+        "points": 15,
+        "comments": 5,
+        "created_at": "2026-07-26T17:28:03.000Z"
       },
       {
-        "title": "What is happening to jobs? Separating AI hype from reality",
-        "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-        "points": 79,
-        "comments": 83,
-        "created_at": "2026-07-25T22:51:10.000Z"
+        "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
+        "url": "https://andys.blog/this-july-i-was-fired-from-simple-ai/",
+        "points": 45,
+        "comments": 56,
+        "created_at": "2026-07-26T16:14:46.000Z"
       },
       {
-        "title": "Cloudflare's new AI traffic options for customers",
-        "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-        "points": 108,
-        "comments": 75,
-        "created_at": "2026-07-25T22:50:49.000Z"
+        "title": "London Gatwick has launched a robotic airport parking service",
+        "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+        "points": 212,
+        "comments": 150,
+        "created_at": "2026-07-26T14:40:27.000Z"
       },
       {
-        "title": "'AI Mania Is Eviscerating Global Decision-Making'",
-        "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-        "points": 57,
-        "comments": 19,
-        "created_at": "2026-07-25T21:18:06.000Z"
+        "title": "The New AI Superpowers: Focus and Followthrough",
+        "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+        "points": 60,
+        "comments": 21,
+        "created_at": "2026-07-26T13:13:03.000Z"
       },
       {
-        "title": "A system prompt to get AI to stop pretending to be human",
-        "url": "https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human",
-        "points": 33,
-        "comments": 13,
-        "created_at": "2026-07-25T17:01:05.000Z"
+        "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+        "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+        "points": 60,
+        "comments": 25,
+        "created_at": "2026-07-26T10:32:35.000Z"
       }
     ],
     "vibeCoding": [
@@ -104,11 +104,18 @@
         "title": "How do we stop vibe coding?",
         "url": "https://alexklos.ca/blog/how-do-we-stop-vibe-coding",
         "points": 60,
-        "comments": 74,
+        "comments": 75,
         "created_at": "2026-07-24T10:12:39.000Z"
       }
     ],
     "progDb": [
+      {
+        "title": "Littleman Programming",
+        "url": "https://icfpcontest2026.com/textbook#little%20men",
+        "points": 11,
+        "comments": 0,
+        "created_at": "2026-07-25T22:45:00.000Z"
+      },
       {
         "title": "Online Historical Encyclopaedia of Programming Languages",
         "url": "https://hopl.info/",
@@ -119,8 +126,8 @@
       {
         "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes",
         "url": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
-        "points": 52,
-        "comments": 29,
+        "points": 53,
+        "comments": 30,
         "created_at": "2026-07-24T12:34:28.000Z"
       },
       {
@@ -136,13 +143,6 @@
         "points": 13,
         "comments": 0,
         "created_at": "2026-07-23T21:51:15.000Z"
-      },
-      {
-        "title": "AI makes programming differently difficult",
-        "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-        "points": 165,
-        "comments": 143,
-        "created_at": "2026-07-21T18:30:21.000Z"
       }
     ]
   }
