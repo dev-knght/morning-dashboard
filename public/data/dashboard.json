@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-26T19:08:18.712Z",
+  "updatedAt": "2026-07-27T09:49:38.912Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 21.8,
-      "humidity": 63,
-      "wind_kph": 11.8,
+      "temp_c": 31.5,
+      "humidity": 32,
+      "wind_kph": 17,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-07-27",
-      "temp_max_c": 32.8,
-      "temp_min_c": 18.7,
-      "humidity_max": 92,
-      "humidity_min": 30,
-      "wind_kph": 23.4,
+      "date": "2026-07-28",
+      "temp_max_c": 32.5,
+      "temp_min_c": 20.4,
+      "humidity_max": 91,
+      "humidity_min": 34,
+      "wind_kph": 28.9,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4052.66,
+    "goldUSD": 4052.72,
     "oilUSD": 79,
-    "updatedAt": "2026-07-26T19:08:18.712Z",
+    "updatedAt": "2026-07-27T09:49:38.912Z",
     "gold24KUSD": 130.3,
     "gold21KUSD": 114.01,
     "gold18KUSD": 97.72,
     "gold24KJD": 92.38,
     "gold21KJD": 80.83,
-    "gold18KJD": 69.28
+    "gold18KJD": 69.29
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:31",
-    "maghrib": "19:38",
-    "date": "26 Jul 2026"
+    "fajr": "04:32",
+    "maghrib": "19:37",
+    "date": "27 Jul 2027"
   },
   "events": [
     {
@@ -64,46 +64,46 @@
   "news": {
     "ai": [
       {
-        "title": "Show HN: Boffin – Staff-engineer layer for AI coding agents",
-        "url": "https://github.com/MicSm/boffin",
+        "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+        "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
         "points": 15,
-        "comments": 5,
-        "created_at": "2026-07-26T17:28:03.000Z"
+        "comments": 1,
+        "created_at": "2026-07-27T08:09:32.000Z"
+      },
+      {
+        "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+        "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+        "points": 756,
+        "comments": 546,
+        "created_at": "2026-07-26T22:21:41.000Z"
+      },
+      {
+        "title": "Multiway Turing Machines (2021 pre-ai)",
+        "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+        "points": 21,
+        "comments": 3,
+        "created_at": "2026-07-26T20:49:43.000Z"
+      },
+      {
+        "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+        "url": "https://github.com/hertz-ai/HARTOS",
+        "points": 18,
+        "comments": 20,
+        "created_at": "2026-07-26T18:40:08.000Z"
       },
       {
         "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
         "url": "https://andys.blog/this-july-i-was-fired-from-simple-ai/",
-        "points": 45,
-        "comments": 56,
+        "points": 52,
+        "comments": 122,
         "created_at": "2026-07-26T16:14:46.000Z"
-      },
-      {
-        "title": "London Gatwick has launched a robotic airport parking service",
-        "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-        "points": 212,
-        "comments": 150,
-        "created_at": "2026-07-26T14:40:27.000Z"
-      },
-      {
-        "title": "The New AI Superpowers: Focus and Followthrough",
-        "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-        "points": 60,
-        "comments": 21,
-        "created_at": "2026-07-26T13:13:03.000Z"
-      },
-      {
-        "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
-        "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-        "points": 60,
-        "comments": 25,
-        "created_at": "2026-07-26T10:32:35.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "How do we stop vibe coding?",
         "url": "https://alexklos.ca/blog/how-do-we-stop-vibe-coding",
-        "points": 60,
+        "points": 61,
         "comments": 75,
         "created_at": "2026-07-24T10:12:39.000Z"
       }
@@ -112,7 +112,7 @@
       {
         "title": "Littleman Programming",
         "url": "https://icfpcontest2026.com/textbook#little%20men",
-        "points": 11,
+        "points": 12,
         "comments": 0,
         "created_at": "2026-07-25T22:45:00.000Z"
       },
@@ -122,6 +122,13 @@
         "points": 25,
         "comments": 2,
         "created_at": "2026-07-24T16:47:23.000Z"
+      },
+      {
+        "title": "History of John Backus's functional programming project (draft)",
+        "url": "https://softwarepreservation.computerhistory.org/FP/",
+        "points": 30,
+        "comments": 2,
+        "created_at": "2026-07-24T16:32:23.000Z"
       },
       {
         "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes",
@@ -136,13 +143,6 @@
         "points": 58,
         "comments": 51,
         "created_at": "2026-07-24T12:15:11.000Z"
-      },
-      {
-        "title": "AMD calls CUDA a 'non-event'",
-        "url": "https://www.pcgamer.com/hardware/amd-calls-cuda-a-non-event-says-companies-are-programming-at-levels-where-the-nvidia-tech-doesnt-really-matter/",
-        "points": 13,
-        "comments": 0,
-        "created_at": "2026-07-23T21:51:15.000Z"
       }
     ]
   }
