@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-31T19:22:23.755Z",
+  "updatedAt": "2026-08-01T08:18:33.726Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 26.7,
-      "humidity": 46,
-      "wind_kph": 5.8,
+      "temp_c": 34.3,
+      "humidity": 27,
+      "wind_kph": 13.7,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-08-01",
-      "temp_max_c": 36.7,
-      "temp_min_c": 23.1,
-      "humidity_max": 60,
+      "date": "2026-08-02",
+      "temp_max_c": 37.4,
+      "temp_min_c": 23.8,
+      "humidity_max": 58,
       "humidity_min": 23,
-      "wind_kph": 25.7,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "wind_kph": 26.1,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 4081.7,
+    "goldUSD": 4101.4,
     "oilUSD": 79,
-    "updatedAt": "2026-07-31T19:22:23.755Z",
-    "gold24KUSD": 131.23,
-    "gold21KUSD": 114.83,
-    "gold18KUSD": 98.42,
-    "gold24KJD": 93.04,
-    "gold21KJD": 81.41,
-    "gold18KJD": 69.78
+    "updatedAt": "2026-08-01T08:18:33.726Z",
+    "gold24KUSD": 131.86,
+    "gold21KUSD": 115.38,
+    "gold18KUSD": 98.9,
+    "gold24KJD": 93.49,
+    "gold21KJD": 81.8,
+    "gold18KJD": 70.12
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:35",
-    "maghrib": "19:34",
-    "date": "31 Jul 2031"
+    "fajr": "04:36",
+    "maghrib": "19:33",
+    "date": "01 Aug 2001"
   },
   "events": [
     {
@@ -64,46 +64,46 @@
   "news": {
     "ai": [
       {
-        "title": "AI Is Getting Way Too Expensive",
-        "url": "https://www.wheresyoured.at/premium-ai-is-getting-way-too-expensive/",
-        "points": 18,
-        "comments": 4,
-        "created_at": "2026-07-31T17:34:04.000Z"
+        "title": "Flint: A Visualization Language for the AI Era",
+        "url": "https://microsoft.github.io/flint-chart/",
+        "points": 98,
+        "comments": 31,
+        "created_at": "2026-08-01T02:45:09.000Z"
       },
       {
-        "title": "Google Earth's New AI Lets Anyone Fabricate Satellite Images",
-        "url": "https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/",
-        "points": 27,
-        "comments": 13,
-        "created_at": "2026-07-31T16:06:51.000Z"
+        "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
+        "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+        "points": 19,
+        "comments": 5,
+        "created_at": "2026-07-31T23:31:39.000Z"
       },
       {
-        "title": "Is AI reasoning right for the wrong reasons?",
-        "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-        "points": 85,
-        "comments": 107,
-        "created_at": "2026-07-31T15:29:39.000Z"
+        "title": "Thomson Reuters built its own AI model that now ranks among the best",
+        "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/",
+        "points": 17,
+        "comments": 3,
+        "created_at": "2026-07-31T21:32:53.000Z"
       },
       {
-        "title": "Situational Awareness down 67% in July in AI stock rout",
-        "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-        "points": 126,
-        "comments": 125,
-        "created_at": "2026-07-31T13:37:36.000Z"
+        "title": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+        "url": "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/",
+        "points": 42,
+        "comments": 73,
+        "created_at": "2026-07-31T21:08:05.000Z"
       },
       {
-        "title": "DeepSeek-AI/DeepSeek-V4-Flash-0731",
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-        "points": 16,
-        "comments": 0,
-        "created_at": "2026-07-31T12:16:08.000Z"
+        "title": "AI companies destroy rare and non recoverable physical books",
+        "url": "https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/",
+        "points": 44,
+        "comments": 72,
+        "created_at": "2026-07-31T19:01:52.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Show HN: Dozenal – A Game of Spatial Arithmetic",
         "url": "https://dozenal.game",
-        "points": 15,
+        "points": 16,
         "comments": 9,
         "created_at": "2026-07-27T10:44:17.000Z"
       },
@@ -126,8 +126,8 @@
       {
         "title": "EYG: A Programming Language for Humans",
         "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
-        "points": 86,
-        "comments": 65,
+        "points": 87,
+        "comments": 66,
         "created_at": "2026-07-28T02:21:37.000Z"
       },
       {
