@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-01T19:06:02.109Z",
+  "updatedAt": "2026-08-02T08:22:13.569Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 27.4,
-      "humidity": 50,
-      "wind_kph": 4.5,
+      "temp_c": 34.3,
+      "humidity": 29,
+      "wind_kph": 16.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-08-02",
-      "temp_max_c": 37.8,
-      "temp_min_c": 24.2,
+      "date": "2026-08-03",
+      "temp_max_c": 36.5,
+      "temp_min_c": 23.7,
       "humidity_max": 53,
-      "humidity_min": 23,
-      "wind_kph": 27.2,
+      "humidity_min": 15,
+      "wind_kph": 30,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     }
   },
   "metals": {
-    "goldUSD": 4101.4,
+    "goldUSD": 4042.87,
     "oilUSD": 79,
-    "updatedAt": "2026-08-01T19:06:02.109Z",
-    "gold24KUSD": 131.86,
-    "gold21KUSD": 115.38,
-    "gold18KUSD": 98.9,
-    "gold24KJD": 93.49,
-    "gold21KJD": 81.8,
-    "gold18KJD": 70.12
+    "updatedAt": "2026-08-02T08:22:13.569Z",
+    "gold24KUSD": 129.98,
+    "gold21KUSD": 113.73,
+    "gold18KUSD": 97.49,
+    "gold24KJD": 92.16,
+    "gold21KJD": 80.64,
+    "gold18KJD": 69.12
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:36",
+    "fajr": "04:37",
     "maghrib": "19:33",
-    "date": "01 Aug 2001"
+    "date": "02 Aug 2002"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "I Fired My AI Assitant",
-        "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
-        "points": 22,
-        "comments": 43,
-        "created_at": "2026-08-01T16:38:28.000Z"
+        "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+        "url": "https://costperprompt.com/",
+        "points": 19,
+        "comments": 7,
+        "created_at": "2026-08-02T01:56:44.000Z"
       },
       {
-        "title": "How to Spot AI Writing",
-        "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
-        "points": 31,
-        "comments": 68,
-        "created_at": "2026-08-01T13:35:26.000Z"
+        "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+        "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+        "points": 50,
+        "comments": 32,
+        "created_at": "2026-08-01T22:50:30.000Z"
       },
       {
-        "title": "Google kills Earth AI generator after one day",
-        "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
-        "points": 58,
-        "comments": 93,
-        "created_at": "2026-08-01T13:02:44.000Z"
+        "title": "AI opens new era in cognitive studies of wild primates",
+        "url": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
+        "points": 16,
+        "comments": 5,
+        "created_at": "2026-08-01T22:40:22.000Z"
       },
       {
-        "title": "On the non-use of AI in my writing process",
-        "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-        "points": 113,
-        "comments": 94,
-        "created_at": "2026-08-01T12:56:54.000Z"
+        "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+        "points": 292,
+        "comments": 258,
+        "created_at": "2026-08-01T22:25:12.000Z"
       },
       {
-        "title": "EU will mandate labels on authentic-looking AI content starting August 2",
-        "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
-        "points": 67,
-        "comments": 103,
-        "created_at": "2026-08-01T08:26:55.000Z"
+        "title": "AI's real threat to jobs isn't job loss, it's lower paychecks, new research says",
+        "url": "https://www.businessinsider.com/ai-could-lower-workers-pay-job-market-impact-2026-7",
+        "points": 44,
+        "comments": 18,
+        "created_at": "2026-08-01T21:05:00.000Z"
       }
     ],
     "vibeCoding": [
