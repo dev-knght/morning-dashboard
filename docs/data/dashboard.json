@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-08-04T08:34:17.930Z",
+  "updatedAt": "2026-08-04T19:35:28.952Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 32.1,
-      "humidity": 33,
-      "wind_kph": 18.7,
+      "temp_c": 25,
+      "humidity": 47,
+      "wind_kph": 7.2,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-08-05",
-      "temp_max_c": 33.7,
-      "temp_min_c": 20.2,
-      "humidity_max": 86,
-      "humidity_min": 39,
-      "wind_kph": 26.9,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_max_c": 34,
+      "temp_min_c": 20.8,
+      "humidity_max": 79,
+      "humidity_min": 36,
+      "wind_kph": 25.5,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     }
   },
   "metals": {
     "goldUSD": 4071.11,
     "oilUSD": 79,
-    "updatedAt": "2026-08-04T08:34:17.931Z",
+    "updatedAt": "2026-08-04T19:35:28.952Z",
     "gold24KUSD": 130.89,
     "gold21KUSD": 114.53,
     "gold18KUSD": 98.17,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
-        "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
-        "points": 20,
-        "comments": 6,
-        "created_at": "2026-08-03T22:07:07.000Z"
+        "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
+        "url": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where",
+        "points": 46,
+        "comments": 13,
+        "created_at": "2026-08-04T17:57:15.000Z"
       },
       {
-        "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-        "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
-        "points": 127,
-        "comments": 154,
-        "created_at": "2026-08-03T20:02:21.000Z"
+        "title": "Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI",
+        "url": "https://github.com/Chiaro-HQ/methodology",
+        "points": 29,
+        "comments": 14,
+        "created_at": "2026-08-04T16:27:03.000Z"
       },
       {
-        "title": "The AI Bailout Could Be Baked into the AI Bubble",
-        "url": "https://prospect.org/2026/08/03/ai-bailout-could-be-baked-into-bubble-private-equity-life-insurers-loans/",
-        "points": 34,
-        "comments": 4,
-        "created_at": "2026-08-03T18:51:23.000Z"
+        "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+        "url": "https://arxiv.org/abs/2602.16763",
+        "points": 41,
+        "comments": 53,
+        "created_at": "2026-08-04T16:10:39.000Z"
       },
       {
-        "title": "Stanford CS329A: Self-Improving AI Agents",
-        "url": "https://www.youtube.com/playlist?list=PLangBM27OtEA",
-        "points": 18,
-        "comments": 0,
-        "created_at": "2026-08-03T17:57:25.000Z"
+        "title": "Flyte 2 is GA: durable distributed AI workflows using regular Python",
+        "url": "https://www.union.ai/blog-post/flyte-2-is-generally-available-the-durable-open-source-ai-runtime",
+        "points": 17,
+        "comments": 2,
+        "created_at": "2026-08-04T16:05:52.000Z"
       },
       {
-        "title": "Show HN: Hacker News with AI stories filtered out",
-        "url": "https://hcker.news/?view=frontpage&ai=exclude",
-        "points": 47,
-        "comments": 9,
-        "created_at": "2026-08-03T17:39:56.000Z"
+        "title": "The AI Demand Bubble",
+        "url": "https://www.wheresyoured.at/the-ai-demand-bubble/",
+        "points": 96,
+        "comments": 85,
+        "created_at": "2026-08-04T15:51:51.000Z"
       }
     ],
     "vibeCoding": [
@@ -117,6 +117,20 @@
     ],
     "progDb": [
       {
+        "title": "Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone",
+        "url": "https://learning-rust.github.io",
+        "points": 44,
+        "comments": 7,
+        "created_at": "2026-08-04T10:03:46.000Z"
+      },
+      {
+        "title": "An Honest Review of AI Programming",
+        "url": "https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/",
+        "points": 42,
+        "comments": 66,
+        "created_at": "2026-08-04T09:35:15.000Z"
+      },
+      {
         "title": "Tell HN: Pretending not to use AI has made me a better developer",
         "url": "https://news.ycombinator.com/item?id=49157839",
         "points": 13,
@@ -126,30 +140,16 @@
       {
         "title": "Octane – React’s programming model, compiled",
         "url": "https://octanejs.dev",
-        "points": 122,
-        "comments": 46,
+        "points": 124,
+        "comments": 47,
         "created_at": "2026-08-03T08:04:04.000Z"
       },
       {
         "title": "F*: A general-purpose proof-oriented programming language",
         "url": "https://fstar-lang.org/",
-        "points": 182,
-        "comments": 98,
+        "points": 185,
+        "comments": 99,
         "created_at": "2026-08-02T12:31:16.000Z"
-      },
-      {
-        "title": "Show HN: Fuse – statically typed functional programming language",
-        "url": "https://fuselang.org",
-        "points": 115,
-        "comments": 47,
-        "created_at": "2026-08-02T11:23:56.000Z"
-      },
-      {
-        "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
-        "url": "https://github.com/kamalfarahani/katharos",
-        "points": 37,
-        "comments": 8,
-        "created_at": "2026-08-02T10:45:11.000Z"
       }
     ]
   }
