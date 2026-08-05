@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-04T19:35:28.952Z",
+  "updatedAt": "2026-08-05T08:33:29.793Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 25,
-      "humidity": 47,
-      "wind_kph": 7.2,
+      "temp_c": 30.8,
+      "humidity": 41,
+      "wind_kph": 20.3,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-08-05",
-      "temp_max_c": 34,
-      "temp_min_c": 20.8,
-      "humidity_max": 79,
+      "date": "2026-08-06",
+      "temp_max_c": 32,
+      "temp_min_c": 20.1,
+      "humidity_max": 96,
       "humidity_min": 36,
-      "wind_kph": 25.5,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "wind_kph": 27.3,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4071.11,
+    "goldUSD": 4064.91,
     "oilUSD": 79,
-    "updatedAt": "2026-08-04T19:35:28.952Z",
-    "gold24KUSD": 130.89,
-    "gold21KUSD": 114.53,
-    "gold18KUSD": 98.17,
-    "gold24KJD": 92.8,
-    "gold21KJD": 81.2,
-    "gold18KJD": 69.6
+    "updatedAt": "2026-08-05T08:33:29.793Z",
+    "gold24KUSD": 130.69,
+    "gold21KUSD": 114.35,
+    "gold18KUSD": 98.02,
+    "gold24KJD": 92.66,
+    "gold21KJD": 81.08,
+    "gold18KJD": 69.49
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:39",
-    "maghrib": "19:31",
-    "date": "04 Aug 2004"
+    "fajr": "04:40",
+    "maghrib": "19:30",
+    "date": "05 Aug 2005"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
-        "url": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where",
-        "points": 46,
-        "comments": 13,
-        "created_at": "2026-08-04T17:57:15.000Z"
+        "title": "White House excludes open models from framework to test advanced AI capabilities",
+        "url": "https://www.axios.com/2026/08/04/trump-ai-framework-open-models",
+        "points": 19,
+        "comments": 3,
+        "created_at": "2026-08-04T23:50:34.000Z"
       },
       {
-        "title": "Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI",
-        "url": "https://github.com/Chiaro-HQ/methodology",
-        "points": 29,
-        "comments": 14,
-        "created_at": "2026-08-04T16:27:03.000Z"
+        "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+        "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+        "points": 221,
+        "comments": 169,
+        "created_at": "2026-08-04T22:01:41.000Z"
       },
       {
-        "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-        "url": "https://arxiv.org/abs/2602.16763",
-        "points": 41,
-        "comments": 53,
-        "created_at": "2026-08-04T16:10:39.000Z"
+        "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
+        "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf",
+        "points": 57,
+        "comments": 47,
+        "created_at": "2026-08-04T21:52:58.000Z"
       },
       {
-        "title": "Flyte 2 is GA: durable distributed AI workflows using regular Python",
-        "url": "https://www.union.ai/blog-post/flyte-2-is-generally-available-the-durable-open-source-ai-runtime",
+        "title": "An AI voice agent running locally on a $50 Arduino uno Q",
+        "url": "https://projecthub.arduino.cc/neelbuilds/build-a-voice-based-kiosk-for-retail-store-using-moorcheh-edge-and-arduino-uno-q-7f3c7b",
         "points": 17,
         "comments": 2,
-        "created_at": "2026-08-04T16:05:52.000Z"
+        "created_at": "2026-08-04T21:18:02.000Z"
       },
       {
-        "title": "The AI Demand Bubble",
-        "url": "https://www.wheresyoured.at/the-ai-demand-bubble/",
-        "points": 96,
-        "comments": 85,
-        "created_at": "2026-08-04T15:51:51.000Z"
+        "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
+        "url": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where",
+        "points": 66,
+        "comments": 22,
+        "created_at": "2026-08-04T17:57:15.000Z"
       }
     ],
     "vibeCoding": [
@@ -117,17 +117,24 @@
     ],
     "progDb": [
       {
+        "title": "The Practice of Programming",
+        "url": "https://www.cs.princeton.edu/~bwk/tpop.webpage/",
+        "points": 13,
+        "comments": 0,
+        "created_at": "2026-08-04T15:09:29.000Z"
+      },
+      {
         "title": "Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone",
         "url": "https://learning-rust.github.io",
-        "points": 44,
-        "comments": 7,
+        "points": 61,
+        "comments": 10,
         "created_at": "2026-08-04T10:03:46.000Z"
       },
       {
         "title": "An Honest Review of AI Programming",
         "url": "https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/",
-        "points": 42,
-        "comments": 66,
+        "points": 46,
+        "comments": 74,
         "created_at": "2026-08-04T09:35:15.000Z"
       },
       {
@@ -140,16 +147,9 @@
       {
         "title": "Octane – React’s programming model, compiled",
         "url": "https://octanejs.dev",
-        "points": 124,
+        "points": 125,
         "comments": 47,
         "created_at": "2026-08-03T08:04:04.000Z"
-      },
-      {
-        "title": "F*: A general-purpose proof-oriented programming language",
-        "url": "https://fstar-lang.org/",
-        "points": 185,
-        "comments": 99,
-        "created_at": "2026-08-02T12:31:16.000Z"
       }
     ]
   }
