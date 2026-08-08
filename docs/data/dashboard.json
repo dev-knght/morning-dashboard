@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-07T18:54:16.503Z",
+  "updatedAt": "2026-08-08T06:50:56.714Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 23,
-      "humidity": 87,
-      "wind_kph": 22.4,
+      "temp_c": 26.1,
+      "humidity": 67,
+      "wind_kph": 16.3,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-08-08",
-      "temp_max_c": 32.6,
-      "temp_min_c": 21.5,
-      "humidity_max": 93,
-      "humidity_min": 43,
-      "wind_kph": 31,
+      "date": "2026-08-09",
+      "temp_max_c": 34.1,
+      "temp_min_c": 21.8,
+      "humidity_max": 96,
+      "humidity_min": 33,
+      "wind_kph": 29.4,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4265.81,
+    "goldUSD": 4244.71,
     "oilUSD": 79,
-    "updatedAt": "2026-08-07T18:54:16.503Z",
-    "gold24KUSD": 137.15,
-    "gold21KUSD": 120.01,
-    "gold18KUSD": 102.86,
-    "gold24KJD": 97.24,
-    "gold21KJD": 85.08,
-    "gold18KJD": 72.93
+    "updatedAt": "2026-08-08T06:50:56.714Z",
+    "gold24KUSD": 136.47,
+    "gold21KUSD": 119.41,
+    "gold18KUSD": 102.35,
+    "gold24KJD": 96.76,
+    "gold21KJD": 84.66,
+    "gold18KJD": 72.57
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:41",
-    "maghrib": "19:29",
-    "date": "07 Aug 2007"
+    "fajr": "04:43",
+    "maghrib": "19:27",
+    "date": "08 Aug 2008"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "Mythos social engineering AISI INC-2026-07-28-01",
+        "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+        "points": 44,
+        "comments": 16,
+        "created_at": "2026-08-08T03:41:56.000Z"
+      },
+      {
+        "title": "Should AI labs be treated like the owners of dangerous animals?",
+        "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+        "points": 42,
+        "comments": 53,
+        "created_at": "2026-08-08T00:03:31.000Z"
+      },
+      {
+        "title": "YouTube's AI Detection Kicked Us in the Face",
+        "url": "https://twitter.com/Kurz_Gesagt/status/2083191397981561232",
+        "points": 19,
+        "comments": 2,
+        "created_at": "2026-08-07T20:50:09.000Z"
+      },
+      {
+        "title": "Managing AI Coding Costs at Scale",
+        "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+        "points": 213,
+        "comments": 194,
+        "created_at": "2026-08-07T18:25:17.000Z"
+      },
+      {
         "title": "Oracle bans AI-generated code from OpenJDK",
         "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-        "points": 150,
-        "comments": 91,
+        "points": 442,
+        "comments": 307,
         "created_at": "2026-08-07T17:36:30.000Z"
-      },
-      {
-        "title": "The AI Billboards Are Killing SF",
-        "url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/",
-        "points": 29,
-        "comments": 60,
-        "created_at": "2026-08-07T16:32:16.000Z"
-      },
-      {
-        "title": "AI psychosis is the new leadership blind spot",
-        "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-        "points": 151,
-        "comments": 96,
-        "created_at": "2026-08-07T13:27:30.000Z"
-      },
-      {
-        "title": "Generative \"AI\": The Guitar Hero of Creativity",
-        "url": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/",
-        "points": 33,
-        "comments": 60,
-        "created_at": "2026-08-07T09:07:36.000Z"
-      },
-      {
-        "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-        "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-        "points": 71,
-        "comments": 116,
-        "created_at": "2026-08-07T00:37:30.000Z"
       }
     ],
     "vibeCoding": [
@@ -112,22 +112,22 @@
       {
         "title": "Show HN: Wyzer Programming Language",
         "url": "https://github.com/Wyzer-Lang/wyzer",
-        "points": 141,
-        "comments": 78,
+        "points": 189,
+        "comments": 105,
         "created_at": "2026-08-07T12:28:55.000Z"
       },
       {
         "title": "Show HN: A terminal glued to the macOS dock",
         "url": "https://github.com/palamim/starboard",
-        "points": 45,
+        "points": 48,
         "comments": 15,
         "created_at": "2026-08-06T10:18:18.000Z"
       },
       {
         "title": "Born Against, or why hobby programming communities are against LLM usage",
         "url": "https://blog.fogus.me/llm/born-against.html",
-        "points": 424,
-        "comments": 509,
+        "points": 428,
+        "comments": 516,
         "created_at": "2026-08-05T18:37:49.000Z"
       },
       {
