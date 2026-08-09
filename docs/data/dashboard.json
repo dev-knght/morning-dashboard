@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-08-09T06:53:57.945Z",
+  "updatedAt": "2026-08-09T18:38:16.645Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 26.8,
-      "humidity": 67,
-      "wind_kph": 13,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 25.6,
+      "humidity": 62,
+      "wind_kph": 8,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-08-10",
-      "temp_max_c": 35.5,
-      "temp_min_c": 21,
-      "humidity_max": 57,
-      "humidity_min": 22,
-      "wind_kph": 22.5,
+      "temp_max_c": 35.7,
+      "temp_min_c": 21.5,
+      "humidity_max": 60,
+      "humidity_min": 17,
+      "wind_kph": 23.3,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4341.93,
     "oilUSD": 79,
-    "updatedAt": "2026-08-09T06:53:57.945Z",
+    "updatedAt": "2026-08-09T18:38:16.645Z",
     "gold24KUSD": 139.6,
     "gold21KUSD": 122.15,
     "gold18KUSD": 104.7,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "The AI Apocalypse Is Here",
-        "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
-        "points": 41,
-        "comments": 33,
-        "created_at": "2026-08-09T01:28:36.000Z"
+        "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+        "url": "https://github.com/eighttrigrams/us-vs-them",
+        "points": 20,
+        "comments": 1,
+        "created_at": "2026-08-09T15:25:29.000Z"
       },
       {
-        "title": "AI Settles a 25 Year-Old Problem We Left Behind",
-        "url": "https://twitter.com/DimitrisPapail/status/2086158118354887060",
-        "points": 17,
-        "comments": 0,
-        "created_at": "2026-08-08T22:22:24.000Z"
+        "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+        "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+        "points": 47,
+        "comments": 17,
+        "created_at": "2026-08-09T13:03:49.000Z"
       },
       {
-        "title": "YouTube Mistakenly Penalizes Kurzgesagt for AI-Generated Slop",
-        "url": "https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702",
-        "points": 23,
-        "comments": 4,
-        "created_at": "2026-08-08T20:47:57.000Z"
+        "title": "Amazon circumvents Gilroy community vote for AI data center",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
+        "points": 56,
+        "comments": 61,
+        "created_at": "2026-08-09T12:52:10.000Z"
       },
       {
-        "title": "Gentoo bugzilla closed due AI bot scraper overload",
-        "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-        "points": 159,
-        "comments": 106,
-        "created_at": "2026-08-08T13:55:42.000Z"
+        "title": "70% of AI revenue comes from OpenAI and Anthropic",
+        "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+        "points": 61,
+        "comments": 58,
+        "created_at": "2026-08-09T11:56:16.000Z"
       },
       {
-        "title": "Making an AI bid writer refuse to lie",
-        "url": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie",
-        "points": 50,
-        "comments": 0,
-        "created_at": "2026-08-08T10:13:31.000Z"
+        "title": "Switching to electric stoves can dramatically cut indoor air pollution (2025)",
+        "url": "https://news.stanford.edu/stories/2025/12/gas-propane-stoves-nitrogen-dioxide-exposure-health-risks-switching-electric",
+        "points": 44,
+        "comments": 81,
+        "created_at": "2026-08-09T11:19:31.000Z"
       }
     ],
     "vibeCoding": [
@@ -112,22 +112,22 @@
       {
         "title": "Show HN: Wyzer Programming Language",
         "url": "https://github.com/Wyzer-Lang/wyzer",
-        "points": 215,
-        "comments": 113,
+        "points": 217,
+        "comments": 116,
         "created_at": "2026-08-07T12:28:55.000Z"
       },
       {
         "title": "Show HN: A terminal glued to the macOS dock",
         "url": "https://github.com/palamim/starboard",
-        "points": 51,
-        "comments": 15,
+        "points": 52,
+        "comments": 16,
         "created_at": "2026-08-06T10:18:18.000Z"
       },
       {
         "title": "Born Against, or why hobby programming communities are against LLM usage",
         "url": "https://blog.fogus.me/llm/born-against.html",
         "points": 440,
-        "comments": 521,
+        "comments": 522,
         "created_at": "2026-08-05T18:37:49.000Z"
       },
       {
