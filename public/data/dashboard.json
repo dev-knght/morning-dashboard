@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-10T18:55:18.923Z",
+  "updatedAt": "2026-08-11T07:04:39.523Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 26.7,
-      "humidity": 51,
-      "wind_kph": 7.2,
+      "temp_c": 30.7,
+      "humidity": 27,
+      "wind_kph": 15,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-08-11",
-      "temp_max_c": 35.6,
-      "temp_min_c": 23.4,
-      "humidity_max": 62,
-      "humidity_min": 19,
-      "wind_kph": 29.1,
+      "date": "2026-08-12",
+      "temp_max_c": 33.9,
+      "temp_min_c": 20.9,
+      "humidity_max": 70,
+      "humidity_min": 31,
+      "wind_kph": 30,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     }
   },
   "metals": {
-    "goldUSD": 4341.93,
+    "goldUSD": 4343.85,
     "oilUSD": 79,
-    "updatedAt": "2026-08-10T18:55:18.923Z",
-    "gold24KUSD": 139.6,
-    "gold21KUSD": 122.15,
-    "gold18KUSD": 104.7,
-    "gold24KJD": 98.97,
-    "gold21KJD": 86.6,
-    "gold18KJD": 74.23
+    "updatedAt": "2026-08-11T07:04:39.523Z",
+    "gold24KUSD": 139.66,
+    "gold21KUSD": 122.2,
+    "gold18KUSD": 104.74,
+    "gold24KJD": 99.02,
+    "gold21KJD": 86.64,
+    "gold18KJD": 74.26
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:44",
-    "maghrib": "19:26",
-    "date": "10 Aug 2010"
+    "fajr": "04:45",
+    "maghrib": "19:25",
+    "date": "11 Aug 2011"
   },
   "events": [
     {
@@ -64,47 +64,62 @@
   "news": {
     "ai": [
       {
+        "title": "DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself",
+        "url": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
+        "points": 19,
+        "comments": 5,
+        "created_at": "2026-08-11T05:30:24.000Z"
+      },
+      {
+        "title": "As AI eats the web, the internet’s collective memory is disappearing",
+        "url": "https://thewalrus.ca/google-search-is-dying/",
+        "points": 141,
+        "comments": 128,
+        "created_at": "2026-08-10T22:36:30.000Z"
+      },
+      {
+        "title": "How Claude marks AI-generated content",
+        "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+        "points": 109,
+        "comments": 88,
+        "created_at": "2026-08-10T21:36:56.000Z"
+      },
+      {
+        "title": "Nvidia is pulling Wall Street into the AI buildout",
+        "url": "https://thenextweb.com/news/nvidia-500-billion-wall-street-ai-infrastructure-funding-package",
+        "points": 18,
+        "comments": 4,
+        "created_at": "2026-08-10T19:25:07.000Z"
+      },
+      {
         "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
         "url": "https://www.stoaexchange.com",
-        "points": 36,
-        "comments": 16,
+        "points": 75,
+        "comments": 50,
         "created_at": "2026-08-10T16:35:27.000Z"
-      },
-      {
-        "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-        "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
-        "points": 102,
-        "comments": 114,
-        "created_at": "2026-08-10T14:56:32.000Z"
-      },
-      {
-        "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-        "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-        "points": 55,
-        "comments": 74,
-        "created_at": "2026-08-10T14:38:20.000Z"
-      },
-      {
-        "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-        "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-        "points": 103,
-        "comments": 116,
-        "created_at": "2026-08-10T14:06:22.000Z"
-      },
-      {
-        "title": "AI's profits are 'being funded by investors rather than earned from customers",
-        "url": "https://fortune.com/2026/08/10/torsten-slok-ai-profit-margins-capex-oracle/",
-        "points": 30,
-        "comments": 12,
-        "created_at": "2026-08-10T13:49:06.000Z"
       }
     ],
-    "vibeCoding": [],
+    "vibeCoding": [
+      {
+        "title": "I've vibe coded an application to see what it's like",
+        "url": "https://rz01.org/vibecoding/",
+        "points": 12,
+        "comments": 17,
+        "created_at": "2026-08-10T13:15:50.000Z"
+      }
+    ],
     "progDb": [
+      {
+        "title": "What's the best programming language for coding agents?",
+        "url": "http://danluu.com/pl-tokens/",
+        "points": 147,
+        "comments": 98,
+        "created_at": "2026-08-10T16:28:58.000Z"
+      },
       {
         "title": "How do programming languages impact token efficiency and correctness?",
         "url": "https://danluu.com/pl-tokens/",
-        "points": 16,
+        "points": 17,
         "comments": 1,
         "created_at": "2026-08-10T04:26:40.000Z"
       },
@@ -112,29 +127,22 @@
         "title": "A Tale of Dynamic Programming",
         "url": "https://iagoleal.com/posts/dynamic-programming/",
         "points": 16,
-        "comments": 1,
+        "comments": 2,
         "created_at": "2026-08-09T15:26:07.000Z"
+      },
+      {
+        "title": "Choral: Choreographic Programming for Java",
+        "url": "https://www.choral-lang.org/",
+        "points": 21,
+        "comments": 3,
+        "created_at": "2026-08-07T19:21:42.000Z"
       },
       {
         "title": "Show HN: Wyzer Programming Language",
         "url": "https://github.com/Wyzer-Lang/wyzer",
-        "points": 221,
-        "comments": 116,
+        "points": 223,
+        "comments": 117,
         "created_at": "2026-08-07T12:28:55.000Z"
-      },
-      {
-        "title": "Show HN: A terminal glued to the macOS dock",
-        "url": "https://github.com/palamim/starboard",
-        "points": 53,
-        "comments": 17,
-        "created_at": "2026-08-06T10:18:18.000Z"
-      },
-      {
-        "title": "Born Against, or why hobby programming communities are against LLM usage",
-        "url": "https://blog.fogus.me/llm/born-against.html",
-        "points": 442,
-        "comments": 524,
-        "created_at": "2026-08-05T18:37:49.000Z"
       }
     ]
   }
