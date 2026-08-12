@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-08-12T07:22:10.733Z",
+  "updatedAt": "2026-08-12T18:59:36.840Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 30,
-      "humidity": 31,
-      "wind_kph": 17.3,
+      "temp_c": 24.9,
+      "humidity": 61,
+      "wind_kph": 8.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-08-13",
       "temp_max_c": 33.5,
-      "temp_min_c": 21.8,
-      "humidity_max": 87,
-      "humidity_min": 30,
-      "wind_kph": 27.3,
+      "temp_min_c": 22.5,
+      "humidity_max": 83,
+      "humidity_min": 33,
+      "wind_kph": 29.2,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4405.34,
     "oilUSD": 79,
-    "updatedAt": "2026-08-12T07:22:10.733Z",
+    "updatedAt": "2026-08-12T18:59:36.840Z",
     "gold24KUSD": 141.63,
     "gold21KUSD": 123.93,
     "gold18KUSD": 106.23,
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "What happens when the AI bubble pops?",
-        "url": "https://thehustle.co/originals/what-happens-when-the-ai-bubble-pops",
+        "title": "AI Broke Code Review and It's Breaking Your Team",
+        "url": "https://ref.tools/blog/ai-broke-alignment",
         "points": 15,
-        "comments": 2,
-        "created_at": "2026-08-12T02:27:35.000Z"
+        "comments": 5,
+        "created_at": "2026-08-12T15:04:39.000Z"
       },
       {
-        "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-        "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-        "points": 169,
+        "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
+        "url": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/",
+        "points": 87,
         "comments": 36,
-        "created_at": "2026-08-12T02:05:42.000Z"
+        "created_at": "2026-08-12T14:06:03.000Z"
       },
       {
-        "title": "US hires over 2k video gamers as air traffic controllers",
-        "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
-        "points": 108,
-        "comments": 95,
-        "created_at": "2026-08-11T23:26:17.000Z"
+        "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+        "url": "https://knownagents.com/insights",
+        "points": 143,
+        "comments": 90,
+        "created_at": "2026-08-12T14:02:46.000Z"
       },
       {
-        "title": "Suzanne: AI tool for designing and manufacturing physical products",
-        "url": "https://www.suzanne3d.com/",
-        "points": 50,
-        "comments": 32,
-        "created_at": "2026-08-11T21:28:26.000Z"
+        "title": "AI is removing the middle class of software engineering",
+        "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+        "points": 480,
+        "comments": 399,
+        "created_at": "2026-08-12T13:20:05.000Z"
       },
       {
-        "title": "AI Is Solving CTF Challenges in Minutes",
-        "url": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
-        "points": 20,
-        "comments": 10,
-        "created_at": "2026-08-11T21:13:44.000Z"
+        "title": "Electricity Pricing in the Age of AI",
+        "url": "https://power2026.ai/",
+        "points": 17,
+        "comments": 2,
+        "created_at": "2026-08-12T12:00:28.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "I've vibe coded an application to see what it's like",
         "url": "https://rz01.org/vibecoding/",
-        "points": 13,
-        "comments": 24,
+        "points": 14,
+        "comments": 25,
         "created_at": "2026-08-10T13:15:50.000Z"
       }
     ],
@@ -112,15 +112,15 @@
       {
         "title": "Five Programming Books That Changed How I Think",
         "url": "https://adamtornhill.substack.com/p/five-programming-books-that-changed",
-        "points": 39,
+        "points": 42,
         "comments": 7,
         "created_at": "2026-08-11T19:10:06.000Z"
       },
       {
         "title": "What's the best programming language for coding agents?",
         "url": "http://danluu.com/pl-tokens/",
-        "points": 251,
-        "comments": 182,
+        "points": 255,
+        "comments": 186,
         "created_at": "2026-08-10T16:28:58.000Z"
       },
       {
@@ -133,7 +133,7 @@
       {
         "title": "A Tale of Dynamic Programming",
         "url": "https://iagoleal.com/posts/dynamic-programming/",
-        "points": 16,
+        "points": 17,
         "comments": 2,
         "created_at": "2026-08-09T15:26:07.000Z"
       },
