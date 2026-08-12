@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-11T18:59:47.869Z",
+  "updatedAt": "2026-08-12T07:22:10.733Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 25.3,
-      "humidity": 60,
-      "wind_kph": 10.5,
+      "temp_c": 30,
+      "humidity": 31,
+      "wind_kph": 17.3,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-08-12",
-      "temp_max_c": 34.6,
-      "temp_min_c": 22.4,
-      "humidity_max": 66,
-      "humidity_min": 22,
-      "wind_kph": 27.1,
+      "date": "2026-08-13",
+      "temp_max_c": 33.5,
+      "temp_min_c": 21.8,
+      "humidity_max": 87,
+      "humidity_min": 30,
+      "wind_kph": 27.3,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 4343.85,
+    "goldUSD": 4405.34,
     "oilUSD": 79,
-    "updatedAt": "2026-08-11T18:59:47.869Z",
-    "gold24KUSD": 139.66,
-    "gold21KUSD": 122.2,
-    "gold18KUSD": 104.74,
-    "gold24KJD": 99.02,
-    "gold21KJD": 86.64,
-    "gold18KJD": 74.26
+    "updatedAt": "2026-08-12T07:22:10.733Z",
+    "gold24KUSD": 141.63,
+    "gold21KUSD": 123.93,
+    "gold18KUSD": 106.23,
+    "gold24KJD": 100.42,
+    "gold21KJD": 87.87,
+    "gold18KJD": 75.31
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:45",
-    "maghrib": "19:25",
-    "date": "11 Aug 2011"
+    "fajr": "04:46",
+    "maghrib": "19:23",
+    "date": "12 Aug 2012"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
-        "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-        "points": 117,
-        "comments": 123,
-        "created_at": "2026-08-11T16:57:09.000Z"
+        "title": "What happens when the AI bubble pops?",
+        "url": "https://thehustle.co/originals/what-happens-when-the-ai-bubble-pops",
+        "points": 15,
+        "comments": 2,
+        "created_at": "2026-08-12T02:27:35.000Z"
       },
       {
-        "title": "I was accused of using AI in my dissertation but I wrote it all myself",
-        "url": "https://www.bbc.com/news/articles/crelev8gw5xo",
-        "points": 28,
-        "comments": 15,
-        "created_at": "2026-08-11T08:46:49.000Z"
+        "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+        "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+        "points": 169,
+        "comments": 36,
+        "created_at": "2026-08-12T02:05:42.000Z"
       },
       {
-        "title": "The Water Footprint of AI",
-        "url": "https://doi.org/10.1016/j.watres.2026.125866",
-        "points": 44,
-        "comments": 70,
-        "created_at": "2026-08-11T07:00:57.000Z"
+        "title": "US hires over 2k video gamers as air traffic controllers",
+        "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
+        "points": 108,
+        "comments": 95,
+        "created_at": "2026-08-11T23:26:17.000Z"
       },
       {
-        "title": "Zuckerberg's superyacht ignored emergency channel, failed to aid stranded boat",
-        "url": "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
+        "title": "Suzanne: AI tool for designing and manufacturing physical products",
+        "url": "https://www.suzanne3d.com/",
         "points": 50,
-        "comments": 19,
-        "created_at": "2026-08-11T06:55:24.000Z"
+        "comments": 32,
+        "created_at": "2026-08-11T21:28:26.000Z"
       },
       {
-        "title": "As AI eats the web, the internet’s collective memory is disappearing",
-        "url": "https://thewalrus.ca/google-search-is-dying/",
-        "points": 782,
-        "comments": 794,
-        "created_at": "2026-08-10T22:36:30.000Z"
+        "title": "AI Is Solving CTF Challenges in Minutes",
+        "url": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
+        "points": 20,
+        "comments": 10,
+        "created_at": "2026-08-11T21:13:44.000Z"
       }
     ],
     "vibeCoding": [
@@ -110,10 +110,17 @@
     ],
     "progDb": [
       {
+        "title": "Five Programming Books That Changed How I Think",
+        "url": "https://adamtornhill.substack.com/p/five-programming-books-that-changed",
+        "points": 39,
+        "comments": 7,
+        "created_at": "2026-08-11T19:10:06.000Z"
+      },
+      {
         "title": "What's the best programming language for coding agents?",
         "url": "http://danluu.com/pl-tokens/",
-        "points": 239,
-        "comments": 171,
+        "points": 251,
+        "comments": 182,
         "created_at": "2026-08-10T16:28:58.000Z"
       },
       {
@@ -133,16 +140,9 @@
       {
         "title": "Choral: Choreographic Programming for Java",
         "url": "https://www.choral-lang.org/",
-        "points": 39,
-        "comments": 17,
+        "points": 43,
+        "comments": 18,
         "created_at": "2026-08-07T19:21:42.000Z"
-      },
-      {
-        "title": "Show HN: Wyzer Programming Language",
-        "url": "https://github.com/Wyzer-Lang/wyzer",
-        "points": 224,
-        "comments": 118,
-        "created_at": "2026-08-07T12:28:55.000Z"
       }
     ]
   }
