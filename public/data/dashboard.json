@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-08-13T07:24:26.844Z",
+  "updatedAt": "2026-08-13T19:01:15.168Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 27.8,
-      "humidity": 59,
-      "wind_kph": 19.8,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 23.8,
+      "humidity": 81,
+      "wind_kph": 9.8,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-08-14",
-      "temp_max_c": 31.6,
-      "temp_min_c": 21.5,
-      "humidity_max": 97,
-      "humidity_min": 41,
-      "wind_kph": 28.1,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_max_c": 31.8,
+      "temp_min_c": 21.6,
+      "humidity_max": 96,
+      "humidity_min": 39,
+      "wind_kph": 29.8,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
     "goldUSD": 4375.78,
     "oilUSD": 79,
-    "updatedAt": "2026-08-13T07:24:26.844Z",
+    "updatedAt": "2026-08-13T19:01:15.168Z",
     "gold24KUSD": 140.68,
     "gold21KUSD": 123.1,
     "gold18KUSD": 105.51,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "When Will AI Take My Job?",
-        "url": "https://www.whenwillaitakemyjob.ai/",
-        "points": 14,
-        "comments": 8,
-        "created_at": "2026-08-13T02:47:22.000Z"
+        "title": "AI At Home Part 1: A Box Of Scraps",
+        "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+        "points": 34,
+        "comments": 12,
+        "created_at": "2026-08-13T16:22:05.000Z"
       },
       {
-        "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-        "points": 23,
-        "comments": 4,
-        "created_at": "2026-08-13T01:50:27.000Z"
+        "title": "Text AI watermarks will always be trivial to remove",
+        "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+        "points": 56,
+        "comments": 58,
+        "created_at": "2026-08-13T15:07:10.000Z"
       },
       {
-        "title": "Video game lawyer says all her clients have anti-AI contracts",
-        "url": "https://www.gamesradar.com/games/echoing-palworld-dev-video-game-lawyer-says-all-her-clients-have-anti-ai-contracts-because-gamers-hate-it-and-its-a-copyright-landmine-i-think-were-going-to-see-lawsuits/",
-        "points": 25,
-        "comments": 11,
-        "created_at": "2026-08-13T01:47:38.000Z"
+        "title": "Heart aerospace completes first flight of largest electric aircraft",
+        "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
+        "points": 105,
+        "comments": 97,
+        "created_at": "2026-08-13T14:11:51.000Z"
       },
       {
-        "title": "Twitch Is Mining Peoples' Streams to Train Amazon's AI",
-        "url": "https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/",
+        "title": "AI Generated 3D Models Flood Market, but Almost No One Is Buying Them",
+        "url": "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
         "points": 31,
-        "comments": 2,
-        "created_at": "2026-08-12T18:02:18.000Z"
+        "comments": 34,
+        "created_at": "2026-08-13T13:57:01.000Z"
       },
       {
-        "title": "AI Broke Code Review and It's Breaking Your Team",
-        "url": "https://ref.tools/blog/ai-broke-alignment",
-        "points": 19,
-        "comments": 6,
-        "created_at": "2026-08-12T15:04:39.000Z"
+        "title": "AI agents lie, cheat and steal. That is putting off users",
+        "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+        "points": 146,
+        "comments": 181,
+        "created_at": "2026-08-13T13:28:45.000Z"
       }
     ],
     "vibeCoding": [
@@ -112,14 +112,14 @@
       {
         "title": "Five Programming Books That Changed How I Think",
         "url": "https://adamtornhill.substack.com/p/five-programming-books-that-changed",
-        "points": 42,
+        "points": 43,
         "comments": 7,
         "created_at": "2026-08-11T19:10:06.000Z"
       },
       {
         "title": "What's the best programming language for coding agents?",
         "url": "http://danluu.com/pl-tokens/",
-        "points": 256,
+        "points": 259,
         "comments": 187,
         "created_at": "2026-08-10T16:28:58.000Z"
       },
@@ -133,8 +133,8 @@
       {
         "title": "A Tale of Dynamic Programming (2022)",
         "url": "https://iagoleal.com/posts/dynamic-programming/",
-        "points": 85,
-        "comments": 8,
+        "points": 89,
+        "comments": 13,
         "created_at": "2026-08-09T15:26:07.000Z"
       },
       {
