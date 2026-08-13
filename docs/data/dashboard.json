@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-12T18:59:36.840Z",
+  "updatedAt": "2026-08-13T07:24:26.844Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 24.9,
-      "humidity": 61,
-      "wind_kph": 8.6,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
-    },
-    "tomorrow": {
-      "date": "2026-08-13",
-      "temp_max_c": 33.5,
-      "temp_min_c": 22.5,
-      "humidity_max": 83,
-      "humidity_min": 33,
-      "wind_kph": 29.2,
+      "temp_c": 27.8,
+      "humidity": 59,
+      "wind_kph": 19.8,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
+    },
+    "tomorrow": {
+      "date": "2026-08-14",
+      "temp_max_c": 31.6,
+      "temp_min_c": 21.5,
+      "humidity_max": 97,
+      "humidity_min": 41,
+      "wind_kph": 28.1,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4405.34,
+    "goldUSD": 4375.78,
     "oilUSD": 79,
-    "updatedAt": "2026-08-12T18:59:36.840Z",
-    "gold24KUSD": 141.63,
-    "gold21KUSD": 123.93,
-    "gold18KUSD": 106.23,
-    "gold24KJD": 100.42,
-    "gold21KJD": 87.87,
-    "gold18KJD": 75.31
+    "updatedAt": "2026-08-13T07:24:26.844Z",
+    "gold24KUSD": 140.68,
+    "gold21KUSD": 123.1,
+    "gold18KUSD": 105.51,
+    "gold24KJD": 99.75,
+    "gold21KJD": 87.28,
+    "gold18KJD": 74.81
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:46",
-    "maghrib": "19:23",
-    "date": "12 Aug 2012"
+    "fajr": "04:47",
+    "maghrib": "19:22",
+    "date": "13 Aug 2013"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "When Will AI Take My Job?",
+        "url": "https://www.whenwillaitakemyjob.ai/",
+        "points": 14,
+        "comments": 8,
+        "created_at": "2026-08-13T02:47:22.000Z"
+      },
+      {
+        "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+        "points": 23,
+        "comments": 4,
+        "created_at": "2026-08-13T01:50:27.000Z"
+      },
+      {
+        "title": "Video game lawyer says all her clients have anti-AI contracts",
+        "url": "https://www.gamesradar.com/games/echoing-palworld-dev-video-game-lawyer-says-all-her-clients-have-anti-ai-contracts-because-gamers-hate-it-and-its-a-copyright-landmine-i-think-were-going-to-see-lawsuits/",
+        "points": 25,
+        "comments": 11,
+        "created_at": "2026-08-13T01:47:38.000Z"
+      },
+      {
+        "title": "Twitch Is Mining Peoples' Streams to Train Amazon's AI",
+        "url": "https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/",
+        "points": 31,
+        "comments": 2,
+        "created_at": "2026-08-12T18:02:18.000Z"
+      },
+      {
         "title": "AI Broke Code Review and It's Breaking Your Team",
         "url": "https://ref.tools/blog/ai-broke-alignment",
-        "points": 15,
-        "comments": 5,
+        "points": 19,
+        "comments": 6,
         "created_at": "2026-08-12T15:04:39.000Z"
-      },
-      {
-        "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
-        "url": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/",
-        "points": 87,
-        "comments": 36,
-        "created_at": "2026-08-12T14:06:03.000Z"
-      },
-      {
-        "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-        "url": "https://knownagents.com/insights",
-        "points": 143,
-        "comments": 90,
-        "created_at": "2026-08-12T14:02:46.000Z"
-      },
-      {
-        "title": "AI is removing the middle class of software engineering",
-        "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-        "points": 480,
-        "comments": 399,
-        "created_at": "2026-08-12T13:20:05.000Z"
-      },
-      {
-        "title": "Electricity Pricing in the Age of AI",
-        "url": "https://power2026.ai/",
-        "points": 17,
-        "comments": 2,
-        "created_at": "2026-08-12T12:00:28.000Z"
       }
     ],
     "vibeCoding": [
@@ -119,22 +119,22 @@
       {
         "title": "What's the best programming language for coding agents?",
         "url": "http://danluu.com/pl-tokens/",
-        "points": 255,
-        "comments": 186,
+        "points": 256,
+        "comments": 187,
         "created_at": "2026-08-10T16:28:58.000Z"
       },
       {
         "title": "How do programming languages impact token efficiency and correctness?",
         "url": "https://danluu.com/pl-tokens/",
-        "points": 17,
+        "points": 18,
         "comments": 1,
         "created_at": "2026-08-10T04:26:40.000Z"
       },
       {
-        "title": "A Tale of Dynamic Programming",
+        "title": "A Tale of Dynamic Programming (2022)",
         "url": "https://iagoleal.com/posts/dynamic-programming/",
-        "points": 17,
-        "comments": 2,
+        "points": 85,
+        "comments": 8,
         "created_at": "2026-08-09T15:26:07.000Z"
       },
       {
