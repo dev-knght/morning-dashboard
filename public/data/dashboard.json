@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-13T19:01:15.168Z",
+  "updatedAt": "2026-08-14T07:22:09.246Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 23.8,
-      "humidity": 81,
-      "wind_kph": 9.8,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 27.1,
+      "humidity": 62,
+      "wind_kph": 22.5,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-08-14",
-      "temp_max_c": 31.8,
-      "temp_min_c": 21.6,
-      "humidity_max": 96,
-      "humidity_min": 39,
-      "wind_kph": 29.8,
+      "date": "2026-08-15",
+      "temp_max_c": 33.6,
+      "temp_min_c": 20.8,
+      "humidity_max": 94,
+      "humidity_min": 37,
+      "wind_kph": 27.6,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4375.78,
+    "goldUSD": 4420.7,
     "oilUSD": 79,
-    "updatedAt": "2026-08-13T19:01:15.168Z",
-    "gold24KUSD": 140.68,
-    "gold21KUSD": 123.1,
-    "gold18KUSD": 105.51,
-    "gold24KJD": 99.75,
-    "gold21KJD": 87.28,
-    "gold18KJD": 74.81
+    "updatedAt": "2026-08-14T07:22:09.246Z",
+    "gold24KUSD": 142.13,
+    "gold21KUSD": 124.36,
+    "gold18KUSD": 106.6,
+    "gold24KJD": 100.77,
+    "gold21KJD": 88.17,
+    "gold18KJD": 75.58
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:47",
+    "fajr": "04:48",
     "maghrib": "19:22",
-    "date": "13 Aug 2013"
+    "date": "14 Aug 2014"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI At Home Part 1: A Box Of Scraps",
-        "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-        "points": 34,
-        "comments": 12,
-        "created_at": "2026-08-13T16:22:05.000Z"
+        "title": "How AI text watermarking works",
+        "url": "https://declaude.org/watermarking/",
+        "points": 107,
+        "comments": 82,
+        "created_at": "2026-08-13T23:16:55.000Z"
       },
       {
-        "title": "Text AI watermarks will always be trivial to remove",
-        "url": "https://www.seangoedecke.com/text-ai-watermarks/",
-        "points": 56,
-        "comments": 58,
-        "created_at": "2026-08-13T15:07:10.000Z"
+        "title": "Airbnb Eval-driven development: Lessons from evaluating GenAI at scale",
+        "url": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788",
+        "points": 16,
+        "comments": 5,
+        "created_at": "2026-08-13T19:26:58.000Z"
       },
       {
-        "title": "Heart aerospace completes first flight of largest electric aircraft",
-        "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
-        "points": 105,
-        "comments": 97,
-        "created_at": "2026-08-13T14:11:51.000Z"
+        "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+        "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+        "points": 97,
+        "comments": 55,
+        "created_at": "2026-08-13T19:25:38.000Z"
       },
       {
-        "title": "AI Generated 3D Models Flood Market, but Almost No One Is Buying Them",
-        "url": "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
-        "points": 31,
-        "comments": 34,
-        "created_at": "2026-08-13T13:57:01.000Z"
+        "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
+        "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
+        "points": 51,
+        "comments": 14,
+        "created_at": "2026-08-13T19:04:52.000Z"
       },
       {
-        "title": "AI agents lie, cheat and steal. That is putting off users",
-        "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
-        "points": 146,
-        "comments": 181,
-        "created_at": "2026-08-13T13:28:45.000Z"
+        "title": "AI Is Threatening Natural Resources for Billions",
+        "url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
+        "points": 54,
+        "comments": 56,
+        "created_at": "2026-08-13T18:28:20.000Z"
       }
     ],
     "vibeCoding": [
@@ -119,8 +119,8 @@
       {
         "title": "What's the best programming language for coding agents?",
         "url": "http://danluu.com/pl-tokens/",
-        "points": 259,
-        "comments": 187,
+        "points": 260,
+        "comments": 188,
         "created_at": "2026-08-10T16:28:58.000Z"
       },
       {
@@ -133,7 +133,7 @@
       {
         "title": "A Tale of Dynamic Programming (2022)",
         "url": "https://iagoleal.com/posts/dynamic-programming/",
-        "points": 89,
+        "points": 91,
         "comments": 13,
         "created_at": "2026-08-09T15:26:07.000Z"
       },
