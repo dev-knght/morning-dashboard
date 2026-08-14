@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-08-14T07:22:09.246Z",
+  "updatedAt": "2026-08-14T18:51:52.324Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 27.1,
-      "humidity": 62,
-      "wind_kph": 22.5,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 23.6,
+      "humidity": 87,
+      "wind_kph": 13.8,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-08-15",
       "temp_max_c": 33.6,
-      "temp_min_c": 20.8,
-      "humidity_max": 94,
-      "humidity_min": 37,
-      "wind_kph": 27.6,
+      "temp_min_c": 20.7,
+      "humidity_max": 93,
+      "humidity_min": 36,
+      "wind_kph": 26,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4420.7,
     "oilUSD": 79,
-    "updatedAt": "2026-08-14T07:22:09.246Z",
+    "updatedAt": "2026-08-14T18:51:52.324Z",
     "gold24KUSD": 142.13,
     "gold21KUSD": 124.36,
     "gold18KUSD": 106.6,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "How AI text watermarking works",
-        "url": "https://declaude.org/watermarking/",
-        "points": 107,
-        "comments": 82,
-        "created_at": "2026-08-13T23:16:55.000Z"
+        "title": "AI by Hand",
+        "url": "https://www.byhand.ai/",
+        "points": 67,
+        "comments": 6,
+        "created_at": "2026-08-14T15:58:59.000Z"
       },
       {
-        "title": "Airbnb Eval-driven development: Lessons from evaluating GenAI at scale",
-        "url": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788",
-        "points": 16,
-        "comments": 5,
-        "created_at": "2026-08-13T19:26:58.000Z"
+        "title": "Google is making private AI practical with homomorphic encryption",
+        "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+        "points": 91,
+        "comments": 66,
+        "created_at": "2026-08-14T15:43:10.000Z"
       },
       {
-        "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-        "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-        "points": 97,
-        "comments": 55,
-        "created_at": "2026-08-13T19:25:38.000Z"
+        "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+        "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+        "points": 160,
+        "comments": 170,
+        "created_at": "2026-08-14T14:34:49.000Z"
       },
       {
-        "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
-        "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
-        "points": 51,
-        "comments": 14,
-        "created_at": "2026-08-13T19:04:52.000Z"
+        "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+        "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+        "points": 35,
+        "comments": 4,
+        "created_at": "2026-08-14T14:22:39.000Z"
       },
       {
-        "title": "AI Is Threatening Natural Resources for Billions",
-        "url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
-        "points": 54,
-        "comments": 56,
-        "created_at": "2026-08-13T18:28:20.000Z"
+        "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+        "url": "https://hashagent.pages.dev/",
+        "points": 38,
+        "comments": 4,
+        "created_at": "2026-08-14T12:57:02.000Z"
       }
     ],
     "vibeCoding": [
@@ -109,6 +109,13 @@
       }
     ],
     "progDb": [
+      {
+        "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+        "url": "https://luacad.ad-si.com",
+        "points": 34,
+        "comments": 6,
+        "created_at": "2026-08-14T16:43:22.000Z"
+      },
       {
         "title": "Five Programming Books That Changed How I Think",
         "url": "https://adamtornhill.substack.com/p/five-programming-books-that-changed",
@@ -136,13 +143,6 @@
         "points": 91,
         "comments": 13,
         "created_at": "2026-08-09T15:26:07.000Z"
-      },
-      {
-        "title": "Choral: Choreographic Programming for Java",
-        "url": "https://www.choral-lang.org/",
-        "points": 43,
-        "comments": 18,
-        "created_at": "2026-08-07T19:21:42.000Z"
       }
     ]
   }
