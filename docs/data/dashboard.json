@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-08-15T06:35:26.610Z",
+  "updatedAt": "2026-08-15T18:26:50.985Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 26.8,
-      "humidity": 65,
-      "wind_kph": 10.8,
+      "temp_c": 25.2,
+      "humidity": 75,
+      "wind_kph": 14.1,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-08-16",
-      "temp_max_c": 34,
-      "temp_min_c": 21.6,
-      "humidity_max": 96,
-      "humidity_min": 26,
-      "wind_kph": 27.6,
+      "temp_max_c": 34.2,
+      "temp_min_c": 21.9,
+      "humidity_max": 97,
+      "humidity_min": 29,
+      "wind_kph": 25.3,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4352.81,
     "oilUSD": 79,
-    "updatedAt": "2026-08-15T06:35:26.610Z",
+    "updatedAt": "2026-08-15T18:26:50.985Z",
     "gold24KUSD": 139.95,
     "gold21KUSD": 122.45,
     "gold18KUSD": 104.96,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Show HN: Deltix – AI Driven Testing",
-        "url": "https://app.deltix.ai",
-        "points": 22,
-        "comments": 7,
-        "created_at": "2026-08-15T02:42:14.000Z"
+        "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+        "points": 28,
+        "comments": 11,
+        "created_at": "2026-08-15T18:13:02.000Z"
       },
       {
-        "title": "Z.ai Security Disclosure",
-        "url": "https://cvd.z.ai",
-        "points": 32,
-        "comments": 4,
-        "created_at": "2026-08-14T19:22:00.000Z"
+        "title": "US to tell partners they must pick sides in AI race with China",
+        "url": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
+        "points": 15,
+        "comments": 5,
+        "created_at": "2026-08-15T16:25:14.000Z"
       },
       {
-        "title": "AI by Hand",
-        "url": "https://www.byhand.ai/",
-        "points": 270,
-        "comments": 20,
-        "created_at": "2026-08-14T15:58:59.000Z"
+        "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+        "url": "https://spectrum.ieee.org/ai-designed-virus",
+        "points": 53,
+        "comments": 90,
+        "created_at": "2026-08-15T15:32:25.000Z"
       },
       {
-        "title": "Google is making private AI practical with homomorphic encryption",
-        "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-        "points": 349,
-        "comments": 205,
-        "created_at": "2026-08-14T15:43:10.000Z"
+        "title": "The AI Situation in Software Development",
+        "url": "https://srikanth.ch/posts/the-ai-situation/",
+        "points": 36,
+        "comments": 58,
+        "created_at": "2026-08-15T14:12:27.000Z"
       },
       {
-        "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-        "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-        "points": 172,
-        "comments": 192,
-        "created_at": "2026-08-14T14:34:49.000Z"
+        "title": "Secondhand book sales are booming. Is it because of AI?",
+        "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+        "points": 58,
+        "comments": 66,
+        "created_at": "2026-08-15T14:08:55.000Z"
       }
     ],
     "vibeCoding": [
@@ -112,8 +112,8 @@
       {
         "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
         "url": "https://luacad.ad-si.com",
-        "points": 89,
-        "comments": 17,
+        "points": 100,
+        "comments": 19,
         "created_at": "2026-08-14T16:43:22.000Z"
       },
       {
