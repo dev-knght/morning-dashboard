@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-15T18:26:50.985Z",
+  "updatedAt": "2026-08-16T06:36:48.095Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 25.2,
-      "humidity": 75,
-      "wind_kph": 14.1,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 26.2,
+      "humidity": 64,
+      "wind_kph": 7.4,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-08-16",
-      "temp_max_c": 34.2,
-      "temp_min_c": 21.9,
-      "humidity_max": 97,
-      "humidity_min": 29,
-      "wind_kph": 25.3,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-08-17",
+      "temp_max_c": 31.1,
+      "temp_min_c": 20.5,
+      "humidity_max": 96,
+      "humidity_min": 36,
+      "wind_kph": 27.4,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4352.81,
+    "goldUSD": 4376.29,
     "oilUSD": 79,
-    "updatedAt": "2026-08-15T18:26:50.985Z",
-    "gold24KUSD": 139.95,
-    "gold21KUSD": 122.45,
-    "gold18KUSD": 104.96,
-    "gold24KJD": 99.22,
-    "gold21KJD": 86.82,
-    "gold18KJD": 74.42
+    "updatedAt": "2026-08-16T06:36:48.095Z",
+    "gold24KUSD": 140.7,
+    "gold21KUSD": 123.11,
+    "gold18KUSD": 105.53,
+    "gold24KJD": 99.76,
+    "gold21KJD": 87.29,
+    "gold18KJD": 74.82
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:48",
-    "maghrib": "19:21",
-    "date": "15 Aug 2015"
+    "fajr": "04:50",
+    "maghrib": "19:19",
+    "date": "16 Aug 2016"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-        "points": 28,
-        "comments": 11,
-        "created_at": "2026-08-15T18:13:02.000Z"
+        "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+        "url": "https://arxiv.org/abs/2608.13122",
+        "points": 20,
+        "comments": 2,
+        "created_at": "2026-08-15T22:41:51.000Z"
       },
       {
-        "title": "US to tell partners they must pick sides in AI race with China",
-        "url": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
-        "points": 15,
-        "comments": 5,
-        "created_at": "2026-08-15T16:25:14.000Z"
+        "title": "Meta will train its AI on Newsmax, a far-right media outlet",
+        "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+        "points": 21,
+        "comments": 13,
+        "created_at": "2026-08-15T20:00:14.000Z"
       },
       {
-        "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-        "url": "https://spectrum.ieee.org/ai-designed-virus",
-        "points": 53,
-        "comments": 90,
-        "created_at": "2026-08-15T15:32:25.000Z"
-      },
-      {
-        "title": "The AI Situation in Software Development",
-        "url": "https://srikanth.ch/posts/the-ai-situation/",
-        "points": 36,
+        "title": "Why tech bosses keep sharing their manifestos about AI",
+        "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+        "points": 21,
         "comments": 58,
-        "created_at": "2026-08-15T14:12:27.000Z"
+        "created_at": "2026-08-15T19:30:32.000Z"
       },
       {
-        "title": "Secondhand book sales are booming. Is it because of AI?",
-        "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-        "points": 58,
-        "comments": 66,
-        "created_at": "2026-08-15T14:08:55.000Z"
+        "title": "AI in drug discovery – what it is, where we stand and the path forward",
+        "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+        "points": 126,
+        "comments": 62,
+        "created_at": "2026-08-15T19:12:53.000Z"
+      },
+      {
+        "title": "AI has access to a vastly larger working memory than the human brain",
+        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+        "points": 465,
+        "comments": 403,
+        "created_at": "2026-08-15T18:13:02.000Z"
       }
     ],
     "vibeCoding": [
@@ -110,11 +110,25 @@
     ],
     "progDb": [
       {
+        "title": "The quirky personal homepages of programming language creators",
+        "url": "https://breck.lol/plMakers.html",
+        "points": 55,
+        "comments": 16,
+        "created_at": "2026-08-16T04:24:00.000Z"
+      },
+      {
         "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
         "url": "https://luacad.ad-si.com",
-        "points": 100,
-        "comments": 19,
+        "points": 102,
+        "comments": 23,
         "created_at": "2026-08-14T16:43:22.000Z"
+      },
+      {
+        "title": "Jaithon 3, a fast programming language with the perfect syntax",
+        "url": "https://github.com/abhiramasonny/jaithon",
+        "points": 32,
+        "comments": 36,
+        "created_at": "2026-08-11T23:13:57.000Z"
       },
       {
         "title": "Five Programming Books That Changed How I Think",
@@ -129,20 +143,6 @@
         "points": 261,
         "comments": 188,
         "created_at": "2026-08-10T16:28:58.000Z"
-      },
-      {
-        "title": "How do programming languages impact token efficiency and correctness?",
-        "url": "https://danluu.com/pl-tokens/",
-        "points": 18,
-        "comments": 1,
-        "created_at": "2026-08-10T04:26:40.000Z"
-      },
-      {
-        "title": "A Tale of Dynamic Programming (2022)",
-        "url": "https://iagoleal.com/posts/dynamic-programming/",
-        "points": 91,
-        "comments": 13,
-        "created_at": "2026-08-09T15:26:07.000Z"
       }
     ]
   }
