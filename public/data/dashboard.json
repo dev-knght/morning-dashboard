@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-08-16T06:36:48.095Z",
+  "updatedAt": "2026-08-16T18:26:47.563Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 26.2,
-      "humidity": 64,
-      "wind_kph": 7.4,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 24.7,
+      "humidity": 68,
+      "wind_kph": 12,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-08-17",
-      "temp_max_c": 31.1,
-      "temp_min_c": 20.5,
+      "temp_max_c": 31.5,
+      "temp_min_c": 21,
       "humidity_max": 96,
-      "humidity_min": 36,
-      "wind_kph": 27.4,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "humidity_min": 33,
+      "wind_kph": 26.8,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
     "goldUSD": 4376.29,
     "oilUSD": 79,
-    "updatedAt": "2026-08-16T06:36:48.095Z",
+    "updatedAt": "2026-08-16T18:26:47.563Z",
     "gold24KUSD": 140.7,
     "gold21KUSD": 123.11,
     "gold18KUSD": 105.53,
@@ -64,42 +64,49 @@
   "news": {
     "ai": [
       {
+        "title": "The AI Credit Resale Economy",
+        "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+        "points": 139,
+        "comments": 56,
+        "created_at": "2026-08-16T14:44:55.000Z"
+      },
+      {
+        "title": "Show HN: A public AI whose memory is shared across all users",
+        "url": "https://wildstatic.com/",
+        "points": 45,
+        "comments": 31,
+        "created_at": "2026-08-16T13:21:45.000Z"
+      },
+      {
+        "title": "AI Coding Without the Vibes",
+        "url": "https://peterbloem.nl/blog/craft-coding",
+        "points": 51,
+        "comments": 28,
+        "created_at": "2026-08-16T10:31:36.000Z"
+      },
+      {
+        "title": "Has the hallucination problem in AI been solved?",
+        "url": "https://news.ycombinator.com/item?id=49316330",
+        "points": 13,
+        "comments": 41,
+        "created_at": "2026-08-16T02:23:52.000Z"
+      },
+      {
         "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
         "url": "https://arxiv.org/abs/2608.13122",
-        "points": 20,
-        "comments": 2,
+        "points": 46,
+        "comments": 5,
         "created_at": "2026-08-15T22:41:51.000Z"
-      },
-      {
-        "title": "Meta will train its AI on Newsmax, a far-right media outlet",
-        "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
-        "points": 21,
-        "comments": 13,
-        "created_at": "2026-08-15T20:00:14.000Z"
-      },
-      {
-        "title": "Why tech bosses keep sharing their manifestos about AI",
-        "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
-        "points": 21,
-        "comments": 58,
-        "created_at": "2026-08-15T19:30:32.000Z"
-      },
-      {
-        "title": "AI in drug discovery – what it is, where we stand and the path forward",
-        "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-        "points": 126,
-        "comments": 62,
-        "created_at": "2026-08-15T19:12:53.000Z"
-      },
-      {
-        "title": "AI has access to a vastly larger working memory than the human brain",
-        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-        "points": 465,
-        "comments": 403,
-        "created_at": "2026-08-15T18:13:02.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "AI Coding Without the Vibes",
+        "url": "https://peterbloem.nl/blog/craft-coding",
+        "points": 51,
+        "comments": 28,
+        "created_at": "2026-08-16T10:31:36.000Z"
+      },
       {
         "title": "I've vibe coded an application to see what it's like",
         "url": "https://rz01.org/vibecoding/",
@@ -112,22 +119,29 @@
       {
         "title": "The quirky personal homepages of programming language creators",
         "url": "https://breck.lol/plMakers.html",
-        "points": 55,
-        "comments": 16,
+        "points": 63,
+        "comments": 18,
         "created_at": "2026-08-16T04:24:00.000Z"
       },
       {
         "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
         "url": "https://luacad.ad-si.com",
-        "points": 102,
+        "points": 104,
         "comments": 23,
         "created_at": "2026-08-14T16:43:22.000Z"
       },
       {
+        "title": "The Programming Ape (Code Hale, 2012) [video]",
+        "url": "https://www.youtube.com/watch?v=e_6gkfTomUQ",
+        "points": 11,
+        "comments": 0,
+        "created_at": "2026-08-12T00:37:44.000Z"
+      },
+      {
         "title": "Jaithon 3, a fast programming language with the perfect syntax",
         "url": "https://github.com/abhiramasonny/jaithon",
-        "points": 32,
-        "comments": 36,
+        "points": 43,
+        "comments": 50,
         "created_at": "2026-08-11T23:13:57.000Z"
       },
       {
@@ -136,13 +150,6 @@
         "points": 43,
         "comments": 7,
         "created_at": "2026-08-11T19:10:06.000Z"
-      },
-      {
-        "title": "What's the best programming language for coding agents?",
-        "url": "http://danluu.com/pl-tokens/",
-        "points": 261,
-        "comments": 188,
-        "created_at": "2026-08-10T16:28:58.000Z"
       }
     ]
   }
