@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-17T06:52:08.652Z",
+  "updatedAt": "2026-08-17T18:36:20.574Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 25.3,
-      "humidity": 67,
-      "wind_kph": 13.7,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 22.2,
+      "humidity": 77,
+      "wind_kph": 15.9,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-08-18",
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4376.5,
     "oilUSD": 79,
-    "updatedAt": "2026-08-17T06:52:08.652Z",
+    "updatedAt": "2026-08-17T18:36:20.574Z",
     "gold24KUSD": 140.71,
     "gold21KUSD": 123.12,
     "gold18KUSD": 105.53,
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-        "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-        "points": 14,
-        "comments": 2,
-        "created_at": "2026-08-16T23:07:07.000Z"
+        "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+        "url": "https://speko.ai/",
+        "points": 58,
+        "comments": 32,
+        "created_at": "2026-08-17T15:36:18.000Z"
       },
       {
-        "title": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
-        "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-        "points": 26,
-        "comments": 41,
-        "created_at": "2026-08-16T22:50:38.000Z"
+        "title": "Anthropic's War on open source AI",
+        "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+        "points": 94,
+        "comments": 35,
+        "created_at": "2026-08-17T15:24:34.000Z"
       },
       {
-        "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-        "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-        "points": 108,
-        "comments": 112,
-        "created_at": "2026-08-16T21:34:06.000Z"
+        "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
+        "url": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
+        "points": 45,
+        "comments": 47,
+        "created_at": "2026-08-17T14:30:09.000Z"
       },
       {
-        "title": "Red queen hypothesis – A new way forward for self-improving AI",
-        "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-        "points": 40,
-        "comments": 6,
-        "created_at": "2026-08-16T20:01:13.000Z"
+        "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+        "points": 197,
+        "comments": 90,
+        "created_at": "2026-08-17T14:18:38.000Z"
       },
       {
-        "title": "The AI Credit Resale Economy",
-        "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-        "points": 266,
-        "comments": 113,
-        "created_at": "2026-08-16T14:44:55.000Z"
+        "title": "How to disable or avoid intrusive AI",
+        "url": "https://www.librarian.net/notoai/",
+        "points": 146,
+        "comments": 64,
+        "created_at": "2026-08-17T14:07:56.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "AI Coding Without the Vibes",
         "url": "https://peterbloem.nl/blog/craft-coding",
-        "points": 82,
-        "comments": 49,
+        "points": 94,
+        "comments": 55,
         "created_at": "2026-08-16T10:31:36.000Z"
       },
       {
@@ -119,22 +119,22 @@
       {
         "title": "The quirky personal homepages of programming language creators",
         "url": "https://breck.lol/plMakers.html",
-        "points": 63,
+        "points": 64,
         "comments": 20,
         "created_at": "2026-08-16T04:24:00.000Z"
       },
       {
         "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
         "url": "https://luacad.ad-si.com",
-        "points": 104,
-        "comments": 23,
+        "points": 105,
+        "comments": 25,
         "created_at": "2026-08-14T16:43:22.000Z"
       },
       {
         "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
         "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
-        "points": 105,
-        "comments": 43,
+        "points": 135,
+        "comments": 63,
         "created_at": "2026-08-13T12:44:05.000Z"
       },
       {
