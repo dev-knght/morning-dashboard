@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-08-18T06:40:07.793Z",
+  "updatedAt": "2026-08-18T18:35:51.531Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 24.5,
-      "humidity": 62,
-      "wind_kph": 13.7,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 22.8,
+      "humidity": 77,
+      "wind_kph": 12,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-08-19",
-      "temp_max_c": 32.1,
-      "temp_min_c": 18.6,
-      "humidity_max": 93,
-      "humidity_min": 33,
-      "wind_kph": 23.7,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_max_c": 32.8,
+      "temp_min_c": 19,
+      "humidity_max": 95,
+      "humidity_min": 26,
+      "wind_kph": 22.6,
+      "weather_code": 45,
+      "weather_desc": "Fog"
     }
   },
   "metals": {
     "goldUSD": 4378.38,
     "oilUSD": 79,
-    "updatedAt": "2026-08-18T06:40:07.793Z",
+    "updatedAt": "2026-08-18T18:35:51.531Z",
     "gold24KUSD": 140.77,
     "gold21KUSD": 123.17,
     "gold18KUSD": 105.58,
@@ -64,46 +64,46 @@
   "news": {
     "ai": [
       {
+        "title": "AI Alignment as a Thought-Terminating Cliche",
+        "url": "https://borretti.me/article/ai-alignment-as-thought-terminating-cliche",
+        "points": 17,
+        "comments": 5,
+        "created_at": "2026-08-18T13:33:28.000Z"
+      },
+      {
+        "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
+        "url": "https://github.com/mukundzha/avouch",
+        "points": 22,
+        "comments": 19,
+        "created_at": "2026-08-18T13:13:17.000Z"
+      },
+      {
+        "title": "Google has acquired the data of failed US airline Spirit",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+        "points": 497,
+        "comments": 347,
+        "created_at": "2026-08-18T10:13:28.000Z"
+      },
+      {
         "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
         "url": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
-        "points": 64,
-        "comments": 27,
+        "points": 92,
+        "comments": 38,
         "created_at": "2026-08-18T00:29:15.000Z"
       },
       {
-        "title": "Google to buy Spirit Airlines business data for $10M",
-        "url": "https://www.reuters.com/legal/litigation/google-buy-spirit-airlines-business-data-10-million-2026-08-17/",
-        "points": 36,
-        "comments": 3,
-        "created_at": "2026-08-17T23:12:51.000Z"
-      },
-      {
-        "title": "My friends all hate AI; I just joined an AI startup",
-        "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
-        "points": 39,
-        "comments": 119,
-        "created_at": "2026-08-17T21:47:30.000Z"
-      },
-      {
-        "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-        "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-        "points": 341,
-        "comments": 214,
-        "created_at": "2026-08-17T20:46:10.000Z"
-      },
-      {
-        "title": "AI;DR (AI; Didn't Read)",
-        "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-        "points": 769,
-        "comments": 491,
-        "created_at": "2026-08-17T19:47:15.000Z"
+        "title": "Consumers Prefer AI Music Until They're Told It's AI",
+        "url": "https://www.promarket.org/2026/05/04/consumers-prefer-ai-music-until-theyre-told-its-ai/",
+        "points": 15,
+        "comments": 5,
+        "created_at": "2026-08-18T00:15:23.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "AI Coding Without the Vibes",
         "url": "https://peterbloem.nl/blog/craft-coding",
-        "points": 97,
+        "points": 98,
         "comments": 55,
         "created_at": "2026-08-16T10:31:36.000Z"
       },
@@ -116,6 +116,13 @@
       }
     ],
     "progDb": [
+      {
+        "title": "Rethinking Database Programming",
+        "url": "https://acadia.engineering/blog/rethinking-database-programming",
+        "points": 199,
+        "comments": 102,
+        "created_at": "2026-08-18T07:28:27.000Z"
+      },
       {
         "title": "The quirky personal homepages of programming language creators",
         "url": "https://breck.lol/plMakers.html",
@@ -134,7 +141,7 @@
         "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
         "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
         "points": 136,
-        "comments": 68,
+        "comments": 69,
         "created_at": "2026-08-13T12:44:05.000Z"
       },
       {
@@ -143,13 +150,6 @@
         "points": 11,
         "comments": 10,
         "created_at": "2026-08-12T22:17:16.000Z"
-      },
-      {
-        "title": "The Programming Ape (Code Hale, 2012) [video]",
-        "url": "https://www.youtube.com/watch?v=e_6gkfTomUQ",
-        "points": 11,
-        "comments": 0,
-        "created_at": "2026-08-12T00:37:44.000Z"
       }
     ]
   }
