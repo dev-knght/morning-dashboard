@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-08-19T06:40:30.743Z",
+  "updatedAt": "2026-08-19T18:32:59.876Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 25,
-      "humidity": 57,
-      "wind_kph": 7,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 23.4,
+      "humidity": 62,
+      "wind_kph": 4.7,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-08-20",
-      "temp_max_c": 36.4,
-      "temp_min_c": 18.6,
-      "humidity_max": 71,
+      "temp_max_c": 35.6,
+      "temp_min_c": 18.4,
+      "humidity_max": 68,
       "humidity_min": 17,
-      "wind_kph": 19.1,
+      "wind_kph": 18.1,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4420.18,
     "oilUSD": 79,
-    "updatedAt": "2026-08-19T06:40:30.743Z",
+    "updatedAt": "2026-08-19T18:32:59.876Z",
     "gold24KUSD": 142.11,
     "gold21KUSD": 124.35,
     "gold18KUSD": 106.58,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI usage patterns in software teams",
-        "url": "https://linear.app/data",
-        "points": 108,
-        "comments": 56,
-        "created_at": "2026-08-18T22:08:07.000Z"
+        "title": "Mathematics in the Age of AI",
+        "url": "https://arxiv.org/abs/2608.16753",
+        "points": 31,
+        "comments": 15,
+        "created_at": "2026-08-19T15:14:25.000Z"
       },
       {
-        "title": "OpenAI Is Slowing Down Its AI Training",
-        "url": "https://time.com/article/2026/08/18/openai-slowing-training/",
+        "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
+        "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
+        "points": 17,
+        "comments": 19,
+        "created_at": "2026-08-19T13:28:44.000Z"
+      },
+      {
+        "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+        "url": "https://theremin.bizibah.com/",
+        "points": 188,
+        "comments": 70,
+        "created_at": "2026-08-19T10:15:00.000Z"
+      },
+      {
+        "title": "Does AI stop children from learning?",
+        "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+        "points": 25,
+        "comments": 9,
+        "created_at": "2026-08-19T06:13:31.000Z"
+      },
+      {
+        "title": "She told no one about her agony except ChatGPT. What her death reveals about AI",
+        "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
         "points": 13,
-        "comments": 3,
-        "created_at": "2026-08-18T19:46:28.000Z"
-      },
-      {
-        "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
-        "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
-        "points": 13,
-        "comments": 3,
-        "created_at": "2026-08-18T19:28:09.000Z"
-      },
-      {
-        "title": "Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt",
-        "url": "https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/",
-        "points": 18,
         "comments": 2,
-        "created_at": "2026-08-18T19:24:05.000Z"
-      },
-      {
-        "title": "U.S. to tell partners they must pick sides in AI race with China",
-        "url": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
-        "points": 13,
-        "comments": 1,
-        "created_at": "2026-08-18T19:09:00.000Z"
+        "created_at": "2026-08-19T02:09:31.000Z"
       }
     ],
     "vibeCoding": [
@@ -104,7 +104,7 @@
         "title": "AI Coding Without the Vibes",
         "url": "https://peterbloem.nl/blog/craft-coding",
         "points": 98,
-        "comments": 55,
+        "comments": 58,
         "created_at": "2026-08-16T10:31:36.000Z"
       },
       {
@@ -117,10 +117,24 @@
     ],
     "progDb": [
       {
+        "title": "Geolocating a random island using geometry and CUDA programming",
+        "url": "https://yassa9.github.io/osint/gralhix-004/",
+        "points": 296,
+        "comments": 55,
+        "created_at": "2026-08-19T12:19:52.000Z"
+      },
+      {
+        "title": "λλ: A Programming Language for Silicon Photonics",
+        "url": "https://dl.acm.org/doi/10.1145/3789240.3829151",
+        "points": 80,
+        "comments": 17,
+        "created_at": "2026-08-19T06:09:16.000Z"
+      },
+      {
         "title": "Rethinking Database Programming",
         "url": "https://acadia.engineering/blog/rethinking-database-programming",
-        "points": 236,
-        "comments": 133,
+        "points": 252,
+        "comments": 147,
         "created_at": "2026-08-18T07:28:27.000Z"
       },
       {
@@ -136,20 +150,6 @@
         "points": 105,
         "comments": 25,
         "created_at": "2026-08-14T16:43:22.000Z"
-      },
-      {
-        "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
-        "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
-        "points": 137,
-        "comments": 69,
-        "created_at": "2026-08-13T12:44:05.000Z"
-      },
-      {
-        "title": "I stopped caring about programming terms",
-        "url": "https://teadriven.com/blog/why-i-stopped-caring-about-terminology/",
-        "points": 14,
-        "comments": 18,
-        "created_at": "2026-08-12T22:17:16.000Z"
       }
     ]
   }
