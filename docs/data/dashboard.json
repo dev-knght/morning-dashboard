@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-19T18:32:59.876Z",
+  "updatedAt": "2026-08-20T06:41:54.780Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 23.4,
-      "humidity": 62,
-      "wind_kph": 4.7,
+      "temp_c": 25.6,
+      "humidity": 59,
+      "wind_kph": 6.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-08-20",
-      "temp_max_c": 35.6,
-      "temp_min_c": 18.4,
-      "humidity_max": 68,
-      "humidity_min": 17,
-      "wind_kph": 18.1,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "date": "2026-08-21",
+      "temp_max_c": 36,
+      "temp_min_c": 21.1,
+      "humidity_max": 96,
+      "humidity_min": 31,
+      "wind_kph": 23.7,
+      "weather_code": 45,
+      "weather_desc": "Fog"
     }
   },
   "metals": {
-    "goldUSD": 4420.18,
+    "goldUSD": 4341.83,
     "oilUSD": 79,
-    "updatedAt": "2026-08-19T18:32:59.876Z",
-    "gold24KUSD": 142.11,
-    "gold21KUSD": 124.35,
-    "gold18KUSD": 106.58,
-    "gold24KJD": 100.76,
-    "gold21KJD": 88.16,
-    "gold18KJD": 75.57
+    "updatedAt": "2026-08-20T06:41:54.780Z",
+    "gold24KUSD": 139.59,
+    "gold21KUSD": 122.14,
+    "gold18KUSD": 104.69,
+    "gold24KJD": 98.97,
+    "gold21KJD": 86.6,
+    "gold18KJD": 74.23
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:52",
-    "maghrib": "19:16",
-    "date": "19 Aug 2019"
+    "fajr": "04:53",
+    "maghrib": "19:15",
+    "date": "20 Aug 2020"
   },
   "events": [
     {
@@ -64,42 +64,49 @@
   "news": {
     "ai": [
       {
-        "title": "Mathematics in the Age of AI",
+        "title": "PINE64 halts their open-source hardware manufacturing until the AI bubble bursts",
+        "url": "https://www.hackster.io/news/pine64-calls-time-on-the-linux-hardware-market-ceases-production-until-the-ai-bubble-bursts-a865c8345041",
+        "points": 14,
+        "comments": 1,
+        "created_at": "2026-08-19T22:20:14.000Z"
+      },
+      {
+        "title": "Japan to require AI firms to disclose training data",
+        "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
+        "points": 16,
+        "comments": 4,
+        "created_at": "2026-08-19T22:12:52.000Z"
+      },
+      {
+        "title": "Mathematics in the age of AI",
         "url": "https://arxiv.org/abs/2608.16753",
-        "points": 31,
-        "comments": 15,
+        "points": 152,
+        "comments": 182,
         "created_at": "2026-08-19T15:14:25.000Z"
+      },
+      {
+        "title": "Ask HN: What's the endgame of the AI comments buried in every post?",
+        "url": "https://news.ycombinator.com/item?id=49362305",
+        "points": 11,
+        "comments": 9,
+        "created_at": "2026-08-19T14:40:45.000Z"
       },
       {
         "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
         "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
-        "points": 17,
-        "comments": 19,
+        "points": 21,
+        "comments": 21,
         "created_at": "2026-08-19T13:28:44.000Z"
-      },
-      {
-        "title": "Air Theremin – a browser theremin you play by waving at your webcam",
-        "url": "https://theremin.bizibah.com/",
-        "points": 188,
-        "comments": 70,
-        "created_at": "2026-08-19T10:15:00.000Z"
-      },
-      {
-        "title": "Does AI stop children from learning?",
-        "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-        "points": 25,
-        "comments": 9,
-        "created_at": "2026-08-19T06:13:31.000Z"
-      },
-      {
-        "title": "She told no one about her agony except ChatGPT. What her death reveals about AI",
-        "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
-        "points": 13,
-        "comments": 2,
-        "created_at": "2026-08-19T02:09:31.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
+        "url": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
+        "points": 19,
+        "comments": 3,
+        "created_at": "2026-08-20T00:18:16.000Z"
+      },
       {
         "title": "AI Coding Without the Vibes",
         "url": "https://peterbloem.nl/blog/craft-coding",
@@ -119,22 +126,22 @@
       {
         "title": "Geolocating a random island using geometry and CUDA programming",
         "url": "https://yassa9.github.io/osint/gralhix-004/",
-        "points": 296,
-        "comments": 55,
+        "points": 454,
+        "comments": 77,
         "created_at": "2026-08-19T12:19:52.000Z"
       },
       {
         "title": "λλ: A Programming Language for Silicon Photonics",
         "url": "https://dl.acm.org/doi/10.1145/3789240.3829151",
-        "points": 80,
+        "points": 87,
         "comments": 17,
         "created_at": "2026-08-19T06:09:16.000Z"
       },
       {
         "title": "Rethinking Database Programming",
         "url": "https://acadia.engineering/blog/rethinking-database-programming",
-        "points": 252,
-        "comments": 147,
+        "points": 255,
+        "comments": 150,
         "created_at": "2026-08-18T07:28:27.000Z"
       },
       {
@@ -147,7 +154,7 @@
       {
         "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
         "url": "https://luacad.ad-si.com",
-        "points": 105,
+        "points": 106,
         "comments": 25,
         "created_at": "2026-08-14T16:43:22.000Z"
       }
