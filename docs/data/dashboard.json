@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-08-20T06:41:54.780Z",
+  "updatedAt": "2026-08-20T18:36:19.412Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 25.6,
-      "humidity": 59,
-      "wind_kph": 6.6,
+      "temp_c": 26.5,
+      "humidity": 66,
+      "wind_kph": 7.9,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-08-21",
-      "temp_max_c": 36,
-      "temp_min_c": 21.1,
+      "temp_max_c": 35.5,
+      "temp_min_c": 22.1,
       "humidity_max": 96,
-      "humidity_min": 31,
-      "wind_kph": 23.7,
+      "humidity_min": 36,
+      "wind_kph": 23.6,
       "weather_code": 45,
       "weather_desc": "Fog"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4341.83,
     "oilUSD": 79,
-    "updatedAt": "2026-08-20T06:41:54.780Z",
+    "updatedAt": "2026-08-20T18:36:19.412Z",
     "gold24KUSD": 139.59,
     "gold21KUSD": 122.14,
     "gold18KUSD": 104.69,
@@ -64,54 +64,54 @@
   "news": {
     "ai": [
       {
-        "title": "PINE64 halts their open-source hardware manufacturing until the AI bubble bursts",
-        "url": "https://www.hackster.io/news/pine64-calls-time-on-the-linux-hardware-market-ceases-production-until-the-ai-bubble-bursts-a865c8345041",
+        "title": "Anti-AI fonts are useless and harmful",
+        "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+        "points": 61,
+        "comments": 49,
+        "created_at": "2026-08-20T15:06:53.000Z"
+      },
+      {
+        "title": "Could AIs Become Conscious?",
+        "url": "https://economist.com/leaders/2026/08/20/could-ais-become-conscious",
         "points": 14,
-        "comments": 1,
-        "created_at": "2026-08-19T22:20:14.000Z"
+        "comments": 29,
+        "created_at": "2026-08-20T14:47:12.000Z"
       },
       {
-        "title": "Japan to require AI firms to disclose training data",
-        "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
-        "points": 16,
+        "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
+        "url": "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
+        "points": 13,
         "comments": 4,
-        "created_at": "2026-08-19T22:12:52.000Z"
+        "created_at": "2026-08-20T13:26:37.000Z"
       },
       {
-        "title": "Mathematics in the age of AI",
-        "url": "https://arxiv.org/abs/2608.16753",
-        "points": 152,
-        "comments": 182,
-        "created_at": "2026-08-19T15:14:25.000Z"
+        "title": "Google's AI photoscanner can determine body fat through selfies",
+        "url": "https://arxiv.org/abs/2603.27017",
+        "points": 12,
+        "comments": 4,
+        "created_at": "2026-08-20T12:06:37.000Z"
       },
       {
-        "title": "Ask HN: What's the endgame of the AI comments buried in every post?",
-        "url": "https://news.ycombinator.com/item?id=49362305",
-        "points": 11,
-        "comments": 9,
-        "created_at": "2026-08-19T14:40:45.000Z"
-      },
-      {
-        "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
-        "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
-        "points": 21,
-        "comments": 21,
-        "created_at": "2026-08-19T13:28:44.000Z"
+        "title": "AI didn't erase the junior engineer's value, it increased it it",
+        "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+        "points": 65,
+        "comments": 122,
+        "created_at": "2026-08-20T11:42:20.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
         "url": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
-        "points": 19,
-        "comments": 3,
+        "points": 24,
+        "comments": 11,
         "created_at": "2026-08-20T00:18:16.000Z"
       },
       {
         "title": "AI Coding Without the Vibes",
         "url": "https://peterbloem.nl/blog/craft-coding",
         "points": 98,
-        "comments": 58,
+        "comments": 57,
         "created_at": "2026-08-16T10:31:36.000Z"
       },
       {
@@ -124,39 +124,39 @@
     ],
     "progDb": [
       {
+        "title": "Autolith: A programming agent with a live runtime",
+        "url": "https://www.lambda-symbolics.com/autolith",
+        "points": 20,
+        "comments": 0,
+        "created_at": "2026-08-20T15:40:57.000Z"
+      },
+      {
+        "title": "Show HN: LilScript makes JavaScript libraries smaller",
+        "url": "https://news.ycombinator.com/item?id=49374554",
+        "points": 14,
+        "comments": 2,
+        "created_at": "2026-08-20T13:50:02.000Z"
+      },
+      {
         "title": "Geolocating a random island using geometry and CUDA programming",
         "url": "https://yassa9.github.io/osint/gralhix-004/",
-        "points": 454,
-        "comments": 77,
+        "points": 513,
+        "comments": 83,
         "created_at": "2026-08-19T12:19:52.000Z"
       },
       {
         "title": "λλ: A Programming Language for Silicon Photonics",
         "url": "https://dl.acm.org/doi/10.1145/3789240.3829151",
-        "points": 87,
+        "points": 91,
         "comments": 17,
         "created_at": "2026-08-19T06:09:16.000Z"
       },
       {
         "title": "Rethinking Database Programming",
         "url": "https://acadia.engineering/blog/rethinking-database-programming",
-        "points": 255,
-        "comments": 150,
+        "points": 257,
+        "comments": 154,
         "created_at": "2026-08-18T07:28:27.000Z"
-      },
-      {
-        "title": "The quirky personal homepages of programming language creators",
-        "url": "https://breck.lol/plMakers.html",
-        "points": 64,
-        "comments": 21,
-        "created_at": "2026-08-16T04:24:00.000Z"
-      },
-      {
-        "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-        "url": "https://luacad.ad-si.com",
-        "points": 106,
-        "comments": 25,
-        "created_at": "2026-08-14T16:43:22.000Z"
       }
     ]
   }
