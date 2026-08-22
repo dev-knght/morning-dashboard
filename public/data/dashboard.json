@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-08-22T06:36:58.159Z",
+  "updatedAt": "2026-08-22T18:27:58.408Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 26.1,
-      "humidity": 70,
-      "wind_kph": 15.9,
+      "temp_c": 24,
+      "humidity": 87,
+      "wind_kph": 22.5,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-08-23",
-      "temp_max_c": 32.4,
+      "temp_max_c": 32.5,
       "temp_min_c": 21.6,
       "humidity_max": 94,
-      "humidity_min": 44,
-      "wind_kph": 28.5,
+      "humidity_min": 43,
+      "wind_kph": 28.2,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4520.01,
     "oilUSD": 79,
-    "updatedAt": "2026-08-22T06:36:58.159Z",
+    "updatedAt": "2026-08-22T18:27:58.408Z",
     "gold24KUSD": 145.32,
     "gold21KUSD": 127.16,
     "gold18KUSD": 108.99,
@@ -64,46 +64,53 @@
   "news": {
     "ai": [
       {
+        "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+        "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+        "points": 32,
+        "comments": 51,
+        "created_at": "2026-08-22T16:23:09.000Z"
+      },
+      {
+        "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+        "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+        "points": 46,
+        "comments": 61,
+        "created_at": "2026-08-22T14:13:05.000Z"
+      },
+      {
+        "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
+        "url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
+        "points": 15,
+        "comments": 3,
+        "created_at": "2026-08-22T11:27:29.000Z"
+      },
+      {
+        "title": "Embedded AI",
+        "url": "https://nostarch.com/embedded-ai",
+        "points": 30,
+        "comments": 9,
+        "created_at": "2026-08-22T09:07:26.000Z"
+      },
+      {
         "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
         "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-        "points": 13,
+        "points": 15,
         "comments": 1,
         "created_at": "2026-08-21T20:52:10.000Z"
-      },
-      {
-        "title": "I'm Sick of Reading AI-Written Posts",
-        "url": "https://cyb3rops.medium.com/im-sick-of-reading-ai-written-posts-107767481fbf",
-        "points": 15,
-        "comments": 5,
-        "created_at": "2026-08-21T19:01:21.000Z"
-      },
-      {
-        "title": "AI boosted homework scores, then exam scores dropped: Study",
-        "url": "https://canews24.online/?p=71",
-        "points": 165,
-        "comments": 9,
-        "created_at": "2026-08-21T15:25:42.000Z"
-      },
-      {
-        "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
-        "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
-        "points": 15,
-        "comments": 0,
-        "created_at": "2026-08-21T15:21:10.000Z"
-      },
-      {
-        "title": "AI;DR or Don't be a meat proxy",
-        "url": "https://theaspiringnerd.com/aidr-or-dont-be-a-meat-proxy/",
-        "points": 17,
-        "comments": 7,
-        "created_at": "2026-08-21T12:25:45.000Z"
       }
     ],
     "vibeCoding": [
       {
+        "title": "Coding Agents killed my identity. How do you feel?",
+        "url": "https://news.ycombinator.com/item?id=49389408",
+        "points": 16,
+        "comments": 32,
+        "created_at": "2026-08-21T15:15:14.000Z"
+      },
+      {
         "title": "Vibecoding isn't as fun as writing code by hand",
         "url": "https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/",
-        "points": 16,
+        "points": 17,
         "comments": 5,
         "created_at": "2026-08-21T13:28:01.000Z"
       },
@@ -131,10 +138,17 @@
     ],
     "progDb": [
       {
+        "title": "Coding Agents killed my identity. How do you feel?",
+        "url": "https://news.ycombinator.com/item?id=49389408",
+        "points": 16,
+        "comments": 32,
+        "created_at": "2026-08-21T15:15:14.000Z"
+      },
+      {
         "title": "Autolith: A programming agent with a live runtime",
         "url": "https://www.lambda-symbolics.com/autolith",
-        "points": 56,
-        "comments": 16,
+        "points": 80,
+        "comments": 41,
         "created_at": "2026-08-20T15:40:57.000Z"
       },
       {
@@ -148,7 +162,7 @@
         "title": "Geolocating a random island using geometry and CUDA programming",
         "url": "https://yassa9.github.io/osint/gralhix-004/",
         "points": 524,
-        "comments": 87,
+        "comments": 88,
         "created_at": "2026-08-19T12:19:52.000Z"
       },
       {
@@ -157,13 +171,6 @@
         "points": 91,
         "comments": 18,
         "created_at": "2026-08-19T06:09:16.000Z"
-      },
-      {
-        "title": "Rethinking Database Programming",
-        "url": "https://acadia.engineering/blog/rethinking-database-programming",
-        "points": 258,
-        "comments": 160,
-        "created_at": "2026-08-18T07:28:27.000Z"
       }
     ]
   }
