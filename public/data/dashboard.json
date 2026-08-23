@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-22T18:27:58.408Z",
+  "updatedAt": "2026-08-23T06:38:05.384Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 24,
-      "humidity": 87,
-      "wind_kph": 22.5,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 26,
+      "humidity": 66,
+      "wind_kph": 14.8,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-08-23",
-      "temp_max_c": 32.5,
-      "temp_min_c": 21.6,
-      "humidity_max": 94,
-      "humidity_min": 43,
-      "wind_kph": 28.2,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "date": "2026-08-24",
+      "temp_max_c": 33.3,
+      "temp_min_c": 19.7,
+      "humidity_max": 78,
+      "humidity_min": 30,
+      "wind_kph": 24.8,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     }
   },
   "metals": {
-    "goldUSD": 4520.01,
+    "goldUSD": 4603.36,
     "oilUSD": 79,
-    "updatedAt": "2026-08-22T18:27:58.408Z",
-    "gold24KUSD": 145.32,
-    "gold21KUSD": 127.16,
-    "gold18KUSD": 108.99,
-    "gold24KJD": 103.03,
-    "gold21KJD": 90.15,
-    "gold18KJD": 77.27
+    "updatedAt": "2026-08-23T06:38:05.384Z",
+    "gold24KUSD": 148,
+    "gold21KUSD": 129.5,
+    "gold18KUSD": 111,
+    "gold24KJD": 104.93,
+    "gold21KJD": 91.82,
+    "gold18KJD": 78.7
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:54",
-    "maghrib": "19:13",
-    "date": "22 Aug 2022"
+    "fajr": "04:55",
+    "maghrib": "19:12",
+    "date": "23 Aug 2023"
   },
   "events": [
     {
@@ -64,46 +64,46 @@
   "news": {
     "ai": [
       {
+        "title": "AI has failed to win people's trust. Its makers? less trusted",
+        "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
+        "points": 26,
+        "comments": 3,
+        "created_at": "2026-08-22T23:30:20.000Z"
+      },
+      {
         "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
         "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-        "points": 32,
-        "comments": 51,
+        "points": 36,
+        "comments": 77,
         "created_at": "2026-08-22T16:23:09.000Z"
+      },
+      {
+        "title": "80% of developers find AI coding more addictive than helpful",
+        "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+        "points": 13,
+        "comments": 0,
+        "created_at": "2026-08-22T14:14:30.000Z"
       },
       {
         "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
         "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-        "points": 46,
-        "comments": 61,
+        "points": 54,
+        "comments": 67,
         "created_at": "2026-08-22T14:13:05.000Z"
       },
       {
         "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
         "url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
-        "points": 15,
-        "comments": 3,
+        "points": 21,
+        "comments": 4,
         "created_at": "2026-08-22T11:27:29.000Z"
-      },
-      {
-        "title": "Embedded AI",
-        "url": "https://nostarch.com/embedded-ai",
-        "points": 30,
-        "comments": 9,
-        "created_at": "2026-08-22T09:07:26.000Z"
-      },
-      {
-        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-        "points": 15,
-        "comments": 1,
-        "created_at": "2026-08-21T20:52:10.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Coding Agents killed my identity. How do you feel?",
         "url": "https://news.ycombinator.com/item?id=49389408",
-        "points": 16,
+        "points": 19,
         "comments": 32,
         "created_at": "2026-08-21T15:15:14.000Z"
       },
@@ -140,15 +140,15 @@
       {
         "title": "Coding Agents killed my identity. How do you feel?",
         "url": "https://news.ycombinator.com/item?id=49389408",
-        "points": 16,
+        "points": 19,
         "comments": 32,
         "created_at": "2026-08-21T15:15:14.000Z"
       },
       {
         "title": "Autolith: A programming agent with a live runtime",
         "url": "https://www.lambda-symbolics.com/autolith",
-        "points": 80,
-        "comments": 41,
+        "points": 121,
+        "comments": 48,
         "created_at": "2026-08-20T15:40:57.000Z"
       },
       {
@@ -161,7 +161,7 @@
       {
         "title": "Geolocating a random island using geometry and CUDA programming",
         "url": "https://yassa9.github.io/osint/gralhix-004/",
-        "points": 524,
+        "points": 525,
         "comments": 88,
         "created_at": "2026-08-19T12:19:52.000Z"
       },
