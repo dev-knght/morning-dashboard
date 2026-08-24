@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-24T06:55:15.072Z",
+  "updatedAt": "2026-08-24T18:37:21.689Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 28.3,
-      "humidity": 42,
-      "wind_kph": 8.8,
+      "temp_c": 25.3,
+      "humidity": 44,
+      "wind_kph": 6.5,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-08-25",
-      "temp_max_c": 33.3,
-      "temp_min_c": 20.6,
+      "temp_max_c": 33.6,
+      "temp_min_c": 20.5,
       "humidity_max": 78,
-      "humidity_min": 24,
+      "humidity_min": 23,
       "wind_kph": 26.1,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4603.53,
     "oilUSD": 79,
-    "updatedAt": "2026-08-24T06:55:15.072Z",
+    "updatedAt": "2026-08-24T18:37:21.689Z",
     "gold24KUSD": 148.01,
     "gold21KUSD": 129.51,
     "gold18KUSD": 111.01,
@@ -85,18 +85,18 @@
         "created_at": "2026-08-23T04:03:46.000Z"
       },
       {
+        "title": "In 2000, Ted Kaczynski advised against math career due to future AI progress",
+        "url": "https://twitter.com/subcountability/status/2091164267827327042",
+        "points": 11,
+        "comments": 0,
+        "created_at": "2026-08-23T03:47:05.000Z"
+      },
+      {
         "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
         "url": "https://news.ycombinator.com/item?id=49405520",
         "points": 11,
         "comments": 5,
         "created_at": "2026-08-23T01:45:17.000Z"
-      },
-      {
-        "title": "AI has failed to win people's trust. Its makers? less trusted",
-        "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
-        "points": 28,
-        "comments": 5,
-        "created_at": "2026-08-22T23:30:20.000Z"
       }
     ],
     "vibeCoding": [
@@ -127,13 +127,6 @@
         "points": 99,
         "comments": 57,
         "created_at": "2026-08-16T10:31:36.000Z"
-      },
-      {
-        "title": "I've vibe coded an application to see what it's like",
-        "url": "https://rz01.org/vibecoding/",
-        "points": 15,
-        "comments": 25,
-        "created_at": "2026-08-10T13:15:50.000Z"
       }
     ],
     "progDb": [
