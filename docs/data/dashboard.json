@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-08-23T18:26:51.516Z",
+  "updatedAt": "2026-08-24T06:55:15.072Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 24.5,
-      "humidity": 71,
-      "wind_kph": 11.5,
+      "temp_c": 28.3,
+      "humidity": 42,
+      "wind_kph": 8.8,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-08-24",
-      "temp_max_c": 33.9,
-      "temp_min_c": 20.4,
-      "humidity_max": 70,
-      "humidity_min": 28,
-      "wind_kph": 24.2,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "date": "2026-08-25",
+      "temp_max_c": 33.3,
+      "temp_min_c": 20.6,
+      "humidity_max": 78,
+      "humidity_min": 24,
+      "wind_kph": 26.1,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 4603.36,
+    "goldUSD": 4603.53,
     "oilUSD": 79,
-    "updatedAt": "2026-08-23T18:26:51.516Z",
-    "gold24KUSD": 148,
-    "gold21KUSD": 129.5,
-    "gold18KUSD": 111,
-    "gold24KJD": 104.93,
+    "updatedAt": "2026-08-24T06:55:15.072Z",
+    "gold24KUSD": 148.01,
+    "gold21KUSD": 129.51,
+    "gold18KUSD": 111.01,
+    "gold24KJD": 104.94,
     "gold21KJD": 91.82,
     "gold18KJD": 78.7
   },
@@ -35,9 +35,9 @@
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:55",
-    "maghrib": "19:12",
-    "date": "23 Aug 2023"
+    "fajr": "04:56",
+    "maghrib": "19:10",
+    "date": "24 Aug 2024"
   },
   "events": [
     {
@@ -85,18 +85,18 @@
         "created_at": "2026-08-23T04:03:46.000Z"
       },
       {
+        "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
+        "url": "https://news.ycombinator.com/item?id=49405520",
+        "points": 11,
+        "comments": 5,
+        "created_at": "2026-08-23T01:45:17.000Z"
+      },
+      {
         "title": "AI has failed to win people's trust. Its makers? less trusted",
         "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
         "points": 28,
         "comments": 5,
         "created_at": "2026-08-22T23:30:20.000Z"
-      },
-      {
-        "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-        "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-        "points": 37,
-        "comments": 80,
-        "created_at": "2026-08-22T16:23:09.000Z"
       }
     ],
     "vibeCoding": [
