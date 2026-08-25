@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-24T18:37:21.689Z",
+  "updatedAt": "2026-08-25T06:43:03.321Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 25.3,
-      "humidity": 44,
-      "wind_kph": 6.5,
+      "temp_c": 27.7,
+      "humidity": 35,
+      "wind_kph": 11.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-08-25",
-      "temp_max_c": 33.6,
-      "temp_min_c": 20.5,
-      "humidity_max": 78,
-      "humidity_min": 23,
-      "wind_kph": 26.1,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "date": "2026-08-26",
+      "temp_max_c": 34.7,
+      "temp_min_c": 21.2,
+      "humidity_max": 91,
+      "humidity_min": 34,
+      "wind_kph": 25.2,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4603.53,
+    "goldUSD": 4638.11,
     "oilUSD": 79,
-    "updatedAt": "2026-08-24T18:37:21.689Z",
-    "gold24KUSD": 148.01,
-    "gold21KUSD": 129.51,
-    "gold18KUSD": 111.01,
-    "gold24KJD": 104.94,
-    "gold21KJD": 91.82,
-    "gold18KJD": 78.7
+    "updatedAt": "2026-08-25T06:43:03.321Z",
+    "gold24KUSD": 149.12,
+    "gold21KUSD": 130.48,
+    "gold18KUSD": 111.84,
+    "gold24KJD": 105.73,
+    "gold21KJD": 92.51,
+    "gold18KJD": 79.29
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:56",
-    "maghrib": "19:10",
-    "date": "24 Aug 2024"
+    "fajr": "04:57",
+    "maghrib": "19:09",
+    "date": "25 Aug 2025"
   },
   "events": [
     {
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
-        "url": "https://twitter.com/AndrewYNg/status/2090840747738374568",
-        "points": 15,
-        "comments": 0,
-        "created_at": "2026-08-23T11:28:08.000Z"
-      },
-      {
-        "title": "'AI refuser' quit her dream job, and hopes others follow",
-        "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
-        "points": 34,
-        "comments": 39,
-        "created_at": "2026-08-23T10:54:35.000Z"
-      },
-      {
-        "title": "Palantir's Karp – frontier AI labs that are 'trying to drug addict us'",
-        "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+        "title": "80% of developers find AI coding more addictive than helpful",
+        "url": "https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/",
         "points": 19,
-        "comments": 8,
-        "created_at": "2026-08-23T04:03:46.000Z"
+        "comments": 1,
+        "created_at": "2026-08-25T02:09:52.000Z"
       },
       {
-        "title": "In 2000, Ted Kaczynski advised against math career due to future AI progress",
-        "url": "https://twitter.com/subcountability/status/2091164267827327042",
-        "points": 11,
+        "title": "Deno team releases Dactyl, an AI app builder that runs on your ChatGPT plan",
+        "url": "https://dactyl.dev/",
+        "points": 17,
         "comments": 0,
-        "created_at": "2026-08-23T03:47:05.000Z"
+        "created_at": "2026-08-24T20:45:07.000Z"
       },
       {
-        "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
-        "url": "https://news.ycombinator.com/item?id=49405520",
-        "points": 11,
-        "comments": 5,
-        "created_at": "2026-08-23T01:45:17.000Z"
+        "title": "Nvidia customers notified about AI-related price hikes above 15%",
+        "url": "https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22/",
+        "points": 13,
+        "comments": 0,
+        "created_at": "2026-08-24T19:06:30.000Z"
+      },
+      {
+        "title": "Em Dash Is Fine – It Is AI That Sucks",
+        "url": "https://blog.torh.net/2026/08/24/em-dash-is-fine-it-is-ai-that-sucks/",
+        "points": 15,
+        "comments": 9,
+        "created_at": "2026-08-24T18:15:12.000Z"
+      },
+      {
+        "title": "Show HN: See how much your AI knows about you",
+        "url": "https://www.withcorpus.com/knows",
+        "points": 13,
+        "comments": 7,
+        "created_at": "2026-08-24T17:44:57.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Coding Agents killed my identity. How do you feel?",
         "url": "https://news.ycombinator.com/item?id=49389408",
-        "points": 22,
-        "comments": 35,
+        "points": 29,
+        "comments": 41,
         "created_at": "2026-08-21T15:15:14.000Z"
       },
       {
@@ -133,8 +133,8 @@
       {
         "title": "Coding Agents killed my identity. How do you feel?",
         "url": "https://news.ycombinator.com/item?id=49389408",
-        "points": 22,
-        "comments": 35,
+        "points": 29,
+        "comments": 41,
         "created_at": "2026-08-21T15:15:14.000Z"
       },
       {
@@ -154,7 +154,7 @@
       {
         "title": "Geolocating a random island using geometry and CUDA programming",
         "url": "https://yassa9.github.io/osint/gralhix-004/",
-        "points": 526,
+        "points": 527,
         "comments": 88,
         "created_at": "2026-08-19T12:19:52.000Z"
       },
