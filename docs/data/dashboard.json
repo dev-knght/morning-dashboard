@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-08-26T06:46:08.059Z",
+  "updatedAt": "2026-08-26T19:45:32.337Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 28.6,
-      "humidity": 51,
-      "wind_kph": 11.4,
+      "temp_c": 26.3,
+      "humidity": 49,
+      "wind_kph": 10,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-08-27",
-      "temp_max_c": 34.6,
-      "temp_min_c": 21.8,
-      "humidity_max": 65,
+      "temp_max_c": 34.9,
+      "temp_min_c": 21.7,
+      "humidity_max": 63,
       "humidity_min": 31,
-      "wind_kph": 25.8,
+      "wind_kph": 24.7,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4683.72,
     "oilUSD": 79,
-    "updatedAt": "2026-08-26T06:46:08.059Z",
+    "updatedAt": "2026-08-26T19:45:32.337Z",
     "gold24KUSD": 150.58,
     "gold21KUSD": 131.76,
     "gold18KUSD": 112.94,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Analyzing student votes across AI models for college essay help",
-        "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
-        "points": 39,
-        "comments": 48,
-        "created_at": "2026-08-26T03:23:50.000Z"
-      },
-      {
-        "title": "Big Tech's Frantic Race to Quell the Growing Backlash to AI",
-        "url": "https://www.wsj.com/tech/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-2a717339",
-        "points": 19,
-        "comments": 11,
-        "created_at": "2026-08-26T02:10:22.000Z"
-      },
-      {
-        "title": "Ripping Off the Hey.com Band-Aid",
-        "url": "https://kylemcgough.com/blogs/ripping-off-the-heycom-band-aid",
-        "points": 30,
-        "comments": 3,
-        "created_at": "2026-08-25T21:39:24.000Z"
-      },
-      {
-        "title": "The New York Times is publishing AI slop",
-        "url": "https://unpublishablepapers.substack.com/p/the-new-york-times-is-publishing",
-        "points": 15,
-        "comments": 2,
-        "created_at": "2026-08-25T20:32:25.000Z"
-      },
-      {
-        "title": "Is AI slowing you down?",
-        "url": "https://news.ycombinator.com/item?id=49438590",
+        "title": "America's immigration policy is driving away future AI leaders",
+        "url": "https://restofworld.org/2026/us-immigration-rules-ai-talent-china/",
         "points": 16,
-        "comments": 8,
-        "created_at": "2026-08-25T18:37:09.000Z"
+        "comments": 6,
+        "created_at": "2026-08-26T17:51:09.000Z"
+      },
+      {
+        "title": "The turbulent AI era is here",
+        "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+        "points": 106,
+        "comments": 85,
+        "created_at": "2026-08-26T15:55:15.000Z"
+      },
+      {
+        "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
+        "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+        "points": 101,
+        "comments": 60,
+        "created_at": "2026-08-26T15:30:05.000Z"
+      },
+      {
+        "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+        "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
+        "points": 54,
+        "comments": 55,
+        "created_at": "2026-08-26T15:02:15.000Z"
+      },
+      {
+        "title": "Show HN: How much of Hacker News is about AI?",
+        "url": "https://hnstats.com",
+        "points": 66,
+        "comments": 39,
+        "created_at": "2026-08-26T14:16:05.000Z"
       }
     ],
     "vibeCoding": [
@@ -131,6 +131,20 @@
     ],
     "progDb": [
       {
+        "title": "It's Not the End of Programming",
+        "url": "https://mathstodon.xyz/@abuseofnotation/117161292083848755",
+        "points": 49,
+        "comments": 86,
+        "created_at": "2026-08-26T10:25:33.000Z"
+      },
+      {
+        "title": "The End of Programming",
+        "url": "https://pauldix.com/the-end-of-programming",
+        "points": 79,
+        "comments": 114,
+        "created_at": "2026-08-26T08:37:59.000Z"
+      },
+      {
         "title": "The End of Programming",
         "url": "https://pauldix.com/the-end-of-programming",
         "points": 13,
@@ -150,20 +164,6 @@
         "points": 29,
         "comments": 41,
         "created_at": "2026-08-21T15:15:14.000Z"
-      },
-      {
-        "title": "Autolith: A programming agent with a live runtime",
-        "url": "https://www.lambda-symbolics.com/autolith",
-        "points": 126,
-        "comments": 60,
-        "created_at": "2026-08-20T15:40:57.000Z"
-      },
-      {
-        "title": "Show HN: LilScript makes JavaScript libraries smaller",
-        "url": "https://news.ycombinator.com/item?id=49374554",
-        "points": 14,
-        "comments": 2,
-        "created_at": "2026-08-20T13:50:02.000Z"
       }
     ]
   }
