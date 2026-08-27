@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-26T19:45:32.337Z",
+  "updatedAt": "2026-08-27T17:21:04.312Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 26.3,
-      "humidity": 49,
-      "wind_kph": 10,
+      "temp_c": 26.8,
+      "humidity": 55,
+      "wind_kph": 13,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-08-27",
-      "temp_max_c": 34.9,
-      "temp_min_c": 21.7,
-      "humidity_max": 63,
-      "humidity_min": 31,
-      "wind_kph": 24.7,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "date": "2026-08-28",
+      "temp_max_c": 32.7,
+      "temp_min_c": 21.6,
+      "humidity_max": 90,
+      "humidity_min": 43,
+      "wind_kph": 26.5,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4683.72,
+    "goldUSD": 4653.82,
     "oilUSD": 79,
-    "updatedAt": "2026-08-26T19:45:32.337Z",
-    "gold24KUSD": 150.58,
-    "gold21KUSD": 131.76,
-    "gold18KUSD": 112.94,
-    "gold24KJD": 106.76,
-    "gold21KJD": 93.42,
-    "gold18KJD": 80.07
+    "updatedAt": "2026-08-27T17:21:04.312Z",
+    "gold24KUSD": 149.62,
+    "gold21KUSD": 130.92,
+    "gold18KUSD": 112.22,
+    "gold24KJD": 106.08,
+    "gold21KJD": 92.82,
+    "gold18KJD": 79.56
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "04:58",
-    "maghrib": "19:08",
-    "date": "26 Aug 2026"
+    "maghrib": "19:07",
+    "date": "27 Aug 2027"
   },
   "events": [
     {
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "America's immigration policy is driving away future AI leaders",
-        "url": "https://restofworld.org/2026/us-immigration-rules-ai-talent-china/",
-        "points": 16,
-        "comments": 6,
-        "created_at": "2026-08-26T17:51:09.000Z"
+        "title": "Nvidia projects $673B in sales as AI demand widens",
+        "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/",
+        "points": 53,
+        "comments": 15,
+        "created_at": "2026-08-27T15:04:16.000Z"
       },
       {
-        "title": "The turbulent AI era is here",
-        "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-        "points": 106,
-        "comments": 85,
-        "created_at": "2026-08-26T15:55:15.000Z"
+        "title": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
+        "url": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
+        "points": 52,
+        "comments": 42,
+        "created_at": "2026-08-27T14:27:39.000Z"
       },
       {
-        "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-        "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-        "points": 101,
-        "comments": 60,
-        "created_at": "2026-08-26T15:30:05.000Z"
+        "title": "AC2 Protocol: The missing security layer for AI agents",
+        "url": "https://www.ac2protocol.org",
+        "points": 15,
+        "comments": 13,
+        "created_at": "2026-08-27T13:55:42.000Z"
       },
       {
-        "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
-        "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
-        "points": 54,
-        "comments": 55,
-        "created_at": "2026-08-26T15:02:15.000Z"
+        "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+        "url": "https://aiandeducation.mit.edu/report/",
+        "points": 64,
+        "comments": 45,
+        "created_at": "2026-08-27T13:07:45.000Z"
       },
       {
-        "title": "Show HN: How much of Hacker News is about AI?",
-        "url": "https://hnstats.com",
-        "points": 66,
-        "comments": 39,
-        "created_at": "2026-08-26T14:16:05.000Z"
+        "title": "Air Conditioning Is Not a Luxury, It Is a Necessity",
+        "url": "https://humanprogress.org/ac-is-not-a-luxury-it-is-a-necessity/",
+        "points": 111,
+        "comments": 250,
+        "created_at": "2026-08-27T12:01:03.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Coding Agents killed my identity. How do you feel?",
         "url": "https://news.ycombinator.com/item?id=49389408",
-        "points": 29,
-        "comments": 41,
+        "points": 31,
+        "comments": 42,
         "created_at": "2026-08-21T15:15:14.000Z"
       },
       {
@@ -131,23 +131,23 @@
     ],
     "progDb": [
       {
-        "title": "It's Not the End of Programming",
+        "title": "It's not the end of programming",
         "url": "https://mathstodon.xyz/@abuseofnotation/117161292083848755",
         "points": 49,
-        "comments": 86,
+        "comments": 89,
         "created_at": "2026-08-26T10:25:33.000Z"
       },
       {
         "title": "The End of Programming",
         "url": "https://pauldix.com/the-end-of-programming",
-        "points": 79,
-        "comments": 114,
+        "points": 81,
+        "comments": 119,
         "created_at": "2026-08-26T08:37:59.000Z"
       },
       {
         "title": "The End of Programming",
         "url": "https://pauldix.com/the-end-of-programming",
-        "points": 13,
+        "points": 14,
         "comments": 1,
         "created_at": "2026-08-25T23:11:23.000Z"
       },
@@ -161,8 +161,8 @@
       {
         "title": "Coding Agents killed my identity. How do you feel?",
         "url": "https://news.ycombinator.com/item?id=49389408",
-        "points": 29,
-        "comments": 41,
+        "points": 31,
+        "comments": 42,
         "created_at": "2026-08-21T15:15:14.000Z"
       }
     ]
