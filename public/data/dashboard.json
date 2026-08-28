@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-08-28T02:02:26.101Z",
+  "updatedAt": "2026-08-28T18:13:49.562Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 22.3,
-      "humidity": 71,
-      "wind_kph": 6.1,
+      "temp_c": 24.9,
+      "humidity": 79,
+      "wind_kph": 14.7,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-08-29",
-      "temp_max_c": 33.9,
-      "temp_min_c": 21.7,
-      "humidity_max": 76,
+      "temp_max_c": 33.3,
+      "temp_min_c": 22.6,
+      "humidity_max": 82,
       "humidity_min": 28,
-      "wind_kph": 31.4,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "wind_kph": 32.8,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
     "goldUSD": 4617.28,
     "oilUSD": 79,
-    "updatedAt": "2026-08-28T02:02:26.101Z",
+    "updatedAt": "2026-08-28T18:13:49.562Z",
     "gold24KUSD": 148.45,
     "gold21KUSD": 129.89,
     "gold18KUSD": 111.34,
@@ -64,46 +64,46 @@
   "news": {
     "ai": [
       {
-        "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-        "url": "https://www.terminal-bench-science.ai/announcement",
-        "points": 26,
-        "comments": 4,
-        "created_at": "2026-08-28T00:06:51.000Z"
-      },
-      {
-        "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-        "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-        "points": 47,
-        "comments": 2,
-        "created_at": "2026-08-27T21:46:39.000Z"
-      },
-      {
-        "title": "US Aims to Revive Civil War-Era Court to Claim Iran Oil as Prize",
-        "url": "https://news.bloomberglaw.com/us-law-week/us-aims-to-revive-civil-war-era-court-to-claim-iran-oil-as-prize",
+        "title": "How I Design with AI",
+        "url": "https://ref.tools/blog/how-i-design-with-ai",
         "points": 15,
-        "comments": 4,
-        "created_at": "2026-08-27T20:15:37.000Z"
+        "comments": 8,
+        "created_at": "2026-08-28T17:18:32.000Z"
       },
       {
-        "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
-        "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
-        "points": 89,
-        "comments": 40,
-        "created_at": "2026-08-27T18:34:40.000Z"
+        "title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom",
+        "url": "https://www.wsj.com/tech/ai/nvidia-insists-it-can-keep-printing-money-to-fund-the-ai-boom-195e7d5e",
+        "points": 28,
+        "comments": 26,
+        "created_at": "2026-08-28T15:57:40.000Z"
       },
       {
-        "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
-        "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
-        "points": 162,
-        "comments": 93,
-        "created_at": "2026-08-27T17:33:13.000Z"
+        "title": "We need to talk about migrations with AI",
+        "url": "https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai/",
+        "points": 13,
+        "comments": 2,
+        "created_at": "2026-08-28T13:28:02.000Z"
+      },
+      {
+        "title": "Show HN: Talos – An AI agent with a permission kernel between model and shell",
+        "url": "https://talos-agent.ch/",
+        "points": 14,
+        "comments": 5,
+        "created_at": "2026-08-28T12:25:39.000Z"
+      },
+      {
+        "title": "AI Agent Has Root",
+        "url": "https://infernalcode.com/posts/your-ai-agent-has-root/",
+        "points": 37,
+        "comments": 62,
+        "created_at": "2026-08-28T12:03:09.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Coding Agents killed my identity. How do you feel?",
         "url": "https://news.ycombinator.com/item?id=49389408",
-        "points": 31,
+        "points": 32,
         "comments": 42,
         "created_at": "2026-08-21T15:15:14.000Z"
       },
@@ -133,7 +133,7 @@
       {
         "title": "Rob Pike's 5 Rules of Programming",
         "url": "https://web.archive.org/web/20260314210910/https://users.ece.utexas.edu/~adnan/pike.html",
-        "points": 16,
+        "points": 17,
         "comments": 0,
         "created_at": "2026-08-27T18:51:12.000Z"
       },
@@ -147,7 +147,7 @@
       {
         "title": "The End of Programming",
         "url": "https://pauldix.com/the-end-of-programming",
-        "points": 81,
+        "points": 82,
         "comments": 119,
         "created_at": "2026-08-26T08:37:59.000Z"
       },
