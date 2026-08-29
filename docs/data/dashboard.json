@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-28T18:13:49.562Z",
+  "updatedAt": "2026-08-29T12:20:05.344Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 24.9,
-      "humidity": 79,
-      "wind_kph": 14.7,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 33.1,
+      "humidity": 31,
+      "wind_kph": 28.9,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-08-29",
-      "temp_max_c": 33.3,
-      "temp_min_c": 22.6,
-      "humidity_max": 82,
-      "humidity_min": 28,
-      "wind_kph": 32.8,
+      "date": "2026-08-30",
+      "temp_max_c": 29.1,
+      "temp_min_c": 20,
+      "humidity_max": 90,
+      "humidity_min": 40,
+      "wind_kph": 28.3,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4617.28,
+    "goldUSD": 4601.04,
     "oilUSD": 79,
-    "updatedAt": "2026-08-28T18:13:49.562Z",
-    "gold24KUSD": 148.45,
-    "gold21KUSD": 129.89,
-    "gold18KUSD": 111.34,
-    "gold24KJD": 105.25,
-    "gold21KJD": 92.09,
-    "gold18KJD": 78.94
+    "updatedAt": "2026-08-29T12:20:05.344Z",
+    "gold24KUSD": 147.93,
+    "gold21KUSD": 129.44,
+    "gold18KUSD": 110.95,
+    "gold24KJD": 104.88,
+    "gold21KJD": 91.77,
+    "gold18KJD": 78.66
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "05:00",
-    "maghrib": "19:05",
-    "date": "28 Aug 2028"
+    "maghrib": "19:04",
+    "date": "29 Aug 2029"
   },
   "events": [
     {
@@ -64,42 +64,56 @@
   "news": {
     "ai": [
       {
-        "title": "How I Design with AI",
-        "url": "https://ref.tools/blog/how-i-design-with-ai",
-        "points": 15,
-        "comments": 8,
-        "created_at": "2026-08-28T17:18:32.000Z"
+        "title": "I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
+        "url": "https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform",
+        "points": 31,
+        "comments": 19,
+        "created_at": "2026-08-29T02:58:12.000Z"
       },
       {
-        "title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom",
-        "url": "https://www.wsj.com/tech/ai/nvidia-insists-it-can-keep-printing-money-to-fund-the-ai-boom-195e7d5e",
-        "points": 28,
+        "title": "StemDeck, a free, open-source and local AI stem separator",
+        "url": "https://github.com/stemdeckapp/stemdeck",
+        "points": 119,
         "comments": 26,
-        "created_at": "2026-08-28T15:57:40.000Z"
+        "created_at": "2026-08-29T01:24:13.000Z"
       },
       {
-        "title": "We need to talk about migrations with AI",
-        "url": "https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai/",
-        "points": 13,
+        "title": "Identifying fake cosmetics using AI",
+        "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+        "points": 56,
+        "comments": 21,
+        "created_at": "2026-08-28T22:18:27.000Z"
+      },
+      {
+        "title": "The Analytical AI Handbook",
+        "url": "https://handbook.sutro.sh",
+        "points": 47,
         "comments": 2,
-        "created_at": "2026-08-28T13:28:02.000Z"
+        "created_at": "2026-08-28T19:01:47.000Z"
       },
       {
-        "title": "Show HN: Talos – An AI agent with a permission kernel between model and shell",
-        "url": "https://talos-agent.ch/",
-        "points": 14,
-        "comments": 5,
-        "created_at": "2026-08-28T12:25:39.000Z"
-      },
-      {
-        "title": "AI Agent Has Root",
-        "url": "https://infernalcode.com/posts/your-ai-agent-has-root/",
-        "points": 37,
-        "comments": 62,
-        "created_at": "2026-08-28T12:03:09.000Z"
+        "title": "Ask HN: AI writes better code than me. How to keep my identity?",
+        "url": "https://news.ycombinator.com/item?id=49481969",
+        "points": 13,
+        "comments": 19,
+        "created_at": "2026-08-28T17:40:39.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Ask HN: AI writes better code than me. How to keep my identity?",
+        "url": "https://news.ycombinator.com/item?id=49481969",
+        "points": 13,
+        "comments": 19,
+        "created_at": "2026-08-28T17:40:39.000Z"
+      },
+      {
+        "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding and Linux [video]",
+        "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+        "points": 12,
+        "comments": 0,
+        "created_at": "2026-08-27T16:29:06.000Z"
+      },
       {
         "title": "Coding Agents killed my identity. How do you feel?",
         "url": "https://news.ycombinator.com/item?id=49389408",
@@ -120,16 +134,16 @@
         "points": 24,
         "comments": 13,
         "created_at": "2026-08-20T00:18:16.000Z"
-      },
-      {
-        "title": "AI Coding Without the Vibes",
-        "url": "https://peterbloem.nl/blog/craft-coding",
-        "points": 99,
-        "comments": 57,
-        "created_at": "2026-08-16T10:31:36.000Z"
       }
     ],
     "progDb": [
+      {
+        "title": "Ask HN: AI writes better code than me. How to keep my identity?",
+        "url": "https://news.ycombinator.com/item?id=49481969",
+        "points": 13,
+        "comments": 19,
+        "created_at": "2026-08-28T17:40:39.000Z"
+      },
       {
         "title": "Rob Pike's 5 Rules of Programming",
         "url": "https://web.archive.org/web/20260314210910/https://users.ece.utexas.edu/~adnan/pike.html",
@@ -138,32 +152,25 @@
         "created_at": "2026-08-27T18:51:12.000Z"
       },
       {
+        "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding and Linux [video]",
+        "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+        "points": 12,
+        "comments": 0,
+        "created_at": "2026-08-27T16:29:06.000Z"
+      },
+      {
+        "title": "Programming as a Hobby in the Age of AI",
+        "url": "https://www.bennadel.com/blog/4908-programming-as-a-hobby-in-the-age-of-ai.htm",
+        "points": 11,
+        "comments": 4,
+        "created_at": "2026-08-26T20:46:52.000Z"
+      },
+      {
         "title": "It's not the end of programming",
         "url": "https://mathstodon.xyz/@abuseofnotation/117161292083848755",
         "points": 49,
         "comments": 89,
         "created_at": "2026-08-26T10:25:33.000Z"
-      },
-      {
-        "title": "The End of Programming",
-        "url": "https://pauldix.com/the-end-of-programming",
-        "points": 82,
-        "comments": 119,
-        "created_at": "2026-08-26T08:37:59.000Z"
-      },
-      {
-        "title": "The End of Programming",
-        "url": "https://pauldix.com/the-end-of-programming",
-        "points": 14,
-        "comments": 1,
-        "created_at": "2026-08-25T23:11:23.000Z"
-      },
-      {
-        "title": "Pre-Scheme: a Scheme for low-level programming",
-        "url": "https://prescheme.org/",
-        "points": 50,
-        "comments": 1,
-        "created_at": "2026-08-22T22:13:58.000Z"
       }
     ]
   }
