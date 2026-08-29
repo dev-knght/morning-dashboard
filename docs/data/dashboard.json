@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-08-29T12:20:05.344Z",
+  "updatedAt": "2026-08-29T20:27:27.891Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 33.1,
-      "humidity": 31,
-      "wind_kph": 28.9,
+      "temp_c": 22.2,
+      "humidity": 84,
+      "wind_kph": 23.9,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-08-30",
       "temp_max_c": 29.1,
-      "temp_min_c": 20,
-      "humidity_max": 90,
-      "humidity_min": 40,
-      "wind_kph": 28.3,
+      "temp_min_c": 19.7,
+      "humidity_max": 89,
+      "humidity_min": 37,
+      "wind_kph": 27,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4601.04,
     "oilUSD": 79,
-    "updatedAt": "2026-08-29T12:20:05.344Z",
+    "updatedAt": "2026-08-29T20:27:27.891Z",
     "gold24KUSD": 147.93,
     "gold21KUSD": 129.44,
     "gold18KUSD": 110.95,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+        "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+        "points": 119,
+        "comments": 21,
+        "created_at": "2026-08-29T17:19:47.000Z"
+      },
+      {
+        "title": "The growing divide between AI hype and software engineering reality",
+        "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
+        "points": 53,
+        "comments": 59,
+        "created_at": "2026-08-29T16:16:32.000Z"
+      },
+      {
+        "title": "Debian votes to allow \"responsible use of generative AI\"",
+        "url": "https://lwn.net/Articles/1091231/",
+        "points": 450,
+        "comments": 397,
+        "created_at": "2026-08-29T14:02:10.000Z"
+      },
+      {
         "title": "I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
         "url": "https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform",
-        "points": 31,
-        "comments": 19,
+        "points": 37,
+        "comments": 24,
         "created_at": "2026-08-29T02:58:12.000Z"
       },
       {
         "title": "StemDeck, a free, open-source and local AI stem separator",
         "url": "https://github.com/stemdeckapp/stemdeck",
-        "points": 119,
-        "comments": 26,
+        "points": 187,
+        "comments": 57,
         "created_at": "2026-08-29T01:24:13.000Z"
-      },
-      {
-        "title": "Identifying fake cosmetics using AI",
-        "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-        "points": 56,
-        "comments": 21,
-        "created_at": "2026-08-28T22:18:27.000Z"
-      },
-      {
-        "title": "The Analytical AI Handbook",
-        "url": "https://handbook.sutro.sh",
-        "points": 47,
-        "comments": 2,
-        "created_at": "2026-08-28T19:01:47.000Z"
-      },
-      {
-        "title": "Ask HN: AI writes better code than me. How to keep my identity?",
-        "url": "https://news.ycombinator.com/item?id=49481969",
-        "points": 13,
-        "comments": 19,
-        "created_at": "2026-08-28T17:40:39.000Z"
       }
     ],
     "vibeCoding": [
