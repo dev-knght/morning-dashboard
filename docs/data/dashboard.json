@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-29T20:27:27.891Z",
+  "updatedAt": "2026-08-30T11:19:15.061Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 22.2,
-      "humidity": 84,
-      "wind_kph": 23.9,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 29.1,
+      "humidity": 38,
+      "wind_kph": 23.7,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-08-30",
-      "temp_max_c": 29.1,
-      "temp_min_c": 19.7,
-      "humidity_max": 89,
-      "humidity_min": 37,
-      "wind_kph": 27,
+      "date": "2026-08-31",
+      "temp_max_c": 32,
+      "temp_min_c": 21.3,
+      "humidity_max": 87,
+      "humidity_min": 27,
+      "wind_kph": 29.2,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4601.04,
+    "goldUSD": 4455.18,
     "oilUSD": 79,
-    "updatedAt": "2026-08-29T20:27:27.891Z",
-    "gold24KUSD": 147.93,
-    "gold21KUSD": 129.44,
-    "gold18KUSD": 110.95,
-    "gold24KJD": 104.88,
-    "gold21KJD": 91.77,
-    "gold18KJD": 78.66
+    "updatedAt": "2026-08-30T11:19:15.061Z",
+    "gold24KUSD": 143.24,
+    "gold21KUSD": 125.33,
+    "gold18KUSD": 107.43,
+    "gold24KJD": 101.56,
+    "gold21KJD": 88.86,
+    "gold18KJD": 76.17
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:00",
-    "maghrib": "19:04",
-    "date": "29 Aug 2029"
+    "fajr": "05:01",
+    "maghrib": "19:03",
+    "date": "30 Aug 2030"
   },
   "events": [
     {
@@ -64,47 +64,54 @@
   "news": {
     "ai": [
       {
-        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-        "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-        "points": 119,
-        "comments": 21,
-        "created_at": "2026-08-29T17:19:47.000Z"
+        "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+        "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+        "points": 14,
+        "comments": 0,
+        "created_at": "2026-08-30T10:20:11.000Z"
       },
       {
-        "title": "The growing divide between AI hype and software engineering reality",
-        "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
-        "points": 53,
-        "comments": 59,
-        "created_at": "2026-08-29T16:16:32.000Z"
+        "title": "Smartphone LED Detects Hidden Cameras with AI",
+        "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+        "points": 13,
+        "comments": 1,
+        "created_at": "2026-08-30T06:52:04.000Z"
       },
       {
-        "title": "Debian votes to allow \"responsible use of generative AI\"",
-        "url": "https://lwn.net/Articles/1091231/",
-        "points": 450,
-        "comments": 397,
-        "created_at": "2026-08-29T14:02:10.000Z"
+        "title": "The Internet Archive's Vintage AI Collection",
+        "url": "https://archive.org/details/vintageai",
+        "points": 15,
+        "comments": 1,
+        "created_at": "2026-08-30T05:00:51.000Z"
       },
       {
-        "title": "I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
-        "url": "https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform",
-        "points": 37,
-        "comments": 24,
-        "created_at": "2026-08-29T02:58:12.000Z"
+        "title": "Meta Project OT plan to replace employees with AI agents",
+        "url": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence",
+        "points": 12,
+        "comments": 7,
+        "created_at": "2026-08-30T02:01:08.000Z"
       },
       {
-        "title": "StemDeck, a free, open-source and local AI stem separator",
-        "url": "https://github.com/stemdeckapp/stemdeck",
-        "points": 187,
-        "comments": 57,
-        "created_at": "2026-08-29T01:24:13.000Z"
+        "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+        "url": "https://github.com/mk6i/open-oscar-server",
+        "points": 41,
+        "comments": 16,
+        "created_at": "2026-08-30T00:33:35.000Z"
       }
     ],
     "vibeCoding": [
       {
+        "title": "Ask HN: How to break Claude Code addiction?",
+        "url": "https://news.ycombinator.com/item?id=49491745",
+        "points": 14,
+        "comments": 12,
+        "created_at": "2026-08-29T17:43:13.000Z"
+      },
+      {
         "title": "Ask HN: AI writes better code than me. How to keep my identity?",
         "url": "https://news.ycombinator.com/item?id=49481969",
-        "points": 13,
-        "comments": 19,
+        "points": 14,
+        "comments": 22,
         "created_at": "2026-08-28T17:40:39.000Z"
       },
       {
@@ -117,7 +124,7 @@
       {
         "title": "Coding Agents killed my identity. How do you feel?",
         "url": "https://news.ycombinator.com/item?id=49389408",
-        "points": 32,
+        "points": 33,
         "comments": 42,
         "created_at": "2026-08-21T15:15:14.000Z"
       },
@@ -127,21 +134,21 @@
         "points": 17,
         "comments": 5,
         "created_at": "2026-08-21T13:28:01.000Z"
-      },
-      {
-        "title": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
-        "url": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
-        "points": 24,
-        "comments": 13,
-        "created_at": "2026-08-20T00:18:16.000Z"
       }
     ],
     "progDb": [
       {
+        "title": "Ask HN: How to break Claude Code addiction?",
+        "url": "https://news.ycombinator.com/item?id=49491745",
+        "points": 14,
+        "comments": 12,
+        "created_at": "2026-08-29T17:43:13.000Z"
+      },
+      {
         "title": "Ask HN: AI writes better code than me. How to keep my identity?",
         "url": "https://news.ycombinator.com/item?id=49481969",
-        "points": 13,
-        "comments": 19,
+        "points": 14,
+        "comments": 22,
         "created_at": "2026-08-28T17:40:39.000Z"
       },
       {
@@ -164,13 +171,6 @@
         "points": 11,
         "comments": 4,
         "created_at": "2026-08-26T20:46:52.000Z"
-      },
-      {
-        "title": "It's not the end of programming",
-        "url": "https://mathstodon.xyz/@abuseofnotation/117161292083848755",
-        "points": 49,
-        "comments": 89,
-        "created_at": "2026-08-26T10:25:33.000Z"
       }
     ]
   }
