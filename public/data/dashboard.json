@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-08-30T11:19:15.061Z",
+  "updatedAt": "2026-08-30T20:36:42.915Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 29.1,
-      "humidity": 38,
-      "wind_kph": 23.7,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 22,
+      "humidity": 84,
+      "wind_kph": 13,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-08-31",
-      "temp_max_c": 32,
-      "temp_min_c": 21.3,
-      "humidity_max": 87,
-      "humidity_min": 27,
-      "wind_kph": 29.2,
+      "temp_max_c": 30.9,
+      "temp_min_c": 20.9,
+      "humidity_max": 84,
+      "humidity_min": 33,
+      "wind_kph": 23.9,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4455.18,
     "oilUSD": 79,
-    "updatedAt": "2026-08-30T11:19:15.061Z",
+    "updatedAt": "2026-08-30T20:36:42.915Z",
     "gold24KUSD": 143.24,
     "gold21KUSD": 125.33,
     "gold18KUSD": 107.43,
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
+        "title": "No AI Fridays",
+        "url": "https://noaifridays.com/",
+        "points": 255,
+        "comments": 168,
+        "created_at": "2026-08-30T12:31:05.000Z"
+      },
+      {
         "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
         "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-        "points": 14,
-        "comments": 0,
+        "points": 54,
+        "comments": 29,
         "created_at": "2026-08-30T10:20:11.000Z"
+      },
+      {
+        "title": "What We Tell AI",
+        "url": "https://www.whatwetellai.com/",
+        "points": 27,
+        "comments": 7,
+        "created_at": "2026-08-30T10:16:14.000Z"
+      },
+      {
+        "title": "Nvidia's AI advantage is moving beyond the GPU",
+        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+        "points": 12,
+        "comments": 8,
+        "created_at": "2026-08-30T09:57:06.000Z"
       },
       {
         "title": "Smartphone LED Detects Hidden Cameras with AI",
         "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-        "points": 13,
+        "points": 14,
         "comments": 1,
         "created_at": "2026-08-30T06:52:04.000Z"
-      },
-      {
-        "title": "The Internet Archive's Vintage AI Collection",
-        "url": "https://archive.org/details/vintageai",
-        "points": 15,
-        "comments": 1,
-        "created_at": "2026-08-30T05:00:51.000Z"
-      },
-      {
-        "title": "Meta Project OT plan to replace employees with AI agents",
-        "url": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence",
-        "points": 12,
-        "comments": 7,
-        "created_at": "2026-08-30T02:01:08.000Z"
-      },
-      {
-        "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-        "url": "https://github.com/mk6i/open-oscar-server",
-        "points": 41,
-        "comments": 16,
-        "created_at": "2026-08-30T00:33:35.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: How to break Claude Code addiction?",
         "url": "https://news.ycombinator.com/item?id=49491745",
-        "points": 14,
-        "comments": 12,
+        "points": 16,
+        "comments": 23,
         "created_at": "2026-08-29T17:43:13.000Z"
       },
       {
@@ -140,8 +140,8 @@
       {
         "title": "Ask HN: How to break Claude Code addiction?",
         "url": "https://news.ycombinator.com/item?id=49491745",
-        "points": 14,
-        "comments": 12,
+        "points": 16,
+        "comments": 23,
         "created_at": "2026-08-29T17:43:13.000Z"
       },
       {
@@ -168,7 +168,7 @@
       {
         "title": "Programming as a Hobby in the Age of AI",
         "url": "https://www.bennadel.com/blog/4908-programming-as-a-hobby-in-the-age-of-ai.htm",
-        "points": 11,
+        "points": 12,
         "comments": 4,
         "created_at": "2026-08-26T20:46:52.000Z"
       }
