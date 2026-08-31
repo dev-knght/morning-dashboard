@@ -1,34 +1,34 @@
 {
-  "updatedAt": "2026-08-30T20:36:42.915Z",
+  "updatedAt": "2026-08-31T12:47:07.944Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 22,
-      "humidity": 84,
-      "wind_kph": 13,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 30.5,
+      "humidity": 40,
+      "wind_kph": 20.4,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-08-31",
-      "temp_max_c": 30.9,
-      "temp_min_c": 20.9,
-      "humidity_max": 84,
-      "humidity_min": 33,
-      "wind_kph": 23.9,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-09-01",
+      "temp_max_c": 32.5,
+      "temp_min_c": 19.2,
+      "humidity_max": 90,
+      "humidity_min": 31,
+      "wind_kph": 21.4,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 4455.18,
+    "goldUSD": 4455.55,
     "oilUSD": 79,
-    "updatedAt": "2026-08-30T20:36:42.915Z",
-    "gold24KUSD": 143.24,
-    "gold21KUSD": 125.33,
-    "gold18KUSD": 107.43,
+    "updatedAt": "2026-08-31T12:47:07.944Z",
+    "gold24KUSD": 143.25,
+    "gold21KUSD": 125.34,
+    "gold18KUSD": 107.44,
     "gold24KJD": 101.56,
-    "gold21KJD": 88.86,
+    "gold21KJD": 88.87,
     "gold18KJD": 76.17
   },
   "exchange": {
@@ -36,8 +36,8 @@
   },
   "prayer": {
     "fajr": "05:01",
-    "maghrib": "19:03",
-    "date": "30 Aug 2030"
+    "maghrib": "19:02",
+    "date": "31 Aug 2031"
   },
   "events": [
     {
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
+        "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+        "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+        "points": 21,
+        "comments": 14,
+        "created_at": "2026-08-31T12:08:25.000Z"
+      },
+      {
+        "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+        "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+        "points": 53,
+        "comments": 45,
+        "created_at": "2026-08-31T07:23:47.000Z"
+      },
+      {
+        "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+        "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+        "points": 42,
+        "comments": 88,
+        "created_at": "2026-08-31T03:45:57.000Z"
+      },
+      {
         "title": "No AI Fridays",
         "url": "https://noaifridays.com/",
-        "points": 255,
-        "comments": 168,
+        "points": 276,
+        "comments": 192,
         "created_at": "2026-08-30T12:31:05.000Z"
       },
       {
         "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
         "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-        "points": 54,
-        "comments": 29,
+        "points": 59,
+        "comments": 31,
         "created_at": "2026-08-30T10:20:11.000Z"
-      },
-      {
-        "title": "What We Tell AI",
-        "url": "https://www.whatwetellai.com/",
-        "points": 27,
-        "comments": 7,
-        "created_at": "2026-08-30T10:16:14.000Z"
-      },
-      {
-        "title": "Nvidia's AI advantage is moving beyond the GPU",
-        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-        "points": 12,
-        "comments": 8,
-        "created_at": "2026-08-30T09:57:06.000Z"
-      },
-      {
-        "title": "Smartphone LED Detects Hidden Cameras with AI",
-        "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-        "points": 14,
-        "comments": 1,
-        "created_at": "2026-08-30T06:52:04.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: How to break Claude Code addiction?",
         "url": "https://news.ycombinator.com/item?id=49491745",
-        "points": 16,
-        "comments": 23,
+        "points": 17,
+        "comments": 24,
         "created_at": "2026-08-29T17:43:13.000Z"
       },
       {
@@ -140,8 +140,8 @@
       {
         "title": "Ask HN: How to break Claude Code addiction?",
         "url": "https://news.ycombinator.com/item?id=49491745",
-        "points": 16,
-        "comments": 23,
+        "points": 17,
+        "comments": 24,
         "created_at": "2026-08-29T17:43:13.000Z"
       },
       {
@@ -154,7 +154,7 @@
       {
         "title": "Rob Pike's 5 Rules of Programming",
         "url": "https://web.archive.org/web/20260314210910/https://users.ece.utexas.edu/~adnan/pike.html",
-        "points": 17,
+        "points": 18,
         "comments": 0,
         "created_at": "2026-08-27T18:51:12.000Z"
       },
