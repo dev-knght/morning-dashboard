@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-01T11:09:07.772Z",
+  "updatedAt": "2026-09-01T20:35:54.726Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 32.5,
-      "humidity": 34,
-      "wind_kph": 13.4,
+      "temp_c": 23.3,
+      "humidity": 64,
+      "wind_kph": 3.8,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-09-02",
-      "temp_max_c": 33.9,
-      "temp_min_c": 20.8,
-      "humidity_max": 73,
-      "humidity_min": 28,
-      "wind_kph": 24.6,
+      "temp_max_c": 34.4,
+      "temp_min_c": 21,
+      "humidity_max": 74,
+      "humidity_min": 23,
+      "wind_kph": 23.8,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4460.16,
     "oilUSD": 79,
-    "updatedAt": "2026-09-01T11:09:07.772Z",
+    "updatedAt": "2026-09-01T20:35:54.726Z",
     "gold24KUSD": 143.4,
     "gold21KUSD": 125.47,
     "gold18KUSD": 107.55,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI Can Make You Suck Faster Too",
-        "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-        "points": 97,
-        "comments": 109,
-        "created_at": "2026-09-01T05:32:56.000Z"
+        "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+        "url": "https://danluu.com/zitron/",
+        "points": 130,
+        "comments": 123,
+        "created_at": "2026-09-01T18:35:15.000Z"
       },
       {
-        "title": "ArXiv has almost 600 submissions today and most are AI slop",
-        "url": "https://arxiv.org/list/math/new",
-        "points": 21,
-        "comments": 15,
-        "created_at": "2026-09-01T04:24:01.000Z"
+        "title": "There Is No AI",
+        "url": "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
+        "points": 18,
+        "comments": 4,
+        "created_at": "2026-09-01T18:18:54.000Z"
       },
       {
-        "title": "The safest job from AI may be writing",
-        "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-        "points": 131,
-        "comments": 180,
-        "created_at": "2026-08-31T18:12:20.000Z"
+        "title": "The war with Iran will not be won through airstrikes, so what's left?",
+        "url": "https://www.jpost.com/defense-and-tech/article-906985",
+        "points": 19,
+        "comments": 30,
+        "created_at": "2026-09-01T17:13:30.000Z"
       },
       {
-        "title": "How much of a problem is AI's water use?",
-        "url": "https://knowablemagazine.org/content/article/technology/2026/how-much-water-do-ai-data-centers-use",
-        "points": 13,
-        "comments": 0,
-        "created_at": "2026-08-31T17:16:52.000Z"
+        "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+        "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+        "points": 159,
+        "comments": 135,
+        "created_at": "2026-09-01T15:53:42.000Z"
       },
       {
-        "title": "Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs",
-        "url": "https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/",
-        "points": 37,
-        "comments": 22,
-        "created_at": "2026-08-31T16:44:15.000Z"
+        "title": "Ask HN: Who is hiring? (September 2026)",
+        "url": "https://news.ycombinator.com/item?id=49522897",
+        "points": 154,
+        "comments": 162,
+        "created_at": "2026-09-01T15:01:17.000Z"
       }
     ],
     "vibeCoding": [
