@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-02T10:41:29.927Z",
+  "updatedAt": "2026-09-02T20:31:59.258Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 34.5,
-      "humidity": 23,
-      "wind_kph": 18.7,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 24,
+      "humidity": 58,
+      "wind_kph": 2.6,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-09-03",
-      "temp_max_c": 32.5,
-      "temp_min_c": 21.4,
+      "temp_max_c": 33.2,
+      "temp_min_c": 21.6,
       "humidity_max": 96,
-      "humidity_min": 44,
-      "wind_kph": 29.4,
+      "humidity_min": 43,
+      "wind_kph": 28.7,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4455.86,
     "oilUSD": 79,
-    "updatedAt": "2026-09-02T10:41:29.927Z",
+    "updatedAt": "2026-09-02T20:31:59.258Z",
     "gold24KUSD": 143.26,
     "gold21KUSD": 125.35,
     "gold18KUSD": 107.44,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Mayor says 'large chunks' of Wellington council Deloitte report written by AI",
-        "url": "https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai",
-        "points": 20,
-        "comments": 13,
-        "created_at": "2026-09-02T07:50:46.000Z"
+        "title": "The Post-AI Internet Doesn't Look Great",
+        "url": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/",
+        "points": 53,
+        "comments": 35,
+        "created_at": "2026-09-02T19:41:01.000Z"
       },
       {
-        "title": "AI Coding Agent Skills for Real Engineers",
-        "url": "https://github.com/mattpocock/skills",
-        "points": 29,
-        "comments": 11,
-        "created_at": "2026-09-01T22:48:47.000Z"
+        "title": "Firefox's AI Switch Is Off. Telemetry Isn't",
+        "url": "https://marius.blog/firefox-155-ai-kill-switch-retest/",
+        "points": 27,
+        "comments": 15,
+        "created_at": "2026-09-02T18:30:49.000Z"
       },
       {
-        "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-        "url": "https://masteranza.github.io/weedout/",
-        "points": 147,
-        "comments": 65,
-        "created_at": "2026-09-01T22:06:57.000Z"
+        "title": "No AI until high school:NYC schools announce major classroom technology overhaul",
+        "url": "https://abc7ny.com/post/new-york-city-public-schools-banning-ai-use-middle-school-year/19778716/",
+        "points": 16,
+        "comments": 5,
+        "created_at": "2026-09-02T18:13:54.000Z"
       },
       {
-        "title": "AI is making back-office work extinct",
-        "url": "https://www.whitecollardream.com/",
-        "points": 29,
-        "comments": 4,
-        "created_at": "2026-09-01T21:43:31.000Z"
+        "title": "AI Policy",
+        "url": "https://dbushell.com/ai/",
+        "points": 47,
+        "comments": 73,
+        "created_at": "2026-09-02T15:36:24.000Z"
       },
       {
-        "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-        "url": "https://danluu.com/zitron/",
-        "points": 719,
-        "comments": 792,
-        "created_at": "2026-09-01T18:35:15.000Z"
+        "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+        "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+        "points": 246,
+        "comments": 114,
+        "created_at": "2026-09-02T13:59:59.000Z"
       }
     ],
     "vibeCoding": [
