@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-02T20:31:59.258Z",
+  "updatedAt": "2026-09-03T10:43:31.969Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 24,
-      "humidity": 58,
-      "wind_kph": 2.6,
+      "temp_c": 32.6,
+      "humidity": 43,
+      "wind_kph": 23,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-09-03",
-      "temp_max_c": 33.2,
-      "temp_min_c": 21.6,
-      "humidity_max": 96,
-      "humidity_min": 43,
-      "wind_kph": 28.7,
+      "date": "2026-09-04",
+      "temp_max_c": 31.2,
+      "temp_min_c": 20.7,
+      "humidity_max": 95,
+      "humidity_min": 38,
+      "wind_kph": 25.1,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4455.86,
+    "goldUSD": 4322.67,
     "oilUSD": 79,
-    "updatedAt": "2026-09-02T20:31:59.258Z",
-    "gold24KUSD": 143.26,
-    "gold21KUSD": 125.35,
-    "gold18KUSD": 107.44,
-    "gold24KJD": 101.57,
-    "gold21KJD": 88.87,
-    "gold18KJD": 76.18
+    "updatedAt": "2026-09-03T10:43:31.969Z",
+    "gold24KUSD": 138.98,
+    "gold21KUSD": 121.6,
+    "gold18KUSD": 104.23,
+    "gold24KJD": 98.53,
+    "gold21KJD": 86.22,
+    "gold18KJD": 73.9
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "05:03",
-    "maghrib": "19:00",
-    "date": "02 Sep 2002"
+    "maghrib": "18:59",
+    "date": "03 Sep 2003"
   },
   "events": [
     {
@@ -64,42 +64,49 @@
   "news": {
     "ai": [
       {
-        "title": "The Post-AI Internet Doesn't Look Great",
-        "url": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/",
-        "points": 53,
-        "comments": 35,
-        "created_at": "2026-09-02T19:41:01.000Z"
+        "title": "No–AI Agents Did Not Build Secret Civilizations Stop Anthropomorphizing Malware",
+        "url": "https://internetofbugs.substack.com/p/noai-agents-did-not-build-secret",
+        "points": 12,
+        "comments": 6,
+        "created_at": "2026-09-03T07:45:10.000Z"
       },
       {
-        "title": "Firefox's AI Switch Is Off. Telemetry Isn't",
-        "url": "https://marius.blog/firefox-155-ai-kill-switch-retest/",
-        "points": 27,
-        "comments": 15,
-        "created_at": "2026-09-02T18:30:49.000Z"
-      },
-      {
-        "title": "No AI until high school:NYC schools announce major classroom technology overhaul",
-        "url": "https://abc7ny.com/post/new-york-city-public-schools-banning-ai-use-middle-school-year/19778716/",
-        "points": 16,
+        "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
+        "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+        "points": 42,
         "comments": 5,
-        "created_at": "2026-09-02T18:13:54.000Z"
+        "created_at": "2026-09-03T01:11:22.000Z"
       },
       {
-        "title": "AI Policy",
-        "url": "https://dbushell.com/ai/",
-        "points": 47,
-        "comments": 73,
-        "created_at": "2026-09-02T15:36:24.000Z"
+        "title": "US Government worried that AI companies can't innovate without legal theft",
+        "url": "https://appleinsider.com/articles/26/09/02/us-government-worried-that-ai-companies-cant-innovate-without-legal-theft",
+        "points": 11,
+        "comments": 3,
+        "created_at": "2026-09-02T22:22:45.000Z"
       },
       {
-        "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-        "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-        "points": 246,
-        "comments": 114,
-        "created_at": "2026-09-02T13:59:59.000Z"
+        "title": "Mamdani Bans AI in NYC Schools",
+        "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+        "points": 177,
+        "comments": 139,
+        "created_at": "2026-09-02T20:57:04.000Z"
+      },
+      {
+        "title": "AI Agents and the Refactoring That Never Happens",
+        "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
+        "points": 45,
+        "comments": 60,
+        "created_at": "2026-09-02T19:51:39.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Wk. 6 of Vibecoding an MMO",
+        "url": "https://eldermyr.com/",
+        "points": 14,
+        "comments": 39,
+        "created_at": "2026-09-03T03:13:54.000Z"
+      },
       {
         "title": "Ask HN: How to break Claude Code addiction?",
         "url": "https://news.ycombinator.com/item?id=49491745",
@@ -110,7 +117,7 @@
       {
         "title": "Ask HN: AI writes better code than me. How to keep my identity?",
         "url": "https://news.ycombinator.com/item?id=49481969",
-        "points": 14,
+        "points": 15,
         "comments": 25,
         "created_at": "2026-08-28T17:40:39.000Z"
       },
@@ -127,16 +134,16 @@
         "points": 33,
         "comments": 42,
         "created_at": "2026-08-21T15:15:14.000Z"
-      },
-      {
-        "title": "Vibecoding isn't as fun as writing code by hand",
-        "url": "https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/",
-        "points": 17,
-        "comments": 5,
-        "created_at": "2026-08-21T13:28:01.000Z"
       }
     ],
     "progDb": [
+      {
+        "title": "AI Agents and the Refactoring That Never Happens",
+        "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
+        "points": 45,
+        "comments": 60,
+        "created_at": "2026-09-02T19:51:39.000Z"
+      },
       {
         "title": "Ask HN: How to break Claude Code addiction?",
         "url": "https://news.ycombinator.com/item?id=49491745",
@@ -154,7 +161,7 @@
       {
         "title": "Ask HN: AI writes better code than me. How to keep my identity?",
         "url": "https://news.ycombinator.com/item?id=49481969",
-        "points": 14,
+        "points": 15,
         "comments": 25,
         "created_at": "2026-08-28T17:40:39.000Z"
       },
@@ -164,13 +171,6 @@
         "points": 19,
         "comments": 0,
         "created_at": "2026-08-27T18:51:12.000Z"
-      },
-      {
-        "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding and Linux [video]",
-        "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-        "points": 12,
-        "comments": 0,
-        "created_at": "2026-08-27T16:29:06.000Z"
       }
     ]
   }
