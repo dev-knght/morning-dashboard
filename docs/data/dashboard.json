@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-03T20:32:23.934Z",
+  "updatedAt": "2026-09-04T10:46:24.386Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 22.1,
-      "humidity": 94,
-      "wind_kph": 14,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 31.5,
+      "humidity": 35,
+      "wind_kph": 22.1,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-09-04",
-      "temp_max_c": 31.5,
-      "temp_min_c": 20.4,
-      "humidity_max": 95,
-      "humidity_min": 36,
-      "wind_kph": 25.6,
+      "date": "2026-09-05",
+      "temp_max_c": 31.6,
+      "temp_min_c": 20.5,
+      "humidity_max": 96,
+      "humidity_min": 39,
+      "wind_kph": 26,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4322.67,
+    "goldUSD": 4390.88,
     "oilUSD": 79,
-    "updatedAt": "2026-09-03T20:32:23.934Z",
-    "gold24KUSD": 138.98,
-    "gold21KUSD": 121.6,
-    "gold18KUSD": 104.23,
-    "gold24KJD": 98.53,
-    "gold21KJD": 86.22,
-    "gold18KJD": 73.9
+    "updatedAt": "2026-09-04T10:46:24.386Z",
+    "gold24KUSD": 141.17,
+    "gold21KUSD": 123.52,
+    "gold18KUSD": 105.88,
+    "gold24KJD": 100.09,
+    "gold21KJD": 87.58,
+    "gold18KJD": 75.07
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:03",
-    "maghrib": "18:59",
-    "date": "03 Sep 2003"
+    "fajr": "05:05",
+    "maghrib": "18:56",
+    "date": "04 Sep 2004"
   },
   "events": [
     {
@@ -64,6 +64,20 @@
   "news": {
     "ai": [
       {
+        "title": "NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade",
+        "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+        "points": 40,
+        "comments": 11,
+        "created_at": "2026-09-03T23:14:00.000Z"
+      },
+      {
+        "title": "Protecting Engineers' Skills in the AI Era",
+        "url": "https://spectrum.ieee.org/ai-engineer-skills",
+        "points": 35,
+        "comments": 20,
+        "created_at": "2026-09-03T23:00:04.000Z"
+      },
+      {
         "title": "OpenAI says it has overtaken Anthropic with its latest AI model",
         "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/1054f4f0-cac7-479c-a4a7-f95b3906ca4b",
         "points": 16,
@@ -73,30 +87,16 @@
       {
         "title": "Pause AI Development Now",
         "url": "https://twitter.com/BernieSanders/status/2095542398084415952",
-        "points": 11,
-        "comments": 7,
+        "points": 12,
+        "comments": 6,
         "created_at": "2026-09-03T17:34:48.000Z"
       },
       {
         "title": "Judge Tells RFK Jr. To Stop Using Fake AI Studies on Teen Pregnancy",
         "url": "https://newrepublic.com/post/215001/judge-rfk-jr-hhs-fake-ai-studies-teen-pregnancy",
-        "points": 14,
+        "points": 18,
         "comments": 2,
         "created_at": "2026-09-03T17:33:00.000Z"
-      },
-      {
-        "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
-        "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
-        "points": 50,
-        "comments": 59,
-        "created_at": "2026-09-03T17:20:29.000Z"
-      },
-      {
-        "title": "Meta wanted to reduce teams by 60% because of AI",
-        "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams",
-        "points": 14,
-        "comments": 5,
-        "created_at": "2026-09-03T17:18:25.000Z"
       }
     ],
     "vibeCoding": [
@@ -138,11 +138,25 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: Open source ML programming language playground",
+        "url": "https://sw-ml-study.github.io/sw-mlpl/",
+        "points": 11,
+        "comments": 0,
+        "created_at": "2026-09-02T22:05:31.000Z"
+      },
+      {
         "title": "AI Agents and the Refactoring That Never Happens",
         "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
-        "points": 47,
-        "comments": 63,
+        "points": 49,
+        "comments": 64,
         "created_at": "2026-09-02T19:51:39.000Z"
+      },
+      {
+        "title": "How an MIT research project became the Julia programming language",
+        "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+        "points": 100,
+        "comments": 32,
+        "created_at": "2026-08-31T08:26:09.000Z"
       },
       {
         "title": "Ask HN: How to break Claude Code addiction?",
@@ -157,20 +171,6 @@
         "points": 34,
         "comments": 4,
         "created_at": "2026-08-28T20:52:21.000Z"
-      },
-      {
-        "title": "Ask HN: AI writes better code than me. How to keep my identity?",
-        "url": "https://news.ycombinator.com/item?id=49481969",
-        "points": 15,
-        "comments": 25,
-        "created_at": "2026-08-28T17:40:39.000Z"
-      },
-      {
-        "title": "Rob Pike's 5 Rules of Programming",
-        "url": "https://web.archive.org/web/20260314210910/https://users.ece.utexas.edu/~adnan/pike.html",
-        "points": 19,
-        "comments": 0,
-        "created_at": "2026-08-27T18:51:12.000Z"
       }
     ]
   }
