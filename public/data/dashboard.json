@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-09-04T20:18:53.987Z",
+  "updatedAt": "2026-09-05T09:59:52.829Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 21.6,
-      "humidity": 92,
-      "wind_kph": 9.2,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 30.2,
+      "humidity": 43,
+      "wind_kph": 20.1,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-09-05",
-      "temp_max_c": 31.8,
-      "temp_min_c": 20,
-      "humidity_max": 94,
+      "date": "2026-09-06",
+      "temp_max_c": 30.7,
+      "temp_min_c": 20.6,
+      "humidity_max": 97,
       "humidity_min": 39,
-      "wind_kph": 25.2,
+      "wind_kph": 30.1,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4390.88,
+    "goldUSD": 4481.57,
     "oilUSD": 79,
-    "updatedAt": "2026-09-04T20:18:53.987Z",
-    "gold24KUSD": 141.17,
-    "gold21KUSD": 123.52,
-    "gold18KUSD": 105.88,
-    "gold24KJD": 100.09,
-    "gold21KJD": 87.58,
-    "gold18KJD": 75.07
+    "updatedAt": "2026-09-05T09:59:52.829Z",
+    "gold24KUSD": 144.09,
+    "gold21KUSD": 126.07,
+    "gold18KUSD": 108.06,
+    "gold24KJD": 102.16,
+    "gold21KJD": 89.39,
+    "gold18KJD": 76.62
   },
   "exchange": {
     "JOD": 0.709
@@ -37,7 +37,7 @@
   "prayer": {
     "fajr": "05:05",
     "maghrib": "18:56",
-    "date": "04 Sep 2004"
+    "date": "05 Sep 2005"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "AI handles incidents, engineers lose touch with their systems",
+        "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+        "points": 92,
+        "comments": 65,
+        "created_at": "2026-09-05T07:52:50.000Z"
+      },
+      {
         "title": "Can AI design circuit boards yet?",
         "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-        "points": 22,
-        "comments": 10,
+        "points": 262,
+        "comments": 155,
         "created_at": "2026-09-04T19:48:29.000Z"
+      },
+      {
+        "title": "Show HN: Open-Source eInk Bike Computer",
+        "url": "https://opentrailpaper.com",
+        "points": 288,
+        "comments": 102,
+        "created_at": "2026-09-04T17:18:08.000Z"
       },
       {
         "title": "Corporate America is getting hooked on open-source AI",
         "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-        "points": 205,
-        "comments": 188,
+        "points": 297,
+        "comments": 270,
         "created_at": "2026-09-04T15:33:45.000Z"
       },
       {
         "title": "Meta new layoff goal of 60% to AI after moving 30% engineers to labelers",
         "url": "https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/",
-        "points": 22,
-        "comments": 11,
+        "points": 23,
+        "comments": 12,
         "created_at": "2026-09-04T12:03:27.000Z"
-      },
-      {
-        "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-        "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-        "points": 339,
-        "comments": 70,
-        "created_at": "2026-09-04T11:59:15.000Z"
-      },
-      {
-        "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
-        "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
-        "points": 90,
-        "comments": 2,
-        "created_at": "2026-09-04T10:30:57.000Z"
       }
     ],
     "vibeCoding": [
@@ -131,6 +131,13 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: MeScript, music programming language inspired by Lisp",
+        "url": "https://quadracollision.com/mescript/",
+        "points": 25,
+        "comments": 1,
+        "created_at": "2026-09-04T14:32:24.000Z"
+      },
+      {
         "title": "Show HN: Open source ML programming language playground",
         "url": "https://sw-ml-study.github.io/sw-mlpl/",
         "points": 11,
@@ -141,14 +148,14 @@
         "title": "AI Agents and the Refactoring That Never Happens",
         "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
         "points": 49,
-        "comments": 64,
+        "comments": 65,
         "created_at": "2026-09-02T19:51:39.000Z"
       },
       {
         "title": "How an MIT research project became the Julia programming language",
         "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
-        "points": 202,
-        "comments": 110,
+        "points": 204,
+        "comments": 117,
         "created_at": "2026-08-31T08:26:09.000Z"
       },
       {
@@ -157,13 +164,6 @@
         "points": 17,
         "comments": 24,
         "created_at": "2026-08-29T17:43:13.000Z"
-      },
-      {
-        "title": "Show HN: Kvist – a Lisp for systems programming that compiles to Odin",
-        "url": "https://github.com/kvist-lang/kvist",
-        "points": 34,
-        "comments": 4,
-        "created_at": "2026-08-28T20:52:21.000Z"
       }
     ]
   }
