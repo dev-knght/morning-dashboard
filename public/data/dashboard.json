@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-05T19:58:38.823Z",
+  "updatedAt": "2026-09-06T10:18:59.284Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 21.6,
-      "humidity": 89,
-      "wind_kph": 13.4,
+      "temp_c": 30.3,
+      "humidity": 43,
+      "wind_kph": 26.6,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-09-06",
-      "temp_max_c": 31,
-      "temp_min_c": 20.7,
-      "humidity_max": 96,
-      "humidity_min": 38,
-      "wind_kph": 29.4,
+      "date": "2026-09-07",
+      "temp_max_c": 33,
+      "temp_min_c": 21,
+      "humidity_max": 94,
+      "humidity_min": 40,
+      "wind_kph": 26.2,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4481.57,
+    "goldUSD": 4429.91,
     "oilUSD": 79,
-    "updatedAt": "2026-09-05T19:58:38.823Z",
-    "gold24KUSD": 144.09,
-    "gold21KUSD": 126.07,
-    "gold18KUSD": 108.06,
-    "gold24KJD": 102.16,
-    "gold21KJD": 89.39,
-    "gold18KJD": 76.62
+    "updatedAt": "2026-09-06T10:18:59.284Z",
+    "gold24KUSD": 142.42,
+    "gold21KUSD": 124.62,
+    "gold18KUSD": 106.82,
+    "gold24KJD": 100.98,
+    "gold21KJD": 88.36,
+    "gold18KJD": 75.73
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:05",
-    "maghrib": "18:56",
-    "date": "05 Sep 2005"
+    "fajr": "05:06",
+    "maghrib": "18:55",
+    "date": "06 Sep 2006"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "AI, Tools and Transformation",
+        "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+        "points": 62,
+        "comments": 21,
+        "created_at": "2026-09-06T02:12:46.000Z"
+      },
+      {
+        "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+        "url": "https://github.com/okf-memory/okf-agent-memory",
+        "points": 66,
+        "comments": 20,
+        "created_at": "2026-09-05T22:15:52.000Z"
+      },
+      {
+        "title": "America's two largest school districts impose AI moratoriums",
+        "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+        "points": 59,
+        "comments": 71,
+        "created_at": "2026-09-05T21:43:22.000Z"
+      },
+      {
+        "title": "How AI is breaking the British state",
+        "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+        "points": 33,
+        "comments": 58,
+        "created_at": "2026-09-05T21:05:35.000Z"
+      },
+      {
         "title": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores",
         "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
-        "points": 25,
-        "comments": 6,
+        "points": 29,
+        "comments": 9,
         "created_at": "2026-09-05T13:09:53.000Z"
-      },
-      {
-        "title": "'Guilt by association': why 7 int'l aid workers were killed in Israeli airstrike",
-        "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
-        "points": 18,
-        "comments": 1,
-        "created_at": "2026-09-05T09:24:45.000Z"
-      },
-      {
-        "title": "AI handles incidents, engineers lose touch with their systems",
-        "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-        "points": 325,
-        "comments": 286,
-        "created_at": "2026-09-05T07:52:50.000Z"
-      },
-      {
-        "title": "Can AI design circuit boards yet?",
-        "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-        "points": 339,
-        "comments": 199,
-        "created_at": "2026-09-04T19:48:29.000Z"
-      },
-      {
-        "title": "Show HN: Open-Source eInk Bike Computer",
-        "url": "https://opentrailpaper.com",
-        "points": 369,
-        "comments": 115,
-        "created_at": "2026-09-04T17:18:08.000Z"
       }
     ],
     "vibeCoding": [
@@ -133,8 +133,8 @@
       {
         "title": "Learn Programming with OCaml",
         "url": "https://usr.lmf.cnrs.fr/lpo/",
-        "points": 61,
-        "comments": 23,
+        "points": 255,
+        "comments": 94,
         "created_at": "2026-09-05T16:45:02.000Z"
       },
       {
@@ -154,14 +154,14 @@
       {
         "title": "AI Agents and the Refactoring That Never Happens",
         "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
-        "points": 49,
-        "comments": 65,
+        "points": 50,
+        "comments": 66,
         "created_at": "2026-09-02T19:51:39.000Z"
       },
       {
         "title": "How an MIT research project became the Julia programming language",
         "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
-        "points": 205,
+        "points": 206,
         "comments": 124,
         "created_at": "2026-08-31T08:26:09.000Z"
       }
