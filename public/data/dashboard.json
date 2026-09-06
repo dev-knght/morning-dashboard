@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-06T10:18:59.284Z",
+  "updatedAt": "2026-09-06T20:01:18.711Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 30.3,
-      "humidity": 43,
-      "wind_kph": 26.6,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 21.9,
+      "humidity": 87,
+      "wind_kph": 13.6,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-09-07",
-      "temp_max_c": 33,
-      "temp_min_c": 21,
+      "temp_max_c": 33.6,
+      "temp_min_c": 21.1,
       "humidity_max": 94,
-      "humidity_min": 40,
-      "wind_kph": 26.2,
+      "humidity_min": 35,
+      "wind_kph": 26,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4429.91,
     "oilUSD": 79,
-    "updatedAt": "2026-09-06T10:18:59.284Z",
+    "updatedAt": "2026-09-06T20:01:18.711Z",
     "gold24KUSD": 142.42,
     "gold21KUSD": 124.62,
     "gold18KUSD": 106.82,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "How I feel about AI",
+        "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+        "points": 142,
+        "comments": 215,
+        "created_at": "2026-09-06T15:00:19.000Z"
+      },
+      {
+        "title": "AI Slop",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870742&utm_source=substack&utm_medium=email",
+        "points": 12,
+        "comments": 3,
+        "created_at": "2026-09-06T12:42:17.000Z"
+      },
+      {
         "title": "AI, Tools and Transformation",
         "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-        "points": 62,
-        "comments": 21,
+        "points": 136,
+        "comments": 60,
         "created_at": "2026-09-06T02:12:46.000Z"
       },
       {
         "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
         "url": "https://github.com/okf-memory/okf-agent-memory",
-        "points": 66,
-        "comments": 20,
+        "points": 75,
+        "comments": 22,
         "created_at": "2026-09-05T22:15:52.000Z"
       },
       {
         "title": "America's two largest school districts impose AI moratoriums",
         "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-        "points": 59,
-        "comments": 71,
+        "points": 61,
+        "comments": 74,
         "created_at": "2026-09-05T21:43:22.000Z"
-      },
-      {
-        "title": "How AI is breaking the British state",
-        "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
-        "points": 33,
-        "comments": 58,
-        "created_at": "2026-09-05T21:05:35.000Z"
-      },
-      {
-        "title": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores",
-        "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
-        "points": 29,
-        "comments": 9,
-        "created_at": "2026-09-05T13:09:53.000Z"
       }
     ],
     "vibeCoding": [
@@ -131,10 +131,17 @@
     ],
     "progDb": [
       {
+        "title": "New all in one 6502 computer (Neo6502kbd)",
+        "url": "https://olimex.wordpress.com/2026/09/04/new-open-source-hardware-variant-of-neo6502-now-includes-keyboard-4-usb-hosts-uext-power-switch-and-usb-c-for-power-and-programming-all-in-one-keyboard-body/",
+        "points": 35,
+        "comments": 17,
+        "created_at": "2026-09-06T11:51:28.000Z"
+      },
+      {
         "title": "Learn Programming with OCaml",
         "url": "https://usr.lmf.cnrs.fr/lpo/",
-        "points": 255,
-        "comments": 94,
+        "points": 301,
+        "comments": 133,
         "created_at": "2026-09-05T16:45:02.000Z"
       },
       {
@@ -157,13 +164,6 @@
         "points": 50,
         "comments": 66,
         "created_at": "2026-09-02T19:51:39.000Z"
-      },
-      {
-        "title": "How an MIT research project became the Julia programming language",
-        "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
-        "points": 206,
-        "comments": 124,
-        "created_at": "2026-08-31T08:26:09.000Z"
       }
     ]
   }
