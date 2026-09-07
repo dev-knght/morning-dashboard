@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-07T11:39:32.505Z",
+  "updatedAt": "2026-09-07T21:08:43.006Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 33.1,
-      "humidity": 41,
-      "wind_kph": 22.6,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 23.3,
+      "humidity": 76,
+      "wind_kph": 5.8,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-09-08",
-      "temp_max_c": 33.9,
-      "temp_min_c": 20.6,
-      "humidity_max": 97,
-      "humidity_min": 28,
-      "wind_kph": 23.7,
-      "weather_code": 45,
-      "weather_desc": "Fog"
+      "date": "2026-09-09",
+      "temp_max_c": 32.5,
+      "temp_min_c": 19.4,
+      "humidity_max": 62,
+      "humidity_min": 25,
+      "wind_kph": 24.4,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     }
   },
   "metals": {
     "goldUSD": 4429.95,
     "oilUSD": 79,
-    "updatedAt": "2026-09-07T11:39:32.505Z",
+    "updatedAt": "2026-09-07T21:08:43.006Z",
     "gold24KUSD": 142.43,
     "gold21KUSD": 124.62,
     "gold18KUSD": 106.82,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "AI Cold Showers",
+        "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+        "points": 53,
+        "comments": 9,
+        "created_at": "2026-09-07T19:05:39.000Z"
+      },
+      {
+        "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+        "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+        "points": 93,
+        "comments": 111,
+        "created_at": "2026-09-07T18:24:32.000Z"
+      },
+      {
+        "title": "Initial effects of AI technology on employment look positive",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+        "points": 55,
+        "comments": 87,
+        "created_at": "2026-09-07T10:38:32.000Z"
+      },
+      {
         "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
         "url": "https://github.com/timgordontg/engrim",
-        "points": 46,
-        "comments": 11,
+        "points": 81,
+        "comments": 48,
         "created_at": "2026-09-07T04:49:36.000Z"
       },
       {
         "title": "I refused to train the AI that could replace me",
         "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
-        "points": 86,
-        "comments": 97,
+        "points": 92,
+        "comments": 107,
         "created_at": "2026-09-07T04:38:22.000Z"
-      },
-      {
-        "title": "'RAMageddon' hits consumer electronics as AI drains chip supply",
-        "url": "https://www.ft.com/content/ea9a9dcc-b1df-49b0-b80c-f320161b9efa",
-        "points": 19,
-        "comments": 10,
-        "created_at": "2026-09-07T04:07:19.000Z"
-      },
-      {
-        "title": "US Republicans revolt against Flock AI surveillance as backlash intensifies",
-        "url": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0",
-        "points": 29,
-        "comments": 3,
-        "created_at": "2026-09-07T04:07:07.000Z"
-      },
-      {
-        "title": "ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo",
-        "url": "https://github.com/redhat-et/ripwire",
-        "points": 14,
-        "comments": 8,
-        "created_at": "2026-09-07T02:11:40.000Z"
       }
     ],
     "vibeCoding": [
@@ -133,8 +133,8 @@
       {
         "title": "Programming is Art",
         "url": "https://orchidfiles.com/programming-is-art/",
-        "points": 89,
-        "comments": 94,
+        "points": 180,
+        "comments": 184,
         "created_at": "2026-09-07T08:05:00.000Z"
       },
       {
@@ -147,8 +147,8 @@
       {
         "title": "Learn Programming with OCaml",
         "url": "https://usr.lmf.cnrs.fr/lpo/",
-        "points": 311,
-        "comments": 137,
+        "points": 312,
+        "comments": 139,
         "created_at": "2026-09-05T16:45:02.000Z"
       },
       {
