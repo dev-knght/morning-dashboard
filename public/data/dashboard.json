@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-07T21:08:43.006Z",
+  "updatedAt": "2026-09-08T10:38:25.969Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 23.3,
-      "humidity": 76,
-      "wind_kph": 5.8,
+      "temp_c": 33.8,
+      "humidity": 26,
+      "wind_kph": 18.8,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-09-09",
-      "temp_max_c": 32.5,
-      "temp_min_c": 19.4,
-      "humidity_max": 62,
-      "humidity_min": 25,
-      "wind_kph": 24.4,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_max_c": 33.1,
+      "temp_min_c": 19.2,
+      "humidity_max": 75,
+      "humidity_min": 20,
+      "wind_kph": 26,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     }
   },
   "metals": {
-    "goldUSD": 4429.95,
+    "goldUSD": 4426.01,
     "oilUSD": 79,
-    "updatedAt": "2026-09-07T21:08:43.006Z",
-    "gold24KUSD": 142.43,
-    "gold21KUSD": 124.62,
-    "gold18KUSD": 106.82,
-    "gold24KJD": 100.98,
-    "gold21KJD": 88.36,
-    "gold18KJD": 75.74
+    "updatedAt": "2026-09-08T10:38:25.969Z",
+    "gold24KUSD": 142.3,
+    "gold21KUSD": 124.51,
+    "gold18KUSD": 106.72,
+    "gold24KJD": 100.89,
+    "gold21KJD": 88.28,
+    "gold18KJD": 75.67
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:06",
-    "maghrib": "18:54",
-    "date": "07 Sep 2007"
+    "fajr": "05:08",
+    "maghrib": "18:51",
+    "date": "08 Sep 2008"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI Cold Showers",
-        "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
-        "points": 53,
-        "comments": 9,
-        "created_at": "2026-09-07T19:05:39.000Z"
+        "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
+        "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
+        "points": 23,
+        "comments": 21,
+        "created_at": "2026-09-08T06:39:20.000Z"
       },
       {
-        "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-        "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-        "points": 93,
-        "comments": 111,
-        "created_at": "2026-09-07T18:24:32.000Z"
+        "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+        "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+        "points": 46,
+        "comments": 28,
+        "created_at": "2026-09-08T04:06:20.000Z"
       },
       {
-        "title": "Initial effects of AI technology on employment look positive",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-        "points": 55,
-        "comments": 87,
-        "created_at": "2026-09-07T10:38:32.000Z"
+        "title": "AI cancer cures slowed by chip shortage, says Arm boss",
+        "url": "https://www.bbc.com/news/articles/c0m39g7xzevo",
+        "points": 14,
+        "comments": 13,
+        "created_at": "2026-09-08T02:12:13.000Z"
       },
       {
-        "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-        "url": "https://github.com/timgordontg/engrim",
-        "points": 81,
-        "comments": 48,
-        "created_at": "2026-09-07T04:49:36.000Z"
+        "title": "Secure temporary file sharing for AI agents and humans",
+        "url": "https://github.com/aispace-sh/aispace-client",
+        "points": 12,
+        "comments": 3,
+        "created_at": "2026-09-07T23:59:58.000Z"
       },
       {
-        "title": "I refused to train the AI that could replace me",
-        "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
-        "points": 92,
-        "comments": 107,
-        "created_at": "2026-09-07T04:38:22.000Z"
+        "title": "WeatherNext 3: Our most advanced global weather AI model",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+        "points": 11,
+        "comments": 1,
+        "created_at": "2026-09-07T23:56:41.000Z"
       }
     ],
     "vibeCoding": [
@@ -133,8 +133,8 @@
       {
         "title": "Programming is Art",
         "url": "https://orchidfiles.com/programming-is-art/",
-        "points": 180,
-        "comments": 184,
+        "points": 188,
+        "comments": 190,
         "created_at": "2026-09-07T08:05:00.000Z"
       },
       {
@@ -147,7 +147,7 @@
       {
         "title": "Learn Programming with OCaml",
         "url": "https://usr.lmf.cnrs.fr/lpo/",
-        "points": 312,
+        "points": 315,
         "comments": 139,
         "created_at": "2026-09-05T16:45:02.000Z"
       },
