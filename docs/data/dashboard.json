@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-08T10:38:25.969Z",
+  "updatedAt": "2026-09-08T20:45:19.581Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 33.8,
-      "humidity": 26,
-      "wind_kph": 18.8,
+      "temp_c": 22.4,
+      "humidity": 57,
+      "wind_kph": 4.2,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-09-09",
-      "temp_max_c": 33.1,
-      "temp_min_c": 19.2,
-      "humidity_max": 75,
-      "humidity_min": 20,
-      "wind_kph": 26,
+      "temp_max_c": 33.5,
+      "temp_min_c": 19.5,
+      "humidity_max": 65,
+      "humidity_min": 18,
+      "wind_kph": 25.3,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4426.01,
     "oilUSD": 79,
-    "updatedAt": "2026-09-08T10:38:25.969Z",
+    "updatedAt": "2026-09-08T20:45:19.581Z",
     "gold24KUSD": 142.3,
     "gold21KUSD": 124.51,
     "gold18KUSD": 106.72,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
-        "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
-        "points": 23,
-        "comments": 21,
-        "created_at": "2026-09-08T06:39:20.000Z"
+        "title": "Muse: Meta's personal AI agent, features and capabilities",
+        "url": "https://ai.meta.com/muse/",
+        "points": 136,
+        "comments": 115,
+        "created_at": "2026-09-08T19:25:00.000Z"
       },
       {
-        "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-        "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-        "points": 46,
-        "comments": 28,
-        "created_at": "2026-09-08T04:06:20.000Z"
+        "title": "100s of flights cancelled at UK airports due to ATC issue",
+        "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+        "points": 97,
+        "comments": 61,
+        "created_at": "2026-09-08T18:26:27.000Z"
       },
       {
-        "title": "AI cancer cures slowed by chip shortage, says Arm boss",
-        "url": "https://www.bbc.com/news/articles/c0m39g7xzevo",
-        "points": 14,
-        "comments": 13,
-        "created_at": "2026-09-08T02:12:13.000Z"
-      },
-      {
-        "title": "Secure temporary file sharing for AI agents and humans",
-        "url": "https://github.com/aispace-sh/aispace-client",
-        "points": 12,
-        "comments": 3,
-        "created_at": "2026-09-07T23:59:58.000Z"
-      },
-      {
-        "title": "WeatherNext 3: Our most advanced global weather AI model",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+        "title": "Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI",
+        "url": "https://sparrow2.tavuslabs.org/",
         "points": 11,
-        "comments": 1,
-        "created_at": "2026-09-07T23:56:41.000Z"
+        "comments": 2,
+        "created_at": "2026-09-08T16:16:58.000Z"
+      },
+      {
+        "title": "LibreOffice breaks download records after declaring it has no AI features",
+        "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+        "points": 630,
+        "comments": 212,
+        "created_at": "2026-09-08T14:05:57.000Z"
+      },
+      {
+        "title": "AI Giants Work Hand-in-Hand with The Pentagon, Contracts Reveal",
+        "url": "https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/",
+        "points": 29,
+        "comments": 6,
+        "created_at": "2026-09-08T14:05:06.000Z"
       }
     ],
     "vibeCoding": [
@@ -131,10 +131,17 @@
     ],
     "progDb": [
       {
+        "title": "C*: Unifying Programming and Verification in C",
+        "url": "https://arxiv.org/abs/2504.02246",
+        "points": 55,
+        "comments": 33,
+        "created_at": "2026-09-08T15:56:56.000Z"
+      },
+      {
         "title": "Programming is Art",
         "url": "https://orchidfiles.com/programming-is-art/",
-        "points": 188,
-        "comments": 190,
+        "points": 189,
+        "comments": 194,
         "created_at": "2026-09-07T08:05:00.000Z"
       },
       {
@@ -157,13 +164,6 @@
         "points": 25,
         "comments": 1,
         "created_at": "2026-09-04T14:32:24.000Z"
-      },
-      {
-        "title": "Show HN: Open source ML programming language playground",
-        "url": "https://sw-ml-study.github.io/sw-mlpl/",
-        "points": 11,
-        "comments": 0,
-        "created_at": "2026-09-02T22:05:31.000Z"
       }
     ]
   }
