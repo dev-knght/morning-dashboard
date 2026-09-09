@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-09T10:48:25.850Z",
+  "updatedAt": "2026-09-09T20:28:03.520Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 32.1,
-      "humidity": 32,
-      "wind_kph": 19.7,
+      "temp_c": 21.5,
+      "humidity": 63,
+      "wind_kph": 5.4,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-09-10",
-      "temp_max_c": 31.1,
-      "temp_min_c": 19.3,
-      "humidity_max": 80,
-      "humidity_min": 35,
-      "wind_kph": 25.7,
+      "temp_max_c": 31,
+      "temp_min_c": 19.2,
+      "humidity_max": 85,
+      "humidity_min": 33,
+      "wind_kph": 25.2,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4416.56,
     "oilUSD": 79,
-    "updatedAt": "2026-09-09T10:48:25.850Z",
+    "updatedAt": "2026-09-09T20:28:03.520Z",
     "gold24KUSD": 142,
     "gold21KUSD": 124.25,
     "gold18KUSD": 106.5,
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
-        "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
+        "title": "AirPods 5",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+        "points": 217,
+        "comments": 172,
+        "created_at": "2026-09-09T17:39:24.000Z"
+      },
+      {
+        "title": "My Mental Model of AI Broke on September 8",
+        "url": "https://rough-ideas.bearblog.dev/my-mental-model-of-ai-broke-on-september-8/",
+        "points": 28,
+        "comments": 57,
+        "created_at": "2026-09-09T17:18:29.000Z"
+      },
+      {
+        "title": "Muse's Social Media Handle Is Stolen by New Meta AI Tool",
+        "url": "https://www.realitytea.com/2026/09/09/muse-band-meta-ai-social-media-handle/",
+        "points": 21,
+        "comments": 7,
+        "created_at": "2026-09-09T16:43:35.000Z"
+      },
+      {
+        "title": "Good Taste Can't Be Taught, Bought or Learned, Sorry AI",
+        "url": "https://emilyoberg.substack.com/p/good-taste-cant-be-taught-bought",
+        "points": 21,
+        "comments": 8,
+        "created_at": "2026-09-09T16:13:34.000Z"
+      },
+      {
+        "title": "Defining AI Psychosis. Part 2: \"Prolific AI Psychosis\"",
+        "url": "https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific",
         "points": 60,
-        "comments": 66,
-        "created_at": "2026-09-09T08:43:27.000Z"
-      },
-      {
-        "title": "AI Has a Discovery Problem",
-        "url": "https://mhacevedo.com/posts/the-discovery-problem",
-        "points": 57,
-        "comments": 30,
-        "created_at": "2026-09-09T04:59:26.000Z"
-      },
-      {
-        "title": "New Yorkers were misled about air quality after 9/11",
-        "url": "https://www.nytimes.com/2026/09/07/nyregion/sept-11-air-quality-cancer.html",
-        "points": 13,
-        "comments": 1,
-        "created_at": "2026-09-09T04:27:41.000Z"
-      },
-      {
-        "title": "ex-OpenAI Researcher Quits Anthropic over AI Safety Fears",
-        "url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628",
-        "points": 16,
-        "comments": 5,
-        "created_at": "2026-09-09T01:36:17.000Z"
-      },
-      {
-        "title": "AI Responsibility – OpenAI and Anthropic",
-        "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
-        "points": 78,
-        "comments": 22,
-        "created_at": "2026-09-09T01:32:49.000Z"
+        "comments": 40,
+        "created_at": "2026-09-09T16:13:11.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "I'm going back to coding by hand",
         "url": "https://news.ycombinator.com/item?id=49622554",
-        "points": 19,
-        "comments": 15,
+        "points": 55,
+        "comments": 42,
         "created_at": "2026-09-09T07:22:28.000Z"
       },
       {
@@ -140,14 +140,14 @@
       {
         "title": "C*: Unifying Programming and Verification in C (2025)",
         "url": "https://arxiv.org/abs/2504.02246",
-        "points": 77,
-        "comments": 51,
+        "points": 80,
+        "comments": 53,
         "created_at": "2026-09-08T15:56:56.000Z"
       },
       {
         "title": "Programming is Art",
         "url": "https://orchidfiles.com/programming-is-art/",
-        "points": 189,
+        "points": 190,
         "comments": 204,
         "created_at": "2026-09-07T08:05:00.000Z"
       },
@@ -159,18 +159,18 @@
         "created_at": "2026-09-06T11:51:28.000Z"
       },
       {
+        "title": "Bespoke: A programming language for people who say please",
+        "url": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
+        "points": 81,
+        "comments": 23,
+        "created_at": "2026-09-06T08:13:53.000Z"
+      },
+      {
         "title": "Learn Programming with OCaml",
         "url": "https://usr.lmf.cnrs.fr/lpo/",
         "points": 317,
         "comments": 139,
         "created_at": "2026-09-05T16:45:02.000Z"
-      },
-      {
-        "title": "Show HN: MeScript, music programming language inspired by Lisp",
-        "url": "https://quadracollision.com/mescript/",
-        "points": 25,
-        "comments": 1,
-        "created_at": "2026-09-04T14:32:24.000Z"
       }
     ]
   }
