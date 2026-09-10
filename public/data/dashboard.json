@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-10T10:41:04.201Z",
+  "updatedAt": "2026-09-10T20:27:04.138Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 30.3,
-      "humidity": 45,
-      "wind_kph": 23.2,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 21.1,
+      "humidity": 76,
+      "wind_kph": 6.4,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-09-11",
-      "temp_max_c": 31.4,
-      "temp_min_c": 18.4,
-      "humidity_max": 95,
-      "humidity_min": 34,
-      "wind_kph": 25.1,
-      "weather_code": 45,
-      "weather_desc": "Fog"
+      "temp_max_c": 31.6,
+      "temp_min_c": 18.2,
+      "humidity_max": 91,
+      "humidity_min": 35,
+      "wind_kph": 24.6,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
     "goldUSD": 4351.83,
     "oilUSD": 79,
-    "updatedAt": "2026-09-10T10:41:04.201Z",
+    "updatedAt": "2026-09-10T20:27:04.138Z",
     "gold24KUSD": 139.91,
     "gold21KUSD": 122.43,
     "gold18KUSD": 104.94,
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "DeepSeek v4.1 Flash",
-        "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-        "points": 404,
-        "comments": 177,
-        "created_at": "2026-09-10T06:11:05.000Z"
+        "title": "Detecting and countering misuse of AI: September 2026",
+        "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+        "points": 15,
+        "comments": 4,
+        "created_at": "2026-09-10T17:23:42.000Z"
       },
       {
-        "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-        "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
-        "points": 77,
-        "comments": 45,
-        "created_at": "2026-09-10T01:59:51.000Z"
-      },
-      {
-        "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
-        "url": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
-        "points": 75,
-        "comments": 102,
-        "created_at": "2026-09-10T01:02:44.000Z"
-      },
-      {
-        "title": "Anthropic discloses fourth AI hacking incident missed in earlier review",
-        "url": "https://www.reuters.com/legal/litigation/anthropic-reports-fourth-cybersecurity-incident-with-early-version-claude-2026-09-09/",
+        "title": "Meta tried to shrink engineering teams around AI",
+        "url": "https://leaddev.com/ai/meta-tried-to-shrink-engineering-teams-around-ai",
         "points": 12,
-        "comments": 6,
-        "created_at": "2026-09-10T00:25:32.000Z"
+        "comments": 4,
+        "created_at": "2026-09-10T16:13:47.000Z"
       },
       {
-        "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
-        "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
-        "points": 179,
-        "comments": 6,
-        "created_at": "2026-09-09T23:57:29.000Z"
+        "title": "One resignation turned the embers of AI fear into a wildfire",
+        "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+        "points": 37,
+        "comments": 68,
+        "created_at": "2026-09-10T16:09:43.000Z"
+      },
+      {
+        "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
+        "url": "https://usefeyn.com/blog/multimatte/",
+        "points": 24,
+        "comments": 4,
+        "created_at": "2026-09-10T15:50:25.000Z"
+      },
+      {
+        "title": "Apple is no longer thinking different",
+        "url": "https://news.ycombinator.com/item?id=49645683",
+        "points": 29,
+        "comments": 41,
+        "created_at": "2026-09-10T15:43:34.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "I'm going back to coding by hand",
         "url": "https://news.ycombinator.com/item?id=49622554",
-        "points": 61,
-        "comments": 46,
+        "points": 62,
+        "comments": 52,
         "created_at": "2026-09-09T07:22:28.000Z"
       },
       {
@@ -127,13 +127,6 @@
         "points": 15,
         "comments": 25,
         "created_at": "2026-08-28T17:40:39.000Z"
-      },
-      {
-        "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding and Linux [video]",
-        "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-        "points": 12,
-        "comments": 0,
-        "created_at": "2026-08-27T16:29:06.000Z"
       }
     ],
     "progDb": [
@@ -141,14 +134,14 @@
         "title": "C*: Unifying Programming and Verification in C (2025)",
         "url": "https://arxiv.org/abs/2504.02246",
         "points": 82,
-        "comments": 53,
+        "comments": 59,
         "created_at": "2026-09-08T15:56:56.000Z"
       },
       {
         "title": "Programming is Art",
         "url": "https://orchidfiles.com/programming-is-art/",
-        "points": 190,
-        "comments": 205,
+        "points": 191,
+        "comments": 206,
         "created_at": "2026-09-07T08:05:00.000Z"
       },
       {
@@ -161,8 +154,8 @@
       {
         "title": "Bespoke: A programming language for people who say please",
         "url": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
-        "points": 163,
-        "comments": 41,
+        "points": 174,
+        "comments": 43,
         "created_at": "2026-09-06T08:13:53.000Z"
       },
       {
