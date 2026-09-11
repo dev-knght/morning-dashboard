@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-10T20:27:04.138Z",
+  "updatedAt": "2026-09-11T10:39:54.358Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 21.1,
-      "humidity": 76,
-      "wind_kph": 6.4,
+      "temp_c": 31.5,
+      "humidity": 33,
+      "wind_kph": 20.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-09-11",
-      "temp_max_c": 31.6,
-      "temp_min_c": 18.2,
-      "humidity_max": 91,
-      "humidity_min": 35,
-      "wind_kph": 24.6,
+      "date": "2026-09-12",
+      "temp_max_c": 31.2,
+      "temp_min_c": 20.2,
+      "humidity_max": 96,
+      "humidity_min": 42,
+      "wind_kph": 27.5,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4351.83,
+    "goldUSD": 4395.97,
     "oilUSD": 79,
-    "updatedAt": "2026-09-10T20:27:04.138Z",
-    "gold24KUSD": 139.91,
-    "gold21KUSD": 122.43,
-    "gold18KUSD": 104.94,
-    "gold24KJD": 99.2,
-    "gold21KJD": 86.8,
-    "gold18KJD": 74.4
+    "updatedAt": "2026-09-11T10:39:54.358Z",
+    "gold24KUSD": 141.33,
+    "gold21KUSD": 123.67,
+    "gold18KUSD": 106,
+    "gold24KJD": 100.21,
+    "gold21KJD": 87.68,
+    "gold18KJD": 75.15
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "05:09",
-    "maghrib": "18:49",
-    "date": "10 Sep 2010"
+    "maghrib": "18:48",
+    "date": "11 Sep 2011"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "How My Students Think About AI",
+        "url": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
+        "points": 39,
+        "comments": 7,
+        "created_at": "2026-09-11T01:33:36.000Z"
+      },
+      {
+        "title": "AI researchers leave Anthropic and Google: 'There are no adults in the room'",
+        "url": "https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086",
+        "points": 16,
+        "comments": 2,
+        "created_at": "2026-09-10T23:23:52.000Z"
+      },
+      {
+        "title": "Stop externalizing the cost of your AI use to me",
+        "url": "https://thelastsoftwareengineer.substack.com/p/stop-externalizing-the-cost-of-your",
+        "points": 16,
+        "comments": 2,
+        "created_at": "2026-09-10T23:21:31.000Z"
+      },
+      {
+        "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+        "url": "https://system76.com/workstations/thelio-mira-ai",
+        "points": 107,
+        "comments": 99,
+        "created_at": "2026-09-10T23:10:06.000Z"
+      },
+      {
         "title": "Detecting and countering misuse of AI: September 2026",
         "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-        "points": 15,
-        "comments": 4,
+        "points": 137,
+        "comments": 200,
         "created_at": "2026-09-10T17:23:42.000Z"
-      },
-      {
-        "title": "Meta tried to shrink engineering teams around AI",
-        "url": "https://leaddev.com/ai/meta-tried-to-shrink-engineering-teams-around-ai",
-        "points": 12,
-        "comments": 4,
-        "created_at": "2026-09-10T16:13:47.000Z"
-      },
-      {
-        "title": "One resignation turned the embers of AI fear into a wildfire",
-        "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
-        "points": 37,
-        "comments": 68,
-        "created_at": "2026-09-10T16:09:43.000Z"
-      },
-      {
-        "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
-        "url": "https://usefeyn.com/blog/multimatte/",
-        "points": 24,
-        "comments": 4,
-        "created_at": "2026-09-10T15:50:25.000Z"
-      },
-      {
-        "title": "Apple is no longer thinking different",
-        "url": "https://news.ycombinator.com/item?id=49645683",
-        "points": 29,
-        "comments": 41,
-        "created_at": "2026-09-10T15:43:34.000Z"
       }
     ],
     "vibeCoding": [
@@ -154,7 +154,7 @@
       {
         "title": "Bespoke: A programming language for people who say please",
         "url": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
-        "points": 174,
+        "points": 176,
         "comments": 43,
         "created_at": "2026-09-06T08:13:53.000Z"
       },
