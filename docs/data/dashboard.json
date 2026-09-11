@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-11T10:39:54.358Z",
+  "updatedAt": "2026-09-11T20:30:06.402Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 31.5,
-      "humidity": 33,
-      "wind_kph": 20.6,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 21.7,
+      "humidity": 88,
+      "wind_kph": 6.2,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-09-12",
-      "temp_max_c": 31.2,
-      "temp_min_c": 20.2,
+      "temp_max_c": 31.6,
+      "temp_min_c": 20.4,
       "humidity_max": 96,
-      "humidity_min": 42,
-      "wind_kph": 27.5,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "humidity_min": 43,
+      "wind_kph": 26.1,
+      "weather_code": 45,
+      "weather_desc": "Fog"
     }
   },
   "metals": {
     "goldUSD": 4395.97,
     "oilUSD": 79,
-    "updatedAt": "2026-09-11T10:39:54.358Z",
+    "updatedAt": "2026-09-11T20:30:06.402Z",
     "gold24KUSD": 141.33,
     "gold21KUSD": 123.67,
     "gold18KUSD": 106,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "How My Students Think About AI",
-        "url": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
-        "points": 39,
-        "comments": 7,
-        "created_at": "2026-09-11T01:33:36.000Z"
+        "title": "A misalignment of AI in mathematics",
+        "url": "https://mathandai.org/",
+        "points": 246,
+        "comments": 344,
+        "created_at": "2026-09-11T17:45:12.000Z"
       },
       {
-        "title": "AI researchers leave Anthropic and Google: 'There are no adults in the room'",
-        "url": "https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086",
-        "points": 16,
-        "comments": 2,
-        "created_at": "2026-09-10T23:23:52.000Z"
+        "title": "A Misalignment of AI in Mathematics",
+        "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+        "points": 143,
+        "comments": 8,
+        "created_at": "2026-09-11T17:30:26.000Z"
       },
       {
-        "title": "Stop externalizing the cost of your AI use to me",
-        "url": "https://thelastsoftwareengineer.substack.com/p/stop-externalizing-the-cost-of-your",
-        "points": 16,
-        "comments": 2,
-        "created_at": "2026-09-10T23:21:31.000Z"
+        "title": "Feeling Sad about AI",
+        "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+        "points": 158,
+        "comments": 246,
+        "created_at": "2026-09-11T16:50:51.000Z"
       },
       {
-        "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-        "url": "https://system76.com/workstations/thelio-mira-ai",
-        "points": 107,
-        "comments": 99,
-        "created_at": "2026-09-10T23:10:06.000Z"
+        "title": "Show HN: Hacker News, Without AI",
+        "url": "https://www.unslop.news/",
+        "points": 143,
+        "comments": 62,
+        "created_at": "2026-09-11T16:08:50.000Z"
       },
       {
-        "title": "Detecting and countering misuse of AI: September 2026",
-        "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-        "points": 137,
-        "comments": 200,
-        "created_at": "2026-09-10T17:23:42.000Z"
+        "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+        "url": "https://github.com/godot-pty/gpty",
+        "points": 65,
+        "comments": 35,
+        "created_at": "2026-09-11T16:03:05.000Z"
       }
     ],
     "vibeCoding": [
@@ -120,16 +120,23 @@
         "points": 17,
         "comments": 24,
         "created_at": "2026-08-29T17:43:13.000Z"
-      },
-      {
-        "title": "Ask HN: AI writes better code than me. How to keep my identity?",
-        "url": "https://news.ycombinator.com/item?id=49481969",
-        "points": 15,
-        "comments": 25,
-        "created_at": "2026-08-28T17:40:39.000Z"
       }
     ],
     "progDb": [
+      {
+        "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+        "url": "https://snap.berkeley.edu/",
+        "points": 67,
+        "comments": 45,
+        "created_at": "2026-09-11T17:36:11.000Z"
+      },
+      {
+        "title": "Logo Programming Language",
+        "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+        "points": 179,
+        "comments": 79,
+        "created_at": "2026-09-09T07:07:26.000Z"
+      },
       {
         "title": "C*: Unifying Programming and Verification in C (2025)",
         "url": "https://arxiv.org/abs/2504.02246",
@@ -138,32 +145,18 @@
         "created_at": "2026-09-08T15:56:56.000Z"
       },
       {
+        "title": "Experiment – Projectional Viewer",
+        "url": "https://programmingsimplicity.substack.com/p/experiment-projectional-viewer",
+        "points": 15,
+        "comments": 3,
+        "created_at": "2026-09-08T12:03:33.000Z"
+      },
+      {
         "title": "Programming is Art",
         "url": "https://orchidfiles.com/programming-is-art/",
         "points": 191,
         "comments": 206,
         "created_at": "2026-09-07T08:05:00.000Z"
-      },
-      {
-        "title": "New all in one 6502 computer (Neo6502kbd)",
-        "url": "https://olimex.wordpress.com/2026/09/04/new-open-source-hardware-variant-of-neo6502-now-includes-keyboard-4-usb-hosts-uext-power-switch-and-usb-c-for-power-and-programming-all-in-one-keyboard-body/",
-        "points": 47,
-        "comments": 18,
-        "created_at": "2026-09-06T11:51:28.000Z"
-      },
-      {
-        "title": "Bespoke: A programming language for people who say please",
-        "url": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
-        "points": 176,
-        "comments": 43,
-        "created_at": "2026-09-06T08:13:53.000Z"
-      },
-      {
-        "title": "Learn Programming with OCaml",
-        "url": "https://usr.lmf.cnrs.fr/lpo/",
-        "points": 317,
-        "comments": 139,
-        "created_at": "2026-09-05T16:45:02.000Z"
       }
     ]
   }
