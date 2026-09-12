@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-11T20:30:06.402Z",
+  "updatedAt": "2026-09-12T10:08:59.087Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 21.7,
-      "humidity": 88,
-      "wind_kph": 6.2,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 31.3,
+      "humidity": 41,
+      "wind_kph": 19.7,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-09-12",
-      "temp_max_c": 31.6,
-      "temp_min_c": 20.4,
+      "date": "2026-09-13",
+      "temp_max_c": 32.4,
+      "temp_min_c": 20.9,
       "humidity_max": 96,
-      "humidity_min": 43,
-      "wind_kph": 26.1,
-      "weather_code": 45,
-      "weather_desc": "Fog"
+      "humidity_min": 37,
+      "wind_kph": 24.9,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4395.97,
+    "goldUSD": 4318.89,
     "oilUSD": 79,
-    "updatedAt": "2026-09-11T20:30:06.402Z",
-    "gold24KUSD": 141.33,
-    "gold21KUSD": 123.67,
-    "gold18KUSD": 106,
-    "gold24KJD": 100.21,
-    "gold21KJD": 87.68,
-    "gold18KJD": 75.15
+    "updatedAt": "2026-09-12T10:08:59.087Z",
+    "gold24KUSD": 138.86,
+    "gold21KUSD": 121.5,
+    "gold18KUSD": 104.14,
+    "gold24KJD": 98.45,
+    "gold21KJD": 86.14,
+    "gold18KJD": 73.84
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:09",
-    "maghrib": "18:48",
-    "date": "11 Sep 2011"
+    "fajr": "05:11",
+    "maghrib": "18:46",
+    "date": "12 Sep 2012"
   },
   "events": [
     {
@@ -64,42 +64,49 @@
   "news": {
     "ai": [
       {
+        "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
+        "url": "https://twitter.com/venturetwins/status/2098456905526211026",
+        "points": 54,
+        "comments": 39,
+        "created_at": "2026-09-12T00:24:36.000Z"
+      },
+      {
+        "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
+        "url": "https://www.firecrawl.dev/blog/ai-software-factory",
+        "points": 29,
+        "comments": 13,
+        "created_at": "2026-09-11T23:43:53.000Z"
+      },
+      {
+        "title": "They do think AI might kill everyone",
+        "url": "https://www.seangoedecke.com/they-really-do-think-ai-might-kill-everyone/",
+        "points": 30,
+        "comments": 1,
+        "created_at": "2026-09-11T22:30:09.000Z"
+      },
+      {
+        "title": "AI researchers debate how close we are to recursive self-improvement",
+        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+        "points": 103,
+        "comments": 104,
+        "created_at": "2026-09-11T21:35:29.000Z"
+      },
+      {
         "title": "A misalignment of AI in mathematics",
         "url": "https://mathandai.org/",
-        "points": 246,
-        "comments": 344,
+        "points": 933,
+        "comments": 898,
         "created_at": "2026-09-11T17:45:12.000Z"
-      },
-      {
-        "title": "A Misalignment of AI in Mathematics",
-        "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-        "points": 143,
-        "comments": 8,
-        "created_at": "2026-09-11T17:30:26.000Z"
-      },
-      {
-        "title": "Feeling Sad about AI",
-        "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
-        "points": 158,
-        "comments": 246,
-        "created_at": "2026-09-11T16:50:51.000Z"
-      },
-      {
-        "title": "Show HN: Hacker News, Without AI",
-        "url": "https://www.unslop.news/",
-        "points": 143,
-        "comments": 62,
-        "created_at": "2026-09-11T16:08:50.000Z"
-      },
-      {
-        "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
-        "url": "https://github.com/godot-pty/gpty",
-        "points": 65,
-        "comments": 35,
-        "created_at": "2026-09-11T16:03:05.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Show HN: Biff 2.0 (Clojure web framework)",
+        "url": "https://biffweb.com",
+        "points": 28,
+        "comments": 0,
+        "created_at": "2026-09-10T17:45:51.000Z"
+      },
       {
         "title": "I'm going back to coding by hand",
         "url": "https://news.ycombinator.com/item?id=49622554",
@@ -124,17 +131,24 @@
     ],
     "progDb": [
       {
+        "title": "Ask HN: Software people, where are you taking your careers next?",
+        "url": "https://news.ycombinator.com/item?id=49664807",
+        "points": 11,
+        "comments": 8,
+        "created_at": "2026-09-11T20:21:56.000Z"
+      },
+      {
         "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
         "url": "https://snap.berkeley.edu/",
-        "points": 67,
-        "comments": 45,
+        "points": 144,
+        "comments": 83,
         "created_at": "2026-09-11T17:36:11.000Z"
       },
       {
-        "title": "Logo Programming Language",
+        "title": "Logo Programming",
         "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-        "points": 179,
-        "comments": 79,
+        "points": 283,
+        "comments": 114,
         "created_at": "2026-09-09T07:07:26.000Z"
       },
       {
@@ -147,16 +161,9 @@
       {
         "title": "Experiment – Projectional Viewer",
         "url": "https://programmingsimplicity.substack.com/p/experiment-projectional-viewer",
-        "points": 15,
-        "comments": 3,
+        "points": 16,
+        "comments": 4,
         "created_at": "2026-09-08T12:03:33.000Z"
-      },
-      {
-        "title": "Programming is Art",
-        "url": "https://orchidfiles.com/programming-is-art/",
-        "points": 191,
-        "comments": 206,
-        "created_at": "2026-09-07T08:05:00.000Z"
       }
     ]
   }
