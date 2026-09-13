@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-13T11:08:25.305Z",
+  "updatedAt": "2026-09-13T20:22:17.950Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 32.9,
-      "humidity": 41,
-      "wind_kph": 23.1,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 22.7,
+      "humidity": 86,
+      "wind_kph": 6.6,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-09-14",
-      "temp_max_c": 34.1,
-      "temp_min_c": 19,
-      "humidity_max": 90,
-      "humidity_min": 19,
-      "wind_kph": 21.9,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_max_c": 34.2,
+      "temp_min_c": 19.2,
+      "humidity_max": 86,
+      "humidity_min": 20,
+      "wind_kph": 22.5,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     }
   },
   "metals": {
     "goldUSD": 4349.07,
     "oilUSD": 79,
-    "updatedAt": "2026-09-13T11:08:25.305Z",
+    "updatedAt": "2026-09-13T20:22:17.950Z",
     "gold24KUSD": 139.83,
     "gold21KUSD": 122.35,
     "gold18KUSD": 104.87,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-        "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-        "points": 23,
-        "comments": 53,
-        "created_at": "2026-09-13T08:07:36.000Z"
+        "title": "There Is No AI (It's Just People) with Jaron Lanier",
+        "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+        "points": 16,
+        "comments": 3,
+        "created_at": "2026-09-13T19:41:06.000Z"
       },
       {
-        "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-        "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+        "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+        "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+        "points": 17,
+        "comments": 10,
+        "created_at": "2026-09-13T18:49:44.000Z"
+      },
+      {
+        "title": "Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down",
+        "url": "https://www.yahoo.com/news/us/article/trump-rejects-call-by-ceos-of-anthropic-openai-and-xai-to-slow-ai-down-whoever-wins-with-ai-wins-182008851.html",
         "points": 13,
-        "comments": 14,
-        "created_at": "2026-09-13T07:02:40.000Z"
+        "comments": 15,
+        "created_at": "2026-09-13T18:22:30.000Z"
       },
       {
-        "title": "Claude AIs tricked into unescapable conversation [beginning: Ctrl^F to \"AI 1\"]",
-        "url": "https://www.thisamericanlife.org/896/transcript",
-        "points": 12,
-        "comments": 2,
-        "created_at": "2026-09-13T04:52:16.000Z"
+        "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+        "points": 235,
+        "comments": 119,
+        "created_at": "2026-09-13T15:44:38.000Z"
       },
       {
-        "title": "Terrence Tao: AI Is Teaching Us Something Uncomfortable About Our Own Minds [video]",
-        "url": "https://www.youtube.com/watch?v=DRDoABHToEo",
-        "points": 15,
-        "comments": 4,
-        "created_at": "2026-09-13T04:41:13.000Z"
-      },
-      {
-        "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
-        "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
-        "points": 29,
-        "comments": 20,
-        "created_at": "2026-09-13T03:25:32.000Z"
+        "title": "Security through obscurity is dead, and AI delivered the fatal blow",
+        "url": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/",
+        "points": 14,
+        "comments": 12,
+        "created_at": "2026-09-13T14:08:51.000Z"
       }
     ],
     "vibeCoding": [
@@ -126,8 +126,8 @@
       {
         "title": "A few good ideas in programming languages",
         "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-        "points": 96,
-        "comments": 61,
+        "points": 102,
+        "comments": 71,
         "created_at": "2026-09-12T13:07:52.000Z"
       },
       {
@@ -140,14 +140,14 @@
       {
         "title": "λ Snap – An inviting programming language for kids and adults for CS study",
         "url": "https://snap.berkeley.edu/",
-        "points": 179,
+        "points": 180,
         "comments": 112,
         "created_at": "2026-09-11T17:36:11.000Z"
       },
       {
         "title": "Logo Programming",
         "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-        "points": 304,
+        "points": 306,
         "comments": 140,
         "created_at": "2026-09-09T07:07:26.000Z"
       },
