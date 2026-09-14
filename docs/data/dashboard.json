@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-13T20:22:17.950Z",
+  "updatedAt": "2026-09-14T11:53:51.133Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 22.7,
-      "humidity": 86,
-      "wind_kph": 6.6,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 34.4,
+      "humidity": 23,
+      "wind_kph": 20.9,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-09-14",
-      "temp_max_c": 34.2,
-      "temp_min_c": 19.2,
-      "humidity_max": 86,
-      "humidity_min": 20,
-      "wind_kph": 22.5,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "date": "2026-09-15",
+      "temp_max_c": 33.1,
+      "temp_min_c": 19.9,
+      "humidity_max": 62,
+      "humidity_min": 25,
+      "wind_kph": 21.5,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     }
   },
   "metals": {
-    "goldUSD": 4349.07,
+    "goldUSD": 4348.21,
     "oilUSD": 79,
-    "updatedAt": "2026-09-13T20:22:17.950Z",
-    "gold24KUSD": 139.83,
-    "gold21KUSD": 122.35,
-    "gold18KUSD": 104.87,
-    "gold24KJD": 99.14,
-    "gold21KJD": 86.74,
-    "gold18KJD": 74.35
+    "updatedAt": "2026-09-14T11:53:51.133Z",
+    "gold24KUSD": 139.8,
+    "gold21KUSD": 122.32,
+    "gold18KUSD": 104.85,
+    "gold24KJD": 99.12,
+    "gold21KJD": 86.73,
+    "gold18KJD": 74.34
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:11",
-    "maghrib": "18:45",
-    "date": "13 Sep 2013"
+    "fajr": "05:12",
+    "maghrib": "18:44",
+    "date": "14 Sep 2014"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "There Is No AI (It's Just People) with Jaron Lanier",
-        "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
-        "points": 16,
-        "comments": 3,
-        "created_at": "2026-09-13T19:41:06.000Z"
+        "title": "Airbnb Preventing the Use of BnB",
+        "url": "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival",
+        "points": 34,
+        "comments": 9,
+        "created_at": "2026-09-14T05:25:37.000Z"
       },
       {
-        "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
-        "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-        "points": 17,
-        "comments": 10,
-        "created_at": "2026-09-13T18:49:44.000Z"
+        "title": "Who gets to define the rules for AI?",
+        "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+        "points": 44,
+        "comments": 31,
+        "created_at": "2026-09-14T04:49:51.000Z"
       },
       {
-        "title": "Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down",
-        "url": "https://www.yahoo.com/news/us/article/trump-rejects-call-by-ceos-of-anthropic-openai-and-xai-to-slow-ai-down-whoever-wins-with-ai-wins-182008851.html",
-        "points": 13,
-        "comments": 15,
-        "created_at": "2026-09-13T18:22:30.000Z"
+        "title": "AI is not a normal technology",
+        "url": "https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology",
+        "points": 37,
+        "comments": 72,
+        "created_at": "2026-09-14T01:00:09.000Z"
       },
       {
-        "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-        "points": 235,
-        "comments": 119,
-        "created_at": "2026-09-13T15:44:38.000Z"
+        "title": "AI Robots – When will they be in our homes",
+        "url": "https://spectrum.ieee.org/ai-robots",
+        "points": 39,
+        "comments": 40,
+        "created_at": "2026-09-14T00:44:23.000Z"
       },
       {
-        "title": "Security through obscurity is dead, and AI delivered the fatal blow",
-        "url": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/",
-        "points": 14,
-        "comments": 12,
-        "created_at": "2026-09-13T14:08:51.000Z"
+        "title": "Open-source AI and open models reading list",
+        "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+        "points": 120,
+        "comments": 24,
+        "created_at": "2026-09-14T00:22:51.000Z"
       }
     ],
     "vibeCoding": [
@@ -126,8 +126,8 @@
       {
         "title": "A few good ideas in programming languages",
         "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-        "points": 102,
-        "comments": 71,
+        "points": 106,
+        "comments": 74,
         "created_at": "2026-09-12T13:07:52.000Z"
       },
       {
@@ -140,21 +140,21 @@
       {
         "title": "λ Snap – An inviting programming language for kids and adults for CS study",
         "url": "https://snap.berkeley.edu/",
-        "points": 180,
-        "comments": 112,
+        "points": 182,
+        "comments": 113,
         "created_at": "2026-09-11T17:36:11.000Z"
       },
       {
         "title": "Logo Programming",
         "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-        "points": 306,
-        "comments": 140,
+        "points": 308,
+        "comments": 141,
         "created_at": "2026-09-09T07:07:26.000Z"
       },
       {
         "title": "C*: Unifying Programming and Verification in C (2025)",
         "url": "https://arxiv.org/abs/2504.02246",
-        "points": 82,
+        "points": 83,
         "comments": 59,
         "created_at": "2026-09-08T15:56:56.000Z"
       }
