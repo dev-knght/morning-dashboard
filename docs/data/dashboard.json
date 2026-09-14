@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-14T11:53:51.133Z",
+  "updatedAt": "2026-09-14T21:31:44.228Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 34.4,
-      "humidity": 23,
-      "wind_kph": 20.9,
+      "temp_c": 22.5,
+      "humidity": 35,
+      "wind_kph": 5.1,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-09-15",
-      "temp_max_c": 33.1,
-      "temp_min_c": 19.9,
-      "humidity_max": 62,
-      "humidity_min": 25,
-      "wind_kph": 21.5,
+      "date": "2026-09-16",
+      "temp_max_c": 34.6,
+      "temp_min_c": 19.4,
+      "humidity_max": 57,
+      "humidity_min": 17,
+      "wind_kph": 17.5,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4348.21,
     "oilUSD": 79,
-    "updatedAt": "2026-09-14T11:53:51.133Z",
+    "updatedAt": "2026-09-14T21:31:44.228Z",
     "gold24KUSD": 139.8,
     "gold21KUSD": 122.32,
     "gold18KUSD": 104.85,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Airbnb Preventing the Use of BnB",
-        "url": "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival",
-        "points": 34,
-        "comments": 9,
-        "created_at": "2026-09-14T05:25:37.000Z"
+        "title": "Amazon.com Services, LLC vs. Perplexity AI, INC., No. 26-1444 (9th Cir. 2026)",
+        "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+        "points": 67,
+        "comments": 38,
+        "created_at": "2026-09-14T21:05:22.000Z"
       },
       {
-        "title": "Who gets to define the rules for AI?",
-        "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-        "points": 44,
-        "comments": 31,
-        "created_at": "2026-09-14T04:49:51.000Z"
+        "title": "Apple Releases iOS 27 and iPadOS 27 with Siri AI and Liquid Glass Update",
+        "url": "https://www.macrumors.com/2026/09/14/apple-releases-ios-27/",
+        "points": 16,
+        "comments": 1,
+        "created_at": "2026-09-14T17:08:07.000Z"
       },
       {
-        "title": "AI is not a normal technology",
-        "url": "https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology",
-        "points": 37,
-        "comments": 72,
-        "created_at": "2026-09-14T01:00:09.000Z"
+        "title": "AI Is in Dangerous Hands",
+        "url": "https://www.wheresyoured.at/ai-is-already-in-dangerous-hands/",
+        "points": 14,
+        "comments": 0,
+        "created_at": "2026-09-14T16:36:46.000Z"
       },
       {
-        "title": "AI Robots – When will they be in our homes",
-        "url": "https://spectrum.ieee.org/ai-robots",
-        "points": 39,
-        "comments": 40,
-        "created_at": "2026-09-14T00:44:23.000Z"
+        "title": "Hacking AI customer service agents",
+        "url": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
+        "points": 33,
+        "comments": 5,
+        "created_at": "2026-09-14T16:26:03.000Z"
       },
       {
-        "title": "Open-source AI and open models reading list",
-        "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-        "points": 120,
-        "comments": 24,
-        "created_at": "2026-09-14T00:22:51.000Z"
+        "title": "MIT creates method to force AI to comply with safety rules",
+        "url": "https://theframenews.org/en/hardflow-safety-critical-ai/",
+        "points": 26,
+        "comments": 28,
+        "created_at": "2026-09-14T16:18:17.000Z"
       }
     ],
     "vibeCoding": [
@@ -111,7 +111,7 @@
         "title": "I'm going back to coding by hand",
         "url": "https://news.ycombinator.com/item?id=49622554",
         "points": 62,
-        "comments": 52,
+        "comments": 53,
         "created_at": "2026-09-09T07:22:28.000Z"
       },
       {
@@ -126,7 +126,7 @@
       {
         "title": "A few good ideas in programming languages",
         "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-        "points": 106,
+        "points": 107,
         "comments": 74,
         "created_at": "2026-09-12T13:07:52.000Z"
       },
