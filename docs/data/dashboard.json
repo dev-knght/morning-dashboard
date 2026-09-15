@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-15T11:08:40.096Z",
+  "updatedAt": "2026-09-15T20:53:26.932Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 34,
-      "humidity": 20,
-      "wind_kph": 18,
+      "temp_c": 22.9,
+      "humidity": 64,
+      "wind_kph": 5.4,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-09-16",
-      "temp_max_c": 33.3,
-      "temp_min_c": 19.4,
-      "humidity_max": 63,
-      "humidity_min": 23,
-      "wind_kph": 20.6,
+      "temp_max_c": 32.8,
+      "temp_min_c": 19.3,
+      "humidity_max": 70,
+      "humidity_min": 24,
+      "wind_kph": 19.4,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4345.9,
     "oilUSD": 79,
-    "updatedAt": "2026-09-15T11:08:40.096Z",
+    "updatedAt": "2026-09-15T20:53:26.932Z",
     "gold24KUSD": 139.72,
     "gold21KUSD": 122.26,
     "gold18KUSD": 104.79,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Air Force secretary acknowledges the US has weapons in space",
-        "url": "https://abcnews.com/Politics/air-force-secretary-acknowledges-us-weapons-space/story?id=136437923",
-        "points": 18,
-        "comments": 3,
-        "created_at": "2026-09-15T02:38:34.000Z"
+        "title": "Jev: The Model That Gives AI the Properties of Code",
+        "url": "https://twitter.com/CompleteSkeptic/status/2099925682726002904",
+        "points": 16,
+        "comments": 1,
+        "created_at": "2026-09-15T18:25:57.000Z"
       },
       {
-        "title": "I worked at Google DeepMind. You should listen to the warnings about AI",
-        "url": "https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings",
-        "points": 36,
-        "comments": 24,
-        "created_at": "2026-09-15T02:25:41.000Z"
+        "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+        "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
+        "points": 192,
+        "comments": 137,
+        "created_at": "2026-09-15T16:38:45.000Z"
       },
       {
-        "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-        "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-        "points": 174,
-        "comments": 108,
-        "created_at": "2026-09-15T00:40:14.000Z"
+        "title": "Cartesian – AI 3D Modeling for Design",
+        "url": "https://www.formas.ai/cartesian",
+        "points": 70,
+        "comments": 61,
+        "created_at": "2026-09-15T15:26:45.000Z"
       },
       {
-        "title": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite",
-        "url": "https://www.reuters.com/world/airbaltic-files-chapter-11-bankruptcy-new-york-2026-09-14/",
-        "points": 18,
-        "comments": 3,
-        "created_at": "2026-09-14T20:28:55.000Z"
+        "title": "What we have learned at OpenShell applying formal methods to control AI agents",
+        "url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/",
+        "points": 28,
+        "comments": 10,
+        "created_at": "2026-09-15T14:40:05.000Z"
       },
       {
-        "title": "Security through obscurity is dead, and AI delivered the fatal blow",
-        "url": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000",
-        "points": 14,
-        "comments": 4,
-        "created_at": "2026-09-14T18:03:45.000Z"
+        "title": "Show HN: Loss. a tiny satire about AI progress",
+        "url": "https://workatloss.com/",
+        "points": 24,
+        "comments": 7,
+        "created_at": "2026-09-15T14:16:44.000Z"
       }
     ],
     "vibeCoding": [
@@ -126,7 +126,7 @@
       {
         "title": "Show HN: AttaLambda: a language where types and data are made of untyped lambdas",
         "url": "https://attalambda.com",
-        "points": 25,
+        "points": 26,
         "comments": 0,
         "created_at": "2026-09-14T16:21:10.000Z"
       },
@@ -154,7 +154,7 @@
       {
         "title": "Logo Programming",
         "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-        "points": 308,
+        "points": 309,
         "comments": 142,
         "created_at": "2026-09-09T07:07:26.000Z"
       }
