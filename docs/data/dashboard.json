@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-14T21:31:44.228Z",
+  "updatedAt": "2026-09-15T11:08:40.096Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 22.5,
-      "humidity": 35,
-      "wind_kph": 5.1,
+      "temp_c": 34,
+      "humidity": 20,
+      "wind_kph": 18,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-09-16",
-      "temp_max_c": 34.6,
+      "temp_max_c": 33.3,
       "temp_min_c": 19.4,
-      "humidity_max": 57,
-      "humidity_min": 17,
-      "wind_kph": 17.5,
+      "humidity_max": 63,
+      "humidity_min": 23,
+      "wind_kph": 20.6,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     }
   },
   "metals": {
-    "goldUSD": 4348.21,
+    "goldUSD": 4345.9,
     "oilUSD": 79,
-    "updatedAt": "2026-09-14T21:31:44.228Z",
-    "gold24KUSD": 139.8,
-    "gold21KUSD": 122.32,
-    "gold18KUSD": 104.85,
-    "gold24KJD": 99.12,
-    "gold21KJD": 86.73,
-    "gold18KJD": 74.34
+    "updatedAt": "2026-09-15T11:08:40.096Z",
+    "gold24KUSD": 139.72,
+    "gold21KUSD": 122.26,
+    "gold18KUSD": 104.79,
+    "gold24KJD": 99.06,
+    "gold21KJD": 86.68,
+    "gold18KJD": 74.3
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "05:12",
-    "maghrib": "18:44",
-    "date": "14 Sep 2014"
+    "maghrib": "18:43",
+    "date": "15 Sep 2015"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Amazon.com Services, LLC vs. Perplexity AI, INC., No. 26-1444 (9th Cir. 2026)",
-        "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-        "points": 67,
-        "comments": 38,
-        "created_at": "2026-09-14T21:05:22.000Z"
+        "title": "Air Force secretary acknowledges the US has weapons in space",
+        "url": "https://abcnews.com/Politics/air-force-secretary-acknowledges-us-weapons-space/story?id=136437923",
+        "points": 18,
+        "comments": 3,
+        "created_at": "2026-09-15T02:38:34.000Z"
       },
       {
-        "title": "Apple Releases iOS 27 and iPadOS 27 with Siri AI and Liquid Glass Update",
-        "url": "https://www.macrumors.com/2026/09/14/apple-releases-ios-27/",
-        "points": 16,
-        "comments": 1,
-        "created_at": "2026-09-14T17:08:07.000Z"
+        "title": "I worked at Google DeepMind. You should listen to the warnings about AI",
+        "url": "https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings",
+        "points": 36,
+        "comments": 24,
+        "created_at": "2026-09-15T02:25:41.000Z"
       },
       {
-        "title": "AI Is in Dangerous Hands",
-        "url": "https://www.wheresyoured.at/ai-is-already-in-dangerous-hands/",
+        "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+        "points": 174,
+        "comments": 108,
+        "created_at": "2026-09-15T00:40:14.000Z"
+      },
+      {
+        "title": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite",
+        "url": "https://www.reuters.com/world/airbaltic-files-chapter-11-bankruptcy-new-york-2026-09-14/",
+        "points": 18,
+        "comments": 3,
+        "created_at": "2026-09-14T20:28:55.000Z"
+      },
+      {
+        "title": "Security through obscurity is dead, and AI delivered the fatal blow",
+        "url": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000",
         "points": 14,
-        "comments": 0,
-        "created_at": "2026-09-14T16:36:46.000Z"
-      },
-      {
-        "title": "Hacking AI customer service agents",
-        "url": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
-        "points": 33,
-        "comments": 5,
-        "created_at": "2026-09-14T16:26:03.000Z"
-      },
-      {
-        "title": "MIT creates method to force AI to comply with safety rules",
-        "url": "https://theframenews.org/en/hardflow-safety-critical-ai/",
-        "points": 26,
-        "comments": 28,
-        "created_at": "2026-09-14T16:18:17.000Z"
+        "comments": 4,
+        "created_at": "2026-09-14T18:03:45.000Z"
       }
     ],
     "vibeCoding": [
@@ -124,10 +124,17 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: AttaLambda: a language where types and data are made of untyped lambdas",
+        "url": "https://attalambda.com",
+        "points": 25,
+        "comments": 0,
+        "created_at": "2026-09-14T16:21:10.000Z"
+      },
+      {
         "title": "A few good ideas in programming languages",
         "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
         "points": 107,
-        "comments": 74,
+        "comments": 75,
         "created_at": "2026-09-12T13:07:52.000Z"
       },
       {
@@ -140,23 +147,16 @@
       {
         "title": "λ Snap – An inviting programming language for kids and adults for CS study",
         "url": "https://snap.berkeley.edu/",
-        "points": 182,
-        "comments": 113,
+        "points": 184,
+        "comments": 108,
         "created_at": "2026-09-11T17:36:11.000Z"
       },
       {
         "title": "Logo Programming",
         "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
         "points": 308,
-        "comments": 141,
+        "comments": 142,
         "created_at": "2026-09-09T07:07:26.000Z"
-      },
-      {
-        "title": "C*: Unifying Programming and Verification in C (2025)",
-        "url": "https://arxiv.org/abs/2504.02246",
-        "points": 83,
-        "comments": 59,
-        "created_at": "2026-09-08T15:56:56.000Z"
       }
     ]
   }
