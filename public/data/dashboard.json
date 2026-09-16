@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-15T20:53:26.932Z",
+  "updatedAt": "2026-09-16T10:53:23.667Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 22.9,
-      "humidity": 64,
-      "wind_kph": 5.4,
+      "temp_c": 34.2,
+      "humidity": 20,
+      "wind_kph": 15.9,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-09-16",
-      "temp_max_c": 32.8,
-      "temp_min_c": 19.3,
-      "humidity_max": 70,
-      "humidity_min": 24,
-      "wind_kph": 19.4,
+      "date": "2026-09-17",
+      "temp_max_c": 33.2,
+      "temp_min_c": 20,
+      "humidity_max": 68,
+      "humidity_min": 22,
+      "wind_kph": 22.8,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     }
   },
   "metals": {
-    "goldUSD": 4345.9,
+    "goldUSD": 4285.38,
     "oilUSD": 79,
-    "updatedAt": "2026-09-15T20:53:26.932Z",
-    "gold24KUSD": 139.72,
-    "gold21KUSD": 122.26,
-    "gold18KUSD": 104.79,
-    "gold24KJD": 99.06,
-    "gold21KJD": 86.68,
-    "gold18KJD": 74.3
+    "updatedAt": "2026-09-16T10:53:23.667Z",
+    "gold24KUSD": 137.78,
+    "gold21KUSD": 120.56,
+    "gold18KUSD": 103.33,
+    "gold24KJD": 97.68,
+    "gold21KJD": 85.47,
+    "gold18KJD": 73.26
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:12",
-    "maghrib": "18:43",
-    "date": "15 Sep 2015"
+    "fajr": "05:13",
+    "maghrib": "18:41",
+    "date": "16 Sep 2016"
   },
   "events": [
     {
@@ -64,42 +64,49 @@
   "news": {
     "ai": [
       {
-        "title": "Jev: The Model That Gives AI the Properties of Code",
-        "url": "https://twitter.com/CompleteSkeptic/status/2099925682726002904",
-        "points": 16,
-        "comments": 1,
-        "created_at": "2026-09-15T18:25:57.000Z"
+        "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+        "url": "https://mistral.ai/news/mistral-x-mozilla/",
+        "points": 51,
+        "comments": 11,
+        "created_at": "2026-09-16T08:08:57.000Z"
       },
       {
-        "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-        "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
-        "points": 192,
-        "comments": 137,
-        "created_at": "2026-09-15T16:38:45.000Z"
+        "title": "Stay discoverable in search while disallowing AI training",
+        "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+        "points": 75,
+        "comments": 43,
+        "created_at": "2026-09-16T02:25:18.000Z"
       },
       {
-        "title": "Cartesian – AI 3D Modeling for Design",
-        "url": "https://www.formas.ai/cartesian",
-        "points": 70,
-        "comments": 61,
-        "created_at": "2026-09-15T15:26:45.000Z"
+        "title": "AI models chatting in 'surreal' dialect of poetic language and tech bro jargon",
+        "url": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
+        "points": 20,
+        "comments": 2,
+        "created_at": "2026-09-15T18:37:41.000Z"
       },
       {
-        "title": "What we have learned at OpenShell applying formal methods to control AI agents",
-        "url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/",
-        "points": 28,
-        "comments": 10,
-        "created_at": "2026-09-15T14:40:05.000Z"
+        "title": "Garbage Trucks Now Have AI Cameras to Score Your House and Clock Code Violations",
+        "url": "https://www.thedrive.com/news/garbage-trucks-now-have-ai-cameras-to-score-your-house-and-clock-code-violations",
+        "points": 21,
+        "comments": 12,
+        "created_at": "2026-09-15T18:36:36.000Z"
       },
       {
-        "title": "Show HN: Loss. a tiny satire about AI progress",
-        "url": "https://workatloss.com/",
-        "points": 24,
-        "comments": 7,
-        "created_at": "2026-09-15T14:16:44.000Z"
+        "title": "How AI tool calling works (40 lines of vanilla JavaScript)",
+        "url": "https://buttercup.sh/lessons/2026-09-15-lesson-2-tool-calling.html",
+        "points": 15,
+        "comments": 8,
+        "created_at": "2026-09-15T18:27:24.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Vibe Coding is the new Internet Dating?",
+        "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
+        "points": 35,
+        "comments": 66,
+        "created_at": "2026-09-15T01:45:53.000Z"
+      },
       {
         "title": "Show HN: Biff 2.0 (Clojure web framework)",
         "url": "https://biffweb.com",
@@ -124,6 +131,13 @@
     ],
     "progDb": [
       {
+        "title": "Learning Programming in an Age of LLMs",
+        "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+        "points": 47,
+        "comments": 28,
+        "created_at": "2026-09-16T09:12:34.000Z"
+      },
+      {
         "title": "Show HN: AttaLambda: a language where types and data are made of untyped lambdas",
         "url": "https://attalambda.com",
         "points": 26,
@@ -133,7 +147,7 @@
       {
         "title": "A few good ideas in programming languages",
         "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-        "points": 107,
+        "points": 108,
         "comments": 75,
         "created_at": "2026-09-12T13:07:52.000Z"
       },
@@ -150,13 +164,6 @@
         "points": 184,
         "comments": 108,
         "created_at": "2026-09-11T17:36:11.000Z"
-      },
-      {
-        "title": "Logo Programming",
-        "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-        "points": 309,
-        "comments": 142,
-        "created_at": "2026-09-09T07:07:26.000Z"
       }
     ]
   }
