@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-16T10:53:23.667Z",
+  "updatedAt": "2026-09-16T20:54:16.641Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 34.2,
-      "humidity": 20,
-      "wind_kph": 15.9,
+      "temp_c": 23.2,
+      "humidity": 50,
+      "wind_kph": 4.8,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-09-17",
-      "temp_max_c": 33.2,
-      "temp_min_c": 20,
-      "humidity_max": 68,
-      "humidity_min": 22,
-      "wind_kph": 22.8,
+      "temp_max_c": 33,
+      "temp_min_c": 20.1,
+      "humidity_max": 60,
+      "humidity_min": 21,
+      "wind_kph": 24.5,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4285.38,
     "oilUSD": 79,
-    "updatedAt": "2026-09-16T10:53:23.667Z",
+    "updatedAt": "2026-09-16T20:54:16.641Z",
     "gold24KUSD": 137.78,
     "gold21KUSD": 120.56,
     "gold18KUSD": 103.33,
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-        "url": "https://mistral.ai/news/mistral-x-mozilla/",
-        "points": 51,
-        "comments": 11,
-        "created_at": "2026-09-16T08:08:57.000Z"
+        "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+        "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+        "points": 41,
+        "comments": 122,
+        "created_at": "2026-09-16T18:59:42.000Z"
       },
       {
-        "title": "Stay discoverable in search while disallowing AI training",
-        "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-        "points": 75,
-        "comments": 43,
-        "created_at": "2026-09-16T02:25:18.000Z"
-      },
-      {
-        "title": "AI models chatting in 'surreal' dialect of poetic language and tech bro jargon",
-        "url": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
-        "points": 20,
-        "comments": 2,
-        "created_at": "2026-09-15T18:37:41.000Z"
-      },
-      {
-        "title": "Garbage Trucks Now Have AI Cameras to Score Your House and Clock Code Violations",
-        "url": "https://www.thedrive.com/news/garbage-trucks-now-have-ai-cameras-to-score-your-house-and-clock-code-violations",
-        "points": 21,
-        "comments": 12,
-        "created_at": "2026-09-15T18:36:36.000Z"
-      },
-      {
-        "title": "How AI tool calling works (40 lines of vanilla JavaScript)",
-        "url": "https://buttercup.sh/lessons/2026-09-15-lesson-2-tool-calling.html",
-        "points": 15,
+        "title": "Why a fast-growing German AI startup is moving its parent company from the US",
+        "url": "https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us",
+        "points": 33,
         "comments": 8,
-        "created_at": "2026-09-15T18:27:24.000Z"
+        "created_at": "2026-09-16T18:45:20.000Z"
+      },
+      {
+        "title": "Maintainer rejected AI contributions, we forked it and added video acceleration",
+        "url": "https://twitter.com/SiliconForested/status/2100247223368024109",
+        "points": 15,
+        "comments": 6,
+        "created_at": "2026-09-16T17:49:45.000Z"
+      },
+      {
+        "title": "Ask HN: AI Panic, you buying it?",
+        "url": "https://news.ycombinator.com/item?id=49729849",
+        "points": 22,
+        "comments": 55,
+        "created_at": "2026-09-16T17:00:49.000Z"
+      },
+      {
+        "title": "Backflip: Apple now wants to train AI models with user data after all",
+        "url": "https://www.heise.de/en/news/Backflip-Apple-now-wants-to-train-AI-models-with-user-data-after-all-11451252.html",
+        "points": 28,
+        "comments": 4,
+        "created_at": "2026-09-16T16:18:39.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Vibe Coding is the new Internet Dating?",
         "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
-        "points": 35,
-        "comments": 66,
+        "points": 38,
+        "comments": 72,
         "created_at": "2026-09-15T01:45:53.000Z"
       },
       {
@@ -131,10 +131,17 @@
     ],
     "progDb": [
       {
+        "title": "Small programming tricks",
+        "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+        "points": 264,
+        "comments": 146,
+        "created_at": "2026-09-16T15:56:47.000Z"
+      },
+      {
         "title": "Learning Programming in an Age of LLMs",
         "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-        "points": 47,
-        "comments": 28,
+        "points": 215,
+        "comments": 167,
         "created_at": "2026-09-16T09:12:34.000Z"
       },
       {
@@ -157,13 +164,6 @@
         "points": 12,
         "comments": 9,
         "created_at": "2026-09-11T20:21:56.000Z"
-      },
-      {
-        "title": "λ Snap – An inviting programming language for kids and adults for CS study",
-        "url": "https://snap.berkeley.edu/",
-        "points": 184,
-        "comments": 108,
-        "created_at": "2026-09-11T17:36:11.000Z"
       }
     ]
   }
