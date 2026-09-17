@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-16T20:54:16.641Z",
+  "updatedAt": "2026-09-17T11:01:14.426Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 23.2,
-      "humidity": 50,
-      "wind_kph": 4.8,
+      "temp_c": 32.4,
+      "humidity": 32,
+      "wind_kph": 20.7,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-09-17",
-      "temp_max_c": 33,
-      "temp_min_c": 20.1,
-      "humidity_max": 60,
-      "humidity_min": 21,
-      "wind_kph": 24.5,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "date": "2026-09-18",
+      "temp_max_c": 27.1,
+      "temp_min_c": 20.3,
+      "humidity_max": 92,
+      "humidity_min": 29,
+      "wind_kph": 30,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
-    "goldUSD": 4285.38,
+    "goldUSD": 4282.47,
     "oilUSD": 79,
-    "updatedAt": "2026-09-16T20:54:16.641Z",
-    "gold24KUSD": 137.78,
-    "gold21KUSD": 120.56,
-    "gold18KUSD": 103.33,
-    "gold24KJD": 97.68,
-    "gold21KJD": 85.47,
-    "gold18KJD": 73.26
+    "updatedAt": "2026-09-17T11:01:14.426Z",
+    "gold24KUSD": 137.68,
+    "gold21KUSD": 120.47,
+    "gold18KUSD": 103.26,
+    "gold24KJD": 97.62,
+    "gold21KJD": 85.42,
+    "gold18KJD": 73.21
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:13",
-    "maghrib": "18:41",
-    "date": "16 Sep 2016"
+    "fajr": "05:14",
+    "maghrib": "18:40",
+    "date": "17 Sep 2017"
   },
   "events": [
     {
@@ -64,46 +64,46 @@
   "news": {
     "ai": [
       {
-        "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
-        "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
-        "points": 41,
-        "comments": 122,
-        "created_at": "2026-09-16T18:59:42.000Z"
+        "title": "AI Safety Is Mostly a Sex Cult",
+        "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+        "points": 117,
+        "comments": 72,
+        "created_at": "2026-09-17T08:36:37.000Z"
       },
       {
-        "title": "Why a fast-growing German AI startup is moving its parent company from the US",
-        "url": "https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us",
-        "points": 33,
-        "comments": 8,
-        "created_at": "2026-09-16T18:45:20.000Z"
+        "title": "Michael Burry slams OpenAI, Anthropic for 'self-serving' calls to slow AI",
+        "url": "https://nypost.com/2026/09/14/business/big-short-trader-michael-burry-slams-openai-anthropic-for-self-serving-calls-to-slow-ai/",
+        "points": 18,
+        "comments": 0,
+        "created_at": "2026-09-17T01:30:49.000Z"
       },
       {
-        "title": "Maintainer rejected AI contributions, we forked it and added video acceleration",
-        "url": "https://twitter.com/SiliconForested/status/2100247223368024109",
-        "points": 15,
-        "comments": 6,
-        "created_at": "2026-09-16T17:49:45.000Z"
-      },
-      {
-        "title": "Ask HN: AI Panic, you buying it?",
-        "url": "https://news.ycombinator.com/item?id=49729849",
-        "points": 22,
-        "comments": 55,
-        "created_at": "2026-09-16T17:00:49.000Z"
-      },
-      {
-        "title": "Backflip: Apple now wants to train AI models with user data after all",
-        "url": "https://www.heise.de/en/news/Backflip-Apple-now-wants-to-train-AI-models-with-user-data-after-all-11451252.html",
+        "title": "Pangram – AI detector for text and images",
+        "url": "https://www.pangram.com",
         "points": 28,
-        "comments": 4,
-        "created_at": "2026-09-16T16:18:39.000Z"
+        "comments": 21,
+        "created_at": "2026-09-17T01:13:10.000Z"
+      },
+      {
+        "title": "What's Scarier Than Agents Taking over Internet? CEO Cartel Trying Take over AI",
+        "url": "https://fractalsofchange.substack.com/p/q-whats-scarier-than-a-swarm-of-ai",
+        "points": 25,
+        "comments": 2,
+        "created_at": "2026-09-17T00:44:51.000Z"
+      },
+      {
+        "title": "OpenAI discloses six new AI safety incidents",
+        "url": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure",
+        "points": 30,
+        "comments": 10,
+        "created_at": "2026-09-17T00:33:03.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Vibe Coding is the new Internet Dating?",
         "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
-        "points": 38,
+        "points": 39,
         "comments": 72,
         "created_at": "2026-09-15T01:45:53.000Z"
       },
@@ -120,35 +120,35 @@
         "points": 62,
         "comments": 53,
         "created_at": "2026-09-09T07:22:28.000Z"
-      },
-      {
-        "title": "Wk. 6 of Vibecoding an MMO",
-        "url": "https://eldermyr.com/",
-        "points": 14,
-        "comments": 47,
-        "created_at": "2026-09-03T03:13:54.000Z"
       }
     ],
     "progDb": [
       {
         "title": "Small programming tricks",
         "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-        "points": 264,
-        "comments": 146,
+        "points": 531,
+        "comments": 239,
         "created_at": "2026-09-16T15:56:47.000Z"
+      },
+      {
+        "title": "Nvidia announces native GPU programming in Rust",
+        "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+        "points": 714,
+        "comments": 292,
+        "created_at": "2026-09-16T11:15:53.000Z"
       },
       {
         "title": "Learning Programming in an Age of LLMs",
         "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-        "points": 215,
-        "comments": 167,
+        "points": 242,
+        "comments": 184,
         "created_at": "2026-09-16T09:12:34.000Z"
       },
       {
         "title": "Show HN: AttaLambda: a language where types and data are made of untyped lambdas",
         "url": "https://attalambda.com",
-        "points": 26,
-        "comments": 0,
+        "points": 40,
+        "comments": 5,
         "created_at": "2026-09-14T16:21:10.000Z"
       },
       {
@@ -157,13 +157,6 @@
         "points": 108,
         "comments": 75,
         "created_at": "2026-09-12T13:07:52.000Z"
-      },
-      {
-        "title": "Ask HN: Software people, where are you taking your careers next?",
-        "url": "https://news.ycombinator.com/item?id=49664807",
-        "points": 12,
-        "comments": 9,
-        "created_at": "2026-09-11T20:21:56.000Z"
       }
     ]
   }
