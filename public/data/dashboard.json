@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-17T11:01:14.426Z",
+  "updatedAt": "2026-09-17T20:58:07.090Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 32.4,
-      "humidity": 32,
-      "wind_kph": 20.7,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 23.3,
+      "humidity": 34,
+      "wind_kph": 6,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-09-18",
       "temp_max_c": 27.1,
-      "temp_min_c": 20.3,
-      "humidity_max": 92,
-      "humidity_min": 29,
-      "wind_kph": 30,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "temp_min_c": 20.2,
+      "humidity_max": 89,
+      "humidity_min": 32,
+      "wind_kph": 31,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
     "goldUSD": 4282.47,
     "oilUSD": 79,
-    "updatedAt": "2026-09-17T11:01:14.426Z",
+    "updatedAt": "2026-09-17T20:58:07.090Z",
     "gold24KUSD": 137.68,
     "gold21KUSD": 120.47,
     "gold18KUSD": 103.26,
@@ -64,47 +64,54 @@
   "news": {
     "ai": [
       {
-        "title": "AI Safety Is Mostly a Sex Cult",
-        "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
-        "points": 117,
-        "comments": 72,
-        "created_at": "2026-09-17T08:36:37.000Z"
-      },
-      {
-        "title": "Michael Burry slams OpenAI, Anthropic for 'self-serving' calls to slow AI",
-        "url": "https://nypost.com/2026/09/14/business/big-short-trader-michael-burry-slams-openai-anthropic-for-self-serving-calls-to-slow-ai/",
-        "points": 18,
-        "comments": 0,
-        "created_at": "2026-09-17T01:30:49.000Z"
-      },
-      {
-        "title": "Pangram – AI detector for text and images",
-        "url": "https://www.pangram.com",
-        "points": 28,
-        "comments": 21,
-        "created_at": "2026-09-17T01:13:10.000Z"
-      },
-      {
-        "title": "What's Scarier Than Agents Taking over Internet? CEO Cartel Trying Take over AI",
-        "url": "https://fractalsofchange.substack.com/p/q-whats-scarier-than-a-swarm-of-ai",
-        "points": 25,
-        "comments": 2,
-        "created_at": "2026-09-17T00:44:51.000Z"
-      },
-      {
-        "title": "OpenAI discloses six new AI safety incidents",
-        "url": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure",
-        "points": 30,
+        "title": "Tests of the New AI Siri",
+        "url": "https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri",
+        "points": 14,
         "comments": 10,
-        "created_at": "2026-09-17T00:33:03.000Z"
+        "created_at": "2026-09-17T18:18:33.000Z"
+      },
+      {
+        "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+        "url": "https://news.ycombinator.com/item?id=49743049",
+        "points": 30,
+        "comments": 40,
+        "created_at": "2026-09-17T16:22:15.000Z"
+      },
+      {
+        "title": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
+        "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/",
+        "points": 38,
+        "comments": 73,
+        "created_at": "2026-09-17T15:26:23.000Z"
+      },
+      {
+        "title": "Show HN: Share your AI Setup, Learn from others",
+        "url": "https://mysetup.ai/",
+        "points": 147,
+        "comments": 77,
+        "created_at": "2026-09-17T13:01:44.000Z"
+      },
+      {
+        "title": "AI safety is mostly a sex cult",
+        "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+        "points": 238,
+        "comments": 189,
+        "created_at": "2026-09-17T08:36:37.000Z"
       }
     ],
     "vibeCoding": [
       {
+        "title": "PC ports of old console games are the new AI vibe coding battleground",
+        "url": "https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/",
+        "points": 11,
+        "comments": 0,
+        "created_at": "2026-09-17T05:55:10.000Z"
+      },
+      {
         "title": "Vibe Coding is the new Internet Dating?",
         "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
-        "points": 39,
-        "comments": 72,
+        "points": 43,
+        "comments": 80,
         "created_at": "2026-09-15T01:45:53.000Z"
       },
       {
@@ -124,39 +131,39 @@
     ],
     "progDb": [
       {
+        "title": "Taco Bell Programming (2010)",
+        "url": "https://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html",
+        "points": 18,
+        "comments": 4,
+        "created_at": "2026-09-17T13:22:46.000Z"
+      },
+      {
         "title": "Small programming tricks",
         "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-        "points": 531,
-        "comments": 239,
+        "points": 635,
+        "comments": 274,
         "created_at": "2026-09-16T15:56:47.000Z"
       },
       {
         "title": "Nvidia announces native GPU programming in Rust",
         "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-        "points": 714,
-        "comments": 292,
+        "points": 912,
+        "comments": 371,
         "created_at": "2026-09-16T11:15:53.000Z"
       },
       {
         "title": "Learning Programming in an Age of LLMs",
         "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-        "points": 242,
-        "comments": 184,
+        "points": 251,
+        "comments": 191,
         "created_at": "2026-09-16T09:12:34.000Z"
       },
       {
         "title": "Show HN: AttaLambda: a language where types and data are made of untyped lambdas",
         "url": "https://attalambda.com",
-        "points": 40,
-        "comments": 5,
+        "points": 43,
+        "comments": 7,
         "created_at": "2026-09-14T16:21:10.000Z"
-      },
-      {
-        "title": "A few good ideas in programming languages",
-        "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-        "points": 108,
-        "comments": 75,
-        "created_at": "2026-09-12T13:07:52.000Z"
       }
     ]
   }
