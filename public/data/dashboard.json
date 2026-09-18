@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-17T20:58:07.090Z",
+  "updatedAt": "2026-09-18T10:37:55.226Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 23.3,
-      "humidity": 34,
-      "wind_kph": 6,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 27,
+      "humidity": 55,
+      "wind_kph": 31.7,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-09-18",
-      "temp_max_c": 27.1,
-      "temp_min_c": 20.2,
-      "humidity_max": 89,
-      "humidity_min": 32,
-      "wind_kph": 31,
+      "date": "2026-09-19",
+      "temp_max_c": 29,
+      "temp_min_c": 18.8,
+      "humidity_max": 92,
+      "humidity_min": 34,
+      "wind_kph": 25.2,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4282.47,
+    "goldUSD": 4283.81,
     "oilUSD": 79,
-    "updatedAt": "2026-09-17T20:58:07.090Z",
-    "gold24KUSD": 137.68,
-    "gold21KUSD": 120.47,
-    "gold18KUSD": 103.26,
-    "gold24KJD": 97.62,
-    "gold21KJD": 85.42,
-    "gold18KJD": 73.21
+    "updatedAt": "2026-09-18T10:37:55.226Z",
+    "gold24KUSD": 137.73,
+    "gold21KUSD": 120.51,
+    "gold18KUSD": 103.3,
+    "gold24KJD": 97.65,
+    "gold21KJD": 85.44,
+    "gold18KJD": 73.24
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "05:14",
-    "maghrib": "18:40",
-    "date": "17 Sep 2017"
+    "maghrib": "18:39",
+    "date": "18 Sep 2018"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Tests of the New AI Siri",
-        "url": "https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri",
+        "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+        "points": 51,
+        "comments": 12,
+        "created_at": "2026-09-18T09:45:07.000Z"
+      },
+      {
+        "title": "Microsoft exec called AI scraping 'the largest theft of labor in human",
+        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+        "points": 21,
+        "comments": 4,
+        "created_at": "2026-09-18T00:07:08.000Z"
+      },
+      {
+        "title": "The FAA's plan to fix air traffic? $875M worth of AI",
+        "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+        "points": 22,
+        "comments": 16,
+        "created_at": "2026-09-17T23:49:35.000Z"
+      },
+      {
+        "title": "Eric S. Raymond – This is the case against AI Doom – pass it on",
+        "url": "https://twitter.com/esrtweet/status/2100530353270100334",
         "points": 14,
-        "comments": 10,
-        "created_at": "2026-09-17T18:18:33.000Z"
+        "comments": 6,
+        "created_at": "2026-09-17T21:29:26.000Z"
       },
       {
-        "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-        "url": "https://news.ycombinator.com/item?id=49743049",
-        "points": 30,
-        "comments": 40,
-        "created_at": "2026-09-17T16:22:15.000Z"
-      },
-      {
-        "title": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
-        "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/",
-        "points": 38,
-        "comments": 73,
-        "created_at": "2026-09-17T15:26:23.000Z"
-      },
-      {
-        "title": "Show HN: Share your AI Setup, Learn from others",
-        "url": "https://mysetup.ai/",
-        "points": 147,
-        "comments": 77,
-        "created_at": "2026-09-17T13:01:44.000Z"
-      },
-      {
-        "title": "AI safety is mostly a sex cult",
-        "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
-        "points": 238,
-        "comments": 189,
-        "created_at": "2026-09-17T08:36:37.000Z"
+        "title": "Sex, AI, and the Apocalypse",
+        "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+        "points": 210,
+        "comments": 207,
+        "created_at": "2026-09-17T21:15:52.000Z"
       }
     ],
     "vibeCoding": [
@@ -110,8 +110,8 @@
       {
         "title": "Vibe Coding is the new Internet Dating?",
         "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
-        "points": 43,
-        "comments": 80,
+        "points": 56,
+        "comments": 97,
         "created_at": "2026-09-15T01:45:53.000Z"
       },
       {
@@ -131,39 +131,39 @@
     ],
     "progDb": [
       {
+        "title": "Goose Programming Language",
+        "url": "https://github.com/aardappel/goose/tree/master",
+        "points": 49,
+        "comments": 63,
+        "created_at": "2026-09-18T01:04:54.000Z"
+      },
+      {
+        "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
+        "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
+        "points": 14,
+        "comments": 0,
+        "created_at": "2026-09-17T15:22:47.000Z"
+      },
+      {
         "title": "Taco Bell Programming (2010)",
         "url": "https://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html",
-        "points": 18,
+        "points": 19,
         "comments": 4,
         "created_at": "2026-09-17T13:22:46.000Z"
       },
       {
         "title": "Small programming tricks",
         "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-        "points": 635,
-        "comments": 274,
+        "points": 652,
+        "comments": 287,
         "created_at": "2026-09-16T15:56:47.000Z"
       },
       {
         "title": "Nvidia announces native GPU programming in Rust",
         "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-        "points": 912,
-        "comments": 371,
+        "points": 946,
+        "comments": 395,
         "created_at": "2026-09-16T11:15:53.000Z"
-      },
-      {
-        "title": "Learning Programming in an Age of LLMs",
-        "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-        "points": 251,
-        "comments": 191,
-        "created_at": "2026-09-16T09:12:34.000Z"
-      },
-      {
-        "title": "Show HN: AttaLambda: a language where types and data are made of untyped lambdas",
-        "url": "https://attalambda.com",
-        "points": 43,
-        "comments": 7,
-        "created_at": "2026-09-14T16:21:10.000Z"
       }
     ]
   }
