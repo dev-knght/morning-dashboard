@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-18T10:37:55.226Z",
+  "updatedAt": "2026-09-18T20:26:31.337Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 27,
-      "humidity": 55,
-      "wind_kph": 31.7,
+      "temp_c": 20.5,
+      "humidity": 88,
+      "wind_kph": 11.5,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-09-19",
-      "temp_max_c": 29,
-      "temp_min_c": 18.8,
-      "humidity_max": 92,
-      "humidity_min": 34,
-      "wind_kph": 25.2,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_max_c": 28.6,
+      "temp_min_c": 19,
+      "humidity_max": 93,
+      "humidity_min": 37,
+      "wind_kph": 22.9,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
     "goldUSD": 4283.81,
     "oilUSD": 79,
-    "updatedAt": "2026-09-18T10:37:55.226Z",
+    "updatedAt": "2026-09-18T20:26:31.337Z",
     "gold24KUSD": 137.73,
     "gold21KUSD": 120.51,
     "gold18KUSD": 103.3,
@@ -64,42 +64,49 @@
   "news": {
     "ai": [
       {
-        "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-        "points": 51,
-        "comments": 12,
-        "created_at": "2026-09-18T09:45:07.000Z"
+        "title": "US Military had close call after using AI for hallucinated intelligence report",
+        "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+        "points": 262,
+        "comments": 200,
+        "created_at": "2026-09-18T17:28:01.000Z"
       },
       {
-        "title": "Microsoft exec called AI scraping 'the largest theft of labor in human",
-        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-        "points": 21,
-        "comments": 4,
-        "created_at": "2026-09-18T00:07:08.000Z"
+        "title": "AI is an elite crime spree",
+        "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+        "points": 110,
+        "comments": 38,
+        "created_at": "2026-09-18T15:15:33.000Z"
       },
       {
-        "title": "The FAA's plan to fix air traffic? $875M worth of AI",
-        "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-        "points": 22,
-        "comments": 16,
-        "created_at": "2026-09-17T23:49:35.000Z"
+        "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+        "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
+        "points": 25,
+        "comments": 5,
+        "created_at": "2026-09-18T15:04:54.000Z"
       },
       {
-        "title": "Eric S. Raymond – This is the case against AI Doom – pass it on",
-        "url": "https://twitter.com/esrtweet/status/2100530353270100334",
-        "points": 14,
-        "comments": 6,
-        "created_at": "2026-09-17T21:29:26.000Z"
+        "title": "AI Protest in Montreal",
+        "url": "https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/",
+        "points": 50,
+        "comments": 81,
+        "created_at": "2026-09-18T14:45:41.000Z"
       },
       {
-        "title": "Sex, AI, and the Apocalypse",
-        "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
-        "points": 210,
-        "comments": 207,
-        "created_at": "2026-09-17T21:15:52.000Z"
+        "title": "AI chatbots are becoming experts at changing people's minds",
+        "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+        "points": 70,
+        "comments": 91,
+        "created_at": "2026-09-18T13:39:27.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Bend 2 and the Vibe-Coding Trap",
+        "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+        "points": 299,
+        "comments": 226,
+        "created_at": "2026-09-18T12:03:55.000Z"
+      },
       {
         "title": "PC ports of old console games are the new AI vibe coding battleground",
         "url": "https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/",
@@ -110,14 +117,14 @@
       {
         "title": "Vibe Coding is the new Internet Dating?",
         "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
-        "points": 56,
-        "comments": 97,
+        "points": 59,
+        "comments": 99,
         "created_at": "2026-09-15T01:45:53.000Z"
       },
       {
         "title": "Show HN: Biff 2.0 (Clojure web framework)",
         "url": "https://biffweb.com",
-        "points": 28,
+        "points": 29,
         "comments": 0,
         "created_at": "2026-09-10T17:45:51.000Z"
       },
@@ -133,8 +140,8 @@
       {
         "title": "Goose Programming Language",
         "url": "https://github.com/aardappel/goose/tree/master",
-        "points": 49,
-        "comments": 63,
+        "points": 52,
+        "comments": 68,
         "created_at": "2026-09-18T01:04:54.000Z"
       },
       {
@@ -154,15 +161,15 @@
       {
         "title": "Small programming tricks",
         "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-        "points": 652,
-        "comments": 287,
+        "points": 662,
+        "comments": 292,
         "created_at": "2026-09-16T15:56:47.000Z"
       },
       {
         "title": "Nvidia announces native GPU programming in Rust",
         "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-        "points": 946,
-        "comments": 395,
+        "points": 954,
+        "comments": 399,
         "created_at": "2026-09-16T11:15:53.000Z"
       }
     ]
