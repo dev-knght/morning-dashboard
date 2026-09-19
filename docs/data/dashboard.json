@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-18T20:26:31.337Z",
+  "updatedAt": "2026-09-19T10:22:08.414Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 20.5,
-      "humidity": 88,
-      "wind_kph": 11.5,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 28.4,
+      "humidity": 36,
+      "wind_kph": 19.8,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-09-19",
-      "temp_max_c": 28.6,
-      "temp_min_c": 19,
-      "humidity_max": 93,
-      "humidity_min": 37,
-      "wind_kph": 22.9,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "date": "2026-09-20",
+      "temp_max_c": 30.5,
+      "temp_min_c": 17.3,
+      "humidity_max": 92,
+      "humidity_min": 22,
+      "wind_kph": 19.8,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 4283.81,
+    "goldUSD": 4353.66,
     "oilUSD": 79,
-    "updatedAt": "2026-09-18T20:26:31.337Z",
-    "gold24KUSD": 137.73,
-    "gold21KUSD": 120.51,
-    "gold18KUSD": 103.3,
-    "gold24KJD": 97.65,
-    "gold21KJD": 85.44,
-    "gold18KJD": 73.24
+    "updatedAt": "2026-09-19T10:22:08.414Z",
+    "gold24KUSD": 139.97,
+    "gold21KUSD": 122.48,
+    "gold18KUSD": 104.98,
+    "gold24KJD": 99.24,
+    "gold21KJD": 86.84,
+    "gold18KJD": 74.43
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:14",
-    "maghrib": "18:39",
-    "date": "18 Sep 2018"
+    "fajr": "05:15",
+    "maghrib": "18:38",
+    "date": "19 Sep 2019"
   },
   "events": [
     {
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "US Military had close call after using AI for hallucinated intelligence report",
-        "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-        "points": 262,
-        "comments": 200,
-        "created_at": "2026-09-18T17:28:01.000Z"
+        "title": "AI-generated posters don’t have to be horrible",
+        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+        "points": 35,
+        "comments": 15,
+        "created_at": "2026-09-19T09:20:58.000Z"
       },
       {
-        "title": "AI is an elite crime spree",
-        "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-        "points": 110,
-        "comments": 38,
-        "created_at": "2026-09-18T15:15:33.000Z"
+        "title": "How come AI-related posts get so many points on HN?",
+        "url": "https://news.ycombinator.com/item?id=49764057",
+        "points": 17,
+        "comments": 16,
+        "created_at": "2026-09-19T06:57:50.000Z"
       },
       {
-        "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
-        "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
-        "points": 25,
-        "comments": 5,
-        "created_at": "2026-09-18T15:04:54.000Z"
+        "title": "Google's Gemini AI hacked three companies in security test",
+        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+        "points": 19,
+        "comments": 8,
+        "created_at": "2026-09-19T06:09:23.000Z"
       },
       {
-        "title": "AI Protest in Montreal",
-        "url": "https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/",
-        "points": 50,
-        "comments": 81,
-        "created_at": "2026-09-18T14:45:41.000Z"
+        "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+        "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+        "points": 26,
+        "comments": 2,
+        "created_at": "2026-09-19T04:44:35.000Z"
       },
       {
-        "title": "AI chatbots are becoming experts at changing people's minds",
-        "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-        "points": 70,
-        "comments": 91,
-        "created_at": "2026-09-18T13:39:27.000Z"
+        "title": "Gemini hacked three companies in first known breakout by Google's AI",
+        "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+        "points": 59,
+        "comments": 62,
+        "created_at": "2026-09-19T01:40:35.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Bend 2 and the Vibe-Coding Trap",
         "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
-        "points": 299,
-        "comments": 226,
+        "points": 320,
+        "comments": 231,
         "created_at": "2026-09-18T12:03:55.000Z"
       },
       {
@@ -117,7 +117,7 @@
       {
         "title": "Vibe Coding is the new Internet Dating?",
         "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
-        "points": 59,
+        "points": 60,
         "comments": 99,
         "created_at": "2026-09-15T01:45:53.000Z"
       },
@@ -161,15 +161,15 @@
       {
         "title": "Small programming tricks",
         "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-        "points": 662,
+        "points": 666,
         "comments": 292,
         "created_at": "2026-09-16T15:56:47.000Z"
       },
       {
         "title": "Nvidia announces native GPU programming in Rust",
         "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-        "points": 954,
-        "comments": 399,
+        "points": 960,
+        "comments": 402,
         "created_at": "2026-09-16T11:15:53.000Z"
       }
     ]
