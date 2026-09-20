@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-19T20:05:45.167Z",
+  "updatedAt": "2026-09-20T10:41:36.670Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 20.8,
-      "humidity": 69,
-      "wind_kph": 8,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 29.5,
+      "humidity": 37,
+      "wind_kph": 12.3,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "temp_max_c": 30.3,
-      "temp_min_c": 17.7,
-      "humidity_max": 85,
-      "humidity_min": 31,
-      "wind_kph": 18.6,
+      "temp_min_c": 18,
+      "humidity_max": 89,
+      "humidity_min": 33,
+      "wind_kph": 22.6,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     }
   },
   "metals": {
-    "goldUSD": 4353.66,
+    "goldUSD": 4378.45,
     "oilUSD": 79,
-    "updatedAt": "2026-09-19T20:05:45.167Z",
-    "gold24KUSD": 139.97,
-    "gold21KUSD": 122.48,
-    "gold18KUSD": 104.98,
-    "gold24KJD": 99.24,
-    "gold21KJD": 86.84,
-    "gold18KJD": 74.43
+    "updatedAt": "2026-09-20T10:41:36.670Z",
+    "gold24KUSD": 140.77,
+    "gold21KUSD": 123.17,
+    "gold18KUSD": 105.58,
+    "gold24KJD": 99.81,
+    "gold21KJD": 87.33,
+    "gold18KJD": 74.85
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:15",
-    "maghrib": "18:38",
-    "date": "19 Sep 2019"
+    "fajr": "05:16",
+    "maghrib": "18:35",
+    "date": "20 Sep 2020"
   },
   "events": [
     {
@@ -64,60 +64,60 @@
   "news": {
     "ai": [
       {
-        "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
-        "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
-        "points": 23,
-        "comments": 3,
-        "created_at": "2026-09-19T18:36:44.000Z"
+        "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+        "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+        "points": 33,
+        "comments": 42,
+        "created_at": "2026-09-20T07:38:37.000Z"
       },
       {
-        "title": "Lawsuit: Illegal Agreement of Anthropic, OpenAI, SpaceXAI, Google on AI Slowdown",
-        "url": "https://www.independent.co.uk/news/lawsuit-anthropic-google-openai-lawyers-b3052942.html",
-        "points": 15,
-        "comments": 1,
-        "created_at": "2026-09-19T16:51:41.000Z"
+        "title": "Google AI Studio fakes data deletion. VRP auto-banned me in 60s for reporting it",
+        "url": "https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2",
+        "points": 47,
+        "comments": 27,
+        "created_at": "2026-09-20T04:39:12.000Z"
       },
       {
-        "title": "Almost Never Use AI to Write Anything Substantive",
-        "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-        "points": 102,
-        "comments": 65,
-        "created_at": "2026-09-19T16:35:24.000Z"
+        "title": "Show HN: I created an open source locally usable full fledged AI platform",
+        "url": "https://github.com/theguysudo/ENZO",
+        "points": 16,
+        "comments": 12,
+        "created_at": "2026-09-19T23:47:35.000Z"
       },
       {
-        "title": "AI Safety Is Mostly a Sex Cult",
-        "url": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q",
-        "points": 61,
-        "comments": 31,
-        "created_at": "2026-09-19T14:36:28.000Z"
+        "title": "Can you tell which images are AI-generated?",
+        "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+        "points": 86,
+        "comments": 71,
+        "created_at": "2026-09-19T23:02:34.000Z"
       },
       {
-        "title": "AI-generated posters don’t have to be horrible",
-        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-        "points": 1078,
-        "comments": 603,
-        "created_at": "2026-09-19T09:20:58.000Z"
+        "title": "AI in schools – The choice we keep making",
+        "url": "https://friendsschoolboulder.org/the-choice-we-keep-making/",
+        "points": 25,
+        "comments": 5,
+        "created_at": "2026-09-19T22:55:39.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Bend 2 and the Vibe-Coding Trap",
         "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
-        "points": 320,
+        "points": 325,
         "comments": 235,
         "created_at": "2026-09-18T12:03:55.000Z"
       },
       {
         "title": "PC ports of old console games are the new AI vibe coding battleground",
         "url": "https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/",
-        "points": 11,
+        "points": 12,
         "comments": 0,
         "created_at": "2026-09-17T05:55:10.000Z"
       },
       {
         "title": "Vibe Coding is the new Internet Dating?",
         "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
-        "points": 61,
+        "points": 62,
         "comments": 99,
         "created_at": "2026-09-15T01:45:53.000Z"
       },
@@ -154,22 +154,22 @@
       {
         "title": "Taco Bell Programming (2010)",
         "url": "https://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html",
-        "points": 19,
+        "points": 20,
         "comments": 4,
         "created_at": "2026-09-17T13:22:46.000Z"
       },
       {
         "title": "Small programming tricks",
         "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-        "points": 668,
-        "comments": 292,
+        "points": 670,
+        "comments": 293,
         "created_at": "2026-09-16T15:56:47.000Z"
       },
       {
         "title": "Nvidia announces native GPU programming in Rust",
         "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-        "points": 961,
-        "comments": 402,
+        "points": 967,
+        "comments": 403,
         "created_at": "2026-09-16T11:15:53.000Z"
       }
     ]
