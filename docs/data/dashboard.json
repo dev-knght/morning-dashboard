@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-20T10:41:36.670Z",
+  "updatedAt": "2026-09-20T20:22:02.945Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 29.5,
-      "humidity": 37,
-      "wind_kph": 12.3,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 20.7,
+      "humidity": 79,
+      "wind_kph": 4.7,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-09-21",
-      "temp_max_c": 30.3,
-      "temp_min_c": 18,
-      "humidity_max": 89,
-      "humidity_min": 33,
-      "wind_kph": 22.6,
+      "temp_max_c": 30.2,
+      "temp_min_c": 18.3,
+      "humidity_max": 86,
+      "humidity_min": 37,
+      "wind_kph": 23.9,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4378.45,
     "oilUSD": 79,
-    "updatedAt": "2026-09-20T10:41:36.670Z",
+    "updatedAt": "2026-09-20T20:22:02.945Z",
     "gold24KUSD": 140.77,
     "gold21KUSD": 123.17,
     "gold18KUSD": 105.58,
@@ -64,46 +64,46 @@
   "news": {
     "ai": [
       {
+        "title": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+        "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+        "points": 32,
+        "comments": 63,
+        "created_at": "2026-09-20T12:07:10.000Z"
+      },
+      {
+        "title": "If AI coding is lowering your code quality, you're not managing quality right",
+        "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+        "points": 65,
+        "comments": 104,
+        "created_at": "2026-09-20T11:37:10.000Z"
+      },
+      {
+        "title": "I'm Tired of the AI Tone",
+        "url": "https://sagivo.com/blog/im-tired-of-the-ai-tone",
+        "points": 43,
+        "comments": 54,
+        "created_at": "2026-09-20T11:18:26.000Z"
+      },
+      {
+        "title": "AI and the Destruction of the Creative Commons",
+        "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+        "points": 213,
+        "comments": 256,
+        "created_at": "2026-09-20T10:07:51.000Z"
+      },
+      {
         "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
         "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-        "points": 33,
-        "comments": 42,
+        "points": 40,
+        "comments": 51,
         "created_at": "2026-09-20T07:38:37.000Z"
-      },
-      {
-        "title": "Google AI Studio fakes data deletion. VRP auto-banned me in 60s for reporting it",
-        "url": "https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2",
-        "points": 47,
-        "comments": 27,
-        "created_at": "2026-09-20T04:39:12.000Z"
-      },
-      {
-        "title": "Show HN: I created an open source locally usable full fledged AI platform",
-        "url": "https://github.com/theguysudo/ENZO",
-        "points": 16,
-        "comments": 12,
-        "created_at": "2026-09-19T23:47:35.000Z"
-      },
-      {
-        "title": "Can you tell which images are AI-generated?",
-        "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
-        "points": 86,
-        "comments": 71,
-        "created_at": "2026-09-19T23:02:34.000Z"
-      },
-      {
-        "title": "AI in schools – The choice we keep making",
-        "url": "https://friendsschoolboulder.org/the-choice-we-keep-making/",
-        "points": 25,
-        "comments": 5,
-        "created_at": "2026-09-19T22:55:39.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Bend 2 and the Vibe-Coding Trap",
         "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
-        "points": 325,
+        "points": 326,
         "comments": 235,
         "created_at": "2026-09-18T12:03:55.000Z"
       },
@@ -117,7 +117,7 @@
       {
         "title": "Vibe Coding is the new Internet Dating?",
         "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
-        "points": 62,
+        "points": 63,
         "comments": 99,
         "created_at": "2026-09-15T01:45:53.000Z"
       },
@@ -161,15 +161,15 @@
       {
         "title": "Small programming tricks",
         "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-        "points": 670,
+        "points": 671,
         "comments": 293,
         "created_at": "2026-09-16T15:56:47.000Z"
       },
       {
         "title": "Nvidia announces native GPU programming in Rust",
         "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-        "points": 967,
-        "comments": 403,
+        "points": 968,
+        "comments": 404,
         "created_at": "2026-09-16T11:15:53.000Z"
       }
     ]
