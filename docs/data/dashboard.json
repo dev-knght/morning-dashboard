@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-21T12:04:45.442Z",
+  "updatedAt": "2026-09-21T21:43:28.341Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 30,
-      "humidity": 41,
-      "wind_kph": 21.5,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 19.9,
+      "humidity": 79,
+      "wind_kph": 5.6,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-09-22",
-      "temp_max_c": 29.6,
-      "temp_min_c": 18.7,
-      "humidity_max": 92,
-      "humidity_min": 42,
-      "wind_kph": 23.6,
+      "date": "2026-09-23",
+      "temp_max_c": 29.4,
+      "temp_min_c": 18.2,
+      "humidity_max": 90,
+      "humidity_min": 40,
+      "wind_kph": 22.5,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4378.38,
     "oilUSD": 79,
-    "updatedAt": "2026-09-21T12:04:45.442Z",
+    "updatedAt": "2026-09-21T21:43:28.341Z",
     "gold24KUSD": 140.77,
     "gold21KUSD": 123.17,
     "gold18KUSD": 105.58,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
-        "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
-        "points": 29,
-        "comments": 58,
-        "created_at": "2026-09-21T07:59:18.000Z"
+        "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+        "url": "https://linear.app/now/ci-bottleneck-reworked",
+        "points": 69,
+        "comments": 54,
+        "created_at": "2026-09-21T19:23:33.000Z"
       },
       {
-        "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-        "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-        "points": 121,
-        "comments": 58,
-        "created_at": "2026-09-21T04:28:44.000Z"
+        "title": "Frontier AI on Your Own Hardware",
+        "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+        "points": 40,
+        "comments": 15,
+        "created_at": "2026-09-21T18:53:01.000Z"
       },
       {
-        "title": "AI Weekly Warns Firms on Google AI Studio Data Retention Fraud",
-        "url": "https://bitu79.substack.com/p/ai-weekly-issues-warning-on-google",
-        "points": 19,
-        "comments": 4,
-        "created_at": "2026-09-21T02:31:19.000Z"
+        "title": "US halts flights at busy East Coast airports, says fiber line cut",
+        "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+        "points": 136,
+        "comments": 89,
+        "created_at": "2026-09-21T18:41:59.000Z"
       },
       {
-        "title": "Can I Let My AI Agent Run on Shabbat?",
-        "url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
-        "points": 33,
-        "comments": 16,
-        "created_at": "2026-09-21T02:05:45.000Z"
+        "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+        "points": 18,
+        "comments": 9,
+        "created_at": "2026-09-21T18:33:56.000Z"
       },
       {
-        "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
-        "url": "https://github.com/BytedTsinghua-SIA/DAPO",
-        "points": 20,
-        "comments": 2,
-        "created_at": "2026-09-20T23:19:04.000Z"
+        "title": "Boomers love making AI images of their grandkids. Millennial parents hate it",
+        "url": "https://www.businessinsider.com/grandparents-ai-images-grandkids-privacy-parents-2026-9",
+        "points": 18,
+        "comments": 1,
+        "created_at": "2026-09-21T18:30:05.000Z"
       }
     ],
     "vibeCoding": [
@@ -140,7 +140,7 @@
       {
         "title": "Jev, Prolog, Pi, and the dream of probabilistic logic programming",
         "url": "https://deepclause.substack.com/p/jev-prolog-pi-and-the-dream-of-probabilistic",
-        "points": 19,
+        "points": 21,
         "comments": 0,
         "created_at": "2026-09-21T00:42:20.000Z"
       },
