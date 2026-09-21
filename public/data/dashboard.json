@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-09-20T20:22:02.945Z",
+  "updatedAt": "2026-09-21T12:04:45.442Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 20.7,
-      "humidity": 79,
-      "wind_kph": 4.7,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
-    },
-    "tomorrow": {
-      "date": "2026-09-21",
-      "temp_max_c": 30.2,
-      "temp_min_c": 18.3,
-      "humidity_max": 86,
-      "humidity_min": 37,
-      "wind_kph": 23.9,
+      "temp_c": 30,
+      "humidity": 41,
+      "wind_kph": 21.5,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
+    },
+    "tomorrow": {
+      "date": "2026-09-22",
+      "temp_max_c": 29.6,
+      "temp_min_c": 18.7,
+      "humidity_max": 92,
+      "humidity_min": 42,
+      "wind_kph": 23.6,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4378.45,
+    "goldUSD": 4378.38,
     "oilUSD": 79,
-    "updatedAt": "2026-09-20T20:22:02.945Z",
+    "updatedAt": "2026-09-21T12:04:45.442Z",
     "gold24KUSD": 140.77,
     "gold21KUSD": 123.17,
     "gold18KUSD": 105.58,
-    "gold24KJD": 99.81,
+    "gold24KJD": 99.8,
     "gold21KJD": 87.33,
     "gold18KJD": 74.85
   },
@@ -35,9 +35,9 @@
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:16",
-    "maghrib": "18:35",
-    "date": "20 Sep 2020"
+    "fajr": "05:17",
+    "maghrib": "18:34",
+    "date": "21 Sep 2021"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
-        "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
-        "points": 32,
-        "comments": 63,
-        "created_at": "2026-09-20T12:07:10.000Z"
+        "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+        "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
+        "points": 29,
+        "comments": 58,
+        "created_at": "2026-09-21T07:59:18.000Z"
       },
       {
-        "title": "If AI coding is lowering your code quality, you're not managing quality right",
-        "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-        "points": 65,
-        "comments": 104,
-        "created_at": "2026-09-20T11:37:10.000Z"
+        "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+        "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+        "points": 121,
+        "comments": 58,
+        "created_at": "2026-09-21T04:28:44.000Z"
       },
       {
-        "title": "I'm Tired of the AI Tone",
-        "url": "https://sagivo.com/blog/im-tired-of-the-ai-tone",
-        "points": 43,
-        "comments": 54,
-        "created_at": "2026-09-20T11:18:26.000Z"
+        "title": "AI Weekly Warns Firms on Google AI Studio Data Retention Fraud",
+        "url": "https://bitu79.substack.com/p/ai-weekly-issues-warning-on-google",
+        "points": 19,
+        "comments": 4,
+        "created_at": "2026-09-21T02:31:19.000Z"
       },
       {
-        "title": "AI and the Destruction of the Creative Commons",
-        "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
-        "points": 213,
-        "comments": 256,
-        "created_at": "2026-09-20T10:07:51.000Z"
+        "title": "Can I Let My AI Agent Run on Shabbat?",
+        "url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
+        "points": 33,
+        "comments": 16,
+        "created_at": "2026-09-21T02:05:45.000Z"
       },
       {
-        "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-        "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-        "points": 40,
-        "comments": 51,
-        "created_at": "2026-09-20T07:38:37.000Z"
+        "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+        "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+        "points": 20,
+        "comments": 2,
+        "created_at": "2026-09-20T23:19:04.000Z"
       }
     ],
     "vibeCoding": [
@@ -118,7 +118,7 @@
         "title": "Vibe Coding is the new Internet Dating?",
         "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
         "points": 63,
-        "comments": 99,
+        "comments": 100,
         "created_at": "2026-09-15T01:45:53.000Z"
       },
       {
@@ -137,6 +137,13 @@
       }
     ],
     "progDb": [
+      {
+        "title": "Jev, Prolog, Pi, and the dream of probabilistic logic programming",
+        "url": "https://deepclause.substack.com/p/jev-prolog-pi-and-the-dream-of-probabilistic",
+        "points": 19,
+        "comments": 0,
+        "created_at": "2026-09-21T00:42:20.000Z"
+      },
       {
         "title": "Goose Programming Language",
         "url": "https://github.com/aardappel/goose/tree/master",
@@ -161,16 +168,9 @@
       {
         "title": "Small programming tricks",
         "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-        "points": 671,
+        "points": 672,
         "comments": 293,
         "created_at": "2026-09-16T15:56:47.000Z"
-      },
-      {
-        "title": "Nvidia announces native GPU programming in Rust",
-        "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-        "points": 968,
-        "comments": 404,
-        "created_at": "2026-09-16T11:15:53.000Z"
       }
     ]
   }
