@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-21T21:43:28.341Z",
+  "updatedAt": "2026-09-22T11:00:29.397Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 19.9,
-      "humidity": 79,
-      "wind_kph": 5.6,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 29.6,
+      "humidity": 41,
+      "wind_kph": 20.3,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-09-23",
-      "temp_max_c": 29.4,
-      "temp_min_c": 18.2,
+      "temp_max_c": 29.6,
+      "temp_min_c": 18.3,
       "humidity_max": 90,
-      "humidity_min": 40,
-      "wind_kph": 22.5,
+      "humidity_min": 39,
+      "wind_kph": 22.9,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4378.38,
+    "goldUSD": 4364.99,
     "oilUSD": 79,
-    "updatedAt": "2026-09-21T21:43:28.341Z",
-    "gold24KUSD": 140.77,
-    "gold21KUSD": 123.17,
-    "gold18KUSD": 105.58,
-    "gold24KJD": 99.8,
-    "gold21KJD": 87.33,
-    "gold18KJD": 74.85
+    "updatedAt": "2026-09-22T11:00:29.397Z",
+    "gold24KUSD": 140.34,
+    "gold21KUSD": 122.8,
+    "gold18KUSD": 105.25,
+    "gold24KJD": 99.5,
+    "gold21KJD": 87.06,
+    "gold18KJD": 74.62
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "05:17",
-    "maghrib": "18:34",
-    "date": "21 Sep 2021"
+    "maghrib": "18:33",
+    "date": "22 Sep 2022"
   },
   "events": [
     {
@@ -64,42 +64,49 @@
   "news": {
     "ai": [
       {
-        "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-        "url": "https://linear.app/now/ci-bottleneck-reworked",
-        "points": 69,
+        "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+        "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
+        "points": 47,
+        "comments": 69,
+        "created_at": "2026-09-22T09:18:54.000Z"
+      },
+      {
+        "title": "US threatens to ground Iranian airlines worldwide from Wednesday",
+        "url": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday",
+        "points": 34,
+        "comments": 2,
+        "created_at": "2026-09-22T01:43:26.000Z"
+      },
+      {
+        "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+        "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+        "points": 89,
         "comments": 54,
-        "created_at": "2026-09-21T19:23:33.000Z"
+        "created_at": "2026-09-22T01:24:49.000Z"
       },
       {
-        "title": "Frontier AI on Your Own Hardware",
-        "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-        "points": 40,
+        "title": "Do not fear AI. Fear AI companies",
+        "url": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
+        "points": 30,
         "comments": 15,
-        "created_at": "2026-09-21T18:53:01.000Z"
+        "created_at": "2026-09-21T22:40:31.000Z"
       },
       {
-        "title": "US halts flights at busy East Coast airports, says fiber line cut",
-        "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-        "points": 136,
-        "comments": 89,
-        "created_at": "2026-09-21T18:41:59.000Z"
-      },
-      {
-        "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
-        "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
-        "points": 18,
-        "comments": 9,
-        "created_at": "2026-09-21T18:33:56.000Z"
-      },
-      {
-        "title": "Boomers love making AI images of their grandkids. Millennial parents hate it",
-        "url": "https://www.businessinsider.com/grandparents-ai-images-grandkids-privacy-parents-2026-9",
+        "title": "New bill to protect American citizens access to AI – Please read and share",
+        "url": "https://righttorun.us",
         "points": 18,
         "comments": 1,
-        "created_at": "2026-09-21T18:30:05.000Z"
+        "created_at": "2026-09-21T20:30:38.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Vibecoding isn't a crime How Distribute Your App on Linux after Flathub refusal",
+        "url": "https://grigio.org/vibecoding-isnt-a-crime-how-to-deal-with-flatpak-flathub-refusals-and-actually-distribute-your-app-on-linux/",
+        "points": 13,
+        "comments": 23,
+        "created_at": "2026-09-21T20:21:17.000Z"
+      },
       {
         "title": "Bend 2 and the Vibe-Coding Trap",
         "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
@@ -127,16 +134,16 @@
         "points": 29,
         "comments": 0,
         "created_at": "2026-09-10T17:45:51.000Z"
-      },
-      {
-        "title": "I'm going back to coding by hand",
-        "url": "https://news.ycombinator.com/item?id=49622554",
-        "points": 62,
-        "comments": 53,
-        "created_at": "2026-09-09T07:22:28.000Z"
       }
     ],
     "progDb": [
+      {
+        "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
+        "url": "https://www.nongnu.org/txr/",
+        "points": 31,
+        "comments": 6,
+        "created_at": "2026-09-21T05:09:08.000Z"
+      },
       {
         "title": "Jev, Prolog, Pi, and the dream of probabilistic logic programming",
         "url": "https://deepclause.substack.com/p/jev-prolog-pi-and-the-dream-of-probabilistic",
@@ -164,13 +171,6 @@
         "points": 20,
         "comments": 4,
         "created_at": "2026-09-17T13:22:46.000Z"
-      },
-      {
-        "title": "Small programming tricks",
-        "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-        "points": 672,
-        "comments": 293,
-        "created_at": "2026-09-16T15:56:47.000Z"
       }
     ]
   }
