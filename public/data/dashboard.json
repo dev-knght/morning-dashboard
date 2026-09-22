@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-22T11:00:29.397Z",
+  "updatedAt": "2026-09-22T20:55:12.480Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 29.6,
-      "humidity": 41,
-      "wind_kph": 20.3,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 20,
+      "humidity": 76,
+      "wind_kph": 7.2,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-09-23",
-      "temp_max_c": 29.6,
-      "temp_min_c": 18.3,
-      "humidity_max": 90,
+      "temp_max_c": 29.5,
+      "temp_min_c": 19.1,
+      "humidity_max": 89,
       "humidity_min": 39,
-      "wind_kph": 22.9,
+      "wind_kph": 23.2,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4364.99,
     "oilUSD": 79,
-    "updatedAt": "2026-09-22T11:00:29.397Z",
+    "updatedAt": "2026-09-22T20:55:12.480Z",
     "gold24KUSD": 140.34,
     "gold21KUSD": 122.8,
     "gold18KUSD": 105.25,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
-        "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
-        "points": 47,
-        "comments": 69,
-        "created_at": "2026-09-22T09:18:54.000Z"
+        "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+        "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+        "points": 223,
+        "comments": 115,
+        "created_at": "2026-09-22T19:03:38.000Z"
       },
       {
-        "title": "US threatens to ground Iranian airlines worldwide from Wednesday",
-        "url": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday",
-        "points": 34,
+        "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+        "url": "https://ai-rete-rag.com/",
+        "points": 28,
         "comments": 2,
-        "created_at": "2026-09-22T01:43:26.000Z"
+        "created_at": "2026-09-22T16:15:06.000Z"
       },
       {
-        "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-        "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
-        "points": 89,
-        "comments": 54,
-        "created_at": "2026-09-22T01:24:49.000Z"
+        "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
+        "url": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/",
+        "points": 81,
+        "comments": 57,
+        "created_at": "2026-09-22T13:52:56.000Z"
       },
       {
-        "title": "Do not fear AI. Fear AI companies",
-        "url": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
-        "points": 30,
-        "comments": 15,
-        "created_at": "2026-09-21T22:40:31.000Z"
+        "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
+        "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
+        "points": 68,
+        "comments": 52,
+        "created_at": "2026-09-22T13:27:29.000Z"
       },
       {
-        "title": "New bill to protect American citizens access to AI – Please read and share",
-        "url": "https://righttorun.us",
-        "points": 18,
-        "comments": 1,
-        "created_at": "2026-09-21T20:30:38.000Z"
+        "title": "AI Is Antithetical to Learning",
+        "url": "https://jola.dev/posts/ai-antithetical-learning",
+        "points": 19,
+        "comments": 12,
+        "created_at": "2026-09-22T13:24:40.000Z"
       }
     ],
     "vibeCoding": [
@@ -104,7 +104,7 @@
         "title": "Vibecoding isn't a crime How Distribute Your App on Linux after Flathub refusal",
         "url": "https://grigio.org/vibecoding-isnt-a-crime-how-to-deal-with-flatpak-flathub-refusals-and-actually-distribute-your-app-on-linux/",
         "points": 13,
-        "comments": 23,
+        "comments": 28,
         "created_at": "2026-09-21T20:21:17.000Z"
       },
       {
@@ -138,10 +138,17 @@
     ],
     "progDb": [
       {
+        "title": "International Conference on Functional Programming (ICFP) 2026 talks released",
+        "url": "https://www.youtube.com/@acmsigplan/playlists",
+        "points": 11,
+        "comments": 0,
+        "created_at": "2026-09-22T18:33:24.000Z"
+      },
+      {
         "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
         "url": "https://www.nongnu.org/txr/",
-        "points": 31,
-        "comments": 6,
+        "points": 34,
+        "comments": 8,
         "created_at": "2026-09-21T05:09:08.000Z"
       },
       {
@@ -164,13 +171,6 @@
         "points": 14,
         "comments": 0,
         "created_at": "2026-09-17T15:22:47.000Z"
-      },
-      {
-        "title": "Taco Bell Programming (2010)",
-        "url": "https://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html",
-        "points": 20,
-        "comments": 4,
-        "created_at": "2026-09-17T13:22:46.000Z"
       }
     ]
   }
