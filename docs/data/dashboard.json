@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-22T20:55:12.480Z",
+  "updatedAt": "2026-09-23T10:49:31.157Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 20,
-      "humidity": 76,
-      "wind_kph": 7.2,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 29.1,
+      "humidity": 42,
+      "wind_kph": 17.7,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-09-23",
-      "temp_max_c": 29.5,
-      "temp_min_c": 19.1,
-      "humidity_max": 89,
+      "date": "2026-09-24",
+      "temp_max_c": 29.4,
+      "temp_min_c": 18.2,
+      "humidity_max": 92,
       "humidity_min": 39,
-      "wind_kph": 23.2,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "wind_kph": 24.6,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4364.99,
+    "goldUSD": 4371.4,
     "oilUSD": 79,
-    "updatedAt": "2026-09-22T20:55:12.480Z",
-    "gold24KUSD": 140.34,
-    "gold21KUSD": 122.8,
-    "gold18KUSD": 105.25,
-    "gold24KJD": 99.5,
-    "gold21KJD": 87.06,
-    "gold18KJD": 74.62
+    "updatedAt": "2026-09-23T10:49:31.157Z",
+    "gold24KUSD": 140.54,
+    "gold21KUSD": 122.98,
+    "gold18KUSD": 105.41,
+    "gold24KJD": 99.65,
+    "gold21KJD": 87.19,
+    "gold18KJD": 74.73
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:17",
-    "maghrib": "18:33",
-    "date": "22 Sep 2022"
+    "fajr": "05:18",
+    "maghrib": "18:32",
+    "date": "23 Sep 2023"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+        "title": "Trump says US will henceforth call AI 'super intelligence'",
+        "url": "https://www.reuters.com/legal/government/trump-says-us-will-henceforth-call-ai-super-intelligence-2026-09-22/",
+        "points": 18,
+        "comments": 11,
+        "created_at": "2026-09-23T00:46:08.000Z"
+      },
+      {
+        "title": "The new CC, an AI agent built for families",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+        "points": 48,
+        "comments": 57,
+        "created_at": "2026-09-22T23:46:07.000Z"
+      },
+      {
+        "title": "The ruble markup on AI tokens",
+        "url": "https://infertrail.com/blog/ruble-markup-ai-tokens/",
+        "points": 23,
+        "comments": 3,
+        "created_at": "2026-09-22T23:30:11.000Z"
+      },
+      {
+        "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
         "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-        "points": 223,
-        "comments": 115,
+        "points": 671,
+        "comments": 348,
         "created_at": "2026-09-22T19:03:38.000Z"
       },
       {
-        "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
-        "url": "https://ai-rete-rag.com/",
-        "points": 28,
-        "comments": 2,
-        "created_at": "2026-09-22T16:15:06.000Z"
-      },
-      {
-        "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
-        "url": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/",
-        "points": 81,
-        "comments": 57,
-        "created_at": "2026-09-22T13:52:56.000Z"
-      },
-      {
-        "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
-        "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
-        "points": 68,
-        "comments": 52,
-        "created_at": "2026-09-22T13:27:29.000Z"
-      },
-      {
-        "title": "AI Is Antithetical to Learning",
-        "url": "https://jola.dev/posts/ai-antithetical-learning",
-        "points": 19,
-        "comments": 12,
-        "created_at": "2026-09-22T13:24:40.000Z"
+        "title": "Trump says AI will be renamed 'super intelligence' in all US documents",
+        "url": "https://thehill.com/homenews/administration/6104142-trump-renames-ai-super-intelligence/",
+        "points": 18,
+        "comments": 3,
+        "created_at": "2026-09-22T17:40:59.000Z"
       }
     ],
     "vibeCoding": [
@@ -104,13 +104,13 @@
         "title": "Vibecoding isn't a crime How Distribute Your App on Linux after Flathub refusal",
         "url": "https://grigio.org/vibecoding-isnt-a-crime-how-to-deal-with-flatpak-flathub-refusals-and-actually-distribute-your-app-on-linux/",
         "points": 13,
-        "comments": 28,
+        "comments": 30,
         "created_at": "2026-09-21T20:21:17.000Z"
       },
       {
         "title": "Bend 2 and the Vibe-Coding Trap",
         "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
-        "points": 326,
+        "points": 327,
         "comments": 235,
         "created_at": "2026-09-18T12:03:55.000Z"
       },
@@ -140,21 +140,21 @@
       {
         "title": "International Conference on Functional Programming (ICFP) 2026 talks released",
         "url": "https://www.youtube.com/@acmsigplan/playlists",
-        "points": 11,
+        "points": 25,
         "comments": 0,
         "created_at": "2026-09-22T18:33:24.000Z"
       },
       {
         "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
         "url": "https://www.nongnu.org/txr/",
-        "points": 34,
+        "points": 36,
         "comments": 8,
         "created_at": "2026-09-21T05:09:08.000Z"
       },
       {
         "title": "Jev, Prolog, Pi, and the dream of probabilistic logic programming",
         "url": "https://deepclause.substack.com/p/jev-prolog-pi-and-the-dream-of-probabilistic",
-        "points": 21,
+        "points": 22,
         "comments": 0,
         "created_at": "2026-09-21T00:42:20.000Z"
       },
