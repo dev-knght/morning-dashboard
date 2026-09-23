@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-23T10:49:31.157Z",
+  "updatedAt": "2026-09-23T21:07:28.613Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 29.1,
-      "humidity": 42,
-      "wind_kph": 17.7,
+      "temp_c": 19.9,
+      "humidity": 82,
+      "wind_kph": 8,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-09-24",
-      "temp_max_c": 29.4,
-      "temp_min_c": 18.2,
-      "humidity_max": 92,
-      "humidity_min": 39,
-      "wind_kph": 24.6,
+      "date": "2026-09-25",
+      "temp_max_c": 29.3,
+      "temp_min_c": 18.7,
+      "humidity_max": 95,
+      "humidity_min": 34,
+      "wind_kph": 25.2,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4371.4,
     "oilUSD": 79,
-    "updatedAt": "2026-09-23T10:49:31.157Z",
+    "updatedAt": "2026-09-23T21:07:28.613Z",
     "gold24KUSD": 140.54,
     "gold21KUSD": 122.98,
     "gold18KUSD": 105.41,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Trump says US will henceforth call AI 'super intelligence'",
-        "url": "https://www.reuters.com/legal/government/trump-says-us-will-henceforth-call-ai-super-intelligence-2026-09-22/",
-        "points": 18,
-        "comments": 11,
-        "created_at": "2026-09-23T00:46:08.000Z"
+        "title": "How we made claude.ai 3x faster in two weeks",
+        "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+        "points": 83,
+        "comments": 55,
+        "created_at": "2026-09-23T19:23:40.000Z"
       },
       {
-        "title": "The new CC, an AI agent built for families",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
-        "points": 48,
-        "comments": 57,
-        "created_at": "2026-09-22T23:46:07.000Z"
+        "title": "Cloud Agents Are Inevitable AI Prisons",
+        "url": "https://normanponte.io/19df691f",
+        "points": 46,
+        "comments": 82,
+        "created_at": "2026-09-23T18:16:41.000Z"
       },
       {
-        "title": "The ruble markup on AI tokens",
-        "url": "https://infertrail.com/blog/ruble-markup-ai-tokens/",
-        "points": 23,
-        "comments": 3,
-        "created_at": "2026-09-22T23:30:11.000Z"
+        "title": "Community condemn Bedminster AI mural as 'insult' to artists",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyq09jp49eo",
+        "points": 34,
+        "comments": 25,
+        "created_at": "2026-09-23T14:16:12.000Z"
       },
       {
-        "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-        "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-        "points": 671,
-        "comments": 348,
-        "created_at": "2026-09-22T19:03:38.000Z"
+        "title": "Stripe's Knowledge AI Platform",
+        "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+        "points": 153,
+        "comments": 97,
+        "created_at": "2026-09-23T13:38:00.000Z"
       },
       {
-        "title": "Trump says AI will be renamed 'super intelligence' in all US documents",
-        "url": "https://thehill.com/homenews/administration/6104142-trump-renames-ai-super-intelligence/",
-        "points": 18,
-        "comments": 3,
-        "created_at": "2026-09-22T17:40:59.000Z"
+        "title": "What AI-Native Looks Like",
+        "url": "https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459",
+        "points": 21,
+        "comments": 24,
+        "created_at": "2026-09-23T12:54:38.000Z"
       }
     ],
     "vibeCoding": [
@@ -147,7 +147,7 @@
       {
         "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
         "url": "https://www.nongnu.org/txr/",
-        "points": 36,
+        "points": 37,
         "comments": 8,
         "created_at": "2026-09-21T05:09:08.000Z"
       },
