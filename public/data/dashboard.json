@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-24T11:09:51.725Z",
+  "updatedAt": "2026-09-24T21:10:40.924Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 29.8,
-      "humidity": 34,
-      "wind_kph": 18.8,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 20,
+      "humidity": 91,
+      "wind_kph": 4.8,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-09-25",
-      "temp_max_c": 28.8,
-      "temp_min_c": 19.3,
-      "humidity_max": 95,
-      "humidity_min": 38,
-      "wind_kph": 26.5,
+      "date": "2026-09-26",
+      "temp_max_c": 27.8,
+      "temp_min_c": 17.5,
+      "humidity_max": 90,
+      "humidity_min": 42,
+      "wind_kph": 23.9,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4365.11,
     "oilUSD": 79,
-    "updatedAt": "2026-09-24T11:09:51.725Z",
+    "updatedAt": "2026-09-24T21:10:40.924Z",
     "gold24KUSD": 140.34,
     "gold21KUSD": 122.8,
     "gold18KUSD": 105.26,
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "AI has no intent and no motivation",
-        "url": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
-        "points": 36,
-        "comments": 41,
-        "created_at": "2026-09-24T09:13:25.000Z"
+        "title": "Federal judge orders Texas to air condition all prisons by the end of 2029",
+        "url": "https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/",
+        "points": 80,
+        "comments": 123,
+        "created_at": "2026-09-24T16:15:34.000Z"
       },
       {
-        "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-        "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-        "points": 172,
-        "comments": 67,
-        "created_at": "2026-09-24T08:23:03.000Z"
+        "title": "Oracle invokes force majeure on New Mexico AI data center",
+        "url": "https://qz.com/oracle-force-majeure-new-mexico-ai-data-center-092426",
+        "points": 28,
+        "comments": 1,
+        "created_at": "2026-09-24T15:58:40.000Z"
       },
       {
-        "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-        "url": "https://transluce.org/agent-activity",
-        "points": 144,
-        "comments": 117,
-        "created_at": "2026-09-24T05:21:10.000Z"
+        "title": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
+        "url": "https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai",
+        "points": 39,
+        "comments": 42,
+        "created_at": "2026-09-24T15:54:23.000Z"
       },
       {
-        "title": "Feds Target AI Critics as \"Foreign Agents\"",
-        "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-        "points": 297,
-        "comments": 308,
-        "created_at": "2026-09-24T00:41:31.000Z"
+        "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+        "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+        "points": 42,
+        "comments": 64,
+        "created_at": "2026-09-24T15:09:38.000Z"
       },
       {
-        "title": "Stanford violated AI policy after race-swapping students in ad",
-        "url": "https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php",
-        "points": 32,
-        "comments": 17,
-        "created_at": "2026-09-23T23:23:39.000Z"
+        "title": "AI safety is mostly a sex cult in Berkeley",
+        "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
+        "points": 49,
+        "comments": 10,
+        "created_at": "2026-09-24T14:38:31.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: I just talked to an AI-obsessed client, and I need a shower afterwards",
         "url": "https://news.ycombinator.com/item?id=49826029",
-        "points": 12,
-        "comments": 9,
+        "points": 23,
+        "comments": 27,
         "created_at": "2026-09-24T03:48:41.000Z"
       },
       {
@@ -138,6 +138,20 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: Radix – Visual UI for agentic programming",
+        "url": "https://radix-os.com",
+        "points": 15,
+        "comments": 16,
+        "created_at": "2026-09-24T18:35:20.000Z"
+      },
+      {
+        "title": "Programming Tutorials Are Dead",
+        "url": "https://robrace.dev/blog/programming-tutorials-are-dead/",
+        "points": 34,
+        "comments": 8,
+        "created_at": "2026-09-24T18:22:10.000Z"
+      },
+      {
         "title": "International Conference on Functional Programming (ICFP) 2026 talks released",
         "url": "https://www.youtube.com/@acmsigplan/playlists",
         "points": 25,
@@ -145,32 +159,18 @@
         "created_at": "2026-09-22T18:33:24.000Z"
       },
       {
+        "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
+        "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+        "points": 60,
+        "comments": 14,
+        "created_at": "2026-09-21T14:30:00.000Z"
+      },
+      {
         "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
         "url": "https://www.nongnu.org/txr/",
         "points": 37,
         "comments": 8,
         "created_at": "2026-09-21T05:09:08.000Z"
-      },
-      {
-        "title": "Jev, Prolog, Pi, and the dream of probabilistic logic programming",
-        "url": "https://deepclause.substack.com/p/jev-prolog-pi-and-the-dream-of-probabilistic",
-        "points": 23,
-        "comments": 0,
-        "created_at": "2026-09-21T00:42:20.000Z"
-      },
-      {
-        "title": "Goose Programming Language",
-        "url": "https://github.com/aardappel/goose/tree/master",
-        "points": 54,
-        "comments": 69,
-        "created_at": "2026-09-18T01:04:54.000Z"
-      },
-      {
-        "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
-        "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
-        "points": 14,
-        "comments": 0,
-        "created_at": "2026-09-17T15:22:47.000Z"
       }
     ]
   }
