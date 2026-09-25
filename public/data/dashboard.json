@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-24T21:10:40.924Z",
+  "updatedAt": "2026-09-25T11:13:32.021Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 20,
-      "humidity": 91,
-      "wind_kph": 4.8,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 29.7,
+      "humidity": 33,
+      "wind_kph": 20.7,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-09-26",
-      "temp_max_c": 27.8,
-      "temp_min_c": 17.5,
-      "humidity_max": 90,
-      "humidity_min": 42,
-      "wind_kph": 23.9,
+      "temp_max_c": 28,
+      "temp_min_c": 17.6,
+      "humidity_max": 92,
+      "humidity_min": 43,
+      "wind_kph": 25.7,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4365.11,
+    "goldUSD": 4288.23,
     "oilUSD": 79,
-    "updatedAt": "2026-09-24T21:10:40.924Z",
-    "gold24KUSD": 140.34,
-    "gold21KUSD": 122.8,
-    "gold18KUSD": 105.26,
-    "gold24KJD": 99.5,
-    "gold21KJD": 87.06,
-    "gold18KJD": 74.63
+    "updatedAt": "2026-09-25T11:13:32.021Z",
+    "gold24KUSD": 137.87,
+    "gold21KUSD": 120.64,
+    "gold18KUSD": 103.4,
+    "gold24KJD": 97.75,
+    "gold21KJD": 85.53,
+    "gold18KJD": 73.31
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "05:19",
-    "maghrib": "18:30",
-    "date": "24 Sep 2024"
+    "maghrib": "18:29",
+    "date": "25 Sep 2025"
   },
   "events": [
     {
@@ -64,10 +64,17 @@
   "news": {
     "ai": [
       {
+        "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
+        "url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
+        "points": 23,
+        "comments": 11,
+        "created_at": "2026-09-24T16:41:55.000Z"
+      },
+      {
         "title": "Federal judge orders Texas to air condition all prisons by the end of 2029",
         "url": "https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/",
-        "points": 80,
-        "comments": 123,
+        "points": 106,
+        "comments": 167,
         "created_at": "2026-09-24T16:15:34.000Z"
       },
       {
@@ -80,31 +87,24 @@
       {
         "title": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
         "url": "https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai",
-        "points": 39,
-        "comments": 42,
+        "points": 43,
+        "comments": 47,
         "created_at": "2026-09-24T15:54:23.000Z"
       },
       {
         "title": "Tutoring company tells parents to save their money and 'use AI instead'",
         "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-        "points": 42,
-        "comments": 64,
+        "points": 120,
+        "comments": 181,
         "created_at": "2026-09-24T15:09:38.000Z"
-      },
-      {
-        "title": "AI safety is mostly a sex cult in Berkeley",
-        "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
-        "points": 49,
-        "comments": 10,
-        "created_at": "2026-09-24T14:38:31.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: I just talked to an AI-obsessed client, and I need a shower afterwards",
         "url": "https://news.ycombinator.com/item?id=49826029",
-        "points": 23,
-        "comments": 27,
+        "points": 26,
+        "comments": 33,
         "created_at": "2026-09-24T03:48:41.000Z"
       },
       {
@@ -141,14 +141,14 @@
         "title": "Show HN: Radix – Visual UI for agentic programming",
         "url": "https://radix-os.com",
         "points": 15,
-        "comments": 16,
+        "comments": 17,
         "created_at": "2026-09-24T18:35:20.000Z"
       },
       {
         "title": "Programming Tutorials Are Dead",
         "url": "https://robrace.dev/blog/programming-tutorials-are-dead/",
-        "points": 34,
-        "comments": 8,
+        "points": 50,
+        "comments": 14,
         "created_at": "2026-09-24T18:22:10.000Z"
       },
       {
@@ -161,15 +161,15 @@
       {
         "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
         "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
-        "points": 60,
-        "comments": 14,
+        "points": 127,
+        "comments": 57,
         "created_at": "2026-09-21T14:30:00.000Z"
       },
       {
         "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
         "url": "https://www.nongnu.org/txr/",
         "points": 37,
-        "comments": 8,
+        "comments": 9,
         "created_at": "2026-09-21T05:09:08.000Z"
       }
     ]
