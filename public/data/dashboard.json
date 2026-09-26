@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-25T21:07:33.698Z",
+  "updatedAt": "2026-09-26T10:51:49.074Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 18.9,
-      "humidity": 81,
-      "wind_kph": 8.4,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 28.2,
+      "humidity": 43,
+      "wind_kph": 22.1,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-09-27",
-      "temp_max_c": 27.3,
-      "temp_min_c": 16.2,
+      "temp_max_c": 27.4,
+      "temp_min_c": 16.4,
       "humidity_max": 91,
-      "humidity_min": 41,
-      "wind_kph": 23.7,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "humidity_min": 37,
+      "wind_kph": 24,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4288.23,
+    "goldUSD": 4267.03,
     "oilUSD": 79,
-    "updatedAt": "2026-09-25T21:07:33.698Z",
-    "gold24KUSD": 137.87,
-    "gold21KUSD": 120.64,
-    "gold18KUSD": 103.4,
-    "gold24KJD": 97.75,
-    "gold21KJD": 85.53,
-    "gold18KJD": 73.31
+    "updatedAt": "2026-09-26T10:51:49.074Z",
+    "gold24KUSD": 137.19,
+    "gold21KUSD": 120.04,
+    "gold18KUSD": 102.89,
+    "gold24KJD": 97.27,
+    "gold21KJD": 85.11,
+    "gold18KJD": 72.95
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:19",
-    "maghrib": "18:29",
-    "date": "25 Sep 2025"
+    "fajr": "05:20",
+    "maghrib": "18:28",
+    "date": "26 Sep 2026"
   },
   "events": [
     {
@@ -64,47 +64,54 @@
   "news": {
     "ai": [
       {
+        "title": "FTC chair suggests AI developers should be liable for conduct of agents",
+        "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
+        "points": 49,
+        "comments": 16,
+        "created_at": "2026-09-25T22:49:41.000Z"
+      },
+      {
+        "title": "\"Someone just sent me an ad that features an AI version of me. What do I do?\"",
+        "url": "https://bsky.app/profile/lebassett.bsky.social/post/3mwel345jr22s",
+        "points": 21,
+        "comments": 9,
+        "created_at": "2026-09-25T21:15:55.000Z"
+      },
+      {
+        "title": "Too AI; Didn't Read",
+        "url": "https://www.tai-dr.com/",
+        "points": 108,
+        "comments": 108,
+        "created_at": "2026-09-25T20:37:56.000Z"
+      },
+      {
+        "title": "Pope: AI must serve humans not become tool of domination",
+        "url": "https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war",
+        "points": 29,
+        "comments": 8,
+        "created_at": "2026-09-25T19:18:05.000Z"
+      },
+      {
         "title": "Show HN: Doom or Bloom, map your AI worldview",
         "url": "https://www.doom-or-bloom.com",
-        "points": 37,
-        "comments": 29,
+        "points": 56,
+        "comments": 45,
         "created_at": "2026-09-25T16:51:28.000Z"
-      },
-      {
-        "title": "Classified estimates show the NSA is paying billions to test AI models",
-        "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-        "points": 165,
-        "comments": 93,
-        "created_at": "2026-09-25T15:27:35.000Z"
-      },
-      {
-        "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-        "points": 69,
-        "comments": 54,
-        "created_at": "2026-09-25T14:07:08.000Z"
-      },
-      {
-        "title": "Uproar in France over award-winning author accused of using AI",
-        "url": "https://www.bbc.com/news/articles/ck7v4y45893go",
-        "points": 34,
-        "comments": 80,
-        "created_at": "2026-09-25T10:48:32.000Z"
-      },
-      {
-        "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
-        "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
-        "points": 18,
-        "comments": 0,
-        "created_at": "2026-09-24T20:29:34.000Z"
       }
     ],
     "vibeCoding": [
       {
+        "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+        "url": "https://www.gptbeyond.com/try?home=1",
+        "points": 14,
+        "comments": 2,
+        "created_at": "2026-09-25T21:09:28.000Z"
+      },
+      {
         "title": "Ask HN: I just talked to an AI-obsessed client, and I need a shower afterwards",
         "url": "https://news.ycombinator.com/item?id=49826029",
         "points": 30,
-        "comments": 44,
+        "comments": 47,
         "created_at": "2026-09-24T03:48:41.000Z"
       },
       {
@@ -127,16 +134,16 @@
         "points": 12,
         "comments": 0,
         "created_at": "2026-09-17T05:55:10.000Z"
-      },
-      {
-        "title": "Vibe Coding is the new Internet Dating?",
-        "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
-        "points": 63,
-        "comments": 100,
-        "created_at": "2026-09-15T01:45:53.000Z"
       }
     ],
     "progDb": [
+      {
+        "title": "How to keep enjoying programming in a world of LLMs",
+        "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+        "points": 55,
+        "comments": 72,
+        "created_at": "2026-09-26T09:41:58.000Z"
+      },
       {
         "title": "Show HN: Radix – Visual UI for agentic programming",
         "url": "https://radix-os.com",
@@ -161,16 +168,9 @@
       {
         "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
         "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
-        "points": 146,
-        "comments": 62,
+        "points": 147,
+        "comments": 63,
         "created_at": "2026-09-21T14:30:00.000Z"
-      },
-      {
-        "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
-        "url": "https://www.nongnu.org/txr/",
-        "points": 37,
-        "comments": 9,
-        "created_at": "2026-09-21T05:09:08.000Z"
       }
     ]
   }
