@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-28T12:59:36.655Z",
+  "updatedAt": "2026-09-28T22:57:12.908Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 25.7,
-      "humidity": 52,
-      "wind_kph": 31.4,
+      "temp_c": 19.1,
+      "humidity": 86,
+      "wind_kph": 7.1,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-09-29",
-      "temp_max_c": 24.8,
-      "temp_min_c": 18,
-      "humidity_max": 89,
+      "date": "2026-09-30",
+      "temp_max_c": 25.2,
+      "temp_min_c": 16.8,
+      "humidity_max": 92,
       "humidity_min": 48,
-      "wind_kph": 24.5,
+      "wind_kph": 23.4,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4285.06,
     "oilUSD": 79,
-    "updatedAt": "2026-09-28T12:59:36.655Z",
+    "updatedAt": "2026-09-28T22:57:12.908Z",
     "gold24KUSD": 137.77,
     "gold21KUSD": 120.55,
     "gold18KUSD": 103.33,
@@ -64,46 +64,46 @@
   "news": {
     "ai": [
       {
-        "title": "AI companies in race to demonstrate their model most threatening to humanity",
-        "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-        "points": 210,
-        "comments": 117,
-        "created_at": "2026-09-28T08:35:40.000Z"
+        "title": "Who should be held accountable when an AI Agent (accidentally) acts maliciously?",
+        "url": "https://blog.greenpants.net/ai-accountability/",
+        "points": 17,
+        "comments": 16,
+        "created_at": "2026-09-28T22:05:46.000Z"
       },
       {
-        "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-        "url": "https://arxiv.org/abs/2110.01834",
-        "points": 127,
-        "comments": 43,
-        "created_at": "2026-09-28T03:23:53.000Z"
+        "title": "Pacing the Frontier is not the actual goal for AI labs",
+        "url": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
+        "points": 62,
+        "comments": 53,
+        "created_at": "2026-09-28T20:47:26.000Z"
       },
       {
-        "title": "George Hotz’s opinion on AI coding",
-        "url": "https://twitter.com/__tinygrad__/status/2044354852663558370",
-        "points": 20,
-        "comments": 10,
-        "created_at": "2026-09-27T21:40:54.000Z"
+        "title": "It's Time to Investigate the AI Labs",
+        "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+        "points": 159,
+        "comments": 50,
+        "created_at": "2026-09-28T19:53:35.000Z"
       },
       {
-        "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-        "url": "https://earnanhonestdollar.com/bench",
-        "points": 60,
-        "comments": 14,
-        "created_at": "2026-09-27T17:24:17.000Z"
+        "title": "Schools are experimenting with AI with little evidence or policy to guide them",
+        "url": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
+        "points": 17,
+        "comments": 9,
+        "created_at": "2026-09-28T18:31:44.000Z"
       },
       {
-        "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-        "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-        "points": 58,
-        "comments": 116,
-        "created_at": "2026-09-27T16:29:38.000Z"
+        "title": "I made a visual workspace for AI Automations",
+        "url": "https://www.biom.dev/",
+        "points": 27,
+        "comments": 22,
+        "created_at": "2026-09-28T17:53:14.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
         "url": "https://www.gptbeyond.com/try?home=1",
-        "points": 40,
+        "points": 41,
         "comments": 12,
         "created_at": "2026-09-25T21:09:28.000Z"
       },
@@ -111,7 +111,7 @@
         "title": "Ask HN: I just talked to an AI-obsessed client, and I need a shower afterwards",
         "url": "https://news.ycombinator.com/item?id=49826029",
         "points": 30,
-        "comments": 49,
+        "comments": 50,
         "created_at": "2026-09-24T03:48:41.000Z"
       },
       {
@@ -138,10 +138,17 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+        "url": "https://hn.watch/",
+        "points": 117,
+        "comments": 73,
+        "created_at": "2026-09-28T15:16:13.000Z"
+      },
+      {
         "title": "How to keep enjoying programming in a world of LLMs",
         "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-        "points": 332,
-        "comments": 337,
+        "points": 342,
+        "comments": 342,
         "created_at": "2026-09-26T09:41:58.000Z"
       },
       {
@@ -154,8 +161,8 @@
       {
         "title": "Evolving programming languages in the AI era",
         "url": "https://dashbit.co/blog/evolving-ai-era",
-        "points": 136,
-        "comments": 97,
+        "points": 137,
+        "comments": 98,
         "created_at": "2026-09-25T02:34:39.000Z"
       },
       {
@@ -164,13 +171,6 @@
         "points": 15,
         "comments": 18,
         "created_at": "2026-09-24T18:35:20.000Z"
-      },
-      {
-        "title": "Programming Tutorials Are Dead",
-        "url": "https://robrace.dev/blog/programming-tutorials-are-dead/",
-        "points": 52,
-        "comments": 16,
-        "created_at": "2026-09-24T18:22:10.000Z"
       }
     ]
   }
