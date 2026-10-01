@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-30T21:54:10.488Z",
+  "updatedAt": "2026-10-01T12:30:12.069Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 18.5,
-      "humidity": 77,
-      "wind_kph": 4.1,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 24.7,
+      "humidity": 45,
+      "wind_kph": 21.6,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
       "date": "2026-10-02",
-      "temp_max_c": 25.7,
-      "temp_min_c": 15.5,
-      "humidity_max": 91,
-      "humidity_min": 38,
-      "wind_kph": 25.4,
+      "temp_max_c": 25.4,
+      "temp_min_c": 15,
+      "humidity_max": 89,
+      "humidity_min": 39,
+      "wind_kph": 24.8,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4122.4,
+    "goldUSD": 4185.44,
     "oilUSD": 79,
-    "updatedAt": "2026-09-30T21:54:10.488Z",
-    "gold24KUSD": 132.54,
-    "gold21KUSD": 115.97,
-    "gold18KUSD": 99.4,
-    "gold24KJD": 93.97,
-    "gold21KJD": 82.22,
-    "gold18KJD": 70.48
+    "updatedAt": "2026-10-01T12:30:12.069Z",
+    "gold24KUSD": 134.56,
+    "gold21KUSD": 117.74,
+    "gold18KUSD": 100.92,
+    "gold24KJD": 95.41,
+    "gold21KJD": 83.48,
+    "gold18KJD": 71.55
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:23",
-    "maghrib": "18:23",
-    "date": "30 Sep 2030"
+    "fajr": "04:23",
+    "maghrib": "17:21",
+    "date": "01 Oct 2001"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "AI borrowers face tough sell in risky corners of US credit market",
+        "url": "https://www.reuters.com/legal/transactional/ai-borrowers-face-tough-sell-risky-corners-us-credit-market-2026-09-30/",
+        "points": 20,
+        "comments": 6,
+        "created_at": "2026-10-01T05:45:42.000Z"
+      },
+      {
         "title": "CS240 AI Cheating Retrospective",
         "url": "https://turkeyland.net/thoughts/ai.php",
-        "points": 22,
-        "comments": 8,
+        "points": 107,
+        "comments": 100,
         "created_at": "2026-09-30T19:54:29.000Z"
       },
       {
         "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
         "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-        "points": 20,
-        "comments": 20,
+        "points": 32,
+        "comments": 27,
         "created_at": "2026-09-30T18:23:21.000Z"
       },
       {
         "title": "FTC opens probe into AI giants including Anthropic and OpenAI",
         "url": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/",
-        "points": 32,
-        "comments": 1,
+        "points": 36,
+        "comments": 2,
         "created_at": "2026-09-30T16:59:37.000Z"
       },
       {
         "title": "The AI Race Just Got Awkward",
         "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-        "points": 362,
-        "comments": 398,
+        "points": 391,
+        "comments": 435,
         "created_at": "2026-09-30T15:50:11.000Z"
-      },
-      {
-        "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
-        "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
-        "points": 30,
-        "comments": 13,
-        "created_at": "2026-09-30T15:04:33.000Z"
       }
     ],
     "vibeCoding": [
@@ -104,7 +104,7 @@
         "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
         "url": "https://www.gptbeyond.com/try?home=1",
         "points": 43,
-        "comments": 13,
+        "comments": 15,
         "created_at": "2026-09-25T21:09:28.000Z"
       },
       {
@@ -127,34 +127,34 @@
         "points": 327,
         "comments": 235,
         "created_at": "2026-09-18T12:03:55.000Z"
-      },
-      {
-        "title": "PC ports of old console games are the new AI vibe coding battleground",
-        "url": "https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/",
-        "points": 12,
-        "comments": 0,
-        "created_at": "2026-09-17T05:55:10.000Z"
       }
     ],
     "progDb": [
       {
+        "title": "pldb: programming languages papers",
+        "url": "https://pldb.kirancodes.me/",
+        "points": 31,
+        "comments": 1,
+        "created_at": "2026-09-30T21:23:24.000Z"
+      },
+      {
         "title": "Needed 1+1, built a functional programming language",
         "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
-        "points": 144,
-        "comments": 67,
+        "points": 148,
+        "comments": 72,
         "created_at": "2026-09-29T16:18:26.000Z"
       },
       {
         "title": "Show HN: HN.watch – Videos of all Hacker News posts",
         "url": "https://hn.watch/",
-        "points": 213,
+        "points": 216,
         "comments": 97,
         "created_at": "2026-09-28T15:16:13.000Z"
       },
       {
         "title": "How to keep enjoying programming in a world of LLMs",
         "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-        "points": 350,
+        "points": 351,
         "comments": 347,
         "created_at": "2026-09-26T09:41:58.000Z"
       },
@@ -164,13 +164,6 @@
         "points": 13,
         "comments": 0,
         "created_at": "2026-09-25T20:20:15.000Z"
-      },
-      {
-        "title": "Evolving programming languages in the AI era",
-        "url": "https://dashbit.co/blog/evolving-ai-era",
-        "points": 138,
-        "comments": 99,
-        "created_at": "2026-09-25T02:34:39.000Z"
       }
     ]
   }
