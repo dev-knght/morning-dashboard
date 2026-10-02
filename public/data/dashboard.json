@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-02T11:56:11.575Z",
+  "updatedAt": "2026-10-02T21:51:10.940Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 25.1,
-      "humidity": 47,
-      "wind_kph": 23.2,
+      "temp_c": 17.6,
+      "humidity": 76,
+      "wind_kph": 3.6,
       "weather_code": 3,
       "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-10-03",
-      "temp_max_c": 26.1,
-      "temp_min_c": 15.5,
-      "humidity_max": 87,
-      "humidity_min": 38,
-      "wind_kph": 20.4,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-10-04",
+      "temp_max_c": 28.8,
+      "temp_min_c": 17.3,
+      "humidity_max": 85,
+      "humidity_min": 24,
+      "wind_kph": 25,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
     "goldUSD": 4152.44,
     "oilUSD": 79,
-    "updatedAt": "2026-10-02T11:56:11.575Z",
+    "updatedAt": "2026-10-02T21:51:10.940Z",
     "gold24KUSD": 133.5,
     "gold21KUSD": 116.82,
     "gold18KUSD": 100.13,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI godfather Yann LeCun: Anthropic CEO deluded, doesn't understand cybersecurity",
-        "url": "https://fortune.com/2026/10/01/yann-lecun-anthropic-ceo-dario-amodei-deluded-crazy-cybersecurity/",
-        "points": 18,
-        "comments": 5,
-        "created_at": "2026-10-02T06:31:39.000Z"
-      },
-      {
-        "title": "There's a spike in Bitcoin activity around the time foreign aid money goes out",
-        "url": "https://twitter.com/cremieuxrecueil/status/2105707121073328552",
-        "points": 14,
-        "comments": 4,
-        "created_at": "2026-10-02T05:15:15.000Z"
-      },
-      {
-        "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
-        "url": "https://neow.in/NGxhb3d6",
-        "points": 35,
-        "comments": 45,
-        "created_at": "2026-10-01T22:15:57.000Z"
-      },
-      {
-        "title": "Aweb – Communication for AI Agents",
-        "url": "https://aweb.ai",
-        "points": 37,
+        "title": "Show HN: Made an open-source Lego AI generator",
+        "url": "https://github.com/anteloc/ldraw-nova",
+        "points": 39,
         "comments": 25,
-        "created_at": "2026-10-01T22:02:31.000Z"
+        "created_at": "2026-10-02T20:00:15.000Z"
       },
       {
-        "title": "Don't Be Fooled by this Summer of AI Hype",
-        "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-        "points": 40,
-        "comments": 32,
-        "created_at": "2026-10-01T21:34:19.000Z"
+        "title": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+        "points": 16,
+        "comments": 6,
+        "created_at": "2026-10-02T19:03:03.000Z"
+      },
+      {
+        "title": "Crypto Capture of Foreign Aid",
+        "url": "https://www.nber.org/papers/w35655",
+        "points": 83,
+        "comments": 28,
+        "created_at": "2026-10-02T18:14:29.000Z"
+      },
+      {
+        "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+        "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
+        "points": 46,
+        "comments": 24,
+        "created_at": "2026-10-02T15:24:54.000Z"
+      },
+      {
+        "title": "Mozilla shutting down Solo AI website creator",
+        "url": "https://support.soloist.ai/doc/solo-shutdown-faq",
+        "points": 29,
+        "comments": 58,
+        "created_at": "2026-10-02T15:19:22.000Z"
       }
     ],
     "vibeCoding": [
@@ -120,27 +120,27 @@
         "points": 13,
         "comments": 31,
         "created_at": "2026-09-21T20:21:17.000Z"
-      },
-      {
-        "title": "Bend 2 and the Vibe-Coding Trap",
-        "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
-        "points": 327,
-        "comments": 235,
-        "created_at": "2026-09-18T12:03:55.000Z"
       }
     ],
     "progDb": [
       {
+        "title": "Show HN: Made an open-source Lego AI generator",
+        "url": "https://github.com/anteloc/ldraw-nova",
+        "points": 39,
+        "comments": 25,
+        "created_at": "2026-10-02T20:00:15.000Z"
+      },
+      {
         "title": "40 years of writing code. I didn't see the end coming",
         "url": "https://news.ycombinator.com/item?id=49921591",
-        "points": 18,
-        "comments": 15,
+        "points": 19,
+        "comments": 16,
         "created_at": "2026-10-01T13:42:35.000Z"
       },
       {
         "title": "pldb: programming languages papers",
         "url": "https://pldb.kirancodes.me/",
-        "points": 40,
+        "points": 41,
         "comments": 3,
         "created_at": "2026-09-30T21:23:24.000Z"
       },
@@ -148,22 +148,15 @@
         "title": "Needed 1+1, built a functional programming language",
         "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
         "points": 151,
-        "comments": 76,
+        "comments": 78,
         "created_at": "2026-09-29T16:18:26.000Z"
       },
       {
         "title": "Show HN: HN.watch – Videos of all Hacker News posts",
         "url": "https://hn.watch/",
-        "points": 219,
+        "points": 221,
         "comments": 97,
         "created_at": "2026-09-28T15:16:13.000Z"
-      },
-      {
-        "title": "How to keep enjoying programming in a world of LLMs",
-        "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-        "points": 352,
-        "comments": 348,
-        "created_at": "2026-09-26T09:41:58.000Z"
       }
     ]
   }
