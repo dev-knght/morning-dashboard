@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-03T11:09:21.763Z",
+  "updatedAt": "2026-10-03T20:37:34.185Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 28.3,
-      "humidity": 25,
-      "wind_kph": 20.1,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 18.4,
+      "humidity": 60,
+      "wind_kph": 4,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-10-04",
       "temp_max_c": 28.6,
-      "temp_min_c": 16.9,
-      "humidity_max": 88,
-      "humidity_min": 26,
-      "wind_kph": 25.3,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_min_c": 18,
+      "humidity_max": 79,
+      "humidity_min": 27,
+      "wind_kph": 23.7,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
     "goldUSD": 4171.13,
     "oilUSD": 79,
-    "updatedAt": "2026-10-03T11:09:21.763Z",
+    "updatedAt": "2026-10-03T20:37:34.185Z",
     "gold24KUSD": 134.1,
     "gold21KUSD": 117.34,
     "gold18KUSD": 100.58,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "Our AI Midwife",
+        "url": "https://www.astralcodexten.com/p/our-ai-midwife",
+        "points": 21,
+        "comments": 1,
+        "created_at": "2026-10-03T19:12:27.000Z"
+      },
+      {
+        "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
+        "url": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
+        "points": 23,
+        "comments": 10,
+        "created_at": "2026-10-03T19:07:18.000Z"
+      },
+      {
+        "title": "Pop!_OS bans AI-generated code from much of its codebase",
+        "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+        "points": 78,
+        "comments": 87,
+        "created_at": "2026-10-03T17:57:03.000Z"
+      },
+      {
+        "title": "US killer's sentence quashed because of AI video of victim shown in court",
+        "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+        "points": 66,
+        "comments": 60,
+        "created_at": "2026-10-03T13:34:18.000Z"
+      },
+      {
         "title": "An AI agent emailed researchers for help. It told us why",
         "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
-        "points": 31,
-        "comments": 37,
+        "points": 49,
+        "comments": 78,
         "created_at": "2026-10-03T10:07:08.000Z"
-      },
-      {
-        "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-        "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
-        "points": 40,
-        "comments": 20,
-        "created_at": "2026-10-03T01:09:01.000Z"
-      },
-      {
-        "title": "Show HN: Made an open-source Lego AI generator",
-        "url": "https://github.com/anteloc/ldraw-nova",
-        "points": 116,
-        "comments": 45,
-        "created_at": "2026-10-02T20:00:15.000Z"
-      },
-      {
-        "title": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
-        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-        "points": 18,
-        "comments": 7,
-        "created_at": "2026-10-02T19:03:03.000Z"
-      },
-      {
-        "title": "Crypto Capture of Foreign Aid",
-        "url": "https://www.nber.org/papers/w35655",
-        "points": 93,
-        "comments": 35,
-        "created_at": "2026-10-02T18:14:29.000Z"
       }
     ],
     "vibeCoding": [
@@ -126,8 +126,8 @@
       {
         "title": "Show HN: Made an open-source Lego AI generator",
         "url": "https://github.com/anteloc/ldraw-nova",
-        "points": 116,
-        "comments": 45,
+        "points": 138,
+        "comments": 49,
         "created_at": "2026-10-02T20:00:15.000Z"
       },
       {
@@ -136,6 +136,13 @@
         "points": 20,
         "comments": 18,
         "created_at": "2026-10-01T13:42:35.000Z"
+      },
+      {
+        "title": "Programming the ENIAC (2011)",
+        "url": "https://www.columbia.edu/cu/computinghistory/eniac.html",
+        "points": 13,
+        "comments": 0,
+        "created_at": "2026-10-01T06:46:48.000Z"
       },
       {
         "title": "pldb: programming languages papers",
@@ -150,13 +157,6 @@
         "points": 151,
         "comments": 78,
         "created_at": "2026-09-29T16:18:26.000Z"
-      },
-      {
-        "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-        "url": "https://hn.watch/",
-        "points": 223,
-        "comments": 97,
-        "created_at": "2026-09-28T15:16:13.000Z"
       }
     ]
   }
