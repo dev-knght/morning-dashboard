@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-02T21:51:10.940Z",
+  "updatedAt": "2026-10-03T11:09:21.763Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 17.6,
-      "humidity": 76,
-      "wind_kph": 3.6,
+      "temp_c": 28.3,
+      "humidity": 25,
+      "wind_kph": 20.1,
       "weather_code": 3,
       "weather_desc": "Overcast"
     },
     "tomorrow": {
       "date": "2026-10-04",
-      "temp_max_c": 28.8,
-      "temp_min_c": 17.3,
-      "humidity_max": 85,
-      "humidity_min": 24,
-      "wind_kph": 25,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_max_c": 28.6,
+      "temp_min_c": 16.9,
+      "humidity_max": 88,
+      "humidity_min": 26,
+      "wind_kph": 25.3,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4152.44,
+    "goldUSD": 4171.13,
     "oilUSD": 79,
-    "updatedAt": "2026-10-02T21:51:10.940Z",
-    "gold24KUSD": 133.5,
-    "gold21KUSD": 116.82,
-    "gold18KUSD": 100.13,
-    "gold24KJD": 94.65,
-    "gold21KJD": 82.82,
-    "gold18KJD": 70.99
+    "updatedAt": "2026-10-03T11:09:21.763Z",
+    "gold24KUSD": 134.1,
+    "gold21KUSD": 117.34,
+    "gold18KUSD": 100.58,
+    "gold24KJD": 95.08,
+    "gold21KJD": 83.2,
+    "gold18KJD": 71.31
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:24",
-    "maghrib": "17:20",
-    "date": "02 Oct 2002"
+    "fajr": "05:24",
+    "maghrib": "18:19",
+    "date": "03 Oct 2003"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "An AI agent emailed researchers for help. It told us why",
+        "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+        "points": 31,
+        "comments": 37,
+        "created_at": "2026-10-03T10:07:08.000Z"
+      },
+      {
+        "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+        "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+        "points": 40,
+        "comments": 20,
+        "created_at": "2026-10-03T01:09:01.000Z"
+      },
+      {
         "title": "Show HN: Made an open-source Lego AI generator",
         "url": "https://github.com/anteloc/ldraw-nova",
-        "points": 39,
-        "comments": 25,
+        "points": 116,
+        "comments": 45,
         "created_at": "2026-10-02T20:00:15.000Z"
       },
       {
         "title": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
         "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-        "points": 16,
-        "comments": 6,
+        "points": 18,
+        "comments": 7,
         "created_at": "2026-10-02T19:03:03.000Z"
       },
       {
         "title": "Crypto Capture of Foreign Aid",
         "url": "https://www.nber.org/papers/w35655",
-        "points": 83,
-        "comments": 28,
+        "points": 93,
+        "comments": 35,
         "created_at": "2026-10-02T18:14:29.000Z"
-      },
-      {
-        "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
-        "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
-        "points": 46,
-        "comments": 24,
-        "created_at": "2026-10-02T15:24:54.000Z"
-      },
-      {
-        "title": "Mozilla shutting down Solo AI website creator",
-        "url": "https://support.soloist.ai/doc/solo-shutdown-faq",
-        "points": 29,
-        "comments": 58,
-        "created_at": "2026-10-02T15:19:22.000Z"
       }
     ],
     "vibeCoding": [
@@ -118,7 +118,7 @@
         "title": "Vibecoding isn't a crime How Distribute Your App on Linux after Flathub refusal",
         "url": "https://grigio.org/vibecoding-isnt-a-crime-how-to-deal-with-flatpak-flathub-refusals-and-actually-distribute-your-app-on-linux/",
         "points": 13,
-        "comments": 31,
+        "comments": 32,
         "created_at": "2026-09-21T20:21:17.000Z"
       }
     ],
@@ -126,15 +126,15 @@
       {
         "title": "Show HN: Made an open-source Lego AI generator",
         "url": "https://github.com/anteloc/ldraw-nova",
-        "points": 39,
-        "comments": 25,
+        "points": 116,
+        "comments": 45,
         "created_at": "2026-10-02T20:00:15.000Z"
       },
       {
         "title": "40 years of writing code. I didn't see the end coming",
         "url": "https://news.ycombinator.com/item?id=49921591",
-        "points": 19,
-        "comments": 16,
+        "points": 20,
+        "comments": 18,
         "created_at": "2026-10-01T13:42:35.000Z"
       },
       {
@@ -154,7 +154,7 @@
       {
         "title": "Show HN: HN.watch – Videos of all Hacker News posts",
         "url": "https://hn.watch/",
-        "points": 221,
+        "points": 223,
         "comments": 97,
         "created_at": "2026-09-28T15:16:13.000Z"
       }
