@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-08T12:51:55.554Z",
+  "updatedAt": "2026-10-08T22:56:40.740Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 30.4,
-      "humidity": 25,
-      "wind_kph": 14.8,
+      "temp_c": 18.8,
+      "humidity": 78,
+      "wind_kph": 5.1,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-10-09",
-      "temp_max_c": 28.7,
-      "temp_min_c": 17.3,
-      "humidity_max": 93,
-      "humidity_min": 34,
-      "wind_kph": 21.3,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "date": "2026-10-10",
+      "temp_max_c": 29.2,
+      "temp_min_c": 16.9,
+      "humidity_max": 92,
+      "humidity_min": 37,
+      "wind_kph": 16.9,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
     "goldUSD": 4168.16,
     "oilUSD": 79,
-    "updatedAt": "2026-10-08T12:51:55.554Z",
+    "updatedAt": "2026-10-08T22:56:40.740Z",
     "gold24KUSD": 134.01,
     "gold21KUSD": 117.26,
     "gold18KUSD": 100.51,
@@ -64,54 +64,61 @@
   "news": {
     "ai": [
       {
-        "title": "Will AI kill us all",
-        "url": "https://virev.ai/blog/will-ai-kill-us-all",
+        "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+        "url": "https://github.com/thesnarkitecht/rembrandt",
+        "points": 32,
+        "comments": 24,
+        "created_at": "2026-10-08T21:00:55.000Z"
+      },
+      {
+        "title": "AI-ready biological data: $1.8B global commitment",
+        "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+        "points": 36,
+        "comments": 1,
+        "created_at": "2026-10-08T20:46:25.000Z"
+      },
+      {
+        "title": "License update: AI derivation prohibited on all my art, lore, stories, comics",
+        "url": "https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics",
+        "points": 37,
+        "comments": 25,
+        "created_at": "2026-10-08T19:43:59.000Z"
+      },
+      {
+        "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+        "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+        "points": 54,
+        "comments": 44,
+        "created_at": "2026-10-08T19:17:51.000Z"
+      },
+      {
+        "title": "OpenAI cannot make AI safe on its own [pdf]",
+        "url": "https://mikitabalesni.com/letter/letter.pdf",
         "points": 13,
-        "comments": 13,
-        "created_at": "2026-10-08T06:09:00.000Z"
-      },
-      {
-        "title": "Man took his own life after 'sextortion' blackmail involving AI-generated woman",
-        "url": "https://www.rnz.co.nz/news/crime-and-justice/1787553/man-took-his-own-life-after-paying-money-to-sextortion-blackmail-involving-ai-generated-woman",
-        "points": 16,
-        "comments": 2,
-        "created_at": "2026-10-07T21:22:14.000Z"
-      },
-      {
-        "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-        "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-        "points": 348,
-        "comments": 350,
-        "created_at": "2026-10-07T18:49:40.000Z"
-      },
-      {
-        "title": "AI Model Groupthink",
-        "url": "https://magicnumbers.io/2026/10/06/ai-model-groupthink/",
-        "points": 27,
-        "comments": 7,
-        "created_at": "2026-10-07T18:08:38.000Z"
-      },
-      {
-        "title": "AI, Work, and the Next Downturn",
-        "url": "https://watch.wilsoniumite.com/",
-        "points": 13,
-        "comments": 5,
-        "created_at": "2026-10-07T17:36:02.000Z"
+        "comments": 3,
+        "created_at": "2026-10-08T19:12:38.000Z"
       }
     ],
     "vibeCoding": [
       {
+        "title": "What ArtCraft's Vibe-Coded Apps Say About Adobe",
+        "url": "https://tedium.co/2026/10/08/artcraft-vibe-coding-creative-cloud-remake/",
+        "points": 26,
+        "comments": 59,
+        "created_at": "2026-10-08T18:44:29.000Z"
+      },
+      {
         "title": "Tell HN: HN has lost the joy for me",
         "url": "https://news.ycombinator.com/item?id=49989504",
-        "points": 33,
-        "comments": 25,
+        "points": 35,
+        "comments": 28,
         "created_at": "2026-10-07T07:32:54.000Z"
       },
       {
         "title": "Vibecoding Photoshop: Time and pressure",
         "url": "https://andreklein.net/vibecoding-photoshop-time-and-pressure/",
         "points": 64,
-        "comments": 122,
+        "comments": 124,
         "created_at": "2026-10-06T20:40:48.000Z"
       },
       {
@@ -133,7 +140,7 @@
       {
         "title": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
         "url": "https://github.com/longsurf-ai/openchart",
-        "points": 44,
+        "points": 45,
         "comments": 20,
         "created_at": "2026-10-06T15:16:45.000Z"
       },
@@ -141,7 +148,7 @@
         "title": "Why Common Lisp is now the best programming language",
         "url": "https://www.vivienhenz.com/common-lisp",
         "points": 294,
-        "comments": 401,
+        "comments": 403,
         "created_at": "2026-10-06T02:51:51.000Z"
       },
       {
