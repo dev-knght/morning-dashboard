@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-07T22:45:39.697Z",
+  "updatedAt": "2026-10-08T12:51:55.554Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 17.4,
-      "humidity": 75,
-      "wind_kph": 4.6,
+      "temp_c": 30.4,
+      "humidity": 25,
+      "wind_kph": 14.8,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-10-09",
-      "temp_max_c": 28.6,
-      "temp_min_c": 17.5,
-      "humidity_max": 95,
-      "humidity_min": 38,
-      "wind_kph": 20.7,
+      "temp_max_c": 28.7,
+      "temp_min_c": 17.3,
+      "humidity_max": 93,
+      "humidity_min": 34,
+      "wind_kph": 21.3,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4136.01,
+    "goldUSD": 4168.16,
     "oilUSD": 79,
-    "updatedAt": "2026-10-07T22:45:39.697Z",
-    "gold24KUSD": 132.98,
-    "gold21KUSD": 116.35,
-    "gold18KUSD": 99.73,
-    "gold24KJD": 94.28,
-    "gold21KJD": 82.49,
-    "gold18KJD": 70.71
+    "updatedAt": "2026-10-08T12:51:55.554Z",
+    "gold24KUSD": 134.01,
+    "gold21KUSD": 117.26,
+    "gold18KUSD": 100.51,
+    "gold24KJD": 95.01,
+    "gold21KJD": 83.14,
+    "gold18KJD": 71.26
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:27",
-    "maghrib": "18:14",
-    "date": "07 Oct 2007"
+    "fajr": "05:28",
+    "maghrib": "18:12",
+    "date": "08 Oct 2008"
   },
   "events": [
     {
@@ -64,23 +64,30 @@
   "news": {
     "ai": [
       {
+        "title": "Will AI kill us all",
+        "url": "https://virev.ai/blog/will-ai-kill-us-all",
+        "points": 13,
+        "comments": 13,
+        "created_at": "2026-10-08T06:09:00.000Z"
+      },
+      {
         "title": "Man took his own life after 'sextortion' blackmail involving AI-generated woman",
         "url": "https://www.rnz.co.nz/news/crime-and-justice/1787553/man-took-his-own-life-after-paying-money-to-sextortion-blackmail-involving-ai-generated-woman",
-        "points": 12,
+        "points": 16,
         "comments": 2,
         "created_at": "2026-10-07T21:22:14.000Z"
       },
       {
         "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
         "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-        "points": 209,
-        "comments": 216,
+        "points": 348,
+        "comments": 350,
         "created_at": "2026-10-07T18:49:40.000Z"
       },
       {
         "title": "AI Model Groupthink",
         "url": "https://magicnumbers.io/2026/10/06/ai-model-groupthink/",
-        "points": 17,
+        "points": 27,
         "comments": 7,
         "created_at": "2026-10-07T18:08:38.000Z"
       },
@@ -88,37 +95,30 @@
         "title": "AI, Work, and the Next Downturn",
         "url": "https://watch.wilsoniumite.com/",
         "points": 13,
-        "comments": 4,
+        "comments": 5,
         "created_at": "2026-10-07T17:36:02.000Z"
-      },
-      {
-        "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-        "url": "https://agent.reviews/",
-        "points": 23,
-        "comments": 29,
-        "created_at": "2026-10-07T16:59:11.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Tell HN: HN has lost the joy for me",
         "url": "https://news.ycombinator.com/item?id=49989504",
-        "points": 21,
-        "comments": 17,
+        "points": 33,
+        "comments": 25,
         "created_at": "2026-10-07T07:32:54.000Z"
       },
       {
         "title": "Vibecoding Photoshop: Time and pressure",
         "url": "https://andreklein.net/vibecoding-photoshop-time-and-pressure/",
         "points": 64,
-        "comments": 120,
+        "comments": 122,
         "created_at": "2026-10-06T20:40:48.000Z"
       },
       {
         "title": "Vibecoding isn't as fun as writing code by hand",
         "url": "https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/",
         "points": 192,
-        "comments": 284,
+        "comments": 287,
         "created_at": "2026-10-06T14:45:02.000Z"
       },
       {
@@ -127,34 +127,27 @@
         "points": 43,
         "comments": 16,
         "created_at": "2026-09-25T21:09:28.000Z"
-      },
-      {
-        "title": "Ask HN: I just talked to an AI-obsessed client, and I need a shower afterwards",
-        "url": "https://news.ycombinator.com/item?id=49826029",
-        "points": 30,
-        "comments": 51,
-        "created_at": "2026-09-24T03:48:41.000Z"
       }
     ],
     "progDb": [
       {
         "title": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
         "url": "https://github.com/longsurf-ai/openchart",
-        "points": 43,
-        "comments": 19,
+        "points": 44,
+        "comments": 20,
         "created_at": "2026-10-06T15:16:45.000Z"
       },
       {
         "title": "Why Common Lisp is now the best programming language",
         "url": "https://www.vivienhenz.com/common-lisp",
-        "points": 292,
-        "comments": 396,
+        "points": 294,
+        "comments": 401,
         "created_at": "2026-10-06T02:51:51.000Z"
       },
       {
         "title": "Show HN: Made an open-source Lego AI generator",
         "url": "https://github.com/anteloc/ldraw-nova",
-        "points": 166,
+        "points": 167,
         "comments": 52,
         "created_at": "2026-10-02T20:00:15.000Z"
       },
