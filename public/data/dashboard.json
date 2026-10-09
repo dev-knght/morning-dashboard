@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-08T22:56:40.740Z",
+  "updatedAt": "2026-10-09T12:37:26.409Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 18.8,
-      "humidity": 78,
-      "wind_kph": 5.1,
+      "temp_c": 29,
+      "humidity": 33,
+      "wind_kph": 15.3,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-10-10",
-      "temp_max_c": 29.2,
-      "temp_min_c": 16.9,
-      "humidity_max": 92,
-      "humidity_min": 37,
-      "wind_kph": 16.9,
+      "temp_max_c": 29.9,
+      "temp_min_c": 18,
+      "humidity_max": 91,
+      "humidity_min": 39,
+      "wind_kph": 17.7,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4168.16,
+    "goldUSD": 4109.71,
     "oilUSD": 79,
-    "updatedAt": "2026-10-08T22:56:40.740Z",
-    "gold24KUSD": 134.01,
-    "gold21KUSD": 117.26,
-    "gold18KUSD": 100.51,
-    "gold24KJD": 95.01,
-    "gold21KJD": 83.14,
-    "gold18KJD": 71.26
+    "updatedAt": "2026-10-09T12:37:26.409Z",
+    "gold24KUSD": 132.13,
+    "gold21KUSD": 115.61,
+    "gold18KUSD": 99.1,
+    "gold24KJD": 93.68,
+    "gold21KJD": 81.97,
+    "gold18KJD": 70.26
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:28",
-    "maghrib": "18:12",
-    "date": "08 Oct 2008"
+    "fajr": "05:29",
+    "maghrib": "18:11",
+    "date": "09 Oct 2009"
   },
   "events": [
     {
@@ -64,68 +64,68 @@
   "news": {
     "ai": [
       {
+        "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+        "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+        "points": 92,
+        "comments": 33,
+        "created_at": "2026-10-09T11:03:48.000Z"
+      },
+      {
+        "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+        "url": "https://github.com/edrisranjbar/lifeos",
+        "points": 38,
+        "comments": 13,
+        "created_at": "2026-10-09T00:02:19.000Z"
+      },
+      {
         "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
         "url": "https://github.com/thesnarkitecht/rembrandt",
-        "points": 32,
-        "comments": 24,
+        "points": 47,
+        "comments": 53,
         "created_at": "2026-10-08T21:00:55.000Z"
       },
       {
         "title": "AI-ready biological data: $1.8B global commitment",
         "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-        "points": 36,
-        "comments": 1,
+        "points": 133,
+        "comments": 19,
         "created_at": "2026-10-08T20:46:25.000Z"
       },
       {
-        "title": "License update: AI derivation prohibited on all my art, lore, stories, comics",
-        "url": "https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics",
-        "points": 37,
-        "comments": 25,
-        "created_at": "2026-10-08T19:43:59.000Z"
-      },
-      {
-        "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-        "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
-        "points": 54,
-        "comments": 44,
-        "created_at": "2026-10-08T19:17:51.000Z"
-      },
-      {
-        "title": "OpenAI cannot make AI safe on its own [pdf]",
-        "url": "https://mikitabalesni.com/letter/letter.pdf",
-        "points": 13,
-        "comments": 3,
-        "created_at": "2026-10-08T19:12:38.000Z"
+        "title": "Model Collapse Isn't New, nor Is It Specific to AI",
+        "url": "https://rulr.dev/blog/model-collapse-isnt-new/",
+        "points": 14,
+        "comments": 4,
+        "created_at": "2026-10-08T20:26:28.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "What ArtCraft's Vibe-Coded Apps Say About Adobe",
         "url": "https://tedium.co/2026/10/08/artcraft-vibe-coding-creative-cloud-remake/",
-        "points": 26,
-        "comments": 59,
+        "points": 29,
+        "comments": 64,
         "created_at": "2026-10-08T18:44:29.000Z"
       },
       {
         "title": "Tell HN: HN has lost the joy for me",
         "url": "https://news.ycombinator.com/item?id=49989504",
-        "points": 35,
-        "comments": 28,
+        "points": 39,
+        "comments": 30,
         "created_at": "2026-10-07T07:32:54.000Z"
       },
       {
         "title": "Vibecoding Photoshop: Time and pressure",
         "url": "https://andreklein.net/vibecoding-photoshop-time-and-pressure/",
         "points": 64,
-        "comments": 124,
+        "comments": 123,
         "created_at": "2026-10-06T20:40:48.000Z"
       },
       {
         "title": "Vibecoding isn't as fun as writing code by hand",
         "url": "https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/",
-        "points": 192,
-        "comments": 287,
+        "points": 193,
+        "comments": 288,
         "created_at": "2026-10-06T14:45:02.000Z"
       },
       {
@@ -138,6 +138,13 @@
     ],
     "progDb": [
       {
+        "title": "Programming Isn't Special",
+        "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+        "points": 60,
+        "comments": 62,
+        "created_at": "2026-10-09T07:44:36.000Z"
+      },
+      {
         "title": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
         "url": "https://github.com/longsurf-ai/openchart",
         "points": 45,
@@ -148,7 +155,7 @@
         "title": "Why Common Lisp is now the best programming language",
         "url": "https://www.vivienhenz.com/common-lisp",
         "points": 294,
-        "comments": 403,
+        "comments": 406,
         "created_at": "2026-10-06T02:51:51.000Z"
       },
       {
@@ -164,13 +171,6 @@
         "points": 25,
         "comments": 23,
         "created_at": "2026-10-01T13:42:35.000Z"
-      },
-      {
-        "title": "Programming the ENIAC (2011)",
-        "url": "https://www.columbia.edu/cu/computinghistory/eniac.html",
-        "points": 14,
-        "comments": 0,
-        "created_at": "2026-10-01T06:46:48.000Z"
       }
     ]
   }
