@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-10T11:57:32.102Z",
+  "updatedAt": "2026-10-10T21:11:52.734Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 31.1,
-      "humidity": 38,
-      "wind_kph": 16.1,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 20.3,
+      "humidity": 93,
+      "wind_kph": 0.8,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-10-11",
-      "temp_max_c": 27.5,
-      "temp_min_c": 19.2,
-      "humidity_max": 95,
-      "humidity_min": 42,
-      "wind_kph": 15.6,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "date": "2026-10-12",
+      "temp_max_c": 27.6,
+      "temp_min_c": 18.5,
+      "humidity_max": 76,
+      "humidity_min": 45,
+      "wind_kph": 21.3,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
     "goldUSD": 4146.46,
     "oilUSD": 79,
-    "updatedAt": "2026-10-10T11:57:32.102Z",
+    "updatedAt": "2026-10-10T21:11:52.734Z",
     "gold24KUSD": 133.31,
     "gold21KUSD": 116.65,
     "gold18KUSD": 99.98,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-        "url": "https://github.com/rociiu/talorys",
-        "points": 29,
-        "comments": 9,
-        "created_at": "2026-10-10T10:52:09.000Z"
+        "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
+        "url": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
+        "points": 23,
+        "comments": 7,
+        "created_at": "2026-10-10T19:39:10.000Z"
       },
       {
-        "title": "If AI keeps evolving,would you worry about your next generation's survival",
-        "url": "https://news.ycombinator.com/item?id=50029896",
-        "points": 17,
-        "comments": 23,
-        "created_at": "2026-10-10T05:33:21.000Z"
+        "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+        "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+        "points": 72,
+        "comments": 43,
+        "created_at": "2026-10-10T18:48:35.000Z"
       },
       {
-        "title": "If AI is conscient, then we are making slaves",
-        "url": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
-        "points": 27,
-        "comments": 68,
-        "created_at": "2026-10-10T04:51:26.000Z"
+        "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+        "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+        "points": 39,
+        "comments": 31,
+        "created_at": "2026-10-10T18:10:54.000Z"
       },
       {
-        "title": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-        "points": 16,
-        "comments": 1,
-        "created_at": "2026-10-10T00:07:08.000Z"
+        "title": "AI Is Throwing a Roadside Picnic",
+        "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+        "points": 43,
+        "comments": 44,
+        "created_at": "2026-10-10T16:19:23.000Z"
       },
       {
-        "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-        "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-        "points": 174,
-        "comments": 127,
-        "created_at": "2026-10-09T22:00:35.000Z"
+        "title": "My personal AI agent posted my bank details on company Slack",
+        "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+        "points": 55,
+        "comments": 62,
+        "created_at": "2026-10-10T14:46:16.000Z"
       }
     ],
     "vibeCoding": [
@@ -133,8 +133,8 @@
       {
         "title": "Programming Isn't Special",
         "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-        "points": 227,
-        "comments": 243,
+        "points": 253,
+        "comments": 254,
         "created_at": "2026-10-09T07:44:36.000Z"
       },
       {
@@ -147,7 +147,7 @@
       {
         "title": "Why Common Lisp is now the best programming language",
         "url": "https://www.vivienhenz.com/common-lisp",
-        "points": 294,
+        "points": 295,
         "comments": 407,
         "created_at": "2026-10-06T02:51:51.000Z"
       },
