@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-11T12:09:33.392Z",
+  "updatedAt": "2026-10-11T21:31:39.498Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 31.2,
-      "humidity": 34,
-      "wind_kph": 7.7,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 20.8,
+      "humidity": 89,
+      "wind_kph": 1.6,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-10-12",
-      "temp_max_c": 27.5,
-      "temp_min_c": 19.5,
-      "humidity_max": 97,
-      "humidity_min": 52,
-      "wind_kph": 23.2,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "date": "2026-10-13",
+      "temp_max_c": 27.3,
+      "temp_min_c": 17.1,
+      "humidity_max": 93,
+      "humidity_min": 42,
+      "wind_kph": 16.9,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
     "goldUSD": 4194.35,
     "oilUSD": 79,
-    "updatedAt": "2026-10-11T12:09:33.392Z",
+    "updatedAt": "2026-10-11T21:31:39.498Z",
     "gold24KUSD": 134.85,
     "gold21KUSD": 117.99,
     "gold18KUSD": 101.14,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "Show HN: Mira, AI Walking Tours",
+        "url": "https://www.mira.tours/wander",
+        "points": 16,
+        "comments": 4,
+        "created_at": "2026-10-11T17:04:21.000Z"
+      },
+      {
         "title": "AI is creating a 'human premium' for art created by people",
         "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
-        "points": 17,
-        "comments": 10,
+        "points": 69,
+        "comments": 109,
         "created_at": "2026-10-11T11:34:28.000Z"
+      },
+      {
+        "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+        "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
+        "points": 74,
+        "comments": 22,
+        "created_at": "2026-10-11T11:03:21.000Z"
       },
       {
         "title": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things",
         "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
-        "points": 37,
-        "comments": 51,
+        "points": 61,
+        "comments": 71,
         "created_at": "2026-10-11T10:47:21.000Z"
       },
       {
-        "title": "AI agents in a stand-up call",
-        "url": "https://atoll92.github.io/agent-standup/",
-        "points": 44,
-        "comments": 45,
-        "created_at": "2026-10-11T03:42:47.000Z"
-      },
-      {
-        "title": "Satya Nadella says we should assume all AI models are 'compromised'",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-        "points": 37,
-        "comments": 61,
-        "created_at": "2026-10-11T03:41:53.000Z"
-      },
-      {
-        "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-        "points": 107,
-        "comments": 79,
-        "created_at": "2026-10-11T02:02:38.000Z"
+        "title": "Open-source version of Adobe Creative Suite, built with Rust, using AI",
+        "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
+        "points": 23,
+        "comments": 15,
+        "created_at": "2026-10-11T08:53:32.000Z"
       }
     ],
     "vibeCoding": [
@@ -133,8 +133,8 @@
       {
         "title": "Programming Isn't Special",
         "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-        "points": 269,
-        "comments": 260,
+        "points": 276,
+        "comments": 264,
         "created_at": "2026-10-09T07:44:36.000Z"
       },
       {
