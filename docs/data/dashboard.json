@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-10T21:11:52.734Z",
+  "updatedAt": "2026-10-11T12:09:33.392Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 20.3,
-      "humidity": 93,
-      "wind_kph": 0.8,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 31.2,
+      "humidity": 34,
+      "wind_kph": 7.7,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
       "date": "2026-10-12",
-      "temp_max_c": 27.6,
-      "temp_min_c": 18.5,
-      "humidity_max": 76,
-      "humidity_min": 45,
-      "wind_kph": 21.3,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_max_c": 27.5,
+      "temp_min_c": 19.5,
+      "humidity_max": 97,
+      "humidity_min": 52,
+      "wind_kph": 23.2,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
-    "goldUSD": 4146.46,
+    "goldUSD": 4194.35,
     "oilUSD": 79,
-    "updatedAt": "2026-10-10T21:11:52.734Z",
-    "gold24KUSD": 133.31,
-    "gold21KUSD": 116.65,
-    "gold18KUSD": 99.98,
-    "gold24KJD": 94.52,
-    "gold21KJD": 82.7,
-    "gold18KJD": 70.89
+    "updatedAt": "2026-10-11T12:09:33.392Z",
+    "gold24KUSD": 134.85,
+    "gold21KUSD": 117.99,
+    "gold18KUSD": 101.14,
+    "gold24KJD": 95.61,
+    "gold21KJD": 83.66,
+    "gold18KJD": 71.71
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:29",
-    "maghrib": "18:10",
-    "date": "10 Oct 2010"
+    "fajr": "05:30",
+    "maghrib": "18:09",
+    "date": "11 Oct 2011"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
-        "url": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
-        "points": 23,
-        "comments": 7,
-        "created_at": "2026-10-10T19:39:10.000Z"
+        "title": "AI is creating a 'human premium' for art created by people",
+        "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+        "points": 17,
+        "comments": 10,
+        "created_at": "2026-10-11T11:34:28.000Z"
       },
       {
-        "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-        "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-        "points": 72,
-        "comments": 43,
-        "created_at": "2026-10-10T18:48:35.000Z"
+        "title": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things",
+        "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+        "points": 37,
+        "comments": 51,
+        "created_at": "2026-10-11T10:47:21.000Z"
       },
       {
-        "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
-        "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
-        "points": 39,
-        "comments": 31,
-        "created_at": "2026-10-10T18:10:54.000Z"
+        "title": "AI agents in a stand-up call",
+        "url": "https://atoll92.github.io/agent-standup/",
+        "points": 44,
+        "comments": 45,
+        "created_at": "2026-10-11T03:42:47.000Z"
       },
       {
-        "title": "AI Is Throwing a Roadside Picnic",
-        "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
-        "points": 43,
-        "comments": 44,
-        "created_at": "2026-10-10T16:19:23.000Z"
+        "title": "Satya Nadella says we should assume all AI models are 'compromised'",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+        "points": 37,
+        "comments": 61,
+        "created_at": "2026-10-11T03:41:53.000Z"
       },
       {
-        "title": "My personal AI agent posted my bank details on company Slack",
-        "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
-        "points": 55,
-        "comments": 62,
-        "created_at": "2026-10-10T14:46:16.000Z"
+        "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+        "points": 107,
+        "comments": 79,
+        "created_at": "2026-10-11T02:02:38.000Z"
       }
     ],
     "vibeCoding": [
@@ -110,8 +110,8 @@
       {
         "title": "Tell HN: HN has lost the joy for me",
         "url": "https://news.ycombinator.com/item?id=49989504",
-        "points": 40,
-        "comments": 30,
+        "points": 41,
+        "comments": 32,
         "created_at": "2026-10-07T07:32:54.000Z"
       },
       {
@@ -124,7 +124,7 @@
       {
         "title": "Vibecoding isn't as fun as writing code by hand",
         "url": "https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/",
-        "points": 196,
+        "points": 197,
         "comments": 288,
         "created_at": "2026-10-06T14:45:02.000Z"
       }
@@ -133,8 +133,8 @@
       {
         "title": "Programming Isn't Special",
         "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-        "points": 253,
-        "comments": 254,
+        "points": 269,
+        "comments": 260,
         "created_at": "2026-10-09T07:44:36.000Z"
       },
       {
@@ -154,7 +154,7 @@
       {
         "title": "Show HN: Made an open-source Lego AI generator",
         "url": "https://github.com/anteloc/ldraw-nova",
-        "points": 169,
+        "points": 170,
         "comments": 52,
         "created_at": "2026-10-02T20:00:15.000Z"
       },
