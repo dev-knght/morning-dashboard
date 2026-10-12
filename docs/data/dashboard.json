@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-11T21:31:39.498Z",
+  "updatedAt": "2026-10-12T14:30:33.433Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 20.8,
-      "humidity": 89,
-      "wind_kph": 1.6,
+      "temp_c": 25.1,
+      "humidity": 63,
+      "wind_kph": 15.1,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-10-13",
-      "temp_max_c": 27.3,
-      "temp_min_c": 17.1,
-      "humidity_max": 93,
-      "humidity_min": 42,
-      "wind_kph": 16.9,
+      "temp_max_c": 27.6,
+      "temp_min_c": 17.4,
+      "humidity_max": 89,
+      "humidity_min": 34,
+      "wind_kph": 14.9,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4194.35,
     "oilUSD": 79,
-    "updatedAt": "2026-10-11T21:31:39.498Z",
+    "updatedAt": "2026-10-12T14:30:33.433Z",
     "gold24KUSD": 134.85,
     "gold21KUSD": 117.99,
     "gold18KUSD": 101.14,
@@ -35,9 +35,9 @@
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:30",
-    "maghrib": "18:09",
-    "date": "11 Oct 2011"
+    "fajr": "05:31",
+    "maghrib": "18:07",
+    "date": "12 Oct 2012"
   },
   "events": [
     {
@@ -64,46 +64,46 @@
   "news": {
     "ai": [
       {
-        "title": "Show HN: Mira, AI Walking Tours",
-        "url": "https://www.mira.tours/wander",
-        "points": 16,
-        "comments": 4,
-        "created_at": "2026-10-11T17:04:21.000Z"
+        "title": "QGIS bans AI assisted contributions",
+        "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+        "points": 237,
+        "comments": 241,
+        "created_at": "2026-10-12T11:22:24.000Z"
       },
       {
-        "title": "AI is creating a 'human premium' for art created by people",
-        "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
-        "points": 69,
-        "comments": 109,
-        "created_at": "2026-10-11T11:34:28.000Z"
+        "title": "AI-Built Torrent Site Looks Inside Downloads to Catch Fakes and Malware",
+        "url": "https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/",
+        "points": 13,
+        "comments": 3,
+        "created_at": "2026-10-12T06:43:01.000Z"
       },
       {
-        "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
-        "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
-        "points": 74,
-        "comments": 22,
-        "created_at": "2026-10-11T11:03:21.000Z"
+        "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+        "url": "https://github.com/plimsollmark/plimsoll",
+        "points": 15,
+        "comments": 3,
+        "created_at": "2026-10-11T23:47:59.000Z"
       },
       {
-        "title": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things",
-        "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
-        "points": 61,
-        "comments": 71,
-        "created_at": "2026-10-11T10:47:21.000Z"
+        "title": "AI is less regulated than milk, says Microsoft president",
+        "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
+        "points": 11,
+        "comments": 3,
+        "created_at": "2026-10-11T23:09:56.000Z"
       },
       {
-        "title": "Open-source version of Adobe Creative Suite, built with Rust, using AI",
-        "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
-        "points": 23,
-        "comments": 15,
-        "created_at": "2026-10-11T08:53:32.000Z"
+        "title": "There's No \"Going Back\": On the receding horizons of the AI transition",
+        "url": "https://thelastwave.substack.com/p/theres-no-going-back",
+        "points": 14,
+        "comments": 0,
+        "created_at": "2026-10-11T21:13:47.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "What ArtCraft's Vibe-Coded Apps Say About Adobe",
         "url": "https://tedium.co/2026/10/08/artcraft-vibe-coding-creative-cloud-remake/",
-        "points": 32,
+        "points": 33,
         "comments": 70,
         "created_at": "2026-10-08T18:44:29.000Z"
       },
@@ -131,10 +131,17 @@
     ],
     "progDb": [
       {
+        "title": "Choreographic Programming in Rust",
+        "url": "https://github.com/hibanaworks/hibana",
+        "points": 21,
+        "comments": 7,
+        "created_at": "2026-10-11T13:05:03.000Z"
+      },
+      {
         "title": "Programming Isn't Special",
         "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
         "points": 276,
-        "comments": 264,
+        "comments": 266,
         "created_at": "2026-10-09T07:44:36.000Z"
       },
       {
@@ -157,13 +164,6 @@
         "points": 170,
         "comments": 52,
         "created_at": "2026-10-02T20:00:15.000Z"
-      },
-      {
-        "title": "40 years of writing code. I didn't see the end coming",
-        "url": "https://news.ycombinator.com/item?id=49921591",
-        "points": 25,
-        "comments": 23,
-        "created_at": "2026-10-01T13:42:35.000Z"
       }
     ]
   }
