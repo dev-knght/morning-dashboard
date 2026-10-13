@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-13T00:10:58.484Z",
+  "updatedAt": "2026-10-13T22:18:15.782Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 19,
-      "humidity": 91,
-      "wind_kph": 2.9,
+      "temp_c": 19.8,
+      "humidity": 76,
+      "wind_kph": 2.7,
       "weather_code": 3,
       "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-10-14",
-      "temp_max_c": 29.1,
-      "temp_min_c": 18.9,
-      "humidity_max": 91,
+      "date": "2026-10-15",
+      "temp_max_c": 24.9,
+      "temp_min_c": 15.8,
+      "humidity_max": 65,
       "humidity_min": 42,
-      "wind_kph": 22.1,
+      "wind_kph": 26.3,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4202.17,
     "oilUSD": 79,
-    "updatedAt": "2026-10-13T00:10:58.484Z",
+    "updatedAt": "2026-10-13T22:18:15.782Z",
     "gold24KUSD": 135.1,
     "gold21KUSD": 118.21,
     "gold18KUSD": 101.33,
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI",
-        "url": "https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/",
-        "points": 12,
+        "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+        "url": "https://parsimony.lasu.dev/",
+        "points": 19,
         "comments": 1,
-        "created_at": "2026-10-12T22:05:07.000Z"
+        "created_at": "2026-10-13T19:50:31.000Z"
       },
       {
-        "title": "AI is a tool and using it well takes skill",
-        "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-        "points": 182,
-        "comments": 172,
-        "created_at": "2026-10-12T21:40:18.000Z"
+        "title": "Show HN: Deslop – Oxlint rules for AI-generated TypeScript",
+        "url": "https://github.com/maharshi365/deslop",
+        "points": 22,
+        "comments": 5,
+        "created_at": "2026-10-13T17:52:57.000Z"
       },
       {
-        "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-        "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-        "points": 14,
-        "comments": 4,
-        "created_at": "2026-10-12T21:35:35.000Z"
+        "title": "Scientists wonder: Is my AI stealing my ideas?",
+        "url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
+        "points": 39,
+        "comments": 21,
+        "created_at": "2026-10-13T16:05:51.000Z"
       },
       {
-        "title": "Epic Games tells employees to use AI to get Disney game done",
-        "url": "https://www.avclub.com/epic-games-disney-ai-delay",
-        "points": 73,
-        "comments": 54,
-        "created_at": "2026-10-12T20:07:42.000Z"
+        "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+        "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+        "points": 209,
+        "comments": 132,
+        "created_at": "2026-10-13T15:25:50.000Z"
       },
       {
-        "title": "\"Today we're laying off a large part of the Airtable team \"",
-        "url": "https://twitter.com/fedesimio/status/2109713695165329511",
-        "points": 36,
-        "comments": 12,
-        "created_at": "2026-10-12T19:56:16.000Z"
+        "title": "How to engineer an AI harness for game development",
+        "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+        "points": 105,
+        "comments": 45,
+        "created_at": "2026-10-13T14:14:23.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "What ArtCraft's Vibe-Coded Apps Say About Adobe",
         "url": "https://tedium.co/2026/10/08/artcraft-vibe-coding-creative-cloud-remake/",
-        "points": 33,
-        "comments": 70,
+        "points": 35,
+        "comments": 71,
         "created_at": "2026-10-08T18:44:29.000Z"
       },
       {
@@ -133,7 +133,7 @@
       {
         "title": "Martin Odersky – Keynote: The End of Programming? [video]",
         "url": "https://www.youtube.com/watch?v=jlJyuJhDnlc",
-        "points": 21,
+        "points": 28,
         "comments": 4,
         "created_at": "2026-10-12T19:52:12.000Z"
       },
@@ -141,14 +141,14 @@
         "title": "Choreographic Programming in Rust",
         "url": "https://github.com/hibanaworks/hibana",
         "points": 51,
-        "comments": 40,
+        "comments": 43,
         "created_at": "2026-10-11T13:05:03.000Z"
       },
       {
         "title": "Programming Isn't Special",
         "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-        "points": 278,
-        "comments": 266,
+        "points": 280,
+        "comments": 267,
         "created_at": "2026-10-09T07:44:36.000Z"
       },
       {
@@ -162,7 +162,7 @@
         "title": "Why Common Lisp is now the best programming language",
         "url": "https://www.vivienhenz.com/common-lisp",
         "points": 295,
-        "comments": 407,
+        "comments": 408,
         "created_at": "2026-10-06T02:51:51.000Z"
       }
     ]
