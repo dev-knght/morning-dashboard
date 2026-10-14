@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-13T22:18:15.782Z",
+  "updatedAt": "2026-10-14T11:15:23.971Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 19.8,
-      "humidity": 76,
-      "wind_kph": 2.7,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 29.3,
+      "humidity": 42,
+      "wind_kph": 15.9,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-10-15",
-      "temp_max_c": 24.9,
-      "temp_min_c": 15.8,
-      "humidity_max": 65,
-      "humidity_min": 42,
-      "wind_kph": 26.3,
+      "temp_max_c": 24.8,
+      "temp_min_c": 15.9,
+      "humidity_max": 76,
+      "humidity_min": 35,
+      "wind_kph": 26.7,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4202.17,
+    "goldUSD": 4162.13,
     "oilUSD": 79,
-    "updatedAt": "2026-10-13T22:18:15.782Z",
-    "gold24KUSD": 135.1,
-    "gold21KUSD": 118.21,
-    "gold18KUSD": 101.33,
-    "gold24KJD": 95.79,
-    "gold21KJD": 83.81,
-    "gold18KJD": 71.84
+    "updatedAt": "2026-10-14T11:15:23.971Z",
+    "gold24KUSD": 133.82,
+    "gold21KUSD": 117.09,
+    "gold18KUSD": 100.36,
+    "gold24KJD": 94.88,
+    "gold21KJD": 83.02,
+    "gold18KJD": 71.16
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:31",
+    "fajr": "05:32",
     "maghrib": "18:06",
-    "date": "13 Oct 2013"
+    "date": "14 Oct 2014"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-        "url": "https://parsimony.lasu.dev/",
-        "points": 19,
-        "comments": 1,
-        "created_at": "2026-10-13T19:50:31.000Z"
+        "title": "I let an AI run my startup for a week",
+        "url": "https://daily.tinyprojects.dev/221",
+        "points": 33,
+        "comments": 20,
+        "created_at": "2026-10-14T10:25:48.000Z"
       },
       {
-        "title": "Show HN: Deslop – Oxlint rules for AI-generated TypeScript",
-        "url": "https://github.com/maharshi365/deslop",
+        "title": "NetBSD may have found a new role: The AI-free FOSS OS",
+        "url": "https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818",
         "points": 22,
-        "comments": 5,
-        "created_at": "2026-10-13T17:52:57.000Z"
+        "comments": 6,
+        "created_at": "2026-10-14T06:06:22.000Z"
       },
       {
-        "title": "Scientists wonder: Is my AI stealing my ideas?",
-        "url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
-        "points": 39,
-        "comments": 21,
-        "created_at": "2026-10-13T16:05:51.000Z"
+        "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
+        "points": 64,
+        "comments": 70,
+        "created_at": "2026-10-14T05:53:36.000Z"
       },
       {
-        "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-        "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-        "points": 209,
-        "comments": 132,
-        "created_at": "2026-10-13T15:25:50.000Z"
+        "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
+        "url": "https://blumify.io/people",
+        "points": 102,
+        "comments": 63,
+        "created_at": "2026-10-14T01:09:13.000Z"
       },
       {
-        "title": "How to engineer an AI harness for game development",
-        "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-        "points": 105,
-        "comments": 45,
-        "created_at": "2026-10-13T14:14:23.000Z"
+        "title": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
+        "url": "https://github.com/RayenMlayeh/jevcrawl",
+        "points": 12,
+        "comments": 1,
+        "created_at": "2026-10-13T23:35:20.000Z"
       }
     ],
     "vibeCoding": [
@@ -131,39 +131,39 @@
     ],
     "progDb": [
       {
+        "title": "Ask HN: Where has creativity in software gone?",
+        "url": "https://news.ycombinator.com/item?id=50081189",
+        "points": 21,
+        "comments": 17,
+        "created_at": "2026-10-14T01:14:37.000Z"
+      },
+      {
+        "title": "Recreational Programming",
+        "url": "https://www.cphiri.dev/presentations/recreational-programming",
+        "points": 207,
+        "comments": 82,
+        "created_at": "2026-10-13T22:33:33.000Z"
+      },
+      {
         "title": "Martin Odersky – Keynote: The End of Programming? [video]",
         "url": "https://www.youtube.com/watch?v=jlJyuJhDnlc",
-        "points": 28,
-        "comments": 4,
+        "points": 29,
+        "comments": 5,
         "created_at": "2026-10-12T19:52:12.000Z"
       },
       {
         "title": "Choreographic Programming in Rust",
         "url": "https://github.com/hibanaworks/hibana",
-        "points": 51,
-        "comments": 43,
+        "points": 52,
+        "comments": 44,
         "created_at": "2026-10-11T13:05:03.000Z"
       },
       {
         "title": "Programming Isn't Special",
         "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-        "points": 280,
+        "points": 282,
         "comments": 267,
         "created_at": "2026-10-09T07:44:36.000Z"
-      },
-      {
-        "title": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
-        "url": "https://github.com/longsurf-ai/openchart",
-        "points": 45,
-        "comments": 20,
-        "created_at": "2026-10-06T15:16:45.000Z"
-      },
-      {
-        "title": "Why Common Lisp is now the best programming language",
-        "url": "https://www.vivienhenz.com/common-lisp",
-        "points": 295,
-        "comments": 408,
-        "created_at": "2026-10-06T02:51:51.000Z"
       }
     ]
   }
