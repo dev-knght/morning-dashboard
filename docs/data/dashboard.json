@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-15T10:54:12.165Z",
+  "updatedAt": "2026-10-15T20:57:33.360Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 25.2,
-      "humidity": 45,
-      "wind_kph": 22.9,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 15.9,
+      "humidity": 70,
+      "wind_kph": 5.5,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-10-16",
-      "temp_max_c": 25.2,
-      "temp_min_c": 14.4,
-      "humidity_max": 97,
-      "humidity_min": 40,
-      "wind_kph": 25.6,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_max_c": 25.4,
+      "temp_min_c": 14.7,
+      "humidity_max": 96,
+      "humidity_min": 39,
+      "wind_kph": 24.5,
+      "weather_code": 45,
+      "weather_desc": "Fog"
     }
   },
   "metals": {
     "goldUSD": 4162.84,
     "oilUSD": 79,
-    "updatedAt": "2026-10-15T10:54:12.165Z",
+    "updatedAt": "2026-10-15T20:57:33.360Z",
     "gold24KUSD": 133.84,
     "gold21KUSD": 117.11,
     "gold18KUSD": 100.38,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI was great until it was not",
-        "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
-        "points": 76,
-        "comments": 56,
-        "created_at": "2026-10-15T08:18:38.000Z"
+        "title": "Why We're Banning AI",
+        "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+        "points": 196,
+        "comments": 153,
+        "created_at": "2026-10-15T18:32:29.000Z"
       },
       {
-        "title": "Meta AI creates campaign material for Flávio Bolsonaro and blocks Lula content",
-        "url": "https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/meta-ai-creates-campaign-material-for-flavio-bolsonaro-and-blocks-lula-content.shtml",
-        "points": 13,
+        "title": "Companies rushed in on AI. Now some are pulling back",
+        "url": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
+        "points": 22,
         "comments": 3,
-        "created_at": "2026-10-15T03:54:09.000Z"
+        "created_at": "2026-10-15T18:29:29.000Z"
       },
       {
-        "title": "Asia chip stocks fall, AI funding worries",
-        "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-        "points": 15,
-        "comments": 0,
-        "created_at": "2026-10-15T02:29:41.000Z"
+        "title": "Market selloff, rising rates test AI data centre deal boom",
+        "url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
+        "points": 64,
+        "comments": 70,
+        "created_at": "2026-10-15T16:17:40.000Z"
       },
       {
-        "title": "AI Safety Is Not a Corporate Plot",
-        "url": "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot",
-        "points": 13,
-        "comments": 9,
-        "created_at": "2026-10-15T01:22:03.000Z"
+        "title": "Frontier Pre-Training at Microsoft AI",
+        "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+        "points": 26,
+        "comments": 3,
+        "created_at": "2026-10-15T16:12:13.000Z"
       },
       {
-        "title": "Chaos ensues when AI interviewer meets AI interviewee",
-        "url": "https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144",
-        "points": 18,
-        "comments": 1,
-        "created_at": "2026-10-14T23:32:32.000Z"
+        "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+        "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+        "points": 199,
+        "comments": 173,
+        "created_at": "2026-10-15T14:58:48.000Z"
       }
     ],
     "vibeCoding": [
@@ -104,7 +104,7 @@
         "title": "Show HN: Timur's Chess – A 14th century chess variant with giraffes",
         "url": "https://timurschess.com",
         "points": 23,
-        "comments": 6,
+        "comments": 7,
         "created_at": "2026-10-11T14:52:59.000Z"
       },
       {
@@ -132,7 +132,7 @@
         "title": "Vibecoding isn't as fun as writing code by hand",
         "url": "https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/",
         "points": 197,
-        "comments": 288,
+        "comments": 289,
         "created_at": "2026-10-06T14:45:02.000Z"
       }
     ],
@@ -140,22 +140,22 @@
       {
         "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
         "url": "https://petal.live/",
-        "points": 174,
-        "comments": 39,
+        "points": 210,
+        "comments": 40,
         "created_at": "2026-10-14T18:23:14.000Z"
       },
       {
         "title": "Ask HN: Where has creativity in software gone?",
         "url": "https://news.ycombinator.com/item?id=50081189",
-        "points": 31,
-        "comments": 21,
+        "points": 34,
+        "comments": 22,
         "created_at": "2026-10-14T01:14:37.000Z"
       },
       {
         "title": "Recreational Programming",
         "url": "https://www.cphiri.dev/presentations/recreational-programming",
-        "points": 312,
-        "comments": 154,
+        "points": 316,
+        "comments": 160,
         "created_at": "2026-10-13T22:33:33.000Z"
       },
       {
