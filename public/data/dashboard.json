@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-14T21:18:13.922Z",
+  "updatedAt": "2026-10-15T10:54:12.165Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 19,
-      "humidity": 59,
-      "wind_kph": 4.7,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 25.2,
+      "humidity": 45,
+      "wind_kph": 22.9,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-10-16",
-      "temp_max_c": 23.9,
-      "temp_min_c": 14.7,
+      "temp_max_c": 25.2,
+      "temp_min_c": 14.4,
       "humidity_max": 97,
-      "humidity_min": 46,
-      "wind_kph": 21.6,
+      "humidity_min": 40,
+      "wind_kph": 25.6,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4162.13,
+    "goldUSD": 4162.84,
     "oilUSD": 79,
-    "updatedAt": "2026-10-14T21:18:13.922Z",
-    "gold24KUSD": 133.82,
-    "gold21KUSD": 117.09,
-    "gold18KUSD": 100.36,
-    "gold24KJD": 94.88,
-    "gold21KJD": 83.02,
-    "gold18KJD": 71.16
+    "updatedAt": "2026-10-15T10:54:12.165Z",
+    "gold24KUSD": 133.84,
+    "gold21KUSD": 117.11,
+    "gold18KUSD": 100.38,
+    "gold24KJD": 94.89,
+    "gold21KJD": 83.03,
+    "gold18KJD": 71.17
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "05:32",
-    "maghrib": "18:06",
-    "date": "14 Oct 2014"
+    "maghrib": "18:05",
+    "date": "15 Oct 2015"
   },
   "events": [
     {
@@ -64,53 +64,53 @@
   "news": {
     "ai": [
       {
-        "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-        "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-        "points": 187,
-        "comments": 142,
-        "created_at": "2026-10-14T18:32:52.000Z"
+        "title": "AI was great until it was not",
+        "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+        "points": 76,
+        "comments": 56,
+        "created_at": "2026-10-15T08:18:38.000Z"
       },
       {
-        "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-        "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-        "points": 759,
-        "comments": 362,
-        "created_at": "2026-10-14T17:45:23.000Z"
+        "title": "Meta AI creates campaign material for Flávio Bolsonaro and blocks Lula content",
+        "url": "https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/meta-ai-creates-campaign-material-for-flavio-bolsonaro-and-blocks-lula-content.shtml",
+        "points": 13,
+        "comments": 3,
+        "created_at": "2026-10-15T03:54:09.000Z"
       },
       {
-        "title": "Has AI Tells",
-        "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-        "points": 52,
-        "comments": 46,
-        "created_at": "2026-10-14T16:52:42.000Z"
+        "title": "Asia chip stocks fall, AI funding worries",
+        "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+        "points": 15,
+        "comments": 0,
+        "created_at": "2026-10-15T02:29:41.000Z"
       },
       {
-        "title": "I Deleted 168,000 Lines of Comments. My AI Agent Didn't Notice",
-        "url": "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
-        "points": 34,
-        "comments": 14,
-        "created_at": "2026-10-14T16:34:53.000Z"
+        "title": "AI Safety Is Not a Corporate Plot",
+        "url": "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot",
+        "points": 13,
+        "comments": 9,
+        "created_at": "2026-10-15T01:22:03.000Z"
       },
       {
-        "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-        "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
-        "points": 59,
-        "comments": 87,
-        "created_at": "2026-10-14T15:39:45.000Z"
+        "title": "Chaos ensues when AI interviewer meets AI interviewee",
+        "url": "https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144",
+        "points": 18,
+        "comments": 1,
+        "created_at": "2026-10-14T23:32:32.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Show HN: Timur's Chess – A 14th century chess variant with giraffes",
         "url": "https://timurschess.com",
-        "points": 13,
-        "comments": 3,
+        "points": 23,
+        "comments": 6,
         "created_at": "2026-10-11T14:52:59.000Z"
       },
       {
         "title": "What ArtCraft's Vibe-Coded Apps Say About Adobe",
         "url": "https://tedium.co/2026/10/08/artcraft-vibe-coding-creative-cloud-remake/",
-        "points": 35,
+        "points": 36,
         "comments": 71,
         "created_at": "2026-10-08T18:44:29.000Z"
       },
@@ -140,22 +140,22 @@
       {
         "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
         "url": "https://petal.live/",
-        "points": 74,
-        "comments": 10,
+        "points": 174,
+        "comments": 39,
         "created_at": "2026-10-14T18:23:14.000Z"
       },
       {
         "title": "Ask HN: Where has creativity in software gone?",
         "url": "https://news.ycombinator.com/item?id=50081189",
-        "points": 27,
-        "comments": 20,
+        "points": 31,
+        "comments": 21,
         "created_at": "2026-10-14T01:14:37.000Z"
       },
       {
         "title": "Recreational Programming",
         "url": "https://www.cphiri.dev/presentations/recreational-programming",
-        "points": 299,
-        "comments": 149,
+        "points": 312,
+        "comments": 154,
         "created_at": "2026-10-13T22:33:33.000Z"
       },
       {
