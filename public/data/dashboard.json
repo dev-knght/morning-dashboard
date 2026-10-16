@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-15T20:57:33.360Z",
+  "updatedAt": "2026-10-16T10:45:42.214Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 15.9,
-      "humidity": 70,
-      "wind_kph": 5.5,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 24.8,
+      "humidity": 41,
+      "wind_kph": 15.2,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-10-16",
-      "temp_max_c": 25.4,
-      "temp_min_c": 14.7,
-      "humidity_max": 96,
-      "humidity_min": 39,
-      "wind_kph": 24.5,
-      "weather_code": 45,
-      "weather_desc": "Fog"
+      "date": "2026-10-17",
+      "temp_max_c": 24.8,
+      "temp_min_c": 13.6,
+      "humidity_max": 94,
+      "humidity_min": 45,
+      "wind_kph": 23.8,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4162.84,
+    "goldUSD": 4123.47,
     "oilUSD": 79,
-    "updatedAt": "2026-10-15T20:57:33.360Z",
-    "gold24KUSD": 133.84,
-    "gold21KUSD": 117.11,
-    "gold18KUSD": 100.38,
-    "gold24KJD": 94.89,
-    "gold21KJD": 83.03,
-    "gold18KJD": 71.17
+    "updatedAt": "2026-10-16T10:45:42.214Z",
+    "gold24KUSD": 132.57,
+    "gold21KUSD": 116,
+    "gold18KUSD": 99.43,
+    "gold24KJD": 93.99,
+    "gold21KJD": 82.24,
+    "gold18KJD": 70.5
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:32",
-    "maghrib": "18:05",
-    "date": "15 Oct 2015"
+    "fajr": "05:33",
+    "maghrib": "18:03",
+    "date": "16 Oct 2016"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
+        "url": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10",
+        "points": 19,
+        "comments": 19,
+        "created_at": "2026-10-16T03:49:35.000Z"
+      },
+      {
+        "title": "Linus Torvalds on \"don't use AI for X\"",
+        "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+        "points": 14,
+        "comments": 4,
+        "created_at": "2026-10-16T03:41:52.000Z"
+      },
+      {
+        "title": "AI, Crypto and DEI Drove Marc Andreessen to MAGA",
+        "url": "https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga",
+        "points": 15,
+        "comments": 25,
+        "created_at": "2026-10-16T00:56:54.000Z"
+      },
+      {
+        "title": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
+        "url": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
+        "points": 38,
+        "comments": 54,
+        "created_at": "2026-10-15T22:11:24.000Z"
+      },
+      {
         "title": "Why We're Banning AI",
         "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
-        "points": 196,
-        "comments": 153,
+        "points": 243,
+        "comments": 186,
         "created_at": "2026-10-15T18:32:29.000Z"
-      },
-      {
-        "title": "Companies rushed in on AI. Now some are pulling back",
-        "url": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
-        "points": 22,
-        "comments": 3,
-        "created_at": "2026-10-15T18:29:29.000Z"
-      },
-      {
-        "title": "Market selloff, rising rates test AI data centre deal boom",
-        "url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
-        "points": 64,
-        "comments": 70,
-        "created_at": "2026-10-15T16:17:40.000Z"
-      },
-      {
-        "title": "Frontier Pre-Training at Microsoft AI",
-        "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
-        "points": 26,
-        "comments": 3,
-        "created_at": "2026-10-15T16:12:13.000Z"
-      },
-      {
-        "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-        "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-        "points": 199,
-        "comments": 173,
-        "created_at": "2026-10-15T14:58:48.000Z"
       }
     ],
     "vibeCoding": [
@@ -138,24 +138,31 @@
     ],
     "progDb": [
       {
+        "title": "The Folders Programming Language",
+        "url": "https://danieltemkin.com/esolangs/folders",
+        "points": 76,
+        "comments": 11,
+        "created_at": "2026-10-16T05:11:28.000Z"
+      },
+      {
         "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
         "url": "https://petal.live/",
-        "points": 210,
-        "comments": 40,
+        "points": 217,
+        "comments": 41,
         "created_at": "2026-10-14T18:23:14.000Z"
       },
       {
         "title": "Ask HN: Where has creativity in software gone?",
         "url": "https://news.ycombinator.com/item?id=50081189",
-        "points": 34,
-        "comments": 22,
+        "points": 35,
+        "comments": 24,
         "created_at": "2026-10-14T01:14:37.000Z"
       },
       {
         "title": "Recreational Programming",
         "url": "https://www.cphiri.dev/presentations/recreational-programming",
-        "points": 316,
-        "comments": 160,
+        "points": 317,
+        "comments": 161,
         "created_at": "2026-10-13T22:33:33.000Z"
       },
       {
@@ -164,13 +171,6 @@
         "points": 29,
         "comments": 5,
         "created_at": "2026-10-12T19:52:12.000Z"
-      },
-      {
-        "title": "Choreographic Programming in Rust",
-        "url": "https://github.com/hibanaworks/hibana",
-        "points": 52,
-        "comments": 44,
-        "created_at": "2026-10-11T13:05:03.000Z"
       }
     ]
   }
