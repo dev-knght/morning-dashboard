@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-16T10:45:42.214Z",
+  "updatedAt": "2026-10-16T20:32:18.666Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 24.8,
-      "humidity": 41,
-      "wind_kph": 15.2,
+      "temp_c": 17,
+      "humidity": 93,
+      "wind_kph": 4.3,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-10-17",
-      "temp_max_c": 24.8,
-      "temp_min_c": 13.6,
+      "temp_max_c": 25.3,
+      "temp_min_c": 13.9,
       "humidity_max": 94,
-      "humidity_min": 45,
-      "wind_kph": 23.8,
+      "humidity_min": 43,
+      "wind_kph": 23.4,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4123.47,
     "oilUSD": 79,
-    "updatedAt": "2026-10-16T10:45:42.214Z",
+    "updatedAt": "2026-10-16T20:32:18.666Z",
     "gold24KUSD": 132.57,
     "gold21KUSD": 116,
     "gold18KUSD": 99.43,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
-        "url": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10",
-        "points": 19,
-        "comments": 19,
-        "created_at": "2026-10-16T03:49:35.000Z"
+        "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+        "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+        "points": 272,
+        "comments": 240,
+        "created_at": "2026-10-16T17:08:38.000Z"
       },
       {
-        "title": "Linus Torvalds on \"don't use AI for X\"",
-        "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+        "title": "Post About Recreating Adobe Tools Using AI Banned per Adobe Request",
+        "url": "https://www.reddit.com/r/Bard/comments/1wxmqpt/ive_created_open_source_100_rust_cleanroom/",
         "points": 14,
         "comments": 4,
-        "created_at": "2026-10-16T03:41:52.000Z"
+        "created_at": "2026-10-16T16:55:11.000Z"
       },
       {
-        "title": "AI, Crypto and DEI Drove Marc Andreessen to MAGA",
-        "url": "https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga",
-        "points": 15,
-        "comments": 25,
-        "created_at": "2026-10-16T00:56:54.000Z"
+        "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+        "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+        "points": 153,
+        "comments": 59,
+        "created_at": "2026-10-16T15:55:40.000Z"
       },
       {
-        "title": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
-        "url": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
-        "points": 38,
-        "comments": 54,
-        "created_at": "2026-10-15T22:11:24.000Z"
+        "title": "Show HN: rStation – A shared research lab for your AI agents",
+        "url": "https://rstation.ai/",
+        "points": 42,
+        "comments": 18,
+        "created_at": "2026-10-16T14:35:43.000Z"
       },
       {
-        "title": "Why We're Banning AI",
-        "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
-        "points": 243,
-        "comments": 186,
-        "created_at": "2026-10-15T18:32:29.000Z"
+        "title": "It Ain't AGI Until H100s Go for $30 an Hour",
+        "url": "https://corbt.com/posts/it-aint-agi-until-h100s-go-for-30-an-hour",
+        "points": 12,
+        "comments": 5,
+        "created_at": "2026-10-16T14:09:28.000Z"
       }
     ],
     "vibeCoding": [
@@ -140,14 +140,14 @@
       {
         "title": "The Folders Programming Language",
         "url": "https://danieltemkin.com/esolangs/folders",
-        "points": 76,
-        "comments": 11,
+        "points": 196,
+        "comments": 36,
         "created_at": "2026-10-16T05:11:28.000Z"
       },
       {
         "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
         "url": "https://petal.live/",
-        "points": 217,
+        "points": 220,
         "comments": 41,
         "created_at": "2026-10-14T18:23:14.000Z"
       },
@@ -155,7 +155,7 @@
         "title": "Ask HN: Where has creativity in software gone?",
         "url": "https://news.ycombinator.com/item?id=50081189",
         "points": 35,
-        "comments": 24,
+        "comments": 25,
         "created_at": "2026-10-14T01:14:37.000Z"
       },
       {
@@ -168,7 +168,7 @@
       {
         "title": "Martin Odersky – Keynote: The End of Programming? [video]",
         "url": "https://www.youtube.com/watch?v=jlJyuJhDnlc",
-        "points": 29,
+        "points": 30,
         "comments": 5,
         "created_at": "2026-10-12T19:52:12.000Z"
       }
