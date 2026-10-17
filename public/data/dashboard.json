@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-16T20:32:18.666Z",
+  "updatedAt": "2026-10-17T10:11:12.529Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 17,
-      "humidity": 93,
-      "wind_kph": 4.3,
+      "temp_c": 24.5,
+      "humidity": 44,
+      "wind_kph": 14.6,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-10-17",
-      "temp_max_c": 25.3,
-      "temp_min_c": 13.9,
-      "humidity_max": 94,
-      "humidity_min": 43,
-      "wind_kph": 23.4,
+      "date": "2026-10-18",
+      "temp_max_c": 25,
+      "temp_min_c": 15.2,
+      "humidity_max": 92,
+      "humidity_min": 44,
+      "wind_kph": 22.1,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4123.47,
+    "goldUSD": 4155.06,
     "oilUSD": 79,
-    "updatedAt": "2026-10-16T20:32:18.666Z",
-    "gold24KUSD": 132.57,
-    "gold21KUSD": 116,
-    "gold18KUSD": 99.43,
-    "gold24KJD": 93.99,
-    "gold21KJD": 82.24,
-    "gold18KJD": 70.5
+    "updatedAt": "2026-10-17T10:11:12.529Z",
+    "gold24KUSD": 133.59,
+    "gold21KUSD": 116.89,
+    "gold18KUSD": 100.19,
+    "gold24KJD": 94.71,
+    "gold21KJD": 82.87,
+    "gold18KJD": 71.04
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:33",
-    "maghrib": "18:03",
-    "date": "16 Oct 2016"
+    "fajr": "05:34",
+    "maghrib": "18:02",
+    "date": "17 Oct 2017"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "AI is driving a boom in modestly successful software projects",
+        "url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+        "points": 12,
+        "comments": 1,
+        "created_at": "2026-10-17T03:47:39.000Z"
+      },
+      {
+        "title": "Taco Bell drive-thru AI bot increased employee retention by making jobs easier",
+        "url": "https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/",
+        "points": 15,
+        "comments": 8,
+        "created_at": "2026-10-16T19:37:57.000Z"
+      },
+      {
         "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
         "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-        "points": 272,
-        "comments": 240,
+        "points": 503,
+        "comments": 426,
         "created_at": "2026-10-16T17:08:38.000Z"
       },
       {
         "title": "Post About Recreating Adobe Tools Using AI Banned per Adobe Request",
         "url": "https://www.reddit.com/r/Bard/comments/1wxmqpt/ive_created_open_source_100_rust_cleanroom/",
-        "points": 14,
+        "points": 16,
         "comments": 4,
         "created_at": "2026-10-16T16:55:11.000Z"
       },
       {
         "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
         "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-        "points": 153,
-        "comments": 59,
+        "points": 198,
+        "comments": 77,
         "created_at": "2026-10-16T15:55:40.000Z"
-      },
-      {
-        "title": "Show HN: rStation – A shared research lab for your AI agents",
-        "url": "https://rstation.ai/",
-        "points": 42,
-        "comments": 18,
-        "created_at": "2026-10-16T14:35:43.000Z"
-      },
-      {
-        "title": "It Ain't AGI Until H100s Go for $30 an Hour",
-        "url": "https://corbt.com/posts/it-aint-agi-until-h100s-go-for-30-an-hour",
-        "points": 12,
-        "comments": 5,
-        "created_at": "2026-10-16T14:09:28.000Z"
       }
     ],
     "vibeCoding": [
@@ -140,16 +140,30 @@
       {
         "title": "The Folders Programming Language",
         "url": "https://danieltemkin.com/esolangs/folders",
-        "points": 196,
-        "comments": 36,
+        "points": 209,
+        "comments": 37,
         "created_at": "2026-10-16T05:11:28.000Z"
+      },
+      {
+        "title": "Intuitive concurrent programming in any language",
+        "url": "https://www.lf-lang.org/",
+        "points": 43,
+        "comments": 7,
+        "created_at": "2026-10-15T13:18:44.000Z"
       },
       {
         "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
         "url": "https://petal.live/",
-        "points": 220,
+        "points": 221,
         "comments": 41,
         "created_at": "2026-10-14T18:23:14.000Z"
+      },
+      {
+        "title": "Compiler bootstrapping depends on more than you might think",
+        "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges",
+        "points": 16,
+        "comments": 2,
+        "created_at": "2026-10-14T16:13:25.000Z"
       },
       {
         "title": "Ask HN: Where has creativity in software gone?",
@@ -157,20 +171,6 @@
         "points": 35,
         "comments": 25,
         "created_at": "2026-10-14T01:14:37.000Z"
-      },
-      {
-        "title": "Recreational Programming",
-        "url": "https://www.cphiri.dev/presentations/recreational-programming",
-        "points": 317,
-        "comments": 161,
-        "created_at": "2026-10-13T22:33:33.000Z"
-      },
-      {
-        "title": "Martin Odersky – Keynote: The End of Programming? [video]",
-        "url": "https://www.youtube.com/watch?v=jlJyuJhDnlc",
-        "points": 30,
-        "comments": 5,
-        "created_at": "2026-10-12T19:52:12.000Z"
       }
     ]
   }
