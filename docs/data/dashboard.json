@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-17T10:11:12.529Z",
+  "updatedAt": "2026-10-17T20:10:15.770Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 24.5,
-      "humidity": 44,
-      "wind_kph": 14.6,
+      "temp_c": 17.4,
+      "humidity": 91,
+      "wind_kph": 6.5,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-10-18",
-      "temp_max_c": 25,
-      "temp_min_c": 15.2,
+      "temp_max_c": 24,
+      "temp_min_c": 16.1,
       "humidity_max": 92,
-      "humidity_min": 44,
-      "wind_kph": 22.1,
+      "humidity_min": 52,
+      "wind_kph": 21.4,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4155.06,
     "oilUSD": 79,
-    "updatedAt": "2026-10-17T10:11:12.529Z",
+    "updatedAt": "2026-10-17T20:10:15.770Z",
     "gold24KUSD": 133.59,
     "gold21KUSD": 116.89,
     "gold18KUSD": 100.19,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI is driving a boom in modestly successful software projects",
-        "url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+        "title": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
+        "url": "https://twitter.com/beeechimblind/status/2111227318534279501",
         "points": 12,
         "comments": 1,
-        "created_at": "2026-10-17T03:47:39.000Z"
+        "created_at": "2026-10-17T19:26:43.000Z"
       },
       {
-        "title": "Taco Bell drive-thru AI bot increased employee retention by making jobs easier",
-        "url": "https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/",
-        "points": 15,
-        "comments": 8,
-        "created_at": "2026-10-16T19:37:57.000Z"
+        "title": "AI Can Write the Code. Who Verifies It?",
+        "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+        "points": 17,
+        "comments": 33,
+        "created_at": "2026-10-17T18:31:30.000Z"
       },
       {
-        "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-        "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-        "points": 503,
-        "comments": 426,
-        "created_at": "2026-10-16T17:08:38.000Z"
-      },
-      {
-        "title": "Post About Recreating Adobe Tools Using AI Banned per Adobe Request",
-        "url": "https://www.reddit.com/r/Bard/comments/1wxmqpt/ive_created_open_source_100_rust_cleanroom/",
+        "title": "AI lab offers free plumbing and HVAC repairs to train AI robots",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
         "points": 16,
-        "comments": 4,
-        "created_at": "2026-10-16T16:55:11.000Z"
+        "comments": 10,
+        "created_at": "2026-10-17T16:35:35.000Z"
       },
       {
-        "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-        "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-        "points": 198,
-        "comments": 77,
-        "created_at": "2026-10-16T15:55:40.000Z"
+        "title": "Amazon uses AI to monitor union risk in UK warehouses",
+        "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+        "points": 123,
+        "comments": 50,
+        "created_at": "2026-10-17T16:04:23.000Z"
+      },
+      {
+        "title": "AI is driving a boom in modestly successful software projects",
+        "url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+        "points": 15,
+        "comments": 1,
+        "created_at": "2026-10-17T03:47:39.000Z"
       }
     ],
     "vibeCoding": [
@@ -138,39 +138,39 @@
     ],
     "progDb": [
       {
+        "title": "The future of programming (1982)",
+        "url": "https://dl.acm.org/doi/10.1145/358453.358459",
+        "points": 27,
+        "comments": 5,
+        "created_at": "2026-10-17T11:20:52.000Z"
+      },
+      {
         "title": "The Folders Programming Language",
         "url": "https://danieltemkin.com/esolangs/folders",
-        "points": 209,
-        "comments": 37,
+        "points": 215,
+        "comments": 38,
         "created_at": "2026-10-16T05:11:28.000Z"
       },
       {
         "title": "Intuitive concurrent programming in any language",
         "url": "https://www.lf-lang.org/",
-        "points": 43,
-        "comments": 7,
+        "points": 122,
+        "comments": 32,
         "created_at": "2026-10-15T13:18:44.000Z"
       },
       {
         "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
         "url": "https://petal.live/",
-        "points": 221,
+        "points": 222,
         "comments": 41,
         "created_at": "2026-10-14T18:23:14.000Z"
       },
       {
         "title": "Compiler bootstrapping depends on more than you might think",
         "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges",
-        "points": 16,
+        "points": 24,
         "comments": 2,
         "created_at": "2026-10-14T16:13:25.000Z"
-      },
-      {
-        "title": "Ask HN: Where has creativity in software gone?",
-        "url": "https://news.ycombinator.com/item?id=50081189",
-        "points": 35,
-        "comments": 25,
-        "created_at": "2026-10-14T01:14:37.000Z"
       }
     ]
   }
