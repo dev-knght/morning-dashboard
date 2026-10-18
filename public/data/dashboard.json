@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-18T10:27:22.113Z",
+  "updatedAt": "2026-10-18T20:08:30.957Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 24.6,
-      "humidity": 47,
-      "wind_kph": 17.4,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 17.3,
+      "humidity": 73,
+      "wind_kph": 5.6,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-10-19",
-      "temp_max_c": 23.9,
+      "temp_max_c": 23.7,
       "temp_min_c": 14.2,
-      "humidity_max": 89,
+      "humidity_max": 87,
       "humidity_min": 43,
-      "wind_kph": 21.8,
+      "wind_kph": 21.4,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4165.27,
     "oilUSD": 79,
-    "updatedAt": "2026-10-18T10:27:22.113Z",
+    "updatedAt": "2026-10-18T20:08:30.957Z",
     "gold24KUSD": 133.92,
     "gold21KUSD": 117.18,
     "gold18KUSD": 100.44,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-        "url": "https://sphinx-six-theta.vercel.app/",
-        "points": 133,
-        "comments": 33,
-        "created_at": "2026-10-18T04:33:49.000Z"
+        "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+        "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
+        "points": 82,
+        "comments": 135,
+        "created_at": "2026-10-18T17:27:30.000Z"
       },
       {
-        "title": "Abolish AI Manifesto",
-        "url": "https://abolish-ai.net/abolish-ai-a-manifesto/",
-        "points": 17,
-        "comments": 12,
-        "created_at": "2026-10-17T23:23:46.000Z"
-      },
-      {
-        "title": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
-        "url": "https://twitter.com/beeechimblind/status/2111227318534279501",
-        "points": 25,
-        "comments": 2,
-        "created_at": "2026-10-17T19:26:43.000Z"
-      },
-      {
-        "title": "AI Can Write the Code. Who Verifies It?",
-        "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
-        "points": 27,
-        "comments": 63,
-        "created_at": "2026-10-17T18:31:30.000Z"
-      },
-      {
-        "title": "AI lab offers free plumbing and HVAC repairs to train AI robots",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+        "title": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
+        "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly",
         "points": 20,
-        "comments": 11,
-        "created_at": "2026-10-17T16:35:35.000Z"
+        "comments": 7,
+        "created_at": "2026-10-18T16:48:25.000Z"
+      },
+      {
+        "title": "Websites are closing their doors to AI agents",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "points": 126,
+        "comments": 118,
+        "created_at": "2026-10-18T14:58:10.000Z"
+      },
+      {
+        "title": "World Bank says 'small AI' could transform developing countries",
+        "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
+        "points": 15,
+        "comments": 1,
+        "created_at": "2026-10-18T14:37:55.000Z"
+      },
+      {
+        "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+        "points": 141,
+        "comments": 156,
+        "created_at": "2026-10-18T14:30:27.000Z"
       }
     ],
     "vibeCoding": [
@@ -140,35 +140,35 @@
       {
         "title": "Interactive Linear Programming in the Browser",
         "url": "https://lpviz.net/",
-        "points": 35,
-        "comments": 0,
+        "points": 72,
+        "comments": 12,
         "created_at": "2026-10-17T12:06:44.000Z"
       },
       {
         "title": "The future of programming (1982)",
         "url": "https://dl.acm.org/doi/10.1145/358453.358459",
-        "points": 70,
+        "points": 76,
         "comments": 18,
         "created_at": "2026-10-17T11:20:52.000Z"
       },
       {
         "title": "The Folders Programming Language",
         "url": "https://danieltemkin.com/esolangs/folders",
-        "points": 215,
+        "points": 217,
         "comments": 38,
         "created_at": "2026-10-16T05:11:28.000Z"
       },
       {
         "title": "Intuitive concurrent programming in any language",
         "url": "https://www.lf-lang.org/",
-        "points": 130,
-        "comments": 35,
+        "points": 131,
+        "comments": 38,
         "created_at": "2026-10-15T13:18:44.000Z"
       },
       {
         "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
         "url": "https://petal.live/",
-        "points": 225,
+        "points": 226,
         "comments": 41,
         "created_at": "2026-10-14T18:23:14.000Z"
       }
