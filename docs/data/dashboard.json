@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-17T20:10:15.770Z",
+  "updatedAt": "2026-10-18T10:27:22.113Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 17.4,
-      "humidity": 91,
-      "wind_kph": 6.5,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 24.6,
+      "humidity": 47,
+      "wind_kph": 17.4,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-10-18",
-      "temp_max_c": 24,
-      "temp_min_c": 16.1,
-      "humidity_max": 92,
-      "humidity_min": 52,
-      "wind_kph": 21.4,
+      "date": "2026-10-19",
+      "temp_max_c": 23.9,
+      "temp_min_c": 14.2,
+      "humidity_max": 89,
+      "humidity_min": 43,
+      "wind_kph": 21.8,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4155.06,
+    "goldUSD": 4165.27,
     "oilUSD": 79,
-    "updatedAt": "2026-10-17T20:10:15.770Z",
-    "gold24KUSD": 133.59,
-    "gold21KUSD": 116.89,
-    "gold18KUSD": 100.19,
-    "gold24KJD": 94.71,
-    "gold21KJD": 82.87,
-    "gold18KJD": 71.04
+    "updatedAt": "2026-10-18T10:27:22.113Z",
+    "gold24KUSD": 133.92,
+    "gold21KUSD": 117.18,
+    "gold18KUSD": 100.44,
+    "gold24KJD": 94.95,
+    "gold21KJD": 83.08,
+    "gold18KJD": 71.21
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "05:34",
-    "maghrib": "18:02",
-    "date": "17 Oct 2017"
+    "maghrib": "18:01",
+    "date": "18 Oct 2018"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+        "url": "https://sphinx-six-theta.vercel.app/",
+        "points": 133,
+        "comments": 33,
+        "created_at": "2026-10-18T04:33:49.000Z"
+      },
+      {
+        "title": "Abolish AI Manifesto",
+        "url": "https://abolish-ai.net/abolish-ai-a-manifesto/",
+        "points": 17,
+        "comments": 12,
+        "created_at": "2026-10-17T23:23:46.000Z"
+      },
+      {
         "title": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
         "url": "https://twitter.com/beeechimblind/status/2111227318534279501",
-        "points": 12,
-        "comments": 1,
+        "points": 25,
+        "comments": 2,
         "created_at": "2026-10-17T19:26:43.000Z"
       },
       {
         "title": "AI Can Write the Code. Who Verifies It?",
         "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
-        "points": 17,
-        "comments": 33,
+        "points": 27,
+        "comments": 63,
         "created_at": "2026-10-17T18:31:30.000Z"
       },
       {
         "title": "AI lab offers free plumbing and HVAC repairs to train AI robots",
         "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
-        "points": 16,
-        "comments": 10,
+        "points": 20,
+        "comments": 11,
         "created_at": "2026-10-17T16:35:35.000Z"
-      },
-      {
-        "title": "Amazon uses AI to monitor union risk in UK warehouses",
-        "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-        "points": 123,
-        "comments": 50,
-        "created_at": "2026-10-17T16:04:23.000Z"
-      },
-      {
-        "title": "AI is driving a boom in modestly successful software projects",
-        "url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
-        "points": 15,
-        "comments": 1,
-        "created_at": "2026-10-17T03:47:39.000Z"
       }
     ],
     "vibeCoding": [
@@ -138,10 +138,17 @@
     ],
     "progDb": [
       {
+        "title": "Interactive Linear Programming in the Browser",
+        "url": "https://lpviz.net/",
+        "points": 35,
+        "comments": 0,
+        "created_at": "2026-10-17T12:06:44.000Z"
+      },
+      {
         "title": "The future of programming (1982)",
         "url": "https://dl.acm.org/doi/10.1145/358453.358459",
-        "points": 27,
-        "comments": 5,
+        "points": 70,
+        "comments": 18,
         "created_at": "2026-10-17T11:20:52.000Z"
       },
       {
@@ -154,23 +161,16 @@
       {
         "title": "Intuitive concurrent programming in any language",
         "url": "https://www.lf-lang.org/",
-        "points": 122,
-        "comments": 32,
+        "points": 130,
+        "comments": 35,
         "created_at": "2026-10-15T13:18:44.000Z"
       },
       {
         "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
         "url": "https://petal.live/",
-        "points": 222,
+        "points": 225,
         "comments": 41,
         "created_at": "2026-10-14T18:23:14.000Z"
-      },
-      {
-        "title": "Compiler bootstrapping depends on more than you might think",
-        "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges",
-        "points": 24,
-        "comments": 2,
-        "created_at": "2026-10-14T16:13:25.000Z"
       }
     ]
   }
