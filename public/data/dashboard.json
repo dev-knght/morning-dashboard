@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-18T20:08:30.957Z",
+  "updatedAt": "2026-10-19T12:13:19.986Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 17.3,
-      "humidity": 73,
-      "wind_kph": 5.6,
+      "temp_c": 23.6,
+      "humidity": 42,
+      "wind_kph": 16.8,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-10-19",
-      "temp_max_c": 23.7,
-      "temp_min_c": 14.2,
-      "humidity_max": 87,
-      "humidity_min": 43,
-      "wind_kph": 21.4,
+      "date": "2026-10-20",
+      "temp_max_c": 24,
+      "temp_min_c": 12.5,
+      "humidity_max": 88,
+      "humidity_min": 28,
+      "wind_kph": 17.3,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4165.27,
     "oilUSD": 79,
-    "updatedAt": "2026-10-18T20:08:30.957Z",
+    "updatedAt": "2026-10-19T12:13:19.986Z",
     "gold24KUSD": 133.92,
     "gold21KUSD": 117.18,
     "gold18KUSD": 100.44,
@@ -35,9 +35,9 @@
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:34",
-    "maghrib": "18:01",
-    "date": "18 Oct 2018"
+    "fajr": "05:35",
+    "maghrib": "18:00",
+    "date": "19 Oct 2019"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "Chicago O'Hare Digs Up 50-Ton Boulder Under Airfield, Asks Public for Name Ideas",
+        "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
+        "points": 17,
+        "comments": 15,
+        "created_at": "2026-10-19T01:56:39.000Z"
+      },
+      {
         "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
         "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
-        "points": 82,
-        "comments": 135,
+        "points": 93,
+        "comments": 153,
         "created_at": "2026-10-18T17:27:30.000Z"
       },
       {
         "title": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
         "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly",
-        "points": 20,
-        "comments": 7,
+        "points": 27,
+        "comments": 12,
         "created_at": "2026-10-18T16:48:25.000Z"
       },
       {
         "title": "Websites are closing their doors to AI agents",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-        "points": 126,
-        "comments": 118,
+        "points": 147,
+        "comments": 138,
         "created_at": "2026-10-18T14:58:10.000Z"
       },
       {
         "title": "World Bank says 'small AI' could transform developing countries",
         "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
-        "points": 15,
-        "comments": 1,
+        "points": 17,
+        "comments": 2,
         "created_at": "2026-10-18T14:37:55.000Z"
-      },
-      {
-        "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-        "points": 141,
-        "comments": 156,
-        "created_at": "2026-10-18T14:30:27.000Z"
       }
     ],
     "vibeCoding": [
@@ -138,16 +138,30 @@
     ],
     "progDb": [
       {
+        "title": "Ask HN: A plea to help me help my father",
+        "url": "https://news.ycombinator.com/item?id=50144561",
+        "points": 11,
+        "comments": 1,
+        "created_at": "2026-10-18T19:37:01.000Z"
+      },
+      {
+        "title": "I built a programming language that LLMs can't use",
+        "url": "https://blog.picheta.me/post/killswitch-lang/",
+        "points": 215,
+        "comments": 170,
+        "created_at": "2026-10-17T22:26:47.000Z"
+      },
+      {
         "title": "Interactive Linear Programming in the Browser",
         "url": "https://lpviz.net/",
-        "points": 72,
+        "points": 76,
         "comments": 12,
         "created_at": "2026-10-17T12:06:44.000Z"
       },
       {
         "title": "The future of programming (1982)",
         "url": "https://dl.acm.org/doi/10.1145/358453.358459",
-        "points": 76,
+        "points": 80,
         "comments": 18,
         "created_at": "2026-10-17T11:20:52.000Z"
       },
@@ -157,20 +171,6 @@
         "points": 217,
         "comments": 38,
         "created_at": "2026-10-16T05:11:28.000Z"
-      },
-      {
-        "title": "Intuitive concurrent programming in any language",
-        "url": "https://www.lf-lang.org/",
-        "points": 131,
-        "comments": 38,
-        "created_at": "2026-10-15T13:18:44.000Z"
-      },
-      {
-        "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-        "url": "https://petal.live/",
-        "points": 226,
-        "comments": 41,
-        "created_at": "2026-10-14T18:23:14.000Z"
       }
     ]
   }
