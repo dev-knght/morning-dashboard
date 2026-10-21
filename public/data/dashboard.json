@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-20T21:16:42.861Z",
+  "updatedAt": "2026-10-21T11:13:26.085Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 17.1,
-      "humidity": 67,
-      "wind_kph": 7.6,
+      "temp_c": 27.5,
+      "humidity": 36,
+      "wind_kph": 8.2,
       "weather_code": 3,
       "weather_desc": "Overcast"
     },
     "tomorrow": {
       "date": "2026-10-22",
-      "temp_max_c": 29.6,
-      "temp_min_c": 16.3,
-      "humidity_max": 91,
-      "humidity_min": 27,
-      "wind_kph": 14.4,
+      "temp_max_c": 29.9,
+      "temp_min_c": 16.2,
+      "humidity_max": 88,
+      "humidity_min": 21,
+      "wind_kph": 15.3,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4182.42,
+    "goldUSD": 4137.5,
     "oilUSD": 79,
-    "updatedAt": "2026-10-20T21:16:42.861Z",
-    "gold24KUSD": 134.47,
-    "gold21KUSD": 117.66,
-    "gold18KUSD": 100.85,
-    "gold24KJD": 95.34,
-    "gold21KJD": 83.42,
-    "gold18KJD": 71.5
+    "updatedAt": "2026-10-21T11:13:26.085Z",
+    "gold24KUSD": 133.02,
+    "gold21KUSD": 116.4,
+    "gold18KUSD": 99.77,
+    "gold24KJD": 94.31,
+    "gold21KJD": 82.52,
+    "gold18KJD": 70.74
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:36",
-    "maghrib": "17:58",
-    "date": "20 Oct 2020"
+    "fajr": "05:37",
+    "maghrib": "17:57",
+    "date": "21 Oct 2021"
   },
   "events": [
     {
@@ -64,42 +64,49 @@
   "news": {
     "ai": [
       {
+        "title": "Secret trigger words could make AI-powered robots dangerous",
+        "url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense",
+        "points": 12,
+        "comments": 2,
+        "created_at": "2026-10-21T00:40:56.000Z"
+      },
+      {
+        "title": "SpaceX revenue soars 161% as AI business grows",
+        "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
+        "points": 22,
+        "comments": 5,
+        "created_at": "2026-10-21T00:25:45.000Z"
+      },
+      {
         "title": "On AI writing",
         "url": "https://www.bolkunov.com/p/on-ai-writing",
-        "points": 39,
-        "comments": 9,
+        "points": 89,
+        "comments": 57,
         "created_at": "2026-10-20T19:55:11.000Z"
+      },
+      {
+        "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+        "url": "https://research.poh.org/bot-benchmarking-2026/",
+        "points": 46,
+        "comments": 7,
+        "created_at": "2026-10-20T17:10:31.000Z"
       },
       {
         "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
         "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-        "points": 151,
-        "comments": 178,
+        "points": 177,
+        "comments": 210,
         "created_at": "2026-10-20T15:48:26.000Z"
-      },
-      {
-        "title": "'Reverse-Engineer Anything' Is the New Wild West of AI",
-        "url": "https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/",
-        "points": 21,
-        "comments": 7,
-        "created_at": "2026-10-20T15:10:01.000Z"
-      },
-      {
-        "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-        "url": "https://news.ycombinator.com/item?id=50167583",
-        "points": 32,
-        "comments": 14,
-        "created_at": "2026-10-20T15:09:29.000Z"
-      },
-      {
-        "title": "AI models self-replicating in smart ovens? \"These f[..]g clowns\"",
-        "url": "https://www.thestack.technology/these-f-clowns/",
-        "points": 13,
-        "comments": 2,
-        "created_at": "2026-10-20T15:07:56.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Ask HN: Have you observed this trend of building \"internal vibe-coding apps\"?",
+        "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
+        "points": 11,
+        "comments": 7,
+        "created_at": "2026-10-21T04:24:54.000Z"
+      },
       {
         "title": "Show HN: Timur's Chess – A 14th century chess variant with giraffes",
         "url": "https://timurschess.com",
@@ -113,21 +120,14 @@
         "points": 36,
         "comments": 71,
         "created_at": "2026-10-08T18:44:29.000Z"
-      },
-      {
-        "title": "Tell HN: HN has lost the joy for me",
-        "url": "https://news.ycombinator.com/item?id=49989504",
-        "points": 41,
-        "comments": 32,
-        "created_at": "2026-10-07T07:32:54.000Z"
       }
     ],
     "progDb": [
       {
         "title": "Advanced coding in low-resource programming languages",
         "url": "https://openai.com/index/low-resource-programming-languages/",
-        "points": 42,
-        "comments": 57,
+        "points": 83,
+        "comments": 92,
         "created_at": "2026-10-20T17:43:11.000Z"
       },
       {
@@ -140,15 +140,15 @@
       {
         "title": "I built a programming language that LLMs can't use",
         "url": "https://blog.picheta.me/post/killswitch-lang/",
-        "points": 279,
+        "points": 280,
         "comments": 217,
         "created_at": "2026-10-17T22:26:47.000Z"
       },
       {
         "title": "It's still ok to enjoy programming",
         "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-        "points": 684,
-        "comments": 619,
+        "points": 694,
+        "comments": 631,
         "created_at": "2026-10-17T19:53:20.000Z"
       },
       {
