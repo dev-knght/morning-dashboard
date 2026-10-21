@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-21T11:13:26.085Z",
+  "updatedAt": "2026-10-21T21:16:43.655Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 27.5,
-      "humidity": 36,
-      "wind_kph": 8.2,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 18.9,
+      "humidity": 81,
+      "wind_kph": 2.3,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-10-22",
-      "temp_max_c": 29.9,
-      "temp_min_c": 16.2,
-      "humidity_max": 88,
-      "humidity_min": 21,
-      "wind_kph": 15.3,
+      "date": "2026-10-23",
+      "temp_max_c": 30.7,
+      "temp_min_c": 17.1,
+      "humidity_max": 56,
+      "humidity_min": 23,
+      "wind_kph": 19.5,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4137.5,
     "oilUSD": 79,
-    "updatedAt": "2026-10-21T11:13:26.085Z",
+    "updatedAt": "2026-10-21T21:16:43.655Z",
     "gold24KUSD": 133.02,
     "gold21KUSD": 116.4,
     "gold18KUSD": 99.77,
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "Secret trigger words could make AI-powered robots dangerous",
-        "url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense",
-        "points": 12,
+        "title": "Google staff resign in backlash over its AI contracts with military",
+        "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+        "points": 44,
         "comments": 2,
-        "created_at": "2026-10-21T00:40:56.000Z"
+        "created_at": "2026-10-21T19:14:21.000Z"
       },
       {
-        "title": "SpaceX revenue soars 161% as AI business grows",
-        "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
-        "points": 22,
+        "title": "Texas data center boom could erase decades of progress on air quality",
+        "url": "https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/",
+        "points": 41,
+        "comments": 13,
+        "created_at": "2026-10-21T17:38:55.000Z"
+      },
+      {
+        "title": "Rust off Rails: The opinionated web stack for the AI era",
+        "url": "https://rustoffrails.org/",
+        "points": 65,
+        "comments": 71,
+        "created_at": "2026-10-21T16:34:16.000Z"
+      },
+      {
+        "title": "AI agent fixed the bug, but what else did it change?",
+        "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+        "points": 42,
         "comments": 5,
-        "created_at": "2026-10-21T00:25:45.000Z"
+        "created_at": "2026-10-21T16:03:32.000Z"
       },
       {
-        "title": "On AI writing",
-        "url": "https://www.bolkunov.com/p/on-ai-writing",
-        "points": 89,
-        "comments": 57,
-        "created_at": "2026-10-20T19:55:11.000Z"
-      },
-      {
-        "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-        "url": "https://research.poh.org/bot-benchmarking-2026/",
-        "points": 46,
-        "comments": 7,
-        "created_at": "2026-10-20T17:10:31.000Z"
-      },
-      {
-        "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-        "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-        "points": 177,
-        "comments": 210,
-        "created_at": "2026-10-20T15:48:26.000Z"
+        "title": "Open-source, cross-harness memory for AI agents",
+        "url": "https://news.ycombinator.com/item?id=50182883",
+        "points": 15,
+        "comments": 11,
+        "created_at": "2026-10-21T15:42:38.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: Have you observed this trend of building \"internal vibe-coding apps\"?",
         "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
-        "points": 11,
-        "comments": 7,
+        "points": 14,
+        "comments": 15,
         "created_at": "2026-10-21T04:24:54.000Z"
       },
       {
@@ -124,10 +124,17 @@
     ],
     "progDb": [
       {
+        "title": "The compiler was supposed to end programming too",
+        "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
+        "points": 82,
+        "comments": 121,
+        "created_at": "2026-10-21T18:00:51.000Z"
+      },
+      {
         "title": "Advanced coding in low-resource programming languages",
         "url": "https://openai.com/index/low-resource-programming-languages/",
-        "points": 83,
-        "comments": 92,
+        "points": 97,
+        "comments": 95,
         "created_at": "2026-10-20T17:43:11.000Z"
       },
       {
@@ -140,23 +147,16 @@
       {
         "title": "I built a programming language that LLMs can't use",
         "url": "https://blog.picheta.me/post/killswitch-lang/",
-        "points": 280,
+        "points": 281,
         "comments": 217,
         "created_at": "2026-10-17T22:26:47.000Z"
       },
       {
         "title": "It's still ok to enjoy programming",
         "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-        "points": 694,
-        "comments": 631,
+        "points": 697,
+        "comments": 641,
         "created_at": "2026-10-17T19:53:20.000Z"
-      },
-      {
-        "title": "Interactive Linear Programming in the Browser",
-        "url": "https://lpviz.net/",
-        "points": 77,
-        "comments": 12,
-        "created_at": "2026-10-17T12:06:44.000Z"
       }
     ]
   }
