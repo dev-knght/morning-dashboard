@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-21T21:16:43.655Z",
+  "updatedAt": "2026-10-22T11:12:13.526Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 18.9,
-      "humidity": 81,
-      "wind_kph": 2.3,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 30.2,
+      "humidity": 21,
+      "wind_kph": 8.1,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-10-23",
-      "temp_max_c": 30.7,
-      "temp_min_c": 17.1,
-      "humidity_max": 56,
-      "humidity_min": 23,
+      "temp_max_c": 31.2,
+      "temp_min_c": 17.8,
+      "humidity_max": 53,
+      "humidity_min": 22,
       "wind_kph": 19.5,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4137.5,
+    "goldUSD": 4116.42,
     "oilUSD": 79,
-    "updatedAt": "2026-10-21T21:16:43.655Z",
-    "gold24KUSD": 133.02,
-    "gold21KUSD": 116.4,
-    "gold18KUSD": 99.77,
-    "gold24KJD": 94.31,
-    "gold21KJD": 82.52,
-    "gold18KJD": 70.74
+    "updatedAt": "2026-10-22T11:12:13.526Z",
+    "gold24KUSD": 132.35,
+    "gold21KUSD": 115.8,
+    "gold18KUSD": 99.26,
+    "gold24KJD": 93.83,
+    "gold21KJD": 82.1,
+    "gold18KJD": 70.37
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "05:37",
-    "maghrib": "17:57",
-    "date": "21 Oct 2021"
+    "maghrib": "17:56",
+    "date": "22 Oct 2022"
   },
   "events": [
     {
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "Google staff resign in backlash over its AI contracts with military",
-        "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
-        "points": 44,
+        "title": "Achieving AI-style reasoning without an LLM",
+        "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+        "points": 38,
+        "comments": 17,
+        "created_at": "2026-10-22T08:46:58.000Z"
+      },
+      {
+        "title": "Data centers could erase decades of air quality gains",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+        "points": 27,
+        "comments": 1,
+        "created_at": "2026-10-22T01:28:14.000Z"
+      },
+      {
+        "title": "Airbnb bans making guests do dishes and take out the trash",
+        "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+        "points": 186,
+        "comments": 169,
+        "created_at": "2026-10-21T23:38:32.000Z"
+      },
+      {
+        "title": "Meta's new terms say if its AI makes a mistake, it will be the customer's fault",
+        "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+        "points": 11,
+        "comments": 4,
+        "created_at": "2026-10-21T22:48:02.000Z"
+      },
+      {
+        "title": "The AI-Hacking Apocalypse Began Last Night",
+        "url": "https://www.theatlantic.com/technology/2026/10/ai-hacking-apocalypse-began-last-night/689106/",
+        "points": 16,
         "comments": 2,
-        "created_at": "2026-10-21T19:14:21.000Z"
-      },
-      {
-        "title": "Texas data center boom could erase decades of progress on air quality",
-        "url": "https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/",
-        "points": 41,
-        "comments": 13,
-        "created_at": "2026-10-21T17:38:55.000Z"
-      },
-      {
-        "title": "Rust off Rails: The opinionated web stack for the AI era",
-        "url": "https://rustoffrails.org/",
-        "points": 65,
-        "comments": 71,
-        "created_at": "2026-10-21T16:34:16.000Z"
-      },
-      {
-        "title": "AI agent fixed the bug, but what else did it change?",
-        "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
-        "points": 42,
-        "comments": 5,
-        "created_at": "2026-10-21T16:03:32.000Z"
-      },
-      {
-        "title": "Open-source, cross-harness memory for AI agents",
-        "url": "https://news.ycombinator.com/item?id=50182883",
-        "points": 15,
-        "comments": 11,
-        "created_at": "2026-10-21T15:42:38.000Z"
+        "created_at": "2026-10-21T19:55:38.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Ask HN: Have you observed this trend of building \"internal vibe-coding apps\"?",
         "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
-        "points": 14,
-        "comments": 15,
+        "points": 15,
+        "comments": 18,
         "created_at": "2026-10-21T04:24:54.000Z"
       },
       {
@@ -126,15 +126,15 @@
       {
         "title": "The compiler was supposed to end programming too",
         "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
-        "points": 82,
-        "comments": 121,
+        "points": 121,
+        "comments": 167,
         "created_at": "2026-10-21T18:00:51.000Z"
       },
       {
         "title": "Advanced coding in low-resource programming languages",
         "url": "https://openai.com/index/low-resource-programming-languages/",
-        "points": 97,
-        "comments": 95,
+        "points": 104,
+        "comments": 102,
         "created_at": "2026-10-20T17:43:11.000Z"
       },
       {
@@ -154,8 +154,8 @@
       {
         "title": "It's still ok to enjoy programming",
         "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-        "points": 697,
-        "comments": 641,
+        "points": 700,
+        "comments": 643,
         "created_at": "2026-10-17T19:53:20.000Z"
       }
     ]
