@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-23T21:01:38.132Z",
+  "updatedAt": "2026-10-24T10:20:02.974Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 23.3,
-      "humidity": 38,
-      "wind_kph": 8.3,
+      "temp_c": 30.5,
+      "humidity": 30,
+      "wind_kph": 2.4,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-10-25",
-      "temp_max_c": 28.1,
-      "temp_min_c": 17.5,
-      "humidity_max": 74,
-      "humidity_min": 44,
-      "wind_kph": 18.4,
+      "temp_max_c": 28,
+      "temp_min_c": 19,
+      "humidity_max": 79,
+      "humidity_min": 45,
+      "wind_kph": 16.7,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 4121.91,
+    "goldUSD": 4024.35,
     "oilUSD": 79,
-    "updatedAt": "2026-10-23T21:01:38.132Z",
-    "gold24KUSD": 132.52,
-    "gold21KUSD": 115.96,
-    "gold18KUSD": 99.39,
-    "gold24KJD": 93.96,
-    "gold21KJD": 82.21,
-    "gold18KJD": 70.47
+    "updatedAt": "2026-10-24T10:20:02.974Z",
+    "gold24KUSD": 129.39,
+    "gold21KUSD": 113.21,
+    "gold18KUSD": 97.04,
+    "gold24KJD": 91.73,
+    "gold21KJD": 80.27,
+    "gold18KJD": 68.8
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:38",
-    "maghrib": "17:56",
-    "date": "23 Oct 2023"
+    "fajr": "05:39",
+    "maghrib": "17:54",
+    "date": "24 Oct 2024"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Air Purifiers as White Noise Machines",
-        "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-        "points": 38,
-        "comments": 48,
-        "created_at": "2026-10-23T17:28:36.000Z"
+        "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+        "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+        "points": 144,
+        "comments": 27,
+        "created_at": "2026-10-24T05:49:57.000Z"
       },
       {
-        "title": "AI Is Not a Tool",
-        "url": "https://twitter.com/frascafrasca/status/2113637581426671850",
-        "points": 16,
-        "comments": 33,
-        "created_at": "2026-10-23T16:59:46.000Z"
+        "title": "Meta says if its AI makes a mistake, it will legally be the customer's fault",
+        "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+        "points": 15,
+        "comments": 7,
+        "created_at": "2026-10-24T03:00:43.000Z"
       },
       {
-        "title": "AI Safety Is Mostly a Sex Cult in Berkeley, California",
-        "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in-berkeley-california",
-        "points": 23,
-        "comments": 4,
-        "created_at": "2026-10-23T16:31:52.000Z"
+        "title": "AI in UX: Work Is Faster, but Practitioners Have Mixed Feelings",
+        "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/",
+        "points": 15,
+        "comments": 0,
+        "created_at": "2026-10-24T00:32:17.000Z"
       },
       {
-        "title": "An alignment assessment of the UK AISI cybertesting incident",
-        "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
-        "points": 14,
+        "title": "AI devours a fifth of companies' IT budgets",
+        "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
+        "points": 19,
         "comments": 3,
-        "created_at": "2026-10-23T14:44:50.000Z"
+        "created_at": "2026-10-23T22:00:05.000Z"
       },
       {
-        "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-        "url": "https://www.thisandthat.chat/enron/",
-        "points": 54,
-        "comments": 52,
-        "created_at": "2026-10-23T12:02:53.000Z"
+        "title": "AI is devastating higher education, but the system was broken",
+        "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988",
+        "points": 20,
+        "comments": 0,
+        "created_at": "2026-10-23T21:11:59.000Z"
       }
     ],
     "vibeCoding": [
@@ -117,24 +117,31 @@
     ],
     "progDb": [
       {
+        "title": "How close can pure functional programming get to C?",
+        "url": "https://rtfeldman.com/fp-vs-c",
+        "points": 122,
+        "comments": 16,
+        "created_at": "2026-10-24T03:43:54.000Z"
+      },
+      {
         "title": "The foolishness of \"natural language programming\" (1978)",
         "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-        "points": 349,
-        "comments": 238,
+        "points": 369,
+        "comments": 258,
         "created_at": "2026-10-23T00:52:01.000Z"
       },
       {
         "title": "Show HN: Impossible Machines: declaratively program the physical world",
         "url": "https://www.impossiblemachines.xyz",
-        "points": 44,
-        "comments": 13,
+        "points": 76,
+        "comments": 17,
         "created_at": "2026-10-22T23:54:28.000Z"
       },
       {
         "title": "The compiler was supposed to end programming too",
         "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
-        "points": 156,
-        "comments": 202,
+        "points": 157,
+        "comments": 206,
         "created_at": "2026-10-21T18:00:51.000Z"
       },
       {
@@ -143,13 +150,6 @@
         "points": 108,
         "comments": 102,
         "created_at": "2026-10-20T17:43:11.000Z"
-      },
-      {
-        "title": "Ask HN: A plea to help me help my father",
-        "url": "https://news.ycombinator.com/item?id=50144561",
-        "points": 11,
-        "comments": 1,
-        "created_at": "2026-10-18T19:37:01.000Z"
       }
     ]
   }
