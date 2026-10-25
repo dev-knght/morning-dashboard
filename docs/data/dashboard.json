@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-24T20:16:16.019Z",
+  "updatedAt": "2026-10-25T10:47:28.366Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 21.5,
-      "humidity": 65,
-      "wind_kph": 2.4,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 29.3,
+      "humidity": 38,
+      "wind_kph": 14.5,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-10-25",
-      "temp_max_c": 28.6,
-      "temp_min_c": 18.8,
-      "humidity_max": 76,
-      "humidity_min": 41,
-      "wind_kph": 16.8,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "date": "2026-10-26",
+      "temp_max_c": 29.3,
+      "temp_min_c": 18.9,
+      "humidity_max": 69,
+      "humidity_min": 31,
+      "wind_kph": 15.7,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4024.35,
+    "goldUSD": 3995.98,
     "oilUSD": 79,
-    "updatedAt": "2026-10-24T20:16:16.019Z",
-    "gold24KUSD": 129.39,
-    "gold21KUSD": 113.21,
-    "gold18KUSD": 97.04,
-    "gold24KJD": 91.73,
-    "gold21KJD": 80.27,
-    "gold18KJD": 68.8
+    "updatedAt": "2026-10-25T10:47:28.366Z",
+    "gold24KUSD": 128.47,
+    "gold21KUSD": 112.41,
+    "gold18KUSD": 96.36,
+    "gold24KJD": 91.09,
+    "gold21KJD": 79.7,
+    "gold18KJD": 68.32
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "05:39",
-    "maghrib": "17:54",
-    "date": "24 Oct 2024"
+    "maghrib": "17:53",
+    "date": "25 Oct 2025"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "No Signs of AI Payoff Outside the Tech Sector",
+        "title": "Cerebras Deploys Trillion-Parameter AI Models",
+        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+        "points": 182,
+        "comments": 60,
+        "created_at": "2026-10-25T01:33:49.000Z"
+      },
+      {
+        "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "points": 372,
+        "comments": 378,
+        "created_at": "2026-10-24T23:11:54.000Z"
+      },
+      {
+        "title": "Making My Blog Readable by AI Agents",
+        "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+        "points": 17,
+        "comments": 2,
+        "created_at": "2026-10-24T21:21:33.000Z"
+      },
+      {
+        "title": "No signs of AI payoff outside the tech sector",
         "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-        "points": 61,
-        "comments": 37,
+        "points": 558,
+        "comments": 583,
         "created_at": "2026-10-24T19:47:19.000Z"
       },
       {
         "title": "Why is AI generated language so hard to understand?",
         "url": "https://arxiv.org/abs/2610.29162",
-        "points": 75,
-        "comments": 63,
+        "points": 205,
+        "comments": 171,
         "created_at": "2026-10-24T18:04:57.000Z"
-      },
-      {
-        "title": "What's Wrong with AI?",
-        "url": "https://homepage.farm/ai.html",
-        "points": 11,
-        "comments": 3,
-        "created_at": "2026-10-24T12:30:32.000Z"
-      },
-      {
-        "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-        "points": 86,
-        "comments": 46,
-        "created_at": "2026-10-24T11:18:54.000Z"
-      },
-      {
-        "title": "That AI Temptation",
-        "url": "https://www.tbray.org/ongoing/When/202x/2026/10/19/The-AI-Temptation",
-        "points": 14,
-        "comments": 3,
-        "created_at": "2026-10-24T06:18:39.000Z"
       }
     ],
     "vibeCoding": [
@@ -119,37 +119,37 @@
       {
         "title": "The Goose Programming Language",
         "url": "https://aardappel.github.io/goose/",
-        "points": 34,
-        "comments": 9,
+        "points": 172,
+        "comments": 1,
         "created_at": "2026-10-24T19:27:41.000Z"
+      },
+      {
+        "title": "The Goose Programming Language",
+        "url": "https://aardappel.github.io/goose/",
+        "points": 418,
+        "comments": 252,
+        "created_at": "2026-10-24T19:06:55.000Z"
       },
       {
         "title": "Show HN: Enzyme – a programming language that compiles wikis for agents",
         "url": "https://github.com/byenzyme/enzyme",
-        "points": 15,
-        "comments": 8,
+        "points": 20,
+        "comments": 9,
         "created_at": "2026-10-24T13:30:18.000Z"
       },
       {
         "title": "How close can pure functional programming get to C?",
         "url": "https://rtfeldman.com/fp-vs-c",
-        "points": 233,
-        "comments": 71,
+        "points": 269,
+        "comments": 94,
         "created_at": "2026-10-24T03:43:54.000Z"
       },
       {
         "title": "The foolishness of \"natural language programming\" (1978)",
         "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-        "points": 377,
-        "comments": 266,
+        "points": 380,
+        "comments": 267,
         "created_at": "2026-10-23T00:52:01.000Z"
-      },
-      {
-        "title": "Show HN: Impossible Machines: declaratively program the physical world",
-        "url": "https://www.impossiblemachines.xyz",
-        "points": 79,
-        "comments": 18,
-        "created_at": "2026-10-22T23:54:28.000Z"
       }
     ]
   }
