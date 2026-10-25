@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-25T10:47:28.366Z",
+  "updatedAt": "2026-10-25T20:24:27.808Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 29.3,
-      "humidity": 38,
-      "wind_kph": 14.5,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 20,
+      "humidity": 67,
+      "wind_kph": 3.2,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-10-26",
-      "temp_max_c": 29.3,
-      "temp_min_c": 18.9,
-      "humidity_max": 69,
-      "humidity_min": 31,
-      "wind_kph": 15.7,
+      "temp_max_c": 30.6,
+      "temp_min_c": 18.7,
+      "humidity_max": 94,
+      "humidity_min": 22,
+      "wind_kph": 18.5,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 3995.98,
     "oilUSD": 79,
-    "updatedAt": "2026-10-25T10:47:28.366Z",
+    "updatedAt": "2026-10-25T20:24:27.808Z",
     "gold24KUSD": 128.47,
     "gold21KUSD": 112.41,
     "gold18KUSD": 96.36,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Cerebras Deploys Trillion-Parameter AI Models",
-        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-        "points": 182,
-        "comments": 60,
-        "created_at": "2026-10-25T01:33:49.000Z"
+        "title": "A Mathematician Reads the AI Future",
+        "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+        "points": 41,
+        "comments": 50,
+        "created_at": "2026-10-25T16:31:21.000Z"
       },
       {
-        "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-        "points": 372,
-        "comments": 378,
-        "created_at": "2026-10-24T23:11:54.000Z"
+        "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+        "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+        "points": 125,
+        "comments": 199,
+        "created_at": "2026-10-25T16:28:26.000Z"
       },
       {
-        "title": "Making My Blog Readable by AI Agents",
-        "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
-        "points": 17,
-        "comments": 2,
-        "created_at": "2026-10-24T21:21:33.000Z"
+        "title": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
+        "url": "https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42",
+        "points": 15,
+        "comments": 4,
+        "created_at": "2026-10-25T13:41:19.000Z"
       },
       {
-        "title": "No signs of AI payoff outside the tech sector",
-        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-        "points": 558,
-        "comments": 583,
-        "created_at": "2026-10-24T19:47:19.000Z"
+        "title": "Imagine an AI future where being banned means you are now economically useless",
+        "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+        "points": 89,
+        "comments": 74,
+        "created_at": "2026-10-25T12:47:20.000Z"
       },
       {
-        "title": "Why is AI generated language so hard to understand?",
-        "url": "https://arxiv.org/abs/2610.29162",
-        "points": 205,
-        "comments": 171,
-        "created_at": "2026-10-24T18:04:57.000Z"
+        "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+        "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+        "points": 122,
+        "comments": 57,
+        "created_at": "2026-10-25T09:51:17.000Z"
       }
     ],
     "vibeCoding": [
@@ -106,49 +106,42 @@
         "points": 15,
         "comments": 18,
         "created_at": "2026-10-21T04:24:54.000Z"
-      },
-      {
-        "title": "Show HN: Timur's Chess – A 14th century chess variant with giraffes",
-        "url": "https://timurschess.com",
-        "points": 23,
-        "comments": 7,
-        "created_at": "2026-10-11T14:52:59.000Z"
       }
     ],
     "progDb": [
       {
         "title": "The Goose Programming Language",
         "url": "https://aardappel.github.io/goose/",
-        "points": 172,
+        "points": 173,
         "comments": 1,
         "created_at": "2026-10-24T19:27:41.000Z"
       },
       {
         "title": "The Goose Programming Language",
         "url": "https://aardappel.github.io/goose/",
-        "points": 418,
-        "comments": 252,
+        "points": 542,
+        "comments": 339,
         "created_at": "2026-10-24T19:06:55.000Z"
       },
       {
         "title": "Show HN: Enzyme – a programming language that compiles wikis for agents",
         "url": "https://github.com/byenzyme/enzyme",
-        "points": 20,
+        "points": 21,
         "comments": 9,
         "created_at": "2026-10-24T13:30:18.000Z"
       },
       {
         "title": "How close can pure functional programming get to C?",
         "url": "https://rtfeldman.com/fp-vs-c",
-        "points": 269,
-        "comments": 94,
+        "points": 275,
+        "comments": 99,
         "created_at": "2026-10-24T03:43:54.000Z"
       },
       {
         "title": "The foolishness of \"natural language programming\" (1978)",
         "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-        "points": 380,
-        "comments": 267,
+        "points": 382,
+        "comments": 270,
         "created_at": "2026-10-23T00:52:01.000Z"
       }
     ]
