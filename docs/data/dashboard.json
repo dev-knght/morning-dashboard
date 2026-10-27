@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-26T22:19:11.019Z",
+  "updatedAt": "2026-10-27T11:38:40.984Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 19.5,
-      "humidity": 90,
-      "wind_kph": 2.2,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 22.9,
+      "humidity": 66,
+      "wind_kph": 15.5,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
       "date": "2026-10-28",
-      "temp_max_c": 24.1,
-      "temp_min_c": 15.7,
-      "humidity_max": 93,
-      "humidity_min": 49,
-      "wind_kph": 21,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "temp_max_c": 23.5,
+      "temp_min_c": 15.5,
+      "humidity_max": 95,
+      "humidity_min": 57,
+      "wind_kph": 24.5,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 3995.86,
+    "goldUSD": 3995.44,
     "oilUSD": 79,
-    "updatedAt": "2026-10-26T22:19:11.019Z",
-    "gold24KUSD": 128.47,
-    "gold21KUSD": 112.41,
-    "gold18KUSD": 96.35,
-    "gold24KJD": 91.09,
-    "gold21KJD": 79.7,
+    "updatedAt": "2026-10-27T11:38:40.984Z",
+    "gold24KUSD": 128.46,
+    "gold21KUSD": 112.4,
+    "gold18KUSD": 96.34,
+    "gold24KJD": 91.08,
+    "gold21KJD": 79.69,
     "gold18KJD": 68.31
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:40",
+    "fajr": "05:41",
     "maghrib": "17:52",
-    "date": "26 Oct 2026"
+    "date": "27 Oct 2027"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-        "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
-        "points": 21,
-        "comments": 7,
-        "created_at": "2026-10-26T21:13:59.000Z"
+        "title": "AI is ruining haunted houses",
+        "url": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
+        "points": 38,
+        "comments": 61,
+        "created_at": "2026-10-27T08:50:33.000Z"
       },
       {
-        "title": "AI models cost more when you don't use English",
-        "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
-        "points": 21,
+        "title": "“AI Skills” are worthless in 2026",
+        "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+        "points": 28,
+        "comments": 12,
+        "created_at": "2026-10-27T06:33:34.000Z"
+      },
+      {
+        "title": "The Mythical Man-Month in the Age of AI",
+        "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+        "points": 197,
+        "comments": 139,
+        "created_at": "2026-10-27T06:25:37.000Z"
+      },
+      {
+        "title": "What to do if you discover AI models trained using your copywrighted book?",
+        "url": "https://news.ycombinator.com/item?id=50253561",
+        "points": 11,
+        "comments": 6,
+        "created_at": "2026-10-27T01:18:50.000Z"
+      },
+      {
+        "title": "In China, the AI bubble has already burst",
+        "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
+        "points": 13,
         "comments": 0,
-        "created_at": "2026-10-26T21:03:22.000Z"
-      },
-      {
-        "title": "Grand theft AI: Highway thieves are stealing millions in data center gear",
-        "url": "https://www.nbcnews.com/tech/security/grand-theft-ai-highway-thieves-are-stealing-millions-data-center-gear-rcna603733",
-        "points": 21,
-        "comments": 0,
-        "created_at": "2026-10-26T20:28:32.000Z"
-      },
-      {
-        "title": "Why I'm growing my Vancouver AI company in Taiwan and Europe instead of the U.S.",
-        "url": "https://bcbusiness.ca/business/tech-science/opinion-vancouver-ai-company-taiwan-europe/",
-        "points": 25,
-        "comments": 1,
-        "created_at": "2026-10-26T19:52:44.000Z"
-      },
-      {
-        "title": "Concerning behavior from a popular open-weight AI model",
-        "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-        "points": 223,
-        "comments": 83,
-        "created_at": "2026-10-26T16:35:44.000Z"
+        "created_at": "2026-10-27T00:44:23.000Z"
       }
     ],
     "vibeCoding": [
@@ -112,15 +112,15 @@
       {
         "title": "Why I Am a Programmer",
         "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-        "points": 313,
-        "comments": 99,
+        "points": 318,
+        "comments": 104,
         "created_at": "2026-10-25T19:11:31.000Z"
       },
       {
         "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
         "url": "https://adrs.systems",
-        "points": 64,
-        "comments": 52,
+        "points": 66,
+        "comments": 54,
         "created_at": "2026-10-25T00:43:47.000Z"
       },
       {
@@ -133,14 +133,14 @@
       {
         "title": "The Goose Programming Language",
         "url": "https://aardappel.github.io/goose/",
-        "points": 591,
+        "points": 592,
         "comments": 365,
         "created_at": "2026-10-24T19:06:55.000Z"
       },
       {
         "title": "Show HN: Enzyme – a programming language that compiles wikis for agents",
         "url": "https://github.com/byenzyme/enzyme",
-        "points": 22,
+        "points": 23,
         "comments": 9,
         "created_at": "2026-10-24T13:30:18.000Z"
       }
