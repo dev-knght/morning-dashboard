@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-27T11:38:40.984Z",
+  "updatedAt": "2026-10-27T21:50:50.531Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 22.9,
-      "humidity": 66,
-      "wind_kph": 15.5,
+      "temp_c": 18.9,
+      "humidity": 92,
+      "wind_kph": 4.2,
       "weather_code": 3,
       "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-10-28",
-      "temp_max_c": 23.5,
-      "temp_min_c": 15.5,
-      "humidity_max": 95,
-      "humidity_min": 57,
-      "wind_kph": 24.5,
+      "date": "2026-10-29",
+      "temp_max_c": 24.4,
+      "temp_min_c": 14.2,
+      "humidity_max": 90,
+      "humidity_min": 33,
+      "wind_kph": 25.1,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 3995.44,
     "oilUSD": 79,
-    "updatedAt": "2026-10-27T11:38:40.984Z",
+    "updatedAt": "2026-10-27T21:50:50.531Z",
     "gold24KUSD": 128.46,
     "gold21KUSD": 112.4,
     "gold18KUSD": 96.34,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI is ruining haunted houses",
-        "url": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
-        "points": 38,
-        "comments": 61,
-        "created_at": "2026-10-27T08:50:33.000Z"
+        "title": "In China, the AI bubble has burst",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html",
+        "points": 12,
+        "comments": 3,
+        "created_at": "2026-10-27T20:44:20.000Z"
       },
       {
-        "title": "“AI Skills” are worthless in 2026",
-        "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
-        "points": 28,
-        "comments": 12,
-        "created_at": "2026-10-27T06:33:34.000Z"
+        "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+        "url": "https://www.brangus.io/survival-llm",
+        "points": 78,
+        "comments": 54,
+        "created_at": "2026-10-27T19:55:06.000Z"
       },
       {
-        "title": "The Mythical Man-Month in the Age of AI",
-        "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-        "points": 197,
-        "comments": 139,
-        "created_at": "2026-10-27T06:25:37.000Z"
+        "title": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"",
+        "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
+        "points": 24,
+        "comments": 3,
+        "created_at": "2026-10-27T18:08:20.000Z"
       },
       {
-        "title": "What to do if you discover AI models trained using your copywrighted book?",
-        "url": "https://news.ycombinator.com/item?id=50253561",
-        "points": 11,
-        "comments": 6,
-        "created_at": "2026-10-27T01:18:50.000Z"
+        "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+        "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+        "points": 297,
+        "comments": 231,
+        "created_at": "2026-10-27T16:40:15.000Z"
       },
       {
-        "title": "In China, the AI bubble has already burst",
-        "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
-        "points": 13,
-        "comments": 0,
-        "created_at": "2026-10-27T00:44:23.000Z"
+        "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+        "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+        "points": 160,
+        "comments": 76,
+        "created_at": "2026-10-27T16:25:30.000Z"
       }
     ],
     "vibeCoding": [
@@ -110,39 +110,39 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: Cryo – A language whose programs live forever",
+        "url": "https://play.endothermic.ai/",
+        "points": 12,
+        "comments": 0,
+        "created_at": "2026-10-27T15:48:59.000Z"
+      },
+      {
         "title": "Why I Am a Programmer",
         "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-        "points": 318,
-        "comments": 104,
+        "points": 320,
+        "comments": 105,
         "created_at": "2026-10-25T19:11:31.000Z"
       },
       {
         "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
         "url": "https://adrs.systems",
         "points": 66,
-        "comments": 54,
+        "comments": 56,
         "created_at": "2026-10-25T00:43:47.000Z"
       },
       {
         "title": "The Goose Programming Language",
         "url": "https://aardappel.github.io/goose/",
-        "points": 174,
+        "points": 176,
         "comments": 1,
         "created_at": "2026-10-24T19:27:41.000Z"
       },
       {
         "title": "The Goose Programming Language",
         "url": "https://aardappel.github.io/goose/",
-        "points": 592,
+        "points": 594,
         "comments": 365,
         "created_at": "2026-10-24T19:06:55.000Z"
-      },
-      {
-        "title": "Show HN: Enzyme – a programming language that compiles wikis for agents",
-        "url": "https://github.com/byenzyme/enzyme",
-        "points": 23,
-        "comments": 9,
-        "created_at": "2026-10-24T13:30:18.000Z"
       }
     ]
   }
