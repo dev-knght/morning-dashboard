@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-27T21:50:50.531Z",
+  "updatedAt": "2026-10-28T12:10:19.542Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 18.9,
-      "humidity": 92,
-      "wind_kph": 4.2,
+      "temp_c": 24.1,
+      "humidity": 46,
+      "wind_kph": 14.1,
       "weather_code": 3,
       "weather_desc": "Overcast"
     },
     "tomorrow": {
       "date": "2026-10-29",
-      "temp_max_c": 24.4,
-      "temp_min_c": 14.2,
-      "humidity_max": 90,
+      "temp_max_c": 24.7,
+      "temp_min_c": 14.3,
+      "humidity_max": 86,
       "humidity_min": 33,
-      "wind_kph": 25.1,
+      "wind_kph": 27.1,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 3995.44,
+    "goldUSD": 4015.48,
     "oilUSD": 79,
-    "updatedAt": "2026-10-27T21:50:50.531Z",
-    "gold24KUSD": 128.46,
-    "gold21KUSD": 112.4,
-    "gold18KUSD": 96.34,
-    "gold24KJD": 91.08,
-    "gold21KJD": 79.69,
-    "gold18KJD": 68.31
+    "updatedAt": "2026-10-28T12:10:19.542Z",
+    "gold24KUSD": 129.1,
+    "gold21KUSD": 112.96,
+    "gold18KUSD": 96.83,
+    "gold24KJD": 91.53,
+    "gold21KJD": 80.09,
+    "gold18KJD": 68.65
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:41",
-    "maghrib": "17:52",
-    "date": "27 Oct 2027"
+    "fajr": "05:42",
+    "maghrib": "17:50",
+    "date": "28 Oct 2028"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
+        "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+        "points": 13,
+        "comments": 0,
+        "created_at": "2026-10-28T10:10:58.000Z"
+      },
+      {
+        "title": "Amazon defines the role of the developer in the age of AI",
+        "url": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
+        "points": 14,
+        "comments": 2,
+        "created_at": "2026-10-28T01:00:33.000Z"
+      },
+      {
+        "title": "New Records Obtained by EFF Expose More Problems with Medicare's AI Experiment",
+        "url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment",
+        "points": 18,
+        "comments": 1,
+        "created_at": "2026-10-27T22:29:50.000Z"
+      },
+      {
         "title": "In China, the AI bubble has burst",
         "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html",
-        "points": 12,
+        "points": 13,
         "comments": 3,
         "created_at": "2026-10-27T20:44:20.000Z"
       },
       {
         "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
         "url": "https://www.brangus.io/survival-llm",
-        "points": 78,
-        "comments": 54,
+        "points": 384,
+        "comments": 148,
         "created_at": "2026-10-27T19:55:06.000Z"
-      },
-      {
-        "title": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"",
-        "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
-        "points": 24,
-        "comments": 3,
-        "created_at": "2026-10-27T18:08:20.000Z"
-      },
-      {
-        "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-        "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-        "points": 297,
-        "comments": 231,
-        "created_at": "2026-10-27T16:40:15.000Z"
-      },
-      {
-        "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-        "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-        "points": 160,
-        "comments": 76,
-        "created_at": "2026-10-27T16:25:30.000Z"
       }
     ],
     "vibeCoding": [
@@ -140,7 +140,7 @@
       {
         "title": "The Goose Programming Language",
         "url": "https://aardappel.github.io/goose/",
-        "points": 594,
+        "points": 596,
         "comments": 365,
         "created_at": "2026-10-24T19:06:55.000Z"
       }
