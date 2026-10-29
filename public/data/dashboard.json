@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-29T12:20:15.726Z",
+  "updatedAt": "2026-10-29T22:27:45.756Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 24.3,
-      "humidity": 34,
-      "wind_kph": 23.4,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 15.7,
+      "humidity": 88,
+      "wind_kph": 8.8,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-10-30",
-      "temp_max_c": 21.3,
-      "temp_min_c": 14.5,
-      "humidity_max": 89,
-      "humidity_min": 49,
-      "wind_kph": 17.7,
+      "date": "2026-10-31",
+      "temp_max_c": 24,
+      "temp_min_c": 12,
+      "humidity_max": 85,
+      "humidity_min": 38,
+      "wind_kph": 12.2,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4057.7,
     "oilUSD": 79,
-    "updatedAt": "2026-10-29T12:20:15.726Z",
+    "updatedAt": "2026-10-29T22:27:45.756Z",
     "gold24KUSD": 130.46,
     "gold21KUSD": 114.15,
     "gold18KUSD": 97.84,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-        "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
-        "points": 52,
-        "comments": 70,
-        "created_at": "2026-10-29T00:30:37.000Z"
+        "title": "We ran AI agent swarms in Minecraft and Mindustry",
+        "url": "https://labs.ycombinator.com/projects/games/index.html",
+        "points": 35,
+        "comments": 13,
+        "created_at": "2026-10-29T21:40:28.000Z"
       },
       {
-        "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
-        "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
-        "points": 54,
-        "comments": 101,
-        "created_at": "2026-10-29T00:16:08.000Z"
+        "title": "A Defense Contractor Gave Their AI Agent Access to a Secure Pentagon System",
+        "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+        "points": 15,
+        "comments": 5,
+        "created_at": "2026-10-29T18:47:56.000Z"
       },
       {
-        "title": "Google AI Search Refuses to Say Who Won the 2020 Election",
-        "url": "https://karlbode.com/google-ai-search-refuses-to-say-who-won-the-2020-election/",
-        "points": 13,
+        "title": "Trump and aides helped Flávio Bolsonaro flee Brazil amid criminal investigations",
+        "url": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
+        "points": 26,
+        "comments": 0,
+        "created_at": "2026-10-29T18:17:54.000Z"
+      },
+      {
+        "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
+        "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
+        "points": 11,
+        "comments": 3,
+        "created_at": "2026-10-29T18:06:22.000Z"
+      },
+      {
+        "title": "AI Contributions to GHC",
+        "url": "https://serokell.io/blog/ai-contributions-to-ghc",
+        "points": 14,
         "comments": 7,
-        "created_at": "2026-10-28T23:13:59.000Z"
-      },
-      {
-        "title": "Outrage after airport self-service checkout asks for 18% tip",
-        "url": "https://www.the-independent.com/life-style/self-service-airport-tipping-culture-b3075115.html",
-        "points": 22,
-        "comments": 4,
-        "created_at": "2026-10-28T22:53:27.000Z"
-      },
-      {
-        "title": "AI execs may be too out of touch to build for the general public",
-        "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-        "points": 73,
-        "comments": 59,
-        "created_at": "2026-10-28T22:27:46.000Z"
+        "created_at": "2026-10-29T17:42:30.000Z"
       }
     ],
     "vibeCoding": [
