@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-28T22:13:00.035Z",
+  "updatedAt": "2026-10-29T12:20:15.726Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 15.6,
-      "humidity": 76,
-      "wind_kph": 5.4,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 24.3,
+      "humidity": 34,
+      "wind_kph": 23.4,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-10-30",
-      "temp_max_c": 21.7,
+      "temp_max_c": 21.3,
       "temp_min_c": 14.5,
-      "humidity_max": 91,
-      "humidity_min": 50,
-      "wind_kph": 19.5,
+      "humidity_max": 89,
+      "humidity_min": 49,
+      "wind_kph": 17.7,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4015.48,
+    "goldUSD": 4057.7,
     "oilUSD": 79,
-    "updatedAt": "2026-10-28T22:13:00.035Z",
-    "gold24KUSD": 129.1,
-    "gold21KUSD": 112.96,
-    "gold18KUSD": 96.83,
-    "gold24KJD": 91.53,
-    "gold21KJD": 80.09,
-    "gold18KJD": 68.65
+    "updatedAt": "2026-10-29T12:20:15.726Z",
+    "gold24KUSD": 130.46,
+    "gold21KUSD": 114.15,
+    "gold18KUSD": 97.84,
+    "gold24KJD": 92.49,
+    "gold21KJD": 80.93,
+    "gold18KJD": 69.37
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "05:42",
-    "maghrib": "17:50",
-    "date": "28 Oct 2028"
+    "maghrib": "17:49",
+    "date": "29 Oct 2029"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Google AI gets cagey when asked who won the 2020 elections",
-        "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-        "points": 74,
-        "comments": 43,
-        "created_at": "2026-10-28T20:10:16.000Z"
+        "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+        "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+        "points": 52,
+        "comments": 70,
+        "created_at": "2026-10-29T00:30:37.000Z"
       },
       {
-        "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-        "url": "https://surgehq.ai/blog/dayjob-tax",
-        "points": 167,
-        "comments": 97,
-        "created_at": "2026-10-28T15:46:30.000Z"
+        "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+        "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+        "points": 54,
+        "comments": 101,
+        "created_at": "2026-10-29T00:16:08.000Z"
       },
       {
-        "title": "Harvey raised 500M for legal AI, I built the same and open sourced it",
-        "url": "https://github.com/thomasunise/casecite",
-        "points": 68,
-        "comments": 37,
-        "created_at": "2026-10-28T13:56:21.000Z"
+        "title": "Google AI Search Refuses to Say Who Won the 2020 Election",
+        "url": "https://karlbode.com/google-ai-search-refuses-to-say-who-won-the-2020-election/",
+        "points": 13,
+        "comments": 7,
+        "created_at": "2026-10-28T23:13:59.000Z"
       },
       {
-        "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-        "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-        "points": 387,
-        "comments": 433,
-        "created_at": "2026-10-28T13:41:30.000Z"
+        "title": "Outrage after airport self-service checkout asks for 18% tip",
+        "url": "https://www.the-independent.com/life-style/self-service-airport-tipping-culture-b3075115.html",
+        "points": 22,
+        "comments": 4,
+        "created_at": "2026-10-28T22:53:27.000Z"
       },
       {
-        "title": "Valve Responds to Developers Fearing AI Slop and Clones",
-        "url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
-        "points": 65,
-        "comments": 75,
-        "created_at": "2026-10-28T13:27:24.000Z"
+        "title": "AI execs may be too out of touch to build for the general public",
+        "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+        "points": 73,
+        "comments": 59,
+        "created_at": "2026-10-28T22:27:46.000Z"
       }
     ],
     "vibeCoding": [
@@ -119,7 +119,7 @@
       {
         "title": "Why I Am a Programmer",
         "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-        "points": 323,
+        "points": 325,
         "comments": 105,
         "created_at": "2026-10-25T19:11:31.000Z"
       },
@@ -140,8 +140,8 @@
       {
         "title": "The Goose Programming Language",
         "url": "https://aardappel.github.io/goose/",
-        "points": 599,
-        "comments": 366,
+        "points": 602,
+        "comments": 367,
         "created_at": "2026-10-24T19:06:55.000Z"
       }
     ]
