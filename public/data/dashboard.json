@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-30T12:11:06.483Z",
+  "updatedAt": "2026-10-30T21:57:00.916Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 22.1,
-      "humidity": 49,
-      "wind_kph": 19.2,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 15,
+      "humidity": 85,
+      "wind_kph": 3.2,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-10-31",
-      "temp_max_c": 23.7,
-      "temp_min_c": 12.7,
-      "humidity_max": 92,
-      "humidity_min": 41,
-      "wind_kph": 10.7,
+      "date": "2026-11-01",
+      "temp_max_c": 24.1,
+      "temp_min_c": 14.2,
+      "humidity_max": 82,
+      "humidity_min": 38,
+      "wind_kph": 17.7,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4052.17,
     "oilUSD": 79,
-    "updatedAt": "2026-10-30T12:11:06.483Z",
+    "updatedAt": "2026-10-30T21:57:00.916Z",
     "gold24KUSD": 130.28,
     "gold21KUSD": 114,
     "gold18KUSD": 97.71,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Ask HN: Are you tired too in this AI era?",
-        "url": "https://news.ycombinator.com/item?id=50301479",
-        "points": 101,
-        "comments": 96,
-        "created_at": "2026-10-30T09:17:43.000Z"
+        "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
+        "url": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
+        "points": 12,
+        "comments": 2,
+        "created_at": "2026-10-30T20:18:18.000Z"
       },
       {
-        "title": "Open-weight AI models can exploit the patch gap",
-        "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
-        "points": 13,
-        "comments": 8,
-        "created_at": "2026-10-29T22:32:46.000Z"
+        "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+        "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+        "points": 238,
+        "comments": 201,
+        "created_at": "2026-10-30T17:24:45.000Z"
       },
       {
-        "title": "Google value plunges by $500B as AI fears rattle Wall Street",
-        "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
-        "points": 65,
-        "comments": 30,
-        "created_at": "2026-10-29T22:22:13.000Z"
+        "title": "US tech stocks see sharp falls over AI cost fears",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+        "points": 222,
+        "comments": 247,
+        "created_at": "2026-10-30T16:13:02.000Z"
       },
       {
-        "title": "Proton goes all in on using AI",
-        "url": "https://convo.casa/@b/117525936178835007",
-        "points": 101,
-        "comments": 100,
-        "created_at": "2026-10-29T21:49:28.000Z"
+        "title": "Some Thing is Happening A note from the AI companies",
+        "url": "https://alanbellows.com/some-thing-is-happening/",
+        "points": 14,
+        "comments": 1,
+        "created_at": "2026-10-30T15:53:42.000Z"
       },
       {
-        "title": "We ran AI agent swarms in Minecraft and Mindustry",
-        "url": "https://labs.ycombinator.com/projects/games/index.html",
-        "points": 311,
-        "comments": 116,
-        "created_at": "2026-10-29T21:40:28.000Z"
+        "title": "AI isn't replacing SREs, it's deskilling them",
+        "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+        "points": 428,
+        "comments": 318,
+        "created_at": "2026-10-30T15:52:18.000Z"
       }
     ],
     "vibeCoding": [
@@ -110,16 +110,30 @@
     ],
     "progDb": [
       {
+        "title": "Programming at Light Speed: Building the Gravity Query Engine",
+        "url": "https://pgrust.com/blog/programming-at-light-speed/",
+        "points": 17,
+        "comments": 5,
+        "created_at": "2026-10-30T20:18:10.000Z"
+      },
+      {
+        "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
+        "url": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
+        "points": 11,
+        "comments": 1,
+        "created_at": "2026-10-30T20:09:47.000Z"
+      },
+      {
         "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
         "url": "https://github.com/Millillion/lasm",
-        "points": 31,
-        "comments": 16,
+        "points": 34,
+        "comments": 20,
         "created_at": "2026-10-30T02:05:41.000Z"
       },
       {
         "title": "AI Made Me Homeless",
         "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
-        "points": 17,
+        "points": 20,
         "comments": 9,
         "created_at": "2026-10-29T20:19:09.000Z"
       },
@@ -129,20 +143,6 @@
         "points": 12,
         "comments": 0,
         "created_at": "2026-10-27T15:48:59.000Z"
-      },
-      {
-        "title": "Why I Am a Programmer",
-        "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-        "points": 326,
-        "comments": 105,
-        "created_at": "2026-10-25T19:11:31.000Z"
-      },
-      {
-        "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
-        "url": "https://adrs.systems",
-        "points": 66,
-        "comments": 58,
-        "created_at": "2026-10-25T00:43:47.000Z"
       }
     ]
   }
