@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-29T22:27:45.756Z",
+  "updatedAt": "2026-10-30T12:11:06.483Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 15.7,
-      "humidity": 88,
-      "wind_kph": 8.8,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 22.1,
+      "humidity": 49,
+      "wind_kph": 19.2,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-10-31",
-      "temp_max_c": 24,
-      "temp_min_c": 12,
-      "humidity_max": 85,
-      "humidity_min": 38,
-      "wind_kph": 12.2,
+      "temp_max_c": 23.7,
+      "temp_min_c": 12.7,
+      "humidity_max": 92,
+      "humidity_min": 41,
+      "wind_kph": 10.7,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4057.7,
+    "goldUSD": 4052.17,
     "oilUSD": 79,
-    "updatedAt": "2026-10-29T22:27:45.756Z",
-    "gold24KUSD": 130.46,
-    "gold21KUSD": 114.15,
-    "gold18KUSD": 97.84,
-    "gold24KJD": 92.49,
-    "gold21KJD": 80.93,
-    "gold18KJD": 69.37
+    "updatedAt": "2026-10-30T12:11:06.483Z",
+    "gold24KUSD": 130.28,
+    "gold21KUSD": 114,
+    "gold18KUSD": 97.71,
+    "gold24KJD": 92.37,
+    "gold21KJD": 80.82,
+    "gold18KJD": 69.28
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:42",
-    "maghrib": "17:49",
-    "date": "29 Oct 2029"
+    "fajr": "05:43",
+    "maghrib": "17:48",
+    "date": "30 Oct 2030"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "Ask HN: Are you tired too in this AI era?",
+        "url": "https://news.ycombinator.com/item?id=50301479",
+        "points": 101,
+        "comments": 96,
+        "created_at": "2026-10-30T09:17:43.000Z"
+      },
+      {
+        "title": "Open-weight AI models can exploit the patch gap",
+        "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+        "points": 13,
+        "comments": 8,
+        "created_at": "2026-10-29T22:32:46.000Z"
+      },
+      {
+        "title": "Google value plunges by $500B as AI fears rattle Wall Street",
+        "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+        "points": 65,
+        "comments": 30,
+        "created_at": "2026-10-29T22:22:13.000Z"
+      },
+      {
+        "title": "Proton goes all in on using AI",
+        "url": "https://convo.casa/@b/117525936178835007",
+        "points": 101,
+        "comments": 100,
+        "created_at": "2026-10-29T21:49:28.000Z"
+      },
+      {
         "title": "We ran AI agent swarms in Minecraft and Mindustry",
         "url": "https://labs.ycombinator.com/projects/games/index.html",
-        "points": 35,
-        "comments": 13,
+        "points": 311,
+        "comments": 116,
         "created_at": "2026-10-29T21:40:28.000Z"
-      },
-      {
-        "title": "A Defense Contractor Gave Their AI Agent Access to a Secure Pentagon System",
-        "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-        "points": 15,
-        "comments": 5,
-        "created_at": "2026-10-29T18:47:56.000Z"
-      },
-      {
-        "title": "Trump and aides helped Flávio Bolsonaro flee Brazil amid criminal investigations",
-        "url": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
-        "points": 26,
-        "comments": 0,
-        "created_at": "2026-10-29T18:17:54.000Z"
-      },
-      {
-        "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
-        "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
-        "points": 11,
-        "comments": 3,
-        "created_at": "2026-10-29T18:06:22.000Z"
-      },
-      {
-        "title": "AI Contributions to GHC",
-        "url": "https://serokell.io/blog/ai-contributions-to-ghc",
-        "points": 14,
-        "comments": 7,
-        "created_at": "2026-10-29T17:42:30.000Z"
       }
     ],
     "vibeCoding": [
@@ -110,6 +110,20 @@
     ],
     "progDb": [
       {
+        "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+        "url": "https://github.com/Millillion/lasm",
+        "points": 31,
+        "comments": 16,
+        "created_at": "2026-10-30T02:05:41.000Z"
+      },
+      {
+        "title": "AI Made Me Homeless",
+        "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
+        "points": 17,
+        "comments": 9,
+        "created_at": "2026-10-29T20:19:09.000Z"
+      },
+      {
         "title": "Show HN: Cryo – A language whose programs live forever",
         "url": "https://play.endothermic.ai/",
         "points": 12,
@@ -119,7 +133,7 @@
       {
         "title": "Why I Am a Programmer",
         "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-        "points": 325,
+        "points": 326,
         "comments": 105,
         "created_at": "2026-10-25T19:11:31.000Z"
       },
@@ -129,20 +143,6 @@
         "points": 66,
         "comments": 58,
         "created_at": "2026-10-25T00:43:47.000Z"
-      },
-      {
-        "title": "The Goose Programming Language",
-        "url": "https://aardappel.github.io/goose/",
-        "points": 176,
-        "comments": 1,
-        "created_at": "2026-10-24T19:27:41.000Z"
-      },
-      {
-        "title": "The Goose Programming Language",
-        "url": "https://aardappel.github.io/goose/",
-        "points": 602,
-        "comments": 367,
-        "created_at": "2026-10-24T19:06:55.000Z"
       }
     ]
   }
