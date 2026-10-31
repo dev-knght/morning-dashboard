@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-10-30T21:57:00.916Z",
+  "updatedAt": "2026-10-31T11:43:46.107Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 15,
-      "humidity": 85,
-      "wind_kph": 3.2,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 24.3,
+      "humidity": 37,
+      "wind_kph": 7.6,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
       "date": "2026-11-01",
-      "temp_max_c": 24.1,
-      "temp_min_c": 14.2,
-      "humidity_max": 82,
-      "humidity_min": 38,
-      "wind_kph": 17.7,
+      "temp_max_c": 24.8,
+      "temp_min_c": 14.6,
+      "humidity_max": 78,
+      "humidity_min": 37,
+      "wind_kph": 17.5,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4052.17,
+    "goldUSD": 3998.59,
     "oilUSD": 79,
-    "updatedAt": "2026-10-30T21:57:00.916Z",
-    "gold24KUSD": 130.28,
-    "gold21KUSD": 114,
-    "gold18KUSD": 97.71,
-    "gold24KJD": 92.37,
-    "gold21KJD": 80.82,
-    "gold18KJD": 69.28
+    "updatedAt": "2026-10-31T11:43:46.107Z",
+    "gold24KUSD": 128.56,
+    "gold21KUSD": 112.49,
+    "gold18KUSD": 96.42,
+    "gold24KJD": 91.15,
+    "gold21KJD": 79.75,
+    "gold18KJD": 68.36
   },
   "exchange": {
     "JOD": 0.709
@@ -37,7 +37,7 @@
   "prayer": {
     "fajr": "05:43",
     "maghrib": "17:48",
-    "date": "30 Oct 2030"
+    "date": "31 Oct 2031"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+        "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+        "points": 11,
+        "comments": 0,
+        "created_at": "2026-10-30T22:22:14.000Z"
+      },
+      {
+        "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+        "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
+        "points": 62,
+        "comments": 13,
+        "created_at": "2026-10-30T21:32:35.000Z"
+      },
+      {
+        "title": "Defense Contractor Gave Their Personal AI Agent Access to Secure Pentagon System",
+        "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+        "points": 16,
+        "comments": 1,
+        "created_at": "2026-10-30T20:30:06.000Z"
+      },
+      {
         "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
         "url": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
-        "points": 12,
+        "points": 19,
         "comments": 2,
         "created_at": "2026-10-30T20:18:18.000Z"
       },
       {
-        "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-        "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
-        "points": 238,
-        "comments": 201,
-        "created_at": "2026-10-30T17:24:45.000Z"
-      },
-      {
-        "title": "US tech stocks see sharp falls over AI cost fears",
-        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-        "points": 222,
-        "comments": 247,
-        "created_at": "2026-10-30T16:13:02.000Z"
-      },
-      {
-        "title": "Some Thing is Happening A note from the AI companies",
-        "url": "https://alanbellows.com/some-thing-is-happening/",
-        "points": 14,
-        "comments": 1,
-        "created_at": "2026-10-30T15:53:42.000Z"
-      },
-      {
-        "title": "AI isn't replacing SREs, it's deskilling them",
-        "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-        "points": 428,
-        "comments": 318,
-        "created_at": "2026-10-30T15:52:18.000Z"
+        "title": "PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden",
+        "url": "https://www.phoronix.com/news/PostgreSQL-19-Late",
+        "points": 11,
+        "comments": 0,
+        "created_at": "2026-10-30T20:06:12.000Z"
       }
     ],
     "vibeCoding": [
@@ -112,21 +112,21 @@
       {
         "title": "Programming at Light Speed: Building the Gravity Query Engine",
         "url": "https://pgrust.com/blog/programming-at-light-speed/",
-        "points": 17,
-        "comments": 5,
+        "points": 18,
+        "comments": 9,
         "created_at": "2026-10-30T20:18:10.000Z"
       },
       {
         "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
         "url": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
-        "points": 11,
+        "points": 25,
         "comments": 1,
         "created_at": "2026-10-30T20:09:47.000Z"
       },
       {
         "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
         "url": "https://github.com/Millillion/lasm",
-        "points": 34,
+        "points": 36,
         "comments": 20,
         "created_at": "2026-10-30T02:05:41.000Z"
       },
