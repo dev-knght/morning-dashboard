@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-31T21:00:46.875Z",
+  "updatedAt": "2026-11-01T12:43:01.197Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 17.2,
-      "humidity": 62,
-      "wind_kph": 4,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 24.9,
+      "humidity": 38,
+      "wind_kph": 15.8,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-11-02",
-      "temp_max_c": 27.7,
-      "temp_min_c": 14.5,
-      "humidity_max": 87,
-      "humidity_min": 31,
-      "wind_kph": 14.4,
+      "temp_max_c": 28.8,
+      "temp_min_c": 15.3,
+      "humidity_max": 81,
+      "humidity_min": 30,
+      "wind_kph": 12.4,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 3998.59,
+    "goldUSD": 3875.58,
     "oilUSD": 79,
-    "updatedAt": "2026-10-31T21:00:46.875Z",
-    "gold24KUSD": 128.56,
-    "gold21KUSD": 112.49,
-    "gold18KUSD": 96.42,
-    "gold24KJD": 91.15,
-    "gold21KJD": 79.75,
-    "gold18KJD": 68.36
+    "updatedAt": "2026-11-01T12:43:01.197Z",
+    "gold24KUSD": 124.6,
+    "gold21KUSD": 109.03,
+    "gold18KUSD": 93.45,
+    "gold24KJD": 88.34,
+    "gold21KJD": 77.3,
+    "gold18KJD": 66.26
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:43",
-    "maghrib": "17:48",
-    "date": "31 Oct 2031"
+    "fajr": "04:44",
+    "maghrib": "16:47",
+    "date": "01 Nov 2001"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-        "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-        "points": 65,
-        "comments": 43,
-        "created_at": "2026-10-31T18:02:29.000Z"
+        "title": "The AI cost of JavaScript frameworks",
+        "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+        "points": 121,
+        "comments": 70,
+        "created_at": "2026-11-01T06:06:19.000Z"
       },
       {
-        "title": "AI Data Centers Could Erase 15 Years of America's Climate Progress by 2030",
-        "url": "https://www.gadgetreview.com/ai-data-centers-could-erase-15-years-of-americas-climate-progress-by-2030",
-        "points": 13,
+        "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+        "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+        "points": 11,
         "comments": 5,
-        "created_at": "2026-10-31T17:34:23.000Z"
+        "created_at": "2026-11-01T03:27:55.000Z"
       },
       {
-        "title": "Amazon sends chills through its workforce with mixed message memo about AI use",
-        "url": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
-        "points": 20,
-        "comments": 8,
-        "created_at": "2026-10-31T17:21:16.000Z"
+        "title": "AI Made Me Homeless",
+        "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
+        "points": 13,
+        "comments": 11,
+        "created_at": "2026-11-01T02:38:11.000Z"
       },
       {
-        "title": "Anthropic orders AI tool Claude to stop remaking video games",
-        "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-        "points": 18,
-        "comments": 7,
-        "created_at": "2026-10-31T14:41:44.000Z"
+        "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+        "url": "https://arxiv.org/abs/2409.02292",
+        "points": 103,
+        "comments": 55,
+        "created_at": "2026-11-01T01:46:29.000Z"
       },
       {
-        "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-        "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-        "points": 74,
-        "comments": 18,
-        "created_at": "2026-10-31T13:25:10.000Z"
+        "title": "How AI may drive union-resistant tech workers to the bargaining table",
+        "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
+        "points": 23,
+        "comments": 2,
+        "created_at": "2026-11-01T00:49:23.000Z"
       }
     ],
     "vibeCoding": [
@@ -110,10 +110,17 @@
     ],
     "progDb": [
       {
+        "title": "AI Made Me Homeless",
+        "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
+        "points": 13,
+        "comments": 11,
+        "created_at": "2026-11-01T02:38:11.000Z"
+      },
+      {
         "title": "Anthropic orders AI tool Claude to stop remaking video games",
         "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-        "points": 18,
-        "comments": 7,
+        "points": 29,
+        "comments": 16,
         "created_at": "2026-10-31T14:41:44.000Z"
       },
       {
@@ -126,23 +133,16 @@
       {
         "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
         "url": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
-        "points": 26,
-        "comments": 1,
+        "points": 27,
+        "comments": 2,
         "created_at": "2026-10-30T20:09:47.000Z"
       },
       {
         "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
         "url": "https://github.com/Millillion/lasm",
-        "points": 36,
-        "comments": 20,
+        "points": 38,
+        "comments": 22,
         "created_at": "2026-10-30T02:05:41.000Z"
-      },
-      {
-        "title": "AI Made Me Homeless",
-        "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
-        "points": 20,
-        "comments": 9,
-        "created_at": "2026-10-29T20:19:09.000Z"
       }
     ]
   }
