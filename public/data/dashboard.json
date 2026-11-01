@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-01T12:43:01.197Z",
+  "updatedAt": "2026-11-01T21:43:21.937Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 24.9,
-      "humidity": 38,
-      "wind_kph": 15.8,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 16.6,
+      "humidity": 80,
+      "wind_kph": 6.2,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-11-02",
-      "temp_max_c": 28.8,
-      "temp_min_c": 15.3,
-      "humidity_max": 81,
-      "humidity_min": 30,
-      "wind_kph": 12.4,
+      "date": "2026-11-03",
+      "temp_max_c": 25.2,
+      "temp_min_c": 16.6,
+      "humidity_max": 89,
+      "humidity_min": 35,
+      "wind_kph": 22.7,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 3875.58,
     "oilUSD": 79,
-    "updatedAt": "2026-11-01T12:43:01.197Z",
+    "updatedAt": "2026-11-01T21:43:21.937Z",
     "gold24KUSD": 124.6,
     "gold21KUSD": 109.03,
     "gold18KUSD": 93.45,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "The AI cost of JavaScript frameworks",
-        "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-        "points": 121,
+        "title": "It wasn't AI that flipped Proton's charge",
+        "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+        "points": 120,
         "comments": 70,
-        "created_at": "2026-11-01T06:06:19.000Z"
+        "created_at": "2026-11-01T18:53:55.000Z"
       },
       {
-        "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-        "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+        "title": "Frontier Airlines Likely Breached",
+        "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+        "points": 142,
+        "comments": 40,
+        "created_at": "2026-11-01T16:46:33.000Z"
+      },
+      {
+        "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+        "points": 134,
+        "comments": 60,
+        "created_at": "2026-11-01T13:47:24.000Z"
+      },
+      {
+        "title": "A 90% Chance of AI Saving Humanity",
+        "url": "https://joshbocanegra.medium.com/a-90-chance-of-ai-saving-humanity-bf12fb7914ee",
         "points": 11,
-        "comments": 5,
-        "created_at": "2026-11-01T03:27:55.000Z"
+        "comments": 9,
+        "created_at": "2026-11-01T13:19:04.000Z"
       },
       {
-        "title": "AI Made Me Homeless",
-        "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
-        "points": 13,
-        "comments": 11,
-        "created_at": "2026-11-01T02:38:11.000Z"
-      },
-      {
-        "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-        "url": "https://arxiv.org/abs/2409.02292",
-        "points": 103,
-        "comments": 55,
-        "created_at": "2026-11-01T01:46:29.000Z"
-      },
-      {
-        "title": "How AI may drive union-resistant tech workers to the bargaining table",
-        "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
-        "points": 23,
-        "comments": 2,
-        "created_at": "2026-11-01T00:49:23.000Z"
+        "title": "The question we should all be asking about AI",
+        "url": "https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt",
+        "points": 18,
+        "comments": 19,
+        "created_at": "2026-11-01T12:44:36.000Z"
       }
     ],
     "vibeCoding": [
@@ -138,11 +138,11 @@
         "created_at": "2026-10-30T20:09:47.000Z"
       },
       {
-        "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
-        "url": "https://github.com/Millillion/lasm",
-        "points": 38,
-        "comments": 22,
-        "created_at": "2026-10-30T02:05:41.000Z"
+        "title": "Copper – A minimal low-level programming language with OOP and generics",
+        "url": "https://tibleiz.net/copper/",
+        "points": 96,
+        "comments": 54,
+        "created_at": "2026-10-30T19:09:33.000Z"
       }
     ]
   }
