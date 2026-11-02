@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-01T21:43:21.937Z",
+  "updatedAt": "2026-11-02T14:50:40.328Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.6,
-      "humidity": 80,
-      "wind_kph": 6.2,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 26.5,
+      "humidity": 31,
+      "wind_kph": 5.4,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
       "date": "2026-11-03",
-      "temp_max_c": 25.2,
-      "temp_min_c": 16.6,
-      "humidity_max": 89,
+      "temp_max_c": 25.1,
+      "temp_min_c": 15.6,
+      "humidity_max": 91,
       "humidity_min": 35,
-      "wind_kph": 22.7,
+      "wind_kph": 21,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 3875.58,
     "oilUSD": 79,
-    "updatedAt": "2026-11-01T21:43:21.937Z",
+    "updatedAt": "2026-11-02T14:50:40.328Z",
     "gold24KUSD": 124.6,
     "gold21KUSD": 109.03,
     "gold18KUSD": 93.45,
@@ -35,9 +35,9 @@
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:44",
-    "maghrib": "16:47",
-    "date": "01 Nov 2001"
+    "fajr": "04:45",
+    "maghrib": "16:46",
+    "date": "02 Nov 2002"
   },
   "events": [
     {
@@ -64,42 +64,49 @@
   "news": {
     "ai": [
       {
-        "title": "It wasn't AI that flipped Proton's charge",
-        "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
-        "points": 120,
-        "comments": 70,
-        "created_at": "2026-11-01T18:53:55.000Z"
-      },
-      {
-        "title": "Frontier Airlines Likely Breached",
-        "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-        "points": 142,
+        "title": "Last night an AI agent performed brain surgery on a mouse",
+        "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+        "points": 49,
         "comments": 40,
-        "created_at": "2026-11-01T16:46:33.000Z"
+        "created_at": "2026-11-02T12:50:59.000Z"
       },
       {
-        "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-        "points": 134,
-        "comments": 60,
-        "created_at": "2026-11-01T13:47:24.000Z"
+        "title": "Proton's AI manifesto for software engineering",
+        "url": "https://proton.me/blog/ai-manifesto",
+        "points": 20,
+        "comments": 11,
+        "created_at": "2026-11-02T08:10:45.000Z"
       },
       {
-        "title": "A 90% Chance of AI Saving Humanity",
-        "url": "https://joshbocanegra.medium.com/a-90-chance-of-ai-saving-humanity-bf12fb7914ee",
-        "points": 11,
-        "comments": 9,
-        "created_at": "2026-11-01T13:19:04.000Z"
+        "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+        "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+        "points": 118,
+        "comments": 58,
+        "created_at": "2026-11-02T07:27:28.000Z"
       },
       {
-        "title": "The question we should all be asking about AI",
-        "url": "https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt",
-        "points": 18,
-        "comments": 19,
-        "created_at": "2026-11-01T12:44:36.000Z"
+        "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+        "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+        "points": 94,
+        "comments": 88,
+        "created_at": "2026-11-02T01:47:07.000Z"
+      },
+      {
+        "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
+        "url": "https://picon.dev/en/publications/ai-assisted-engineering/",
+        "points": 46,
+        "comments": 25,
+        "created_at": "2026-11-02T01:35:02.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "In LLM era, can software startup survive?",
+        "url": "https://news.ycombinator.com/item?id=50331001",
+        "points": 34,
+        "comments": 42,
+        "created_at": "2026-11-01T23:28:46.000Z"
+      },
       {
         "title": "Ask HN: Have you observed this trend of building \"internal vibe-coding apps\"?",
         "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
@@ -112,14 +119,14 @@
       {
         "title": "AI Made Me Homeless",
         "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
-        "points": 13,
+        "points": 14,
         "comments": 11,
         "created_at": "2026-11-01T02:38:11.000Z"
       },
       {
         "title": "Anthropic orders AI tool Claude to stop remaking video games",
         "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-        "points": 29,
+        "points": 31,
         "comments": 16,
         "created_at": "2026-10-31T14:41:44.000Z"
       },
@@ -127,21 +134,21 @@
         "title": "Programming at Light Speed: Building the Gravity Query Engine",
         "url": "https://pgrust.com/blog/programming-at-light-speed/",
         "points": 19,
-        "comments": 10,
+        "comments": 11,
         "created_at": "2026-10-30T20:18:10.000Z"
       },
       {
         "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
         "url": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
-        "points": 27,
+        "points": 28,
         "comments": 2,
         "created_at": "2026-10-30T20:09:47.000Z"
       },
       {
         "title": "Copper – A minimal low-level programming language with OOP and generics",
         "url": "https://tibleiz.net/copper/",
-        "points": 96,
-        "comments": 54,
+        "points": 187,
+        "comments": 105,
         "created_at": "2026-10-30T19:09:33.000Z"
       }
     ]
