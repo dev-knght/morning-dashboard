@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-11-03T13:40:44.404Z",
+  "updatedAt": "2026-11-03T22:55:41.931Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 24.5,
-      "humidity": 51,
-      "wind_kph": 21,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
-    },
-    "tomorrow": {
-      "date": "2026-11-04",
-      "temp_max_c": 24.1,
-      "temp_min_c": 15.8,
-      "humidity_max": 95,
-      "humidity_min": 37,
-      "wind_kph": 22.2,
+      "temp_c": 16.5,
+      "humidity": 91,
+      "wind_kph": 4.1,
       "weather_code": 3,
       "weather_desc": "Overcast"
+    },
+    "tomorrow": {
+      "date": "2026-11-05",
+      "temp_max_c": 21.4,
+      "temp_min_c": 13.5,
+      "humidity_max": 94,
+      "humidity_min": 55,
+      "wind_kph": 18.8,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
     "goldUSD": 3911.65,
     "oilUSD": 79,
-    "updatedAt": "2026-11-03T13:40:44.404Z",
+    "updatedAt": "2026-11-03T22:55:41.931Z",
     "gold24KUSD": 125.76,
     "gold21KUSD": 110.04,
     "gold18KUSD": 94.32,
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "AI agents hallucinate prices: LLM grounding with live data",
-        "url": "https://blog.apify.com/llm-grounding-with-live-data/",
-        "points": 15,
-        "comments": 0,
-        "created_at": "2026-11-03T10:41:28.000Z"
+        "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+        "url": "https://arxiv.org/abs/2605.29713",
+        "points": 94,
+        "comments": 10,
+        "created_at": "2026-11-03T21:40:53.000Z"
       },
       {
-        "title": "How AI is creating a lopsided US economy",
-        "url": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078",
-        "points": 19,
-        "comments": 0,
-        "created_at": "2026-11-03T05:58:27.000Z"
+        "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+        "points": 56,
+        "comments": 18,
+        "created_at": "2026-11-03T21:26:44.000Z"
       },
       {
-        "title": "Developers are downgrading their AI on purpose – and it's working",
-        "url": "https://thenewstack.io/claude-code-developer-refusals/",
+        "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
+        "url": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
+        "points": 51,
+        "comments": 47,
+        "created_at": "2026-11-03T21:25:48.000Z"
+      },
+      {
+        "title": "Google to cutoff Search Engine access to schools banning Gen. AI",
+        "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai/",
         "points": 14,
-        "comments": 6,
-        "created_at": "2026-11-02T23:53:41.000Z"
+        "comments": 1,
+        "created_at": "2026-11-03T20:42:44.000Z"
       },
       {
-        "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
-        "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
-        "points": 73,
-        "comments": 44,
-        "created_at": "2026-11-02T19:36:37.000Z"
-      },
-      {
-        "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-        "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-        "points": 190,
-        "comments": 168,
-        "created_at": "2026-11-02T19:27:37.000Z"
+        "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+        "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+        "points": 12,
+        "comments": 1,
+        "created_at": "2026-11-03T19:10:15.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "In LLM era, can software startup survive?",
         "url": "https://news.ycombinator.com/item?id=50331001",
-        "points": 36,
-        "comments": 44,
+        "points": 37,
+        "comments": 45,
         "created_at": "2026-11-01T23:28:46.000Z"
       },
       {
@@ -117,16 +117,23 @@
     ],
     "progDb": [
       {
+        "title": "Introduction to Programming in ATS",
+        "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+        "points": 42,
+        "comments": 7,
+        "created_at": "2026-11-03T19:25:18.000Z"
+      },
+      {
         "title": "Astra can read and write weights to improve Qwen",
         "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-        "points": 2837,
-        "comments": 857,
+        "points": 2919,
+        "comments": 879,
         "created_at": "2026-11-02T18:21:28.000Z"
       },
       {
         "title": "AI Made Me Homeless",
         "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
-        "points": 14,
+        "points": 15,
         "comments": 11,
         "created_at": "2026-11-01T02:38:11.000Z"
       },
@@ -143,13 +150,6 @@
         "points": 19,
         "comments": 11,
         "created_at": "2026-10-30T20:18:10.000Z"
-      },
-      {
-        "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
-        "url": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
-        "points": 28,
-        "comments": 2,
-        "created_at": "2026-10-30T20:09:47.000Z"
       }
     ]
   }
