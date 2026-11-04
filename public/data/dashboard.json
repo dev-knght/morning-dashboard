@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-11-04T13:49:21.568Z",
+  "updatedAt": "2026-11-04T23:13:56.382Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 23.6,
-      "humidity": 34,
-      "wind_kph": 20.1,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
-    },
-    "tomorrow": {
-      "date": "2026-11-05",
-      "temp_max_c": 21.5,
-      "temp_min_c": 13.7,
-      "humidity_max": 94,
-      "humidity_min": 53,
-      "wind_kph": 19.8,
+      "temp_c": 14.8,
+      "humidity": 65,
+      "wind_kph": 4.5,
       "weather_code": 3,
       "weather_desc": "Overcast"
+    },
+    "tomorrow": {
+      "date": "2026-11-06",
+      "temp_max_c": 19.8,
+      "temp_min_c": 13.2,
+      "humidity_max": 93,
+      "humidity_min": 60,
+      "wind_kph": 17.5,
+      "weather_code": 95,
+      "weather_desc": "Thunderstorm"
     }
   },
   "metals": {
-    "goldUSD": 3952.1,
+    "goldUSD": 3938.26,
     "oilUSD": 79,
-    "updatedAt": "2026-11-04T13:49:21.568Z",
-    "gold24KUSD": 127.06,
-    "gold21KUSD": 111.18,
-    "gold18KUSD": 95.3,
-    "gold24KJD": 90.09,
-    "gold21KJD": 78.83,
-    "gold18KJD": 67.57
+    "updatedAt": "2026-11-04T23:13:56.382Z",
+    "gold24KUSD": 126.62,
+    "gold21KUSD": 110.79,
+    "gold18KUSD": 94.96,
+    "gold24KJD": 89.77,
+    "gold21KJD": 78.55,
+    "gold18KJD": 67.33
   },
   "exchange": {
     "JOD": 0.709
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI is forcing us to pay off 40 years of technical debt",
-        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-        "points": 239,
-        "comments": 125,
-        "created_at": "2026-11-04T11:52:17.000Z"
+        "title": "Everything is an AI scam now",
+        "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+        "points": 111,
+        "comments": 35,
+        "created_at": "2026-11-04T21:05:19.000Z"
       },
       {
-        "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-        "points": 151,
-        "comments": 100,
-        "created_at": "2026-11-04T10:23:34.000Z"
+        "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+        "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+        "points": 73,
+        "comments": 36,
+        "created_at": "2026-11-04T19:55:14.000Z"
       },
       {
-        "title": "AI stocks slide as Texas governor result raises data center risks",
-        "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
-        "points": 46,
-        "comments": 63,
-        "created_at": "2026-11-04T07:00:20.000Z"
-      },
-      {
-        "title": "Google will cut off search access for students at schools that reject AI",
-        "url": "https://apnews.com/article/ai-schools-classroom-students-google-7ba4219e505db1c11d672f6eefe7155a",
+        "title": "Dev Reverse Engineers Billion Dollar Harvey AI and Releases It Free, Open Source",
+        "url": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-89b81414fe7cc937935f093a01305110",
         "points": 15,
-        "comments": 3,
-        "created_at": "2026-11-04T04:40:06.000Z"
+        "comments": 5,
+        "created_at": "2026-11-04T17:42:05.000Z"
       },
       {
-        "title": "Why Every AI Model Will Ship as a Torrent",
-        "url": "https://pirateface.co/articles/one-model-one-swarm",
-        "points": 22,
-        "comments": 4,
-        "created_at": "2026-11-03T22:36:22.000Z"
+        "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+        "url": "https://news.ycombinator.com/item?id=50368804",
+        "points": 60,
+        "comments": 26,
+        "created_at": "2026-11-04T17:31:53.000Z"
+      },
+      {
+        "title": "AI data centers comprehensively defeated at US midterm elections",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
+        "points": 54,
+        "comments": 39,
+        "created_at": "2026-11-04T15:35:51.000Z"
       }
     ],
     "vibeCoding": [
@@ -104,7 +104,7 @@
         "title": "In LLM era, can software startup survive?",
         "url": "https://news.ycombinator.com/item?id=50331001",
         "points": 37,
-        "comments": 46,
+        "comments": 47,
         "created_at": "2026-11-01T23:28:46.000Z"
       }
     ],
@@ -112,22 +112,22 @@
       {
         "title": "Prompting Is Programming",
         "url": "https://www.brethorsting.com/blog/2026/11/prompting-is-programming/",
-        "points": 20,
-        "comments": 16,
+        "points": 21,
+        "comments": 17,
         "created_at": "2026-11-03T23:49:06.000Z"
       },
       {
         "title": "Introduction to Programming in ATS",
         "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
-        "points": 81,
+        "points": 85,
         "comments": 9,
         "created_at": "2026-11-03T19:25:18.000Z"
       },
       {
         "title": "Astra can read and write weights to improve Qwen",
         "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-        "points": 2932,
-        "comments": 882,
+        "points": 2941,
+        "comments": 890,
         "created_at": "2026-11-02T18:21:28.000Z"
       },
       {
