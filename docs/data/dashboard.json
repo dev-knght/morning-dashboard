@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-03T22:55:41.931Z",
+  "updatedAt": "2026-11-04T13:49:21.568Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.5,
-      "humidity": 91,
-      "wind_kph": 4.1,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 23.6,
+      "humidity": 34,
+      "wind_kph": 20.1,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-11-05",
-      "temp_max_c": 21.4,
-      "temp_min_c": 13.5,
+      "temp_max_c": 21.5,
+      "temp_min_c": 13.7,
       "humidity_max": 94,
-      "humidity_min": 55,
-      "wind_kph": 18.8,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "humidity_min": 53,
+      "wind_kph": 19.8,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 3911.65,
+    "goldUSD": 3952.1,
     "oilUSD": 79,
-    "updatedAt": "2026-11-03T22:55:41.931Z",
-    "gold24KUSD": 125.76,
-    "gold21KUSD": 110.04,
-    "gold18KUSD": 94.32,
-    "gold24KJD": 89.17,
-    "gold21KJD": 78.02,
-    "gold18KJD": 66.87
+    "updatedAt": "2026-11-04T13:49:21.568Z",
+    "gold24KUSD": 127.06,
+    "gold21KUSD": 111.18,
+    "gold18KUSD": 95.3,
+    "gold24KJD": 90.09,
+    "gold21KJD": 78.83,
+    "gold18KJD": 67.57
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:45",
-    "maghrib": "16:45",
-    "date": "03 Nov 2003"
+    "fajr": "04:47",
+    "maghrib": "16:44",
+    "date": "04 Nov 2004"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-        "url": "https://arxiv.org/abs/2605.29713",
-        "points": 94,
-        "comments": 10,
-        "created_at": "2026-11-03T21:40:53.000Z"
+        "title": "AI is forcing us to pay off 40 years of technical debt",
+        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+        "points": 239,
+        "comments": 125,
+        "created_at": "2026-11-04T11:52:17.000Z"
       },
       {
-        "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-        "points": 56,
-        "comments": 18,
-        "created_at": "2026-11-03T21:26:44.000Z"
+        "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+        "points": 151,
+        "comments": 100,
+        "created_at": "2026-11-04T10:23:34.000Z"
       },
       {
-        "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
-        "url": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
-        "points": 51,
-        "comments": 47,
-        "created_at": "2026-11-03T21:25:48.000Z"
+        "title": "AI stocks slide as Texas governor result raises data center risks",
+        "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+        "points": 46,
+        "comments": 63,
+        "created_at": "2026-11-04T07:00:20.000Z"
       },
       {
-        "title": "Google to cutoff Search Engine access to schools banning Gen. AI",
-        "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai/",
-        "points": 14,
-        "comments": 1,
-        "created_at": "2026-11-03T20:42:44.000Z"
+        "title": "Google will cut off search access for students at schools that reject AI",
+        "url": "https://apnews.com/article/ai-schools-classroom-students-google-7ba4219e505db1c11d672f6eefe7155a",
+        "points": 15,
+        "comments": 3,
+        "created_at": "2026-11-04T04:40:06.000Z"
       },
       {
-        "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-        "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-        "points": 12,
-        "comments": 1,
-        "created_at": "2026-11-03T19:10:15.000Z"
+        "title": "Why Every AI Model Will Ship as a Torrent",
+        "url": "https://pirateface.co/articles/one-model-one-swarm",
+        "points": 22,
+        "comments": 4,
+        "created_at": "2026-11-03T22:36:22.000Z"
       }
     ],
     "vibeCoding": [
@@ -104,30 +104,30 @@
         "title": "In LLM era, can software startup survive?",
         "url": "https://news.ycombinator.com/item?id=50331001",
         "points": 37,
-        "comments": 45,
+        "comments": 46,
         "created_at": "2026-11-01T23:28:46.000Z"
-      },
-      {
-        "title": "Ask HN: Have you observed this trend of building \"internal vibe-coding apps\"?",
-        "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
-        "points": 15,
-        "comments": 18,
-        "created_at": "2026-10-21T04:24:54.000Z"
       }
     ],
     "progDb": [
       {
+        "title": "Prompting Is Programming",
+        "url": "https://www.brethorsting.com/blog/2026/11/prompting-is-programming/",
+        "points": 20,
+        "comments": 16,
+        "created_at": "2026-11-03T23:49:06.000Z"
+      },
+      {
         "title": "Introduction to Programming in ATS",
         "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
-        "points": 42,
-        "comments": 7,
+        "points": 81,
+        "comments": 9,
         "created_at": "2026-11-03T19:25:18.000Z"
       },
       {
         "title": "Astra can read and write weights to improve Qwen",
         "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-        "points": 2919,
-        "comments": 879,
+        "points": 2932,
+        "comments": 882,
         "created_at": "2026-11-02T18:21:28.000Z"
       },
       {
@@ -143,13 +143,6 @@
         "points": 31,
         "comments": 16,
         "created_at": "2026-10-31T14:41:44.000Z"
-      },
-      {
-        "title": "Programming at Light Speed: Building the Gravity Query Engine",
-        "url": "https://pgrust.com/blog/programming-at-light-speed/",
-        "points": 19,
-        "comments": 11,
-        "created_at": "2026-10-30T20:18:10.000Z"
       }
     ]
   }
