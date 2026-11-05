@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-11-05T14:01:25.150Z",
+  "updatedAt": "2026-11-05T23:16:55.515Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 21.7,
-      "humidity": 44,
-      "wind_kph": 15.9,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 13.3,
+      "humidity": 85,
+      "wind_kph": 4.1,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-11-06",
-      "temp_max_c": 20,
-      "temp_min_c": 13.3,
-      "humidity_max": 93,
-      "humidity_min": 59,
-      "wind_kph": 17.3,
-      "weather_code": 95,
-      "weather_desc": "Thunderstorm"
+      "date": "2026-11-07",
+      "temp_max_c": 17.7,
+      "temp_min_c": 13.1,
+      "humidity_max": 96,
+      "humidity_min": 65,
+      "wind_kph": 27.9,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
-    "goldUSD": 3938.21,
+    "goldUSD": 4065.39,
     "oilUSD": 79,
-    "updatedAt": "2026-11-05T14:01:25.150Z",
-    "gold24KUSD": 126.62,
-    "gold21KUSD": 110.79,
-    "gold18KUSD": 94.96,
-    "gold24KJD": 89.77,
-    "gold21KJD": 78.55,
-    "gold18KJD": 67.33
+    "updatedAt": "2026-11-05T23:16:55.515Z",
+    "gold24KUSD": 130.71,
+    "gold21KUSD": 114.37,
+    "gold18KUSD": 98.03,
+    "gold24KJD": 92.67,
+    "gold21KJD": 81.09,
+    "gold18KJD": 69.5
   },
   "exchange": {
     "JOD": 0.709
@@ -64,42 +64,56 @@
   "news": {
     "ai": [
       {
-        "title": "American Voters Overwhelmingly Reject AI Data Centers",
-        "url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
-        "points": 54,
-        "comments": 2,
-        "created_at": "2026-11-05T00:43:13.000Z"
-      },
-      {
-        "title": "You'll need nerves of steel to work with AI agents",
-        "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
-        "points": 51,
-        "comments": 72,
-        "created_at": "2026-11-05T00:01:30.000Z"
-      },
-      {
-        "title": "AI triggers PCB shortage for PC makers as order books full until 2030, costs 12x",
-        "url": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
-        "points": 19,
-        "comments": 6,
-        "created_at": "2026-11-04T23:05:24.000Z"
-      },
-      {
-        "title": "YouTuber discovers aircraft noise trick that can geolocate videos to within 100M",
-        "url": "https://www.techradar.com/computing/cyber-security/youtuber-discovers-aircraft-noise-trick-that-can-geolocate-your-videos-to-within-100m-doppler-effect-pinpoints-locations-from-just-60-seconds-of-audio",
-        "points": 17,
+        "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+        "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+        "points": 59,
         "comments": 1,
-        "created_at": "2026-11-04T22:59:40.000Z"
+        "created_at": "2026-11-05T20:21:43.000Z"
       },
       {
-        "title": "Everything is an AI scam now",
-        "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
-        "points": 143,
-        "comments": 54,
-        "created_at": "2026-11-04T21:05:19.000Z"
+        "title": "Wipeout for AI stocks sends Wall Street reeling and S&P 500 tumbles more than 3%",
+        "url": "https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e",
+        "points": 15,
+        "comments": 2,
+        "created_at": "2026-11-05T19:58:06.000Z"
+      },
+      {
+        "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+        "points": 144,
+        "comments": 174,
+        "created_at": "2026-11-05T18:00:01.000Z"
+      },
+      {
+        "title": "The Election Day Revolt That Threatens America's AI Boom",
+        "url": "https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52",
+        "points": 12,
+        "comments": 8,
+        "created_at": "2026-11-05T16:35:40.000Z"
+      },
+      {
+        "title": "AI stock selloffs fuel fears Big Tech's best quarters are over",
+        "url": "https://www.latimes.com/business/story/2026-10-30/big-techs-growth-is-cooling-raising-fears-that-best-quarters-are-over",
+        "points": 13,
+        "comments": 2,
+        "created_at": "2026-11-05T14:23:41.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Vibe Coding Keypad",
+        "url": "https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad",
+        "points": 84,
+        "comments": 56,
+        "created_at": "2026-11-05T16:43:16.000Z"
+      },
+      {
+        "title": "Ask HN: How to Keep the Edge as an Engineer?",
+        "url": "https://news.ycombinator.com/item?id=50362698",
+        "points": 11,
+        "comments": 8,
+        "created_at": "2026-11-04T08:16:29.000Z"
+      },
       {
         "title": "In LLM era, can software startup survive?",
         "url": "https://news.ycombinator.com/item?id=50331001",
@@ -124,10 +138,17 @@
         "created_at": "2026-11-03T19:25:18.000Z"
       },
       {
+        "title": "The Lisp curse, now coming to your ecosystem",
+        "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
+        "points": 190,
+        "comments": 145,
+        "created_at": "2026-11-03T08:59:31.000Z"
+      },
+      {
         "title": "Astra can read and write weights to improve Qwen",
         "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-        "points": 2949,
-        "comments": 892,
+        "points": 2950,
+        "comments": 894,
         "created_at": "2026-11-02T18:21:28.000Z"
       },
       {
@@ -136,13 +157,6 @@
         "points": 15,
         "comments": 11,
         "created_at": "2026-11-01T02:38:11.000Z"
-      },
-      {
-        "title": "Anthropic orders AI tool Claude to stop remaking video games",
-        "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-        "points": 31,
-        "comments": 16,
-        "created_at": "2026-10-31T14:41:44.000Z"
       }
     ]
   }
