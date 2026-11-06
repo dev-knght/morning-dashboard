@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-05T23:16:55.515Z",
+  "updatedAt": "2026-11-06T13:46:31.876Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 13.3,
-      "humidity": 85,
-      "wind_kph": 4.1,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 16.8,
+      "humidity": 87,
+      "wind_kph": 15.7,
+      "weather_code": 95,
+      "weather_desc": "Thunderstorm"
     },
     "tomorrow": {
       "date": "2026-11-07",
-      "temp_max_c": 17.7,
-      "temp_min_c": 13.1,
-      "humidity_max": 96,
-      "humidity_min": 65,
-      "wind_kph": 27.9,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "temp_max_c": 17.5,
+      "temp_min_c": 13.3,
+      "humidity_max": 97,
+      "humidity_min": 69,
+      "wind_kph": 25.6,
+      "weather_code": 95,
+      "weather_desc": "Thunderstorm"
     }
   },
   "metals": {
-    "goldUSD": 4065.39,
+    "goldUSD": 4086.58,
     "oilUSD": 79,
-    "updatedAt": "2026-11-05T23:16:55.515Z",
-    "gold24KUSD": 130.71,
-    "gold21KUSD": 114.37,
-    "gold18KUSD": 98.03,
-    "gold24KJD": 92.67,
-    "gold21KJD": 81.09,
-    "gold18KJD": 69.5
+    "updatedAt": "2026-11-06T13:46:31.876Z",
+    "gold24KUSD": 131.39,
+    "gold21KUSD": 114.96,
+    "gold18KUSD": 98.54,
+    "gold24KJD": 93.15,
+    "gold21KJD": 81.51,
+    "gold18KJD": 69.86
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:47",
+    "fajr": "04:48",
     "maghrib": "16:43",
-    "date": "05 Nov 2005"
+    "date": "06 Nov 2006"
   },
   "events": [
     {
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-        "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-        "points": 59,
-        "comments": 1,
-        "created_at": "2026-11-05T20:21:43.000Z"
+        "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+        "url": "https://obelisk.club/research/app-store-2026",
+        "points": 57,
+        "comments": 50,
+        "created_at": "2026-11-06T07:59:19.000Z"
       },
       {
-        "title": "Wipeout for AI stocks sends Wall Street reeling and S&P 500 tumbles more than 3%",
-        "url": "https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e",
+        "title": "Global stocks tumble as AI panic grips markets after Democrats' midterm success",
+        "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+        "points": 34,
+        "comments": 14,
+        "created_at": "2026-11-06T07:52:53.000Z"
+      },
+      {
+        "title": "I struggle to believe that AI R&D is ingenious",
+        "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+        "points": 146,
+        "comments": 140,
+        "created_at": "2026-11-06T05:19:04.000Z"
+      },
+      {
+        "title": "How accurately did science fiction stories predict AI?",
+        "url": "https://jamesyu.org/science-fiction-predictions-of-ai/",
+        "points": 33,
+        "comments": 64,
+        "created_at": "2026-11-06T04:36:22.000Z"
+      },
+      {
+        "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+        "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
         "points": 15,
         "comments": 2,
-        "created_at": "2026-11-05T19:58:06.000Z"
-      },
-      {
-        "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
-        "points": 144,
-        "comments": 174,
-        "created_at": "2026-11-05T18:00:01.000Z"
-      },
-      {
-        "title": "The Election Day Revolt That Threatens America's AI Boom",
-        "url": "https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52",
-        "points": 12,
-        "comments": 8,
-        "created_at": "2026-11-05T16:35:40.000Z"
-      },
-      {
-        "title": "AI stock selloffs fuel fears Big Tech's best quarters are over",
-        "url": "https://www.latimes.com/business/story/2026-10-30/big-techs-growth-is-cooling-raising-fears-that-best-quarters-are-over",
-        "points": 13,
-        "comments": 2,
-        "created_at": "2026-11-05T14:23:41.000Z"
+        "created_at": "2026-11-06T04:00:28.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Vibe Coding Keypad",
         "url": "https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad",
-        "points": 84,
-        "comments": 56,
+        "points": 90,
+        "comments": 60,
         "created_at": "2026-11-05T16:43:16.000Z"
       },
       {
@@ -140,15 +140,15 @@
       {
         "title": "The Lisp curse, now coming to your ecosystem",
         "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
-        "points": 190,
-        "comments": 145,
+        "points": 233,
+        "comments": 198,
         "created_at": "2026-11-03T08:59:31.000Z"
       },
       {
         "title": "Astra can read and write weights to improve Qwen",
         "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-        "points": 2950,
-        "comments": 894,
+        "points": 2955,
+        "comments": 896,
         "created_at": "2026-11-02T18:21:28.000Z"
       },
       {
