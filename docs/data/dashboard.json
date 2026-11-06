@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-11-06T13:46:31.876Z",
+  "updatedAt": "2026-11-06T22:44:12.557Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.8,
-      "humidity": 87,
-      "wind_kph": 15.7,
-      "weather_code": 95,
-      "weather_desc": "Thunderstorm"
+      "temp_c": 14.3,
+      "humidity": 91,
+      "wind_kph": 3.2,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
-      "date": "2026-11-07",
-      "temp_max_c": 17.5,
-      "temp_min_c": 13.3,
-      "humidity_max": 97,
-      "humidity_min": 69,
-      "wind_kph": 25.6,
-      "weather_code": 95,
-      "weather_desc": "Thunderstorm"
+      "date": "2026-11-08",
+      "temp_max_c": 16.3,
+      "temp_min_c": 11.2,
+      "humidity_max": 94,
+      "humidity_min": 67,
+      "wind_kph": 24.3,
+      "weather_code": 80,
+      "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
     "goldUSD": 4086.58,
     "oilUSD": 79,
-    "updatedAt": "2026-11-06T13:46:31.876Z",
+    "updatedAt": "2026-11-06T22:44:12.557Z",
     "gold24KUSD": 131.39,
     "gold21KUSD": 114.96,
     "gold18KUSD": 98.54,
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-        "url": "https://obelisk.club/research/app-store-2026",
-        "points": 57,
-        "comments": 50,
-        "created_at": "2026-11-06T07:59:19.000Z"
+        "title": "AI is dramatically accelerating AI research",
+        "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+        "points": 110,
+        "comments": 65,
+        "created_at": "2026-11-06T20:27:23.000Z"
       },
       {
-        "title": "Global stocks tumble as AI panic grips markets after Democrats' midterm success",
-        "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
-        "points": 34,
-        "comments": 14,
-        "created_at": "2026-11-06T07:52:53.000Z"
+        "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
+        "url": "https://halfnarp.events.ccc.de",
+        "points": 30,
+        "comments": 6,
+        "created_at": "2026-11-06T18:16:43.000Z"
       },
       {
-        "title": "I struggle to believe that AI R&D is ingenious",
-        "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-        "points": 146,
-        "comments": 140,
-        "created_at": "2026-11-06T05:19:04.000Z"
+        "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+        "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+        "points": 75,
+        "comments": 13,
+        "created_at": "2026-11-06T18:04:06.000Z"
       },
       {
-        "title": "How accurately did science fiction stories predict AI?",
-        "url": "https://jamesyu.org/science-fiction-predictions-of-ai/",
-        "points": 33,
-        "comments": 64,
-        "created_at": "2026-11-06T04:36:22.000Z"
+        "title": "An AI Rant",
+        "url": "https://carlhandellen.substack.com/p/an-ai-rant",
+        "points": 13,
+        "comments": 6,
+        "created_at": "2026-11-06T18:00:30.000Z"
       },
       {
-        "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-        "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-        "points": 15,
-        "comments": 2,
-        "created_at": "2026-11-06T04:00:28.000Z"
+        "title": "Perplexity launches AI agents for work",
+        "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+        "points": 58,
+        "comments": 49,
+        "created_at": "2026-11-06T17:59:41.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Vibe Coding Keypad",
         "url": "https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad",
-        "points": 90,
-        "comments": 60,
+        "points": 92,
+        "comments": 61,
         "created_at": "2026-11-05T16:43:16.000Z"
       },
       {
@@ -124,6 +124,13 @@
     ],
     "progDb": [
       {
+        "title": "First steps in bare-metal programming using UEFI",
+        "url": "https://kevinboone.me/efitest_index.html",
+        "points": 156,
+        "comments": 29,
+        "created_at": "2026-11-06T16:50:29.000Z"
+      },
+      {
         "title": "Prompting Is Programming",
         "url": "https://www.brethorsting.com/blog/2026/11/prompting-is-programming/",
         "points": 21,
@@ -140,23 +147,16 @@
       {
         "title": "The Lisp curse, now coming to your ecosystem",
         "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
-        "points": 233,
-        "comments": 198,
+        "points": 238,
+        "comments": 207,
         "created_at": "2026-11-03T08:59:31.000Z"
       },
       {
         "title": "Astra can read and write weights to improve Qwen",
         "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-        "points": 2955,
-        "comments": 896,
+        "points": 2956,
+        "comments": 898,
         "created_at": "2026-11-02T18:21:28.000Z"
-      },
-      {
-        "title": "AI Made Me Homeless",
-        "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
-        "points": 15,
-        "comments": 11,
-        "created_at": "2026-11-01T02:38:11.000Z"
       }
     ]
   }
