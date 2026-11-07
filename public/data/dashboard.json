@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-06T22:44:12.557Z",
+  "updatedAt": "2026-11-07T12:30:13.706Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 14.3,
-      "humidity": 91,
-      "wind_kph": 3.2,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 15.9,
+      "humidity": 87,
+      "wind_kph": 19.2,
+      "weather_code": 95,
+      "weather_desc": "Thunderstorm"
     },
     "tomorrow": {
       "date": "2026-11-08",
-      "temp_max_c": 16.3,
-      "temp_min_c": 11.2,
-      "humidity_max": 94,
-      "humidity_min": 67,
-      "wind_kph": 24.3,
+      "temp_max_c": 15.9,
+      "temp_min_c": 11,
+      "humidity_max": 93,
+      "humidity_min": 60,
+      "wind_kph": 23.9,
       "weather_code": 80,
       "weather_desc": "Slight rain showers"
     }
   },
   "metals": {
-    "goldUSD": 4086.58,
+    "goldUSD": 4069.1,
     "oilUSD": 79,
-    "updatedAt": "2026-11-06T22:44:12.557Z",
-    "gold24KUSD": 131.39,
-    "gold21KUSD": 114.96,
-    "gold18KUSD": 98.54,
-    "gold24KJD": 93.15,
-    "gold21KJD": 81.51,
-    "gold18KJD": 69.86
+    "updatedAt": "2026-11-07T12:30:13.706Z",
+    "gold24KUSD": 130.82,
+    "gold21KUSD": 114.47,
+    "gold18KUSD": 98.12,
+    "gold24KJD": 92.75,
+    "gold21KJD": 81.16,
+    "gold18KJD": 69.57
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "04:48",
-    "maghrib": "16:43",
-    "date": "06 Nov 2006"
+    "maghrib": "16:42",
+    "date": "07 Nov 2007"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "Inter-AI Morality: How AI Systems Treat One Another [pdf]",
+        "url": "https://digitalminds.cam/inter-ai-morality.pdf",
+        "points": 13,
+        "comments": 0,
+        "created_at": "2026-11-07T08:02:02.000Z"
+      },
+      {
+        "title": "Brave Sells Its Search Index to AI, and Your Website Is Probably in It",
+        "url": "https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/",
+        "points": 14,
+        "comments": 2,
+        "created_at": "2026-11-07T02:59:27.000Z"
+      },
+      {
+        "title": "The AI sell-off compared to well-known stock market crashes",
+        "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+        "points": 69,
+        "comments": 64,
+        "created_at": "2026-11-07T02:20:06.000Z"
+      },
+      {
         "title": "AI is dramatically accelerating AI research",
         "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-        "points": 110,
-        "comments": 65,
+        "points": 327,
+        "comments": 287,
         "created_at": "2026-11-06T20:27:23.000Z"
       },
       {
         "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
         "url": "https://halfnarp.events.ccc.de",
-        "points": 30,
-        "comments": 6,
+        "points": 51,
+        "comments": 10,
         "created_at": "2026-11-06T18:16:43.000Z"
-      },
-      {
-        "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-        "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
-        "points": 75,
-        "comments": 13,
-        "created_at": "2026-11-06T18:04:06.000Z"
-      },
-      {
-        "title": "An AI Rant",
-        "url": "https://carlhandellen.substack.com/p/an-ai-rant",
-        "points": 13,
-        "comments": 6,
-        "created_at": "2026-11-06T18:00:30.000Z"
-      },
-      {
-        "title": "Perplexity launches AI agents for work",
-        "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-        "points": 58,
-        "comments": 49,
-        "created_at": "2026-11-06T17:59:41.000Z"
       }
     ],
     "vibeCoding": [
@@ -126,8 +126,8 @@
       {
         "title": "First steps in bare-metal programming using UEFI",
         "url": "https://kevinboone.me/efitest_index.html",
-        "points": 156,
-        "comments": 29,
+        "points": 227,
+        "comments": 42,
         "created_at": "2026-11-06T16:50:29.000Z"
       },
       {
@@ -140,7 +140,7 @@
       {
         "title": "Introduction to Programming in ATS",
         "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
-        "points": 85,
+        "points": 86,
         "comments": 11,
         "created_at": "2026-11-03T19:25:18.000Z"
       },
@@ -148,14 +148,14 @@
         "title": "The Lisp curse, now coming to your ecosystem",
         "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
         "points": 238,
-        "comments": 207,
+        "comments": 212,
         "created_at": "2026-11-03T08:59:31.000Z"
       },
       {
         "title": "Astra can read and write weights to improve Qwen",
         "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-        "points": 2956,
-        "comments": 898,
+        "points": 2958,
+        "comments": 899,
         "created_at": "2026-11-02T18:21:28.000Z"
       }
     ]
