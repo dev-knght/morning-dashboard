@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-08T12:48:28.346Z",
+  "updatedAt": "2026-11-08T21:42:29.898Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 14.9,
-      "humidity": 89,
-      "wind_kph": 18.4,
-      "weather_code": 80,
-      "weather_desc": "Slight rain showers"
+      "temp_c": 11.2,
+      "humidity": 68,
+      "wind_kph": 8.7,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-11-09",
-      "temp_max_c": 17.5,
-      "temp_min_c": 7.5,
-      "humidity_max": 85,
-      "humidity_min": 35,
-      "wind_kph": 13.5,
+      "date": "2026-11-10",
+      "temp_max_c": 18.4,
+      "temp_min_c": 6.6,
+      "humidity_max": 65,
+      "humidity_min": 31,
+      "wind_kph": 18.1,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 4068.2,
     "oilUSD": 79,
-    "updatedAt": "2026-11-08T12:48:28.346Z",
+    "updatedAt": "2026-11-08T21:42:29.898Z",
     "gold24KUSD": 130.8,
     "gold21KUSD": 114.45,
     "gold18KUSD": 98.1,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "How I Fight AI Brain Fry",
+        "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+        "points": 88,
+        "comments": 64,
+        "created_at": "2026-11-08T19:37:42.000Z"
+      },
+      {
+        "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+        "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+        "points": 76,
+        "comments": 84,
+        "created_at": "2026-11-08T18:43:07.000Z"
+      },
+      {
+        "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+        "points": 34,
+        "comments": 55,
+        "created_at": "2026-11-08T15:19:51.000Z"
+      },
+      {
+        "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
+        "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+        "points": 53,
+        "comments": 40,
+        "created_at": "2026-11-08T15:00:42.000Z"
+      },
+      {
         "title": "The End of AI Frontiers",
         "url": "https://hunch.net/?p=13764006",
         "points": 81,
         "comments": 4,
         "created_at": "2026-11-07T18:04:07.000Z"
-      },
-      {
-        "title": "The end of Microsoft Research's AI Frontiers group",
-        "url": "https://hunch.net/?p=13764006",
-        "points": 469,
-        "comments": 282,
-        "created_at": "2026-11-07T18:02:17.000Z"
-      },
-      {
-        "title": "I don't care if web content is AI-generated",
-        "url": "https://kevinboone.me/ai.html",
-        "points": 15,
-        "comments": 12,
-        "created_at": "2026-11-07T14:02:56.000Z"
-      },
-      {
-        "title": "Inter-AI Morality: How AI Systems Treat One Another [pdf]",
-        "url": "https://digitalminds.cam/inter-ai-morality.pdf",
-        "points": 13,
-        "comments": 0,
-        "created_at": "2026-11-07T08:02:02.000Z"
-      },
-      {
-        "title": "Show HN: Backwords – Let AI teach you how to speak in reverse",
-        "url": "https://backwords.greg.technology/",
-        "points": 12,
-        "comments": 3,
-        "created_at": "2026-11-07T03:39:46.000Z"
       }
     ],
     "vibeCoding": [
@@ -126,15 +126,15 @@
       {
         "title": "Five memorable books about programming (2008)",
         "url": "https://prog21.dadgum.com/19.html",
-        "points": 121,
-        "comments": 79,
+        "points": 132,
+        "comments": 87,
         "created_at": "2026-11-07T17:30:49.000Z"
       },
       {
         "title": "First steps in bare-metal programming using UEFI",
         "url": "https://kevinboone.me/efitest_index.html",
-        "points": 249,
-        "comments": 54,
+        "points": 251,
+        "comments": 57,
         "created_at": "2026-11-06T16:50:29.000Z"
       },
       {
@@ -155,7 +155,7 @@
         "title": "The Lisp curse, now coming to your ecosystem",
         "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
         "points": 239,
-        "comments": 216,
+        "comments": 218,
         "created_at": "2026-11-03T08:59:31.000Z"
       }
     ]
