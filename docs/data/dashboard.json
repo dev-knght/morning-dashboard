@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-08T21:42:29.898Z",
+  "updatedAt": "2026-11-09T15:16:27.822Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 11.2,
-      "humidity": 68,
-      "wind_kph": 8.7,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 15.3,
+      "humidity": 39,
+      "wind_kph": 3.1,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-11-10",
-      "temp_max_c": 18.4,
-      "temp_min_c": 6.6,
-      "humidity_max": 65,
-      "humidity_min": 31,
-      "wind_kph": 18.1,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_max_c": 18.5,
+      "temp_min_c": 6.3,
+      "humidity_max": 60,
+      "humidity_min": 29,
+      "wind_kph": 18.5,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     }
   },
   "metals": {
-    "goldUSD": 4068.2,
+    "goldUSD": 4055.57,
     "oilUSD": 79,
-    "updatedAt": "2026-11-08T21:42:29.898Z",
-    "gold24KUSD": 130.8,
-    "gold21KUSD": 114.45,
-    "gold18KUSD": 98.1,
-    "gold24KJD": 92.73,
-    "gold21KJD": 81.14,
-    "gold18KJD": 69.55
+    "updatedAt": "2026-11-09T15:16:27.822Z",
+    "gold24KUSD": 130.39,
+    "gold21KUSD": 114.09,
+    "gold18KUSD": 97.79,
+    "gold24KJD": 92.45,
+    "gold21KJD": 80.89,
+    "gold18KJD": 69.33
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "04:50",
-    "maghrib": "16:41",
-    "date": "08 Nov 2008"
+    "maghrib": "16:40",
+    "date": "09 Nov 2009"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "How I Fight AI Brain Fry",
-        "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-        "points": 88,
-        "comments": 64,
-        "created_at": "2026-11-08T19:37:42.000Z"
+        "title": "Fold Epic Paper Airplanes",
+        "url": "https://www.foldableflight.com",
+        "points": 279,
+        "comments": 60,
+        "created_at": "2026-11-09T12:19:22.000Z"
       },
       {
-        "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-        "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-        "points": 76,
-        "comments": 84,
-        "created_at": "2026-11-08T18:43:07.000Z"
+        "title": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+        "url": "https://zenodo.org/records/23682548",
+        "points": 29,
+        "comments": 52,
+        "created_at": "2026-11-09T11:30:27.000Z"
       },
       {
-        "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-        "points": 34,
-        "comments": 55,
-        "created_at": "2026-11-08T15:19:51.000Z"
+        "title": "370 Books in 20 months: South African author defends her use of AI",
+        "url": "https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai",
+        "points": 38,
+        "comments": 82,
+        "created_at": "2026-11-09T07:21:33.000Z"
       },
       {
-        "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
-        "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
-        "points": 53,
+        "title": "Being a meat proxy for AI should be grounds for getting people fired",
+        "url": "https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired",
+        "points": 43,
         "comments": 40,
-        "created_at": "2026-11-08T15:00:42.000Z"
+        "created_at": "2026-11-09T06:55:38.000Z"
       },
       {
-        "title": "The End of AI Frontiers",
-        "url": "https://hunch.net/?p=13764006",
-        "points": 81,
-        "comments": 4,
-        "created_at": "2026-11-07T18:04:07.000Z"
+        "title": "Apple capped engineers at a $200 daily AI budget",
+        "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+        "points": 100,
+        "comments": 101,
+        "created_at": "2026-11-09T05:30:11.000Z"
       }
     ],
     "vibeCoding": [
@@ -111,14 +111,14 @@
         "title": "Ask HN: How to Keep the Edge as an Engineer?",
         "url": "https://news.ycombinator.com/item?id=50362698",
         "points": 11,
-        "comments": 8,
+        "comments": 9,
         "created_at": "2026-11-04T08:16:29.000Z"
       },
       {
         "title": "In LLM era, can software startup survive?",
         "url": "https://news.ycombinator.com/item?id=50331001",
         "points": 37,
-        "comments": 47,
+        "comments": 48,
         "created_at": "2026-11-01T23:28:46.000Z"
       }
     ],
@@ -126,14 +126,21 @@
       {
         "title": "Five memorable books about programming (2008)",
         "url": "https://prog21.dadgum.com/19.html",
-        "points": 132,
-        "comments": 87,
+        "points": 140,
+        "comments": 91,
         "created_at": "2026-11-07T17:30:49.000Z"
+      },
+      {
+        "title": "SultanC – an Arabic-first systems programming language",
+        "url": "https://github.com/sultan-language/sultanc",
+        "points": 16,
+        "comments": 2,
+        "created_at": "2026-11-07T07:26:19.000Z"
       },
       {
         "title": "First steps in bare-metal programming using UEFI",
         "url": "https://kevinboone.me/efitest_index.html",
-        "points": 251,
+        "points": 254,
         "comments": 57,
         "created_at": "2026-11-06T16:50:29.000Z"
       },
@@ -150,13 +157,6 @@
         "points": 86,
         "comments": 11,
         "created_at": "2026-11-03T19:25:18.000Z"
-      },
-      {
-        "title": "The Lisp curse, now coming to your ecosystem",
-        "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
-        "points": 239,
-        "comments": 218,
-        "created_at": "2026-11-03T08:59:31.000Z"
       }
     ]
   }
