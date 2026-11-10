@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-11-10T14:23:22.108Z",
+  "updatedAt": "2026-11-10T22:52:08.179Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 17,
-      "humidity": 32,
-      "wind_kph": 10.6,
+      "temp_c": 9.2,
+      "humidity": 65,
+      "wind_kph": 4.7,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-11-11",
-      "temp_max_c": 18.2,
-      "temp_min_c": 8.5,
-      "humidity_max": 79,
-      "humidity_min": 44,
-      "wind_kph": 13.9,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "date": "2026-11-12",
+      "temp_max_c": 21.4,
+      "temp_min_c": 9.8,
+      "humidity_max": 86,
+      "humidity_min": 28,
+      "wind_kph": 14.4,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     }
   },
   "metals": {
     "goldUSD": 4138.66,
     "oilUSD": 79,
-    "updatedAt": "2026-11-10T14:23:22.108Z",
+    "updatedAt": "2026-11-10T22:52:08.179Z",
     "gold24KUSD": 133.06,
     "gold21KUSD": 116.43,
     "gold18KUSD": 99.8,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "Apple has new Mac app coming to make running local AI models easy",
+        "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+        "points": 49,
+        "comments": 15,
+        "created_at": "2026-11-10T21:25:03.000Z"
+      },
+      {
+        "title": "Work at the Frontier: AI's effect on freelance work",
+        "url": "https://openai.com/index/ai-effect-on-freelance-work",
+        "points": 29,
+        "comments": 19,
+        "created_at": "2026-11-10T18:02:54.000Z"
+      },
+      {
+        "title": "Wake me up when AI can...",
+        "url": "https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html",
+        "points": 26,
+        "comments": 9,
+        "created_at": "2026-11-10T14:11:54.000Z"
+      },
+      {
+        "title": "AI Users have workdays up to 90 min longer than non-users",
+        "url": "https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/",
+        "points": 31,
+        "comments": 13,
+        "created_at": "2026-11-10T12:57:24.000Z"
+      },
+      {
         "title": "Meet the Sad Wives of AI",
         "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
-        "points": 65,
-        "comments": 52,
+        "points": 74,
+        "comments": 66,
         "created_at": "2026-11-10T10:40:51.000Z"
-      },
-      {
-        "title": "AI usage generates a fragile codebase",
-        "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-        "points": 118,
-        "comments": 151,
-        "created_at": "2026-11-10T10:25:58.000Z"
-      },
-      {
-        "title": "Research Finds Outright Grants of Cash Are Effective Form of Aid to the Poor",
-        "url": "https://news.columbia.edu/news/research-finds-outright-grants-cash-are-surprisingly-effective-form-aid-poor",
-        "points": 18,
-        "comments": 1,
-        "created_at": "2026-11-10T10:19:26.000Z"
-      },
-      {
-        "title": "Fireworks AI security breach impacts Notion and their customers",
-        "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-        "points": 93,
-        "comments": 31,
-        "created_at": "2026-11-10T07:19:38.000Z"
-      },
-      {
-        "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
-        "url": "https://news.ycombinator.com/item?id=50436636",
-        "points": 14,
-        "comments": 1,
-        "created_at": "2026-11-10T06:00:48.000Z"
       }
     ],
     "vibeCoding": [
