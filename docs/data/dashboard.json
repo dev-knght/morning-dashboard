@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-10T22:52:08.179Z",
+  "updatedAt": "2026-11-11T13:37:01.041Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 9.2,
-      "humidity": 65,
-      "wind_kph": 4.7,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 17.5,
+      "humidity": 50,
+      "wind_kph": 11.9,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-11-12",
-      "temp_max_c": 21.4,
-      "temp_min_c": 9.8,
-      "humidity_max": 86,
+      "temp_max_c": 21.7,
+      "temp_min_c": 10.6,
+      "humidity_max": 81,
       "humidity_min": 28,
-      "wind_kph": 14.4,
+      "wind_kph": 13.4,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 4138.66,
+    "goldUSD": 4038.54,
     "oilUSD": 79,
-    "updatedAt": "2026-11-10T22:52:08.179Z",
-    "gold24KUSD": 133.06,
-    "gold21KUSD": 116.43,
-    "gold18KUSD": 99.8,
-    "gold24KJD": 94.34,
-    "gold21KJD": 82.55,
-    "gold18KJD": 70.76
+    "updatedAt": "2026-11-11T13:37:01.041Z",
+    "gold24KUSD": 129.84,
+    "gold21KUSD": 113.61,
+    "gold18KUSD": 97.38,
+    "gold24KJD": 92.06,
+    "gold21KJD": 80.55,
+    "gold18KJD": 69.04
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:51",
-    "maghrib": "16:40",
-    "date": "10 Nov 2010"
+    "fajr": "04:52",
+    "maghrib": "16:39",
+    "date": "11 Nov 2011"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+        "url": "https://pietromiotti.com/latest/maya-site/?maya",
+        "points": 153,
+        "comments": 60,
+        "created_at": "2026-11-11T12:05:22.000Z"
+      },
+      {
+        "title": "OSS projects banning AI-generated contributions",
+        "url": "https://osssaysno.com",
+        "points": 54,
+        "comments": 90,
+        "created_at": "2026-11-11T08:51:45.000Z"
+      },
+      {
+        "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+        "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+        "points": 55,
+        "comments": 64,
+        "created_at": "2026-11-11T00:15:33.000Z"
+      },
+      {
         "title": "Apple has new Mac app coming to make running local AI models easy",
         "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-        "points": 49,
-        "comments": 15,
+        "points": 339,
+        "comments": 332,
         "created_at": "2026-11-10T21:25:03.000Z"
       },
       {
         "title": "Work at the Frontier: AI's effect on freelance work",
         "url": "https://openai.com/index/ai-effect-on-freelance-work",
-        "points": 29,
-        "comments": 19,
+        "points": 40,
+        "comments": 21,
         "created_at": "2026-11-10T18:02:54.000Z"
-      },
-      {
-        "title": "Wake me up when AI can...",
-        "url": "https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html",
-        "points": 26,
-        "comments": 9,
-        "created_at": "2026-11-10T14:11:54.000Z"
-      },
-      {
-        "title": "AI Users have workdays up to 90 min longer than non-users",
-        "url": "https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/",
-        "points": 31,
-        "comments": 13,
-        "created_at": "2026-11-10T12:57:24.000Z"
-      },
-      {
-        "title": "Meet the Sad Wives of AI",
-        "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
-        "points": 74,
-        "comments": 66,
-        "created_at": "2026-11-10T10:40:51.000Z"
       }
     ],
     "vibeCoding": [
@@ -124,10 +124,24 @@
     ],
     "progDb": [
       {
+        "title": "Can a Linear Program Do Weight-Space Programming?",
+        "url": "https://nathan.rs/posts/weight-space-lp/",
+        "points": 39,
+        "comments": 5,
+        "created_at": "2026-11-11T12:30:17.000Z"
+      },
+      {
+        "title": "A great old-timey game-programming hack (2013)",
+        "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+        "points": 211,
+        "comments": 43,
+        "created_at": "2026-11-11T01:56:31.000Z"
+      },
+      {
         "title": "Five memorable books about programming (2008)",
         "url": "https://prog21.dadgum.com/19.html",
         "points": 144,
-        "comments": 93,
+        "comments": 94,
         "created_at": "2026-11-07T17:30:49.000Z"
       },
       {
@@ -140,23 +154,9 @@
       {
         "title": "First steps in bare-metal programming using UEFI",
         "url": "https://kevinboone.me/efitest_index.html",
-        "points": 256,
+        "points": 257,
         "comments": 57,
         "created_at": "2026-11-06T16:50:29.000Z"
-      },
-      {
-        "title": "Prompting Is Programming",
-        "url": "https://www.brethorsting.com/blog/2026/11/prompting-is-programming/",
-        "points": 21,
-        "comments": 17,
-        "created_at": "2026-11-03T23:49:06.000Z"
-      },
-      {
-        "title": "Introduction to Programming in ATS",
-        "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
-        "points": 86,
-        "comments": 11,
-        "created_at": "2026-11-03T19:25:18.000Z"
       }
     ]
   }
