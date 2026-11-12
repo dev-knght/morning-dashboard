@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-12T00:04:34.783Z",
+  "updatedAt": "2026-11-12T14:40:36.705Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 10.9,
-      "humidity": 76,
-      "wind_kph": 6,
-      "weather_code": 2,
-      "weather_desc": "Partly cloudy"
+      "temp_c": 19,
+      "humidity": 35,
+      "wind_kph": 6.8,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-11-13",
-      "temp_max_c": 23.4,
+      "temp_max_c": 23.5,
       "temp_min_c": 10.6,
       "humidity_max": 57,
-      "humidity_min": 25,
-      "wind_kph": 20.8,
+      "humidity_min": 24,
+      "wind_kph": 20.3,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 3979.29,
     "oilUSD": 79,
-    "updatedAt": "2026-11-12T00:04:34.783Z",
+    "updatedAt": "2026-11-12T14:40:36.705Z",
     "gold24KUSD": 127.94,
     "gold21KUSD": 111.94,
     "gold18KUSD": 95.95,
@@ -64,42 +64,49 @@
   "news": {
     "ai": [
       {
+        "title": "AI makes it 'close to impossible' to assess university coursework,regulator says",
+        "url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
+        "points": 13,
+        "comments": 7,
+        "created_at": "2026-11-12T11:47:47.000Z"
+      },
+      {
+        "title": "Why Every AI Model Will Ship as a Torrent",
+        "url": "https://pirateface.co/articles/every-ai-model-should-be-a-torrent",
+        "points": 31,
+        "comments": 14,
+        "created_at": "2026-11-12T07:20:22.000Z"
+      },
+      {
         "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
         "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-        "points": 281,
-        "comments": 261,
+        "points": 610,
+        "comments": 632,
         "created_at": "2026-11-11T21:24:35.000Z"
       },
       {
         "title": "Gemini Decision 1 is Free on Google AI Studio",
         "url": "https://aistudio.google.com/docs/decisions-api",
-        "points": 14,
-        "comments": 0,
+        "points": 15,
+        "comments": 1,
         "created_at": "2026-11-11T19:59:47.000Z"
       },
       {
         "title": "Retirement Savings Are Fueling the AI Bubble",
         "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
-        "points": 129,
-        "comments": 140,
+        "points": 162,
+        "comments": 177,
         "created_at": "2026-11-11T19:06:43.000Z"
-      },
-      {
-        "title": "Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice",
-        "url": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths",
-        "points": 27,
-        "comments": 9,
-        "created_at": "2026-11-11T18:44:23.000Z"
-      },
-      {
-        "title": "Swatters are using AI voices to deceive 911 dispatchers, and it's getting worse",
-        "url": "https://text.npr.org/nx-s1-6034449",
-        "points": 12,
-        "comments": 4,
-        "created_at": "2026-11-11T18:28:33.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Humble Bundle just killed most of their security through vibecoding",
+        "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+        "points": 316,
+        "comments": 195,
+        "created_at": "2026-11-12T06:52:48.000Z"
+      },
       {
         "title": "Vibe Coding Keypad",
         "url": "https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad",
@@ -126,29 +133,29 @@
       {
         "title": "Can a Linear Program Do Weight-Space Programming?",
         "url": "https://nathan.rs/posts/weight-space-lp/",
-        "points": 234,
-        "comments": 35,
+        "points": 288,
+        "comments": 42,
         "created_at": "2026-11-11T12:30:17.000Z"
       },
       {
         "title": "Show HN: ThingStudio, Node-RED style programming for microcontrollers",
         "url": "https://thingstudio.net/",
-        "points": 13,
+        "points": 15,
         "comments": 2,
         "created_at": "2026-11-11T11:39:15.000Z"
       },
       {
         "title": "A great old-timey game-programming hack (2013)",
         "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-        "points": 260,
-        "comments": 59,
+        "points": 278,
+        "comments": 69,
         "created_at": "2026-11-11T01:56:31.000Z"
       },
       {
         "title": "Show HN: Micron – Oberon with the Power of C",
         "url": "https://github.com/rochus-keller/Micron",
-        "points": 49,
-        "comments": 13,
+        "points": 63,
+        "comments": 21,
         "created_at": "2026-11-08T13:40:08.000Z"
       },
       {
