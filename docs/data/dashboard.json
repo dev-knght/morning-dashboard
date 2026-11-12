@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-12T14:40:36.705Z",
+  "updatedAt": "2026-11-12T23:14:25.067Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 19,
-      "humidity": 35,
-      "wind_kph": 6.8,
+      "temp_c": 12,
+      "humidity": 50,
+      "wind_kph": 9.4,
       "weather_code": 0,
       "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-11-13",
-      "temp_max_c": 23.5,
-      "temp_min_c": 10.6,
-      "humidity_max": 57,
-      "humidity_min": 24,
-      "wind_kph": 20.3,
+      "date": "2026-11-14",
+      "temp_max_c": 24.6,
+      "temp_min_c": 12.9,
+      "humidity_max": 63,
+      "humidity_min": 29,
+      "wind_kph": 21,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 3979.29,
     "oilUSD": 79,
-    "updatedAt": "2026-11-12T14:40:36.705Z",
+    "updatedAt": "2026-11-12T23:14:25.067Z",
     "gold24KUSD": 127.94,
     "gold21KUSD": 111.94,
     "gold18KUSD": 95.95,
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "AI makes it 'close to impossible' to assess university coursework,regulator says",
-        "url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
-        "points": 13,
-        "comments": 7,
-        "created_at": "2026-11-12T11:47:47.000Z"
+        "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+        "url": "https://unemploymentlabs.com/checkpoint-forensics",
+        "points": 59,
+        "comments": 12,
+        "created_at": "2026-11-12T21:56:11.000Z"
       },
       {
-        "title": "Why Every AI Model Will Ship as a Torrent",
-        "url": "https://pirateface.co/articles/every-ai-model-should-be-a-torrent",
-        "points": 31,
-        "comments": 14,
-        "created_at": "2026-11-12T07:20:22.000Z"
+        "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+        "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+        "points": 34,
+        "comments": 24,
+        "created_at": "2026-11-12T21:09:49.000Z"
       },
       {
-        "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-        "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-        "points": 610,
-        "comments": 632,
-        "created_at": "2026-11-11T21:24:35.000Z"
-      },
-      {
-        "title": "Gemini Decision 1 is Free on Google AI Studio",
-        "url": "https://aistudio.google.com/docs/decisions-api",
-        "points": 15,
+        "title": "Hugging Face CEO vows to keep fighting for open-source AI",
+        "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+        "points": 16,
         "comments": 1,
-        "created_at": "2026-11-11T19:59:47.000Z"
+        "created_at": "2026-11-12T18:17:29.000Z"
       },
       {
-        "title": "Retirement Savings Are Fueling the AI Bubble",
-        "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
-        "points": 162,
-        "comments": 177,
-        "created_at": "2026-11-11T19:06:43.000Z"
+        "title": "Washing dishes at Denny's to rockstar of AI, the rise and fall of Jensen Huang",
+        "url": "https://www.theguardian.com/technology/2026/nov/12/rise-and-fall-of-nvidia-ceo-jensen-huang-profile",
+        "points": 13,
+        "comments": 0,
+        "created_at": "2026-11-12T18:15:53.000Z"
+      },
+      {
+        "title": "AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up",
+        "url": "https://blog.cip.org/p/ai-models-know-what-women-peace-and",
+        "points": 21,
+        "comments": 25,
+        "created_at": "2026-11-12T17:32:49.000Z"
       }
     ],
     "vibeCoding": [
       {
-        "title": "Humble Bundle just killed most of their security through vibecoding",
+        "title": "\"Humble Bundle just killed most of their security through vibecoding\"",
         "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
-        "points": 316,
-        "comments": 195,
+        "points": 361,
+        "comments": 218,
         "created_at": "2026-11-12T06:52:48.000Z"
       },
       {
@@ -133,8 +133,8 @@
       {
         "title": "Can a Linear Program Do Weight-Space Programming?",
         "url": "https://nathan.rs/posts/weight-space-lp/",
-        "points": 288,
-        "comments": 42,
+        "points": 292,
+        "comments": 46,
         "created_at": "2026-11-11T12:30:17.000Z"
       },
       {
@@ -147,15 +147,15 @@
       {
         "title": "A great old-timey game-programming hack (2013)",
         "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-        "points": 278,
-        "comments": 69,
+        "points": 281,
+        "comments": 71,
         "created_at": "2026-11-11T01:56:31.000Z"
       },
       {
         "title": "Show HN: Micron – Oberon with the Power of C",
         "url": "https://github.com/rochus-keller/Micron",
-        "points": 63,
-        "comments": 21,
+        "points": 65,
+        "comments": 23,
         "created_at": "2026-11-08T13:40:08.000Z"
       },
       {
