@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T13:58:11.386Z",
+  "updatedAt": "2026-11-13T23:16:15.423Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 3881.01,
     "oilUSD": 79,
-    "updatedAt": "2026-11-13T13:58:11.386Z",
+    "updatedAt": "2026-11-13T23:16:15.423Z",
     "gold24KUSD": 124.78,
     "gold21KUSD": 109.18,
     "gold18KUSD": 93.58,
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "AI Is Destroying the Trust Between Writers and Readers",
-        "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-        "points": 17,
-        "comments": 3,
-        "created_at": "2026-11-13T11:13:46.000Z"
+        "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+        "url": "https://orcasairband.com/",
+        "points": 56,
+        "comments": 21,
+        "created_at": "2026-11-13T22:04:24.000Z"
       },
       {
-        "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-        "url": "https://status.claude.com/incidents/nn11wk485zfn",
-        "points": 318,
-        "comments": 271,
-        "created_at": "2026-11-13T10:18:13.000Z"
+        "title": "All US airports are currently ground stopped",
+        "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+        "points": 112,
+        "comments": 23,
+        "created_at": "2026-11-13T21:06:52.000Z"
       },
       {
-        "title": "Claude AI Is Down",
-        "url": "https://news.ycombinator.com/item?id=50480941",
-        "points": 25,
-        "comments": 6,
-        "created_at": "2026-11-13T09:55:06.000Z"
+        "title": "No AI Slop: A Manifesto",
+        "url": "https://www.slopmanifesto.com/",
+        "points": 158,
+        "comments": 91,
+        "created_at": "2026-11-13T19:51:56.000Z"
       },
       {
-        "title": "Is there a 'right amount' of AI?",
-        "url": "https://coyotetracks.org/blog/right-amount-of-ai/",
-        "points": 28,
-        "comments": 37,
-        "created_at": "2026-11-13T09:27:05.000Z"
+        "title": "The avalanche that hit math is coming for AI development",
+        "url": "https://www.dwarkesh.com/p/rsi",
+        "points": 56,
+        "comments": 99,
+        "created_at": "2026-11-13T18:39:42.000Z"
       },
       {
-        "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-        "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
-        "points": 83,
-        "comments": 25,
-        "created_at": "2026-11-13T00:38:41.000Z"
+        "title": "Are we just going to ignore that books are destroyed for AI?",
+        "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/",
+        "points": 44,
+        "comments": 40,
+        "created_at": "2026-11-13T18:14:38.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "\"Humble Bundle just killed most of their security through vibecoding\"",
         "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
-        "points": 390,
-        "comments": 230,
+        "points": 400,
+        "comments": 235,
         "created_at": "2026-11-12T06:52:48.000Z"
       },
       {
@@ -131,6 +131,13 @@
     ],
     "progDb": [
       {
+        "title": "Why Zig over C for Systems Programming",
+        "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
+        "points": 210,
+        "comments": 187,
+        "created_at": "2026-11-13T14:01:13.000Z"
+      },
+      {
         "title": "Can a Linear Program Do Weight-Space Programming?",
         "url": "https://nathan.rs/posts/weight-space-lp/",
         "points": 294,
@@ -147,23 +154,16 @@
       {
         "title": "A great old-timey game-programming hack (2013)",
         "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-        "points": 285,
-        "comments": 72,
+        "points": 286,
+        "comments": 73,
         "created_at": "2026-11-11T01:56:31.000Z"
       },
       {
         "title": "Show HN: Micron – Oberon with the Power of C",
         "url": "https://github.com/rochus-keller/Micron",
-        "points": 66,
+        "points": 68,
         "comments": 27,
         "created_at": "2026-11-08T13:40:08.000Z"
-      },
-      {
-        "title": "Five memorable books about programming (2008)",
-        "url": "https://prog21.dadgum.com/19.html",
-        "points": 145,
-        "comments": 95,
-        "created_at": "2026-11-07T17:30:49.000Z"
       }
     ]
   }
