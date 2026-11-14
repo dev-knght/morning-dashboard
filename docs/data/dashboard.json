@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-11-14T12:59:40.565Z",
+  "updatedAt": "2026-11-14T21:59:20.771Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 24.8,
-      "humidity": 29,
-      "wind_kph": 11.2,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 14.8,
+      "humidity": 61,
+      "wind_kph": 6.8,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-11-15",
-      "temp_max_c": 24.3,
-      "temp_min_c": 13,
-      "humidity_max": 70,
-      "humidity_min": 29,
-      "wind_kph": 15.9,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-11-16",
+      "temp_max_c": 21.6,
+      "temp_min_c": 13.3,
+      "humidity_max": 94,
+      "humidity_min": 55,
+      "wind_kph": 20.9,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
     "goldUSD": 3883.11,
     "oilUSD": 79,
-    "updatedAt": "2026-11-14T12:59:40.565Z",
+    "updatedAt": "2026-11-14T21:59:20.771Z",
     "gold24KUSD": 124.84,
     "gold21KUSD": 109.24,
     "gold18KUSD": 93.63,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+        "points": 38,
+        "comments": 19,
+        "created_at": "2026-11-14T15:58:57.000Z"
+      },
+      {
+        "title": "Why platform teams fail (and AI makes it worse)",
+        "url": "https://willdady.com/why-platform-teams-fail",
+        "points": 13,
+        "comments": 5,
+        "created_at": "2026-11-14T12:32:36.000Z"
+      },
+      {
         "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
         "url": "https://news.ycombinator.com/item?id=50494696",
-        "points": 51,
-        "comments": 40,
+        "points": 74,
+        "comments": 49,
         "created_at": "2026-11-14T06:56:42.000Z"
       },
       {
-        "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-        "points": 722,
-        "comments": 417,
-        "created_at": "2026-11-14T02:52:59.000Z"
+        "title": "Israeli airstrike on Nasser hospital in Gaza killed surgeon and others",
+        "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+        "points": 42,
+        "comments": 13,
+        "created_at": "2026-11-14T05:31:44.000Z"
       },
       {
-        "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-        "url": "https://claude.com/resources/articles/projects-redesigned",
-        "points": 92,
-        "comments": 85,
-        "created_at": "2026-11-14T00:28:11.000Z"
-      },
-      {
-        "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-        "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-        "points": 19,
+        "title": "Transforming Ripgrep's Documentation with AI Automation and MkDocs",
+        "url": "https://entropicdrift.com/blog/mkdocs-drift-automation/",
+        "points": 12,
         "comments": 4,
-        "created_at": "2026-11-13T23:02:44.000Z"
-      },
-      {
-        "title": "FAA expands AI advice to manage air traffic congestion across US airspace",
-        "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-        "points": 17,
-        "comments": 2,
-        "created_at": "2026-11-13T22:37:24.000Z"
+        "created_at": "2026-11-14T05:19:51.000Z"
       }
     ],
     "vibeCoding": [
@@ -134,7 +134,7 @@
         "title": "Why Zig over C for Systems Programming",
         "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
         "points": 217,
-        "comments": 224,
+        "comments": 237,
         "created_at": "2026-11-13T14:01:13.000Z"
       },
       {
@@ -161,8 +161,8 @@
       {
         "title": "Show HN: Micron – Oberon with the Power of C",
         "url": "https://github.com/rochus-keller/Micron",
-        "points": 68,
-        "comments": 27,
+        "points": 69,
+        "comments": 28,
         "created_at": "2026-11-08T13:40:08.000Z"
       }
     ]
