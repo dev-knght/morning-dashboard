@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-13T23:16:15.423Z",
+  "updatedAt": "2026-11-14T12:59:40.565Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 12,
-      "humidity": 50,
-      "wind_kph": 9.4,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 24.8,
+      "humidity": 29,
+      "wind_kph": 11.2,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-11-14",
-      "temp_max_c": 24.6,
-      "temp_min_c": 12.9,
-      "humidity_max": 63,
+      "date": "2026-11-15",
+      "temp_max_c": 24.3,
+      "temp_min_c": 13,
+      "humidity_max": 70,
       "humidity_min": 29,
-      "wind_kph": 21,
+      "wind_kph": 15.9,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 3881.01,
+    "goldUSD": 3883.11,
     "oilUSD": 79,
-    "updatedAt": "2026-11-13T23:16:15.423Z",
-    "gold24KUSD": 124.78,
-    "gold21KUSD": 109.18,
-    "gold18KUSD": 93.58,
-    "gold24KJD": 88.47,
-    "gold21KJD": 77.41,
-    "gold18KJD": 66.35
+    "updatedAt": "2026-11-14T12:59:40.565Z",
+    "gold24KUSD": 124.84,
+    "gold21KUSD": 109.24,
+    "gold18KUSD": 93.63,
+    "gold24KJD": 88.51,
+    "gold21KJD": 77.45,
+    "gold18KJD": 66.39
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "05:53",
-    "maghrib": "17:38",
-    "date": "13 Nov 2013"
+    "fajr": "04:54",
+    "maghrib": "16:37",
+    "date": "14 Nov 2014"
   },
   "events": [
     {
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-        "url": "https://orcasairband.com/",
-        "points": 56,
-        "comments": 21,
-        "created_at": "2026-11-13T22:04:24.000Z"
-      },
-      {
-        "title": "All US airports are currently ground stopped",
-        "url": "https://twitter.com/flightradar24/status/2121347654714077605",
-        "points": 112,
-        "comments": 23,
-        "created_at": "2026-11-13T21:06:52.000Z"
-      },
-      {
-        "title": "No AI Slop: A Manifesto",
-        "url": "https://www.slopmanifesto.com/",
-        "points": 158,
-        "comments": 91,
-        "created_at": "2026-11-13T19:51:56.000Z"
-      },
-      {
-        "title": "The avalanche that hit math is coming for AI development",
-        "url": "https://www.dwarkesh.com/p/rsi",
-        "points": 56,
-        "comments": 99,
-        "created_at": "2026-11-13T18:39:42.000Z"
-      },
-      {
-        "title": "Are we just going to ignore that books are destroyed for AI?",
-        "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/",
-        "points": 44,
+        "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+        "url": "https://news.ycombinator.com/item?id=50494696",
+        "points": 51,
         "comments": 40,
-        "created_at": "2026-11-13T18:14:38.000Z"
+        "created_at": "2026-11-14T06:56:42.000Z"
+      },
+      {
+        "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+        "points": 722,
+        "comments": 417,
+        "created_at": "2026-11-14T02:52:59.000Z"
+      },
+      {
+        "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+        "url": "https://claude.com/resources/articles/projects-redesigned",
+        "points": 92,
+        "comments": 85,
+        "created_at": "2026-11-14T00:28:11.000Z"
+      },
+      {
+        "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+        "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+        "points": 19,
+        "comments": 4,
+        "created_at": "2026-11-13T23:02:44.000Z"
+      },
+      {
+        "title": "FAA expands AI advice to manage air traffic congestion across US airspace",
+        "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+        "points": 17,
+        "comments": 2,
+        "created_at": "2026-11-13T22:37:24.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "\"Humble Bundle just killed most of their security through vibecoding\"",
         "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
-        "points": 400,
-        "comments": 235,
+        "points": 406,
+        "comments": 236,
         "created_at": "2026-11-12T06:52:48.000Z"
       },
       {
@@ -133,8 +133,8 @@
       {
         "title": "Why Zig over C for Systems Programming",
         "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
-        "points": 210,
-        "comments": 187,
+        "points": 217,
+        "comments": 224,
         "created_at": "2026-11-13T14:01:13.000Z"
       },
       {
