@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-14T21:59:20.771Z",
+  "updatedAt": "2026-11-15T13:28:22.331Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 14.8,
-      "humidity": 61,
-      "wind_kph": 6.8,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 23.7,
+      "humidity": 30,
+      "wind_kph": 16.2,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-11-16",
-      "temp_max_c": 21.6,
-      "temp_min_c": 13.3,
-      "humidity_max": 94,
-      "humidity_min": 55,
-      "wind_kph": 20.9,
+      "temp_max_c": 21.3,
+      "temp_min_c": 13.4,
+      "humidity_max": 96,
+      "humidity_min": 54,
+      "wind_kph": 18.8,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 3883.11,
+    "goldUSD": 3881.86,
     "oilUSD": 79,
-    "updatedAt": "2026-11-14T21:59:20.771Z",
-    "gold24KUSD": 124.84,
-    "gold21KUSD": 109.24,
-    "gold18KUSD": 93.63,
-    "gold24KJD": 88.51,
-    "gold21KJD": 77.45,
-    "gold18KJD": 66.39
+    "updatedAt": "2026-11-15T13:28:22.331Z",
+    "gold24KUSD": 124.8,
+    "gold21KUSD": 109.2,
+    "gold18KUSD": 93.6,
+    "gold24KJD": 88.49,
+    "gold21KJD": 77.43,
+    "gold18KJD": 66.36
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:54",
+    "fajr": "04:55",
     "maghrib": "16:37",
-    "date": "14 Nov 2014"
+    "date": "15 Nov 2015"
   },
   "events": [
     {
@@ -64,46 +64,46 @@
   "news": {
     "ai": [
       {
+        "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+        "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+        "points": 66,
+        "comments": 39,
+        "created_at": "2026-11-15T03:05:54.000Z"
+      },
+      {
         "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
         "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
-        "points": 38,
-        "comments": 19,
+        "points": 59,
+        "comments": 39,
         "created_at": "2026-11-14T15:58:57.000Z"
+      },
+      {
+        "title": "Open-source AI without Jensen",
+        "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+        "points": 26,
+        "comments": 7,
+        "created_at": "2026-11-14T12:44:01.000Z"
       },
       {
         "title": "Why platform teams fail (and AI makes it worse)",
         "url": "https://willdady.com/why-platform-teams-fail",
-        "points": 13,
-        "comments": 5,
+        "points": 19,
+        "comments": 6,
         "created_at": "2026-11-14T12:32:36.000Z"
       },
       {
         "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
         "url": "https://news.ycombinator.com/item?id=50494696",
-        "points": 74,
-        "comments": 49,
+        "points": 86,
+        "comments": 51,
         "created_at": "2026-11-14T06:56:42.000Z"
-      },
-      {
-        "title": "Israeli airstrike on Nasser hospital in Gaza killed surgeon and others",
-        "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
-        "points": 42,
-        "comments": 13,
-        "created_at": "2026-11-14T05:31:44.000Z"
-      },
-      {
-        "title": "Transforming Ripgrep's Documentation with AI Automation and MkDocs",
-        "url": "https://entropicdrift.com/blog/mkdocs-drift-automation/",
-        "points": 12,
-        "comments": 4,
-        "created_at": "2026-11-14T05:19:51.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "\"Humble Bundle just killed most of their security through vibecoding\"",
         "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
-        "points": 406,
+        "points": 412,
         "comments": 236,
         "created_at": "2026-11-12T06:52:48.000Z"
       },
@@ -134,7 +134,7 @@
         "title": "Why Zig over C for Systems Programming",
         "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
         "points": 217,
-        "comments": 237,
+        "comments": 238,
         "created_at": "2026-11-13T14:01:13.000Z"
       },
       {
@@ -154,7 +154,7 @@
       {
         "title": "A great old-timey game-programming hack (2013)",
         "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-        "points": 286,
+        "points": 288,
         "comments": 73,
         "created_at": "2026-11-11T01:56:31.000Z"
       },
@@ -162,7 +162,7 @@
         "title": "Show HN: Micron – Oberon with the Power of C",
         "url": "https://github.com/rochus-keller/Micron",
         "points": 69,
-        "comments": 28,
+        "comments": 31,
         "created_at": "2026-11-08T13:40:08.000Z"
       }
     ]
