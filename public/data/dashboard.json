@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-15T22:30:22.203Z",
+  "updatedAt": "2026-11-16T14:52:18.799Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 15.3,
-      "humidity": 47,
-      "wind_kph": 3.6,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 18.8,
+      "humidity": 66,
+      "wind_kph": 14.8,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-11-17",
-      "temp_max_c": 21,
-      "temp_min_c": 13.3,
-      "humidity_max": 94,
-      "humidity_min": 51,
-      "wind_kph": 20.5,
+      "temp_max_c": 21.1,
+      "temp_min_c": 12,
+      "humidity_max": 95,
+      "humidity_min": 52,
+      "wind_kph": 18.1,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 3881.86,
+    "goldUSD": 3900.61,
     "oilUSD": 79,
-    "updatedAt": "2026-11-15T22:30:22.203Z",
-    "gold24KUSD": 124.8,
-    "gold21KUSD": 109.2,
-    "gold18KUSD": 93.6,
-    "gold24KJD": 88.49,
-    "gold21KJD": 77.43,
-    "gold18KJD": 66.36
+    "updatedAt": "2026-11-16T14:52:18.799Z",
+    "gold24KUSD": 125.41,
+    "gold21KUSD": 109.73,
+    "gold18KUSD": 94.06,
+    "gold24KJD": 88.91,
+    "gold21KJD": 77.8,
+    "gold18KJD": 66.69
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:55",
-    "maghrib": "16:37",
-    "date": "15 Nov 2015"
+    "fajr": "04:56",
+    "maghrib": "16:36",
+    "date": "16 Nov 2016"
   },
   "events": [
     {
@@ -64,46 +64,46 @@
   "news": {
     "ai": [
       {
-        "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-        "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
-        "points": 53,
-        "comments": 58,
-        "created_at": "2026-11-15T19:39:46.000Z"
+        "title": "Google AI Ultra Subscription Not Worth It",
+        "url": "https://www.reddit.com/r/google_antigravity/comments/1xx9nl3/google_ai_ultra_subscription_not_worth_it/",
+        "points": 11,
+        "comments": 1,
+        "created_at": "2026-11-16T04:59:22.000Z"
       },
       {
-        "title": "All AI-generated code should be Open Source",
-        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-        "points": 994,
-        "comments": 551,
-        "created_at": "2026-11-15T14:46:58.000Z"
+        "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
+        "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
+        "points": 31,
+        "comments": 9,
+        "created_at": "2026-11-16T04:03:51.000Z"
       },
       {
-        "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-        "url": "https://github.com/db-branch/db-branch",
-        "points": 28,
-        "comments": 7,
-        "created_at": "2026-11-15T13:50:51.000Z"
+        "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years",
+        "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+        "points": 17,
+        "comments": 14,
+        "created_at": "2026-11-16T03:34:55.000Z"
       },
       {
-        "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
-        "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
-        "points": 82,
-        "comments": 53,
-        "created_at": "2026-11-15T03:05:54.000Z"
+        "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+        "url": "https://www.hntrends.com/2026/november.html",
+        "points": 89,
+        "comments": 76,
+        "created_at": "2026-11-16T01:31:30.000Z"
       },
       {
-        "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
-        "points": 61,
-        "comments": 42,
-        "created_at": "2026-11-14T15:58:57.000Z"
+        "title": "Agentic AI Designs an Analog Synthesizer",
+        "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+        "points": 14,
+        "comments": 3,
+        "created_at": "2026-11-16T01:28:10.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "\"Humble Bundle just killed most of their security through vibecoding\"",
         "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
-        "points": 413,
+        "points": 415,
         "comments": 236,
         "created_at": "2026-11-12T06:52:48.000Z"
       },
@@ -120,13 +120,6 @@
         "points": 11,
         "comments": 9,
         "created_at": "2026-11-04T08:16:29.000Z"
-      },
-      {
-        "title": "In LLM era, can software startup survive?",
-        "url": "https://news.ycombinator.com/item?id=50331001",
-        "points": 37,
-        "comments": 48,
-        "created_at": "2026-11-01T23:28:46.000Z"
       }
     ],
     "progDb": [
@@ -134,13 +127,13 @@
         "title": "Why Zig over C for Systems Programming",
         "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
         "points": 218,
-        "comments": 239,
+        "comments": 241,
         "created_at": "2026-11-13T14:01:13.000Z"
       },
       {
         "title": "Can a Linear Program Do Weight-Space Programming?",
         "url": "https://nathan.rs/posts/weight-space-lp/",
-        "points": 294,
+        "points": 295,
         "comments": 47,
         "created_at": "2026-11-11T12:30:17.000Z"
       },
