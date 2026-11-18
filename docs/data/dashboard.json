@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T00:34:21.527Z",
+  "updatedAt": "2026-11-18T15:09:35.491Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 3849.98,
     "oilUSD": 79,
-    "updatedAt": "2026-11-18T00:34:21.527Z",
+    "updatedAt": "2026-11-18T15:09:35.491Z",
     "gold24KUSD": 123.78,
     "gold21KUSD": 108.31,
     "gold18KUSD": 92.83,
@@ -64,42 +64,49 @@
   "news": {
     "ai": [
       {
-        "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-        "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-        "points": 29,
-        "comments": 58,
-        "created_at": "2026-11-17T21:16:12.000Z"
+        "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+        "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+        "points": 43,
+        "comments": 38,
+        "created_at": "2026-11-18T13:51:03.000Z"
       },
       {
-        "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-        "url": "https://starsling.dev",
-        "points": 49,
-        "comments": 28,
-        "created_at": "2026-11-17T19:01:43.000Z"
+        "title": "AI is killing All About Berlin",
+        "url": "https://nicolasbouliane.com/blog/death-by-ai",
+        "points": 616,
+        "comments": 577,
+        "created_at": "2026-11-18T06:47:26.000Z"
       },
       {
-        "title": "Jensen Huang Liked Selling China Advanced AI Chips",
-        "url": "https://thezvi.substack.com/p/jensen-huang-really-liked-selling",
-        "points": 12,
-        "comments": 0,
-        "created_at": "2026-11-17T14:43:18.000Z"
+        "title": "AI borrowers pay more for debt as cash burn mounts, yields rise and tech falters",
+        "url": "https://greyswansignals.com",
+        "points": 11,
+        "comments": 1,
+        "created_at": "2026-11-18T03:03:16.000Z"
       },
       {
-        "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-        "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-        "points": 184,
-        "comments": 239,
-        "created_at": "2026-11-17T14:19:59.000Z"
+        "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
+        "url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
+        "points": 89,
+        "comments": 42,
+        "created_at": "2026-11-18T01:45:11.000Z"
       },
       {
-        "title": "AI is killing cheap VPS servers/manageable pricing",
-        "url": "https://news.ycombinator.com/item?id=50527395",
-        "points": 13,
-        "comments": 14,
-        "created_at": "2026-11-17T04:20:53.000Z"
+        "title": "Google's AI answers reducing search traffic by 40%",
+        "url": "https://revscope.co/blog/search-seo-geo-2026/",
+        "points": 590,
+        "comments": 448,
+        "created_at": "2026-11-18T00:17:58.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "LeetCode adds vibe coding challenges now",
+        "url": "https://leetcode.com/discuss/post/8614473/project-challenge-can-you-build-a-produc-27kz/",
+        "points": 15,
+        "comments": 11,
+        "created_at": "2026-11-18T04:46:38.000Z"
+      },
       {
         "title": "\"Humble Bundle just killed most of their security through vibecoding\"",
         "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
@@ -113,13 +120,6 @@
         "points": 93,
         "comments": 61,
         "created_at": "2026-11-05T16:43:16.000Z"
-      },
-      {
-        "title": "Ask HN: How to Keep the Edge as an Engineer?",
-        "url": "https://news.ycombinator.com/item?id=50362698",
-        "points": 11,
-        "comments": 9,
-        "created_at": "2026-11-04T08:16:29.000Z"
       }
     ],
     "progDb": [
@@ -131,10 +131,17 @@
         "created_at": "2026-11-15T20:45:34.000Z"
       },
       {
+        "title": "Fun with Constrained Programming (2012)",
+        "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+        "points": 91,
+        "comments": 4,
+        "created_at": "2026-11-15T02:45:57.000Z"
+      },
+      {
         "title": "Why Zig over C for Systems Programming",
         "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
         "points": 218,
-        "comments": 243,
+        "comments": 244,
         "created_at": "2026-11-13T14:01:13.000Z"
       },
       {
@@ -150,13 +157,6 @@
         "points": 40,
         "comments": 8,
         "created_at": "2026-11-11T11:39:15.000Z"
-      },
-      {
-        "title": "A great old-timey game-programming hack (2013)",
-        "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-        "points": 289,
-        "comments": 73,
-        "created_at": "2026-11-11T01:56:31.000Z"
       }
     ]
   }
