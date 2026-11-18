@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-17T15:31:16.756Z",
+  "updatedAt": "2026-11-18T00:34:21.527Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 17.4,
-      "humidity": 71,
-      "wind_kph": 10.8,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 12,
+      "humidity": 90,
+      "wind_kph": 4.3,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-11-18",
-      "temp_max_c": 20.6,
+      "date": "2026-11-19",
+      "temp_max_c": 21.2,
       "temp_min_c": 12.1,
-      "humidity_max": 93,
-      "humidity_min": 48,
-      "wind_kph": 14.4,
+      "humidity_max": 86,
+      "humidity_min": 49,
+      "wind_kph": 18,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 3862.96,
+    "goldUSD": 3849.98,
     "oilUSD": 79,
-    "updatedAt": "2026-11-17T15:31:16.756Z",
-    "gold24KUSD": 124.2,
-    "gold21KUSD": 108.67,
-    "gold18KUSD": 93.15,
-    "gold24KJD": 88.06,
-    "gold21KJD": 77.05,
-    "gold18KJD": 66.04
+    "updatedAt": "2026-11-18T00:34:21.527Z",
+    "gold24KUSD": 123.78,
+    "gold21KUSD": 108.31,
+    "gold18KUSD": 92.83,
+    "gold24KJD": 87.76,
+    "gold21KJD": 76.79,
+    "gold18KJD": 65.82
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
     "fajr": "04:57",
-    "maghrib": "16:36",
-    "date": "17 Nov 2017"
+    "maghrib": "16:35",
+    "date": "18 Nov 2018"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
+        "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+        "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+        "points": 29,
+        "comments": 58,
+        "created_at": "2026-11-17T21:16:12.000Z"
+      },
+      {
+        "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+        "url": "https://starsling.dev",
+        "points": 49,
+        "comments": 28,
+        "created_at": "2026-11-17T19:01:43.000Z"
+      },
+      {
+        "title": "Jensen Huang Liked Selling China Advanced AI Chips",
+        "url": "https://thezvi.substack.com/p/jensen-huang-really-liked-selling",
+        "points": 12,
+        "comments": 0,
+        "created_at": "2026-11-17T14:43:18.000Z"
+      },
+      {
         "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
         "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-        "points": 74,
-        "comments": 53,
+        "points": 184,
+        "comments": 239,
         "created_at": "2026-11-17T14:19:59.000Z"
       },
       {
         "title": "AI is killing cheap VPS servers/manageable pricing",
         "url": "https://news.ycombinator.com/item?id=50527395",
-        "points": 12,
-        "comments": 10,
+        "points": 13,
+        "comments": 14,
         "created_at": "2026-11-17T04:20:53.000Z"
-      },
-      {
-        "title": "Show HN: A free interactive course on AI agent governance",
-        "url": "https://studio.sinapsdata.com.br",
-        "points": 12,
-        "comments": 8,
-        "created_at": "2026-11-17T02:12:13.000Z"
-      },
-      {
-        "title": "United Airlines has a widespread system outage",
-        "url": "https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff",
-        "points": 48,
-        "comments": 12,
-        "created_at": "2026-11-16T22:22:18.000Z"
-      },
-      {
-        "title": "United Airlines experiencing 'widespread system outage'",
-        "url": "https://www.nbcchicago.com/news/local/united-airlines-experiencing-widespread-system-outage/4017556/",
-        "points": 11,
-        "comments": 0,
-        "created_at": "2026-11-16T22:21:50.000Z"
       }
     ],
     "vibeCoding": [
@@ -104,7 +104,7 @@
         "title": "\"Humble Bundle just killed most of their security through vibecoding\"",
         "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
         "points": 415,
-        "comments": 236,
+        "comments": 237,
         "created_at": "2026-11-12T06:52:48.000Z"
       },
       {
@@ -134,7 +134,7 @@
         "title": "Why Zig over C for Systems Programming",
         "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
         "points": 218,
-        "comments": 242,
+        "comments": 243,
         "created_at": "2026-11-13T14:01:13.000Z"
       },
       {
@@ -147,7 +147,7 @@
       {
         "title": "Show HN: ThingStudio, Node-RED style programming for microcontrollers",
         "url": "https://thingstudio.net/",
-        "points": 39,
+        "points": 40,
         "comments": 8,
         "created_at": "2026-11-11T11:39:15.000Z"
       },
