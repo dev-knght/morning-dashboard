@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-18T23:54:25.390Z",
+  "updatedAt": "2026-11-19T15:17:43.232Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 12.4,
-      "humidity": 86,
-      "wind_kph": 4.3,
-      "weather_code": 1,
-      "weather_desc": "Mainly clear"
+      "temp_c": 18.6,
+      "humidity": 66,
+      "wind_kph": 11.9,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
       "date": "2026-11-20",
       "temp_max_c": 24.2,
-      "temp_min_c": 12.7,
-      "humidity_max": 79,
-      "humidity_min": 32,
-      "wind_kph": 15.4,
+      "temp_min_c": 12.9,
+      "humidity_max": 84,
+      "humidity_min": 33,
+      "wind_kph": 15.3,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
-    "goldUSD": 3849.98,
+    "goldUSD": 3740.2,
     "oilUSD": 79,
-    "updatedAt": "2026-11-18T23:54:25.390Z",
-    "gold24KUSD": 123.78,
-    "gold21KUSD": 108.31,
-    "gold18KUSD": 92.83,
-    "gold24KJD": 87.76,
-    "gold21KJD": 76.79,
-    "gold18KJD": 65.82
+    "updatedAt": "2026-11-19T15:17:43.232Z",
+    "gold24KUSD": 120.25,
+    "gold21KUSD": 105.22,
+    "gold18KUSD": 90.19,
+    "gold24KJD": 85.26,
+    "gold21KJD": 74.6,
+    "gold18KJD": 63.94
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "04:57",
+    "fajr": "04:58",
     "maghrib": "16:35",
-    "date": "18 Nov 2018"
+    "date": "19 Nov 2019"
   },
   "events": [
     {
@@ -64,53 +64,53 @@
   "news": {
     "ai": [
       {
-        "title": "US charges Irishman with destroying a $60M Air Force C-130",
-        "url": "https://taskandpurpose.com/news/c-130-damage-ireland-daithi-ocorrain/",
-        "points": 24,
-        "comments": 22,
-        "created_at": "2026-11-18T22:30:26.000Z"
+        "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+        "url": "https://foolscap.works/",
+        "points": 55,
+        "comments": 26,
+        "created_at": "2026-11-19T13:21:20.000Z"
       },
       {
-        "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
-        "url": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
-        "points": 23,
-        "comments": 5,
-        "created_at": "2026-11-18T18:53:17.000Z"
+        "title": "The AI Superintelligence Debate Has Serious Flaws",
+        "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+        "points": 90,
+        "comments": 130,
+        "created_at": "2026-11-19T12:17:10.000Z"
       },
       {
-        "title": "We asked AI the same 210 buying questions 2 days in a row,84% of answers changed",
-        "url": "https://supercite.ai/blog/ai-answers-change-every-day",
-        "points": 22,
-        "comments": 30,
-        "created_at": "2026-11-18T17:58:00.000Z"
+        "title": "AI Overworks People",
+        "url": "https://twitter.com/catalinmpit/status/2123061832781090948",
+        "points": 20,
+        "comments": 8,
+        "created_at": "2026-11-19T10:52:29.000Z"
       },
       {
-        "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
-        "url": "https://news.ycombinator.com/item?id=50549188",
-        "points": 33,
-        "comments": 31,
-        "created_at": "2026-11-18T17:26:28.000Z"
+        "title": "Air Force Maj. Jason Watson has been in solitary confinement for almost 100 days",
+        "url": "https://www.stripes.com/branches/air_force/2026-11-17/jason-watson-pretrial-hearing-uscmj-charges-23498480.html",
+        "points": 29,
+        "comments": 11,
+        "created_at": "2026-11-19T10:10:20.000Z"
       },
       {
-        "title": "Is AI a bicycle for the mind, or a car?",
-        "url": "https://twitter.com/kouhxp/status/2123096768996892959",
-        "points": 23,
-        "comments": 17,
-        "created_at": "2026-11-18T16:54:02.000Z"
+        "title": "Wife of Senior Nvidia Executive Caught Up in Alleged AI Chip Smuggling Scandal",
+        "url": "https://www.gadgetreview.com/wife-of-senior-nvidia-executive-caught-up-in-alleged-ai-chip-smuggling-scandal",
+        "points": 30,
+        "comments": 0,
+        "created_at": "2026-11-19T08:23:41.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "LeetCode adds vibe coding challenges now",
         "url": "https://leetcode.com/discuss/post/8614473/project-challenge-can-you-build-a-produc-27kz/",
-        "points": 19,
+        "points": 20,
         "comments": 14,
         "created_at": "2026-11-18T04:46:38.000Z"
       },
       {
         "title": "\"Humble Bundle just killed most of their security through vibecoding\"",
         "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
-        "points": 415,
+        "points": 416,
         "comments": 237,
         "created_at": "2026-11-12T06:52:48.000Z"
       },
@@ -133,7 +133,7 @@
       {
         "title": "Fun with Constrained Programming (2012)",
         "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
-        "points": 101,
+        "points": 102,
         "comments": 4,
         "created_at": "2026-11-15T02:45:57.000Z"
       },
