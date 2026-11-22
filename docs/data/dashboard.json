@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-11-22T14:05:43.553Z",
+  "updatedAt": "2026-11-22T23:15:48.782Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 20.2,
-      "humidity": 67,
-      "wind_kph": 27.1,
+      "temp_c": 14,
+      "humidity": 91,
+      "wind_kph": 3.8,
       "weather_code": 2,
       "weather_desc": "Partly cloudy"
     },
     "tomorrow": {
-      "date": "2026-11-23",
-      "temp_max_c": 22.4,
-      "temp_min_c": 12.1,
-      "humidity_max": 94,
-      "humidity_min": 38,
-      "wind_kph": 11.9,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-11-24",
+      "temp_max_c": 20.3,
+      "temp_min_c": 11.6,
+      "humidity_max": 88,
+      "humidity_min": 50,
+      "wind_kph": 19.9,
+      "weather_code": 2,
+      "weather_desc": "Partly cloudy"
     }
   },
   "metals": {
     "goldUSD": 3535.45,
     "oilUSD": 79,
-    "updatedAt": "2026-11-22T14:05:43.553Z",
+    "updatedAt": "2026-11-22T23:15:48.782Z",
     "gold24KUSD": 113.67,
     "gold21KUSD": 99.46,
     "gold18KUSD": 85.25,
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
-        "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-        "url": "https://simonwillison.net/2026/Nov/21/muru/",
-        "points": 15,
+        "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+        "points": 98,
+        "comments": 28,
+        "created_at": "2026-11-22T21:01:16.000Z"
+      },
+      {
+        "title": "What Happened in Fall 2026: AI and P vs. NP",
+        "url": "https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np",
+        "points": 12,
         "comments": 0,
-        "created_at": "2026-11-22T09:57:01.000Z"
+        "created_at": "2026-11-22T19:50:36.000Z"
       },
       {
-        "title": "AI Supply Chain Security: What Canary Tokens Found",
-        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-        "points": 89,
-        "comments": 21,
-        "created_at": "2026-11-22T05:11:43.000Z"
+        "title": "Harvard CS 2881R AI Safety",
+        "url": "https://boazbk.github.io/mltheoryseminar/",
+        "points": 23,
+        "comments": 1,
+        "created_at": "2026-11-22T18:01:54.000Z"
       },
       {
-        "title": "Current Efforts Aren't Enough to Slow the AI Cyber Virus",
-        "url": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus",
-        "points": 14,
-        "comments": 4,
-        "created_at": "2026-11-22T03:28:48.000Z"
+        "title": "AI is becoming a disaster for the climate",
+        "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+        "points": 96,
+        "comments": 41,
+        "created_at": "2026-11-22T12:19:46.000Z"
       },
       {
-        "title": "Together.ai: Prompt Leakage for Requests",
-        "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-        "points": 35,
-        "comments": 8,
-        "created_at": "2026-11-22T03:07:27.000Z"
-      },
-      {
-        "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-        "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-        "points": 40,
-        "comments": 13,
-        "created_at": "2026-11-22T03:06:35.000Z"
+        "title": "AI People Are Extremely Rich",
+        "url": "https://www.noahpinion.blog/p/ai-people-are-very-very-very-very",
+        "points": 26,
+        "comments": 5,
+        "created_at": "2026-11-22T10:35:49.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Vibecoding an inference chip",
         "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-        "points": 175,
-        "comments": 76,
+        "points": 176,
+        "comments": 77,
         "created_at": "2026-11-20T18:15:16.000Z"
       },
       {
@@ -126,8 +126,8 @@
       {
         "title": "Clojure will affect the way you think about programming (2017)",
         "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-        "points": 198,
-        "comments": 92,
+        "points": 207,
+        "comments": 94,
         "created_at": "2026-11-21T02:40:39.000Z"
       },
       {
@@ -140,7 +140,7 @@
       {
         "title": "Unit-testing in the Ü programming language",
         "url": "https://panzerschrek.github.io/U-00DC-Sprache-site/2026/11/18/unit-testing.html",
-        "points": 11,
+        "points": 13,
         "comments": 3,
         "created_at": "2026-11-19T12:34:54.000Z"
       },
@@ -154,8 +154,8 @@
       {
         "title": "LLMs can read and write executables byte by byte from a hex dump",
         "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-        "points": 279,
-        "comments": 162,
+        "points": 310,
+        "comments": 181,
         "created_at": "2026-11-18T14:15:58.000Z"
       }
     ]
