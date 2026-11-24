@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-23T17:27:53.176Z",
+  "updatedAt": "2026-11-24T03:50:13.333Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 16.2,
-      "humidity": 70,
-      "wind_kph": 4.1,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 11.4,
+      "humidity": 71,
+      "wind_kph": 5.3,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-11-24",
-      "temp_max_c": 21.2,
-      "temp_min_c": 11.1,
-      "humidity_max": 87,
-      "humidity_min": 42,
+      "date": "2026-11-25",
+      "temp_max_c": 19.3,
+      "temp_min_c": 11.5,
+      "humidity_max": 92,
+      "humidity_min": 50,
       "wind_kph": 19.9,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 3583.59,
+    "goldUSD": 3630.5,
     "oilUSD": 79,
-    "updatedAt": "2026-11-23T17:27:53.176Z",
-    "gold24KUSD": 115.22,
-    "gold21KUSD": 100.81,
-    "gold18KUSD": 86.41,
-    "gold24KJD": 81.69,
-    "gold21KJD": 71.48,
-    "gold18KJD": 61.27
+    "updatedAt": "2026-11-24T03:50:13.333Z",
+    "gold24KUSD": 116.72,
+    "gold21KUSD": 102.13,
+    "gold18KUSD": 87.54,
+    "gold24KJD": 82.76,
+    "gold21KJD": 72.41,
+    "gold18KJD": 62.07
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "06:01",
+    "fajr": "06:02",
     "maghrib": "17:33",
-    "date": "23 Nov 2023"
+    "date": "24 Nov 2024"
   },
   "events": [
     {
@@ -64,47 +64,47 @@
   "news": {
     "ai": [
       {
+        "title": "US to blacklist Asian AI firm Megaspeed",
+        "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
+        "points": 13,
+        "comments": 2,
+        "created_at": "2026-11-23T22:48:25.000Z"
+      },
+      {
+        "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
+        "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+        "points": 22,
+        "comments": 16,
+        "created_at": "2026-11-23T21:56:44.000Z"
+      },
+      {
+        "title": "The AI conversation we're not having",
+        "url": "https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/",
+        "points": 12,
+        "comments": 10,
+        "created_at": "2026-11-23T21:46:33.000Z"
+      },
+      {
+        "title": "Jensen Huang's Apology May Be the Only Correct Use of AI",
+        "url": "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/",
+        "points": 26,
+        "comments": 3,
+        "created_at": "2026-11-23T20:33:07.000Z"
+      },
+      {
         "title": "Buckle Up the AI Bubble Is Popping",
         "url": "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/",
-        "points": 22,
-        "comments": 48,
+        "points": 31,
+        "comments": 56,
         "created_at": "2026-11-23T16:01:20.000Z"
-      },
-      {
-        "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
-        "points": 65,
-        "comments": 75,
-        "created_at": "2026-11-23T12:41:14.000Z"
-      },
-      {
-        "title": "Dario Amodei suggests video games could pacify the masses after AI takes jobs",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
-        "points": 16,
-        "comments": 10,
-        "created_at": "2026-11-23T01:45:50.000Z"
-      },
-      {
-        "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-        "url": "https://0rwx.com/",
-        "points": 67,
-        "comments": 17,
-        "created_at": "2026-11-22T23:53:00.000Z"
-      },
-      {
-        "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-        "points": 678,
-        "comments": 276,
-        "created_at": "2026-11-22T21:01:16.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Vibecoding an inference chip",
         "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-        "points": 178,
-        "comments": 79,
+        "points": 179,
+        "comments": 80,
         "created_at": "2026-11-20T18:15:16.000Z"
       },
       {
@@ -127,7 +127,7 @@
         "title": "Clojure will affect the way you think about programming (2017)",
         "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
         "points": 209,
-        "comments": 95,
+        "comments": 96,
         "created_at": "2026-11-21T02:40:39.000Z"
       },
       {
