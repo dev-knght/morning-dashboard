@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-24T03:50:13.333Z",
+  "updatedAt": "2026-11-24T16:59:34.231Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 11.4,
-      "humidity": 71,
-      "wind_kph": 5.3,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 15.2,
+      "humidity": 89,
+      "wind_kph": 16.3,
+      "weather_code": 1,
+      "weather_desc": "Mainly clear"
     },
     "tomorrow": {
       "date": "2026-11-25",
-      "temp_max_c": 19.3,
-      "temp_min_c": 11.5,
-      "humidity_max": 92,
-      "humidity_min": 50,
-      "wind_kph": 19.9,
+      "temp_max_c": 19.9,
+      "temp_min_c": 11.4,
+      "humidity_max": 93,
+      "humidity_min": 47,
+      "wind_kph": 20.1,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 3630.5,
     "oilUSD": 79,
-    "updatedAt": "2026-11-24T03:50:13.333Z",
+    "updatedAt": "2026-11-24T16:59:34.231Z",
     "gold24KUSD": 116.72,
     "gold21KUSD": 102.13,
     "gold18KUSD": 87.54,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "US to blacklist Asian AI firm Megaspeed",
-        "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
-        "points": 13,
+        "title": "Tidal Bans AI-Generated Music",
+        "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+        "points": 126,
+        "comments": 85,
+        "created_at": "2026-11-24T16:12:38.000Z"
+      },
+      {
+        "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+        "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+        "points": 71,
+        "comments": 34,
+        "created_at": "2026-11-24T09:39:50.000Z"
+      },
+      {
+        "title": "Declare is a UI language for you and your AI",
+        "url": "https://davidtemkin.github.io/declarelang/",
+        "points": 90,
+        "comments": 68,
+        "created_at": "2026-11-24T02:36:56.000Z"
+      },
+      {
+        "title": "AI is massively speeding up AI research",
+        "url": "https://linch.substack.com/p/ai-is-already-massively-speeding",
+        "points": 11,
+        "comments": 0,
+        "created_at": "2026-11-24T02:19:54.000Z"
+      },
+      {
+        "title": "The AI bubble hasn't burst, but it has significantly deflated",
+        "url": "https://www.rnz.co.nz/news/world/2757034/the-ai-bubble-hasn-t-burst-but-it-has-significantly-deflated",
+        "points": 11,
         "comments": 2,
-        "created_at": "2026-11-23T22:48:25.000Z"
-      },
-      {
-        "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
-        "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-        "points": 22,
-        "comments": 16,
-        "created_at": "2026-11-23T21:56:44.000Z"
-      },
-      {
-        "title": "The AI conversation we're not having",
-        "url": "https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/",
-        "points": 12,
-        "comments": 10,
-        "created_at": "2026-11-23T21:46:33.000Z"
-      },
-      {
-        "title": "Jensen Huang's Apology May Be the Only Correct Use of AI",
-        "url": "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/",
-        "points": 26,
-        "comments": 3,
-        "created_at": "2026-11-23T20:33:07.000Z"
-      },
-      {
-        "title": "Buckle Up the AI Bubble Is Popping",
-        "url": "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/",
-        "points": 31,
-        "comments": 56,
-        "created_at": "2026-11-23T16:01:20.000Z"
+        "created_at": "2026-11-23T23:25:26.000Z"
       }
     ],
     "vibeCoding": [
@@ -154,7 +154,7 @@
       {
         "title": "LLMs can read and write executables byte by byte from a hex dump",
         "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-        "points": 316,
+        "points": 317,
         "comments": 184,
         "created_at": "2026-11-18T14:15:58.000Z"
       }
