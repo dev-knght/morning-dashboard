@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-24T16:59:34.231Z",
+  "updatedAt": "2026-11-25T01:55:54.531Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 15.2,
-      "humidity": 89,
-      "wind_kph": 16.3,
+      "temp_c": 13.1,
+      "humidity": 90,
+      "wind_kph": 5.7,
       "weather_code": 1,
       "weather_desc": "Mainly clear"
     },
     "tomorrow": {
-      "date": "2026-11-25",
-      "temp_max_c": 19.9,
-      "temp_min_c": 11.4,
-      "humidity_max": 93,
-      "humidity_min": 47,
-      "wind_kph": 20.1,
+      "date": "2026-11-26",
+      "temp_max_c": 22.8,
+      "temp_min_c": 10.4,
+      "humidity_max": 87,
+      "humidity_min": 33,
+      "wind_kph": 22.2,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
   },
   "metals": {
-    "goldUSD": 3630.5,
+    "goldUSD": 3551.21,
     "oilUSD": 79,
-    "updatedAt": "2026-11-24T16:59:34.231Z",
-    "gold24KUSD": 116.72,
-    "gold21KUSD": 102.13,
-    "gold18KUSD": 87.54,
-    "gold24KJD": 82.76,
-    "gold21KJD": 72.41,
-    "gold18KJD": 62.07
+    "updatedAt": "2026-11-25T01:55:54.531Z",
+    "gold24KUSD": 114.17,
+    "gold21KUSD": 99.9,
+    "gold18KUSD": 85.63,
+    "gold24KJD": 80.95,
+    "gold21KJD": 70.83,
+    "gold18KJD": 60.71
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "06:02",
+    "fajr": "06:03",
     "maghrib": "17:33",
-    "date": "24 Nov 2024"
+    "date": "25 Nov 2025"
   },
   "events": [
     {
@@ -64,46 +64,46 @@
   "news": {
     "ai": [
       {
-        "title": "Tidal Bans AI-Generated Music",
-        "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
-        "points": 126,
-        "comments": 85,
-        "created_at": "2026-11-24T16:12:38.000Z"
-      },
-      {
-        "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-        "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
-        "points": 71,
-        "comments": 34,
-        "created_at": "2026-11-24T09:39:50.000Z"
-      },
-      {
-        "title": "Declare is a UI language for you and your AI",
-        "url": "https://davidtemkin.github.io/declarelang/",
-        "points": 90,
-        "comments": 68,
-        "created_at": "2026-11-24T02:36:56.000Z"
-      },
-      {
-        "title": "AI is massively speeding up AI research",
-        "url": "https://linch.substack.com/p/ai-is-already-massively-speeding",
+        "title": "More NYC records released show air quality aftermath of 9/11 attacks",
+        "url": "https://www.yahoo.com/news/us/articles/more-nyc-records-released-show-140043190.html",
         "points": 11,
         "comments": 0,
-        "created_at": "2026-11-24T02:19:54.000Z"
+        "created_at": "2026-11-24T22:01:42.000Z"
       },
       {
-        "title": "The AI bubble hasn't burst, but it has significantly deflated",
-        "url": "https://www.rnz.co.nz/news/world/2757034/the-ai-bubble-hasn-t-burst-but-it-has-significantly-deflated",
-        "points": 11,
-        "comments": 2,
-        "created_at": "2026-11-23T23:25:26.000Z"
+        "title": "New York Ban AI Toys for 5 Years",
+        "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
+        "points": 28,
+        "comments": 3,
+        "created_at": "2026-11-24T21:49:50.000Z"
+      },
+      {
+        "title": "Working with AI",
+        "url": "https://www.anthropic.com/research/working-with-ai",
+        "points": 63,
+        "comments": 63,
+        "created_at": "2026-11-24T21:07:38.000Z"
+      },
+      {
+        "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+        "url": "https://news.ycombinator.com/item?id=50634426",
+        "points": 69,
+        "comments": 50,
+        "created_at": "2026-11-24T20:44:15.000Z"
+      },
+      {
+        "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
+        "url": "https://news.ycombinator.com/item?id=50633601",
+        "points": 15,
+        "comments": 11,
+        "created_at": "2026-11-24T19:51:01.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Vibecoding an inference chip",
         "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-        "points": 179,
+        "points": 180,
         "comments": 80,
         "created_at": "2026-11-20T18:15:16.000Z"
       },
@@ -123,6 +123,13 @@
       }
     ],
     "progDb": [
+      {
+        "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
+        "url": "https://news.ycombinator.com/item?id=50633601",
+        "points": 15,
+        "comments": 11,
+        "created_at": "2026-11-24T19:51:01.000Z"
+      },
       {
         "title": "Clojure will affect the way you think about programming (2017)",
         "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
@@ -150,13 +157,6 @@
         "points": 27,
         "comments": 0,
         "created_at": "2026-11-18T16:17:41.000Z"
-      },
-      {
-        "title": "LLMs can read and write executables byte by byte from a hex dump",
-        "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-        "points": 317,
-        "comments": 184,
-        "created_at": "2026-11-18T14:15:58.000Z"
       }
     ]
   }
