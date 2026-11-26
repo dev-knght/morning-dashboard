@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-26T01:35:26.900Z",
+  "updatedAt": "2026-11-26T16:26:37.092Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 10.6,
-      "humidity": 86,
-      "wind_kph": 8.6,
-      "weather_code": 0,
-      "weather_desc": "Clear sky"
+      "temp_c": 18.9,
+      "humidity": 45,
+      "wind_kph": 10.4,
+      "weather_code": 3,
+      "weather_desc": "Overcast"
     },
     "tomorrow": {
       "date": "2026-11-27",
-      "temp_max_c": 23.8,
-      "temp_min_c": 12.8,
-      "humidity_max": 66,
-      "humidity_min": 30,
-      "wind_kph": 25.4,
+      "temp_max_c": 24,
+      "temp_min_c": 13.1,
+      "humidity_max": 67,
+      "humidity_min": 29,
+      "wind_kph": 25.1,
       "weather_code": 3,
       "weather_desc": "Overcast"
     }
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 3577.22,
     "oilUSD": 79,
-    "updatedAt": "2026-11-26T01:35:26.900Z",
+    "updatedAt": "2026-11-26T16:26:37.092Z",
     "gold24KUSD": 115.01,
     "gold21KUSD": 100.63,
     "gold18KUSD": 86.26,
@@ -64,6 +64,20 @@
   "news": {
     "ai": [
       {
+        "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+        "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+        "points": 92,
+        "comments": 105,
+        "created_at": "2026-11-26T09:44:23.000Z"
+      },
+      {
+        "title": "How can people make money as AI replaces intellectual jobs?",
+        "url": "https://news.ycombinator.com/item?id=50651911",
+        "points": 16,
+        "comments": 8,
+        "created_at": "2026-11-26T05:46:33.000Z"
+      },
+      {
         "title": "The Near-Coup at Nvidia and the War on Open-Source AI",
         "url": "https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/",
         "points": 11,
@@ -73,33 +87,26 @@
       {
         "title": "The New York Times warns photographers not to update Photoshop over AI features",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-        "points": 197,
-        "comments": 139,
+        "points": 527,
+        "comments": 444,
         "created_at": "2026-11-25T21:18:02.000Z"
       },
       {
         "title": "When the Air Force Needed a Supercomputer, They Built It Out of PS3 Consoles",
         "url": "https://www.warhistoryonline.com/war-articles/ps3-supercomputer.html",
-        "points": 11,
-        "comments": 5,
+        "points": 18,
+        "comments": 7,
         "created_at": "2026-11-25T19:08:28.000Z"
-      },
-      {
-        "title": "New York bans AI toys, including those using internet to talk to children",
-        "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
-        "points": 43,
-        "comments": 6,
-        "created_at": "2026-11-25T17:27:05.000Z"
-      },
-      {
-        "title": "Linus Torvalds: \"Tell Your AI Companion to Get Its Act Together\"",
-        "url": "https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big",
-        "points": 15,
-        "comments": 2,
-        "created_at": "2026-11-25T09:07:21.000Z"
       }
     ],
     "vibeCoding": [
+      {
+        "title": "Treasury CIO Is Vibe Coding a Civilization Clone During Treasury Department Hack",
+        "url": "https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/",
+        "points": 19,
+        "comments": 2,
+        "created_at": "2026-11-25T23:47:19.000Z"
+      },
       {
         "title": "Treasury CIO Is Vibe Coding a Civilization Clone During Treasury Department Hack",
         "url": "https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/",
@@ -110,8 +117,8 @@
       {
         "title": "Treasury CIO is too busy vibecoding instead of doing his job #147",
         "url": "https://github.com/samcorcos/legatum/issues/147",
-        "points": 145,
-        "comments": 44,
+        "points": 154,
+        "comments": 47,
         "created_at": "2026-11-25T04:56:36.000Z"
       },
       {
@@ -127,21 +134,14 @@
         "points": 20,
         "comments": 14,
         "created_at": "2026-11-18T04:46:38.000Z"
-      },
-      {
-        "title": "\"Humble Bundle just killed most of their security through vibecoding\"",
-        "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
-        "points": 416,
-        "comments": 237,
-        "created_at": "2026-11-12T06:52:48.000Z"
       }
     ],
     "progDb": [
       {
         "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
         "url": "https://news.ycombinator.com/item?id=50633601",
-        "points": 33,
-        "comments": 23,
+        "points": 36,
+        "comments": 26,
         "created_at": "2026-11-24T19:51:01.000Z"
       },
       {
