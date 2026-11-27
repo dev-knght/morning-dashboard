@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-11-27T01:30:23.183Z",
+  "updatedAt": "2026-11-27T16:11:43.604Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
-      "temp_c": 18.9,
-      "humidity": 45,
-      "wind_kph": 10.4,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "temp_c": 19.8,
+      "humidity": 37,
+      "wind_kph": 8,
+      "weather_code": 0,
+      "weather_desc": "Clear sky"
     },
     "tomorrow": {
-      "date": "2026-11-27",
-      "temp_max_c": 24,
-      "temp_min_c": 13.1,
-      "humidity_max": 67,
-      "humidity_min": 29,
-      "wind_kph": 25.1,
-      "weather_code": 3,
-      "weather_desc": "Overcast"
+      "date": "2026-11-28",
+      "temp_max_c": 27.4,
+      "temp_min_c": 13.6,
+      "humidity_max": 94,
+      "humidity_min": 20,
+      "wind_kph": 14.1,
+      "weather_code": 45,
+      "weather_desc": "Fog"
     }
   },
   "metals": {
     "goldUSD": 3567.72,
     "oilUSD": 79,
-    "updatedAt": "2026-11-27T01:30:23.183Z",
+    "updatedAt": "2026-11-27T16:11:43.604Z",
     "gold24KUSD": 114.7,
     "gold21KUSD": 100.37,
     "gold18KUSD": 86.03,
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-        "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-        "points": 17,
-        "comments": 0,
-        "created_at": "2026-11-27T00:03:18.000Z"
+        "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+        "url": "https://bouncemarket.minhanhday.com/",
+        "points": 75,
+        "comments": 29,
+        "created_at": "2026-11-27T15:01:50.000Z"
       },
       {
-        "title": "AI made self-hosting fun again",
-        "url": "https://janlukas.blog/posts/ai-self-hosting",
-        "points": 286,
-        "comments": 155,
-        "created_at": "2026-11-26T21:47:45.000Z"
+        "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+        "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
+        "points": 12,
+        "comments": 5,
+        "created_at": "2026-11-27T14:55:57.000Z"
       },
       {
-        "title": "The US Government Is Under AI Cyberattack",
-        "url": "https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack",
+        "title": "US Air Force's cloud computing platform hacked",
+        "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+        "points": 145,
+        "comments": 81,
+        "created_at": "2026-11-27T12:54:11.000Z"
+      },
+      {
+        "title": "Hackers breach US Air Force flagship Cloud One computing platform",
+        "url": "https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/",
+        "points": 31,
+        "comments": 4,
+        "created_at": "2026-11-27T11:52:53.000Z"
+      },
+      {
+        "title": "Pizza history: AI agent's cardless purchase is a first for UK",
+        "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
         "points": 18,
-        "comments": 2,
-        "created_at": "2026-11-26T21:26:33.000Z"
-      },
-      {
-        "title": "Top-cited AI scientists at four US companies compared",
-        "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
-        "points": 35,
-        "comments": 22,
-        "created_at": "2026-11-26T19:44:31.000Z"
-      },
-      {
-        "title": "Poland to create no-fly zone at border after repeated airspace violations",
-        "url": "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations",
-        "points": 27,
-        "comments": 8,
-        "created_at": "2026-11-26T19:09:14.000Z"
+        "comments": 37,
+        "created_at": "2026-11-27T11:41:11.000Z"
       }
     ],
     "vibeCoding": [
@@ -138,10 +138,17 @@
     ],
     "progDb": [
       {
+        "title": "The need for a formally verifiable mainstream programming language",
+        "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+        "points": 223,
+        "comments": 223,
+        "created_at": "2026-11-27T05:22:06.000Z"
+      },
+      {
         "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
         "url": "https://news.ycombinator.com/item?id=50633601",
         "points": 37,
-        "comments": 26,
+        "comments": 27,
         "created_at": "2026-11-24T19:51:01.000Z"
       },
       {
@@ -164,13 +171,6 @@
         "points": 14,
         "comments": 3,
         "created_at": "2026-11-19T12:34:54.000Z"
-      },
-      {
-        "title": "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust",
-        "url": "https://contextgeneric.dev/blog/v0.8.0-release/",
-        "points": 27,
-        "comments": 0,
-        "created_at": "2026-11-18T16:17:41.000Z"
       }
     ]
   }
