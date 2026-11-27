@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T16:26:37.092Z",
+  "updatedAt": "2026-11-27T01:30:23.183Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
@@ -21,23 +21,23 @@
     }
   },
   "metals": {
-    "goldUSD": 3577.22,
+    "goldUSD": 3567.72,
     "oilUSD": 79,
-    "updatedAt": "2026-11-26T16:26:37.092Z",
-    "gold24KUSD": 115.01,
-    "gold21KUSD": 100.63,
-    "gold18KUSD": 86.26,
-    "gold24KJD": 81.54,
-    "gold21KJD": 71.35,
-    "gold18KJD": 61.16
+    "updatedAt": "2026-11-27T01:30:23.183Z",
+    "gold24KUSD": 114.7,
+    "gold21KUSD": 100.37,
+    "gold18KUSD": 86.03,
+    "gold24KJD": 81.33,
+    "gold21KJD": 71.16,
+    "gold18KJD": 60.99
   },
   "exchange": {
     "JOD": 0.709
   },
   "prayer": {
-    "fajr": "06:03",
-    "maghrib": "17:33",
-    "date": "26 Nov 2026"
+    "fajr": "06:04",
+    "maghrib": "17:32",
+    "date": "27 Nov 2027"
   },
   "events": [
     {
@@ -64,39 +64,39 @@
   "news": {
     "ai": [
       {
-        "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-        "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-        "points": 92,
-        "comments": 105,
-        "created_at": "2026-11-26T09:44:23.000Z"
+        "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+        "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+        "points": 17,
+        "comments": 0,
+        "created_at": "2026-11-27T00:03:18.000Z"
       },
       {
-        "title": "How can people make money as AI replaces intellectual jobs?",
-        "url": "https://news.ycombinator.com/item?id=50651911",
-        "points": 16,
-        "comments": 8,
-        "created_at": "2026-11-26T05:46:33.000Z"
+        "title": "AI made self-hosting fun again",
+        "url": "https://janlukas.blog/posts/ai-self-hosting",
+        "points": 286,
+        "comments": 155,
+        "created_at": "2026-11-26T21:47:45.000Z"
       },
       {
-        "title": "The Near-Coup at Nvidia and the War on Open-Source AI",
-        "url": "https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/",
-        "points": 11,
-        "comments": 1,
-        "created_at": "2026-11-25T22:41:09.000Z"
-      },
-      {
-        "title": "The New York Times warns photographers not to update Photoshop over AI features",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-        "points": 527,
-        "comments": 444,
-        "created_at": "2026-11-25T21:18:02.000Z"
-      },
-      {
-        "title": "When the Air Force Needed a Supercomputer, They Built It Out of PS3 Consoles",
-        "url": "https://www.warhistoryonline.com/war-articles/ps3-supercomputer.html",
+        "title": "The US Government Is Under AI Cyberattack",
+        "url": "https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack",
         "points": 18,
-        "comments": 7,
-        "created_at": "2026-11-25T19:08:28.000Z"
+        "comments": 2,
+        "created_at": "2026-11-26T21:26:33.000Z"
+      },
+      {
+        "title": "Top-cited AI scientists at four US companies compared",
+        "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+        "points": 35,
+        "comments": 22,
+        "created_at": "2026-11-26T19:44:31.000Z"
+      },
+      {
+        "title": "Poland to create no-fly zone at border after repeated airspace violations",
+        "url": "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations",
+        "points": 27,
+        "comments": 8,
+        "created_at": "2026-11-26T19:09:14.000Z"
       }
     ],
     "vibeCoding": [
@@ -140,7 +140,7 @@
       {
         "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
         "url": "https://news.ycombinator.com/item?id=50633601",
-        "points": 36,
+        "points": 37,
         "comments": 26,
         "created_at": "2026-11-24T19:51:01.000Z"
       },
