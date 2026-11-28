@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T01:07:17.569Z",
+  "updatedAt": "2026-11-28T15:05:11.217Z",
   "timezone": "Asia/Amman",
   "weather": {
     "current": {
@@ -23,7 +23,7 @@
   "metals": {
     "goldUSD": 3653.96,
     "oilUSD": 79,
-    "updatedAt": "2026-11-28T01:07:17.569Z",
+    "updatedAt": "2026-11-28T15:05:11.217Z",
     "gold24KUSD": 117.48,
     "gold21KUSD": 102.79,
     "gold18KUSD": 88.11,
@@ -64,46 +64,46 @@
   "news": {
     "ai": [
       {
-        "title": "Banks look to dump AI debt",
-        "url": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
-        "points": 19,
+        "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+        "url": "https://github.com/RiccardoSottini/AffrescoUI",
+        "points": 12,
         "comments": 3,
-        "created_at": "2026-11-27T20:56:17.000Z"
+        "created_at": "2026-11-28T14:09:39.000Z"
       },
       {
-        "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
-        "url": "https://github.com/skeeto/prospero",
-        "points": 32,
-        "comments": 6,
-        "created_at": "2026-11-27T20:23:14.000Z"
+        "title": "The AI-designed USB-C LTE Modem is built, and it makes calls",
+        "url": "https://koppar.ai/blog/lte-modem-bring-up/",
+        "points": 14,
+        "comments": 3,
+        "created_at": "2026-11-28T14:06:19.000Z"
       },
       {
-        "title": "Synthetic fuel from sunlight, water and air",
-        "url": "https://blog.terraformindustries.com/2026/11/24/terraform-industries-activates-muroc-desert-test-site/",
-        "points": 16,
-        "comments": 2,
-        "created_at": "2026-11-27T17:57:29.000Z"
+        "title": "GTA 6: The AI race to clone the biggest video game for PC",
+        "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo",
+        "points": 17,
+        "comments": 13,
+        "created_at": "2026-11-28T09:59:57.000Z"
       },
       {
-        "title": "I'm Scared of AI",
-        "url": "https://thesoapbox.email/archive/3",
-        "points": 201,
-        "comments": 240,
-        "created_at": "2026-11-27T17:45:31.000Z"
+        "title": "Has AI just cracked Internet encryption? Rumoured 'bombshell' stuns scientists",
+        "url": "https://www.nature.com/articles/d41586-026-03875-6",
+        "points": 14,
+        "comments": 3,
+        "created_at": "2026-11-28T08:47:48.000Z"
       },
       {
-        "title": "Dungeons and Dragons maker will pass AI settlement money to authors",
-        "url": "https://www.seattletimes.com/business/dungeons-dragons-maker-will-pass-ai-settlement-money-to-authors/",
-        "points": 20,
-        "comments": 4,
-        "created_at": "2026-11-27T17:05:45.000Z"
+        "title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+        "url": "https://fleetlayer.ai/",
+        "points": 18,
+        "comments": 11,
+        "created_at": "2026-11-28T08:37:09.000Z"
       }
     ],
     "vibeCoding": [
       {
         "title": "Treasury CIO Is Vibe Coding a Civilization Clone During Treasury Department Hack",
         "url": "https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/",
-        "points": 14,
+        "points": 17,
         "comments": 2,
         "created_at": "2026-11-27T23:08:57.000Z"
       },
@@ -125,7 +125,7 @@
         "title": "Treasury CIO is too busy vibecoding instead of doing his job #147",
         "url": "https://github.com/samcorcos/legatum/issues/147",
         "points": 154,
-        "comments": 50,
+        "comments": 51,
         "created_at": "2026-11-25T04:56:36.000Z"
       },
       {
@@ -140,15 +140,15 @@
       {
         "title": "The need for a formally verifiable mainstream programming language",
         "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-        "points": 308,
-        "comments": 299,
+        "points": 337,
+        "comments": 308,
         "created_at": "2026-11-27T05:22:06.000Z"
       },
       {
         "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
         "url": "https://news.ycombinator.com/item?id=50633601",
-        "points": 37,
-        "comments": 27,
+        "points": 38,
+        "comments": 28,
         "created_at": "2026-11-24T19:51:01.000Z"
       },
       {
